@@ -38,3 +38,7 @@ Thumbs.db
 # Large result files (tracked via Zenodo instead)
 12_results/figures/*.pdf
 12_results/figures/*.png
+
+# Environment files with credentials
+.env
+*.env

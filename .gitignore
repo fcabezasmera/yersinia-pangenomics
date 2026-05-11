@@ -42,3 +42,4 @@ Thumbs.db
 # Environment files with credentials
 .env
 *.env
+gunc_db/

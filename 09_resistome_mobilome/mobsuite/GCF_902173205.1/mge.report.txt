@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902173205.1.fna	chromosome			NZ_CABIHO010000106.1 Yersinia rohdei isolate IP36459, whole genome shotgun sequence	44140	0.503013140009062	c0ec05e338de505abcf50325ef6035ff	01379	CP022426	ISPa38	Tn3	3400	231	3400	40971	44140						
+GCF_902173205.1.fna	chromosome			NZ_CABIHO010000055.1 Yersinia rohdei isolate IP36459, whole genome shotgun sequence	3103	0.514663229133097	63e180aa5a68353fa5b40745d01b58a7	01400	CP016586.1	23s-rRNA	23S	3027	661	3027	24	2393						
+GCF_902173205.1.fna	chromosome			NZ_CABIHO010000085.1 Yersinia rohdei isolate IP36459, whole genome shotgun sequence	1786	0.5240761478163494	9d0e826a73b7edee89315710265d752a	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	42	1589						

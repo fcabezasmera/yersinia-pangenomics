@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002438__NC_009705_00164|rep_cluster_957	NZ_CP124257.1 Yersinia enterocolitica strain Y128 plasmid unnamed, complete sequence	1020	127136	1	1020	13997	15016	1020	113	88.922	100.0	100.0	minus	0.0	1258	replicon
+NC_009705_00148|MPF_I	NZ_CP124257.1 Yersinia enterocolitica strain Y128 plasmid unnamed, complete sequence	934	127136	1	934	20961	23765	935	85	90.802	100.0	100.0	minus	0.0	1630	mate-pair-formation
+NC_009705_00139|MPF_I	NZ_CP124257.1 Yersinia enterocolitica strain Y128 plasmid unnamed, complete sequence	361	127136	1	361	32250	33332	361	38	89.474	100.0	100.0	minus	0.0	642	mate-pair-formation
+NC_009705_00138|MPF_I	NZ_CP124257.1 Yersinia enterocolitica strain Y128 plasmid unnamed, complete sequence	264	127136	1	264	33337	34113	265	40	82.264	100.0	100.0	minus	3.28e-142	438	mate-pair-formation
+NC_009705_00134|MPF_I	NZ_CP124257.1 Yersinia enterocolitica strain Y128 plasmid unnamed, complete sequence	282	127136	1	279	36910	37746	279	28	89.964	99.0	99.0	plus	5.03e-170	519	mate-pair-formation

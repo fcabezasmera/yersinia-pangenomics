@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP009126_00025|MOBC	ACAKVK010000053.1 Yersinia enterocolitica strain 01806316 SAMN50794739-rid27444563.denovo.054, whole genome shotgun sequence	248	19547	1	248	11318	12061	248	5	97.984	100.0	100.0	plus	5.51e-165	503	relaxase
+NC_013284_00016|MPF_T	ACAKVK010000029.1 Yersinia enterocolitica strain 01806316 SAMN50794739-rid27444563.denovo.029, whole genome shotgun sequence	914	62993	1	914	47988	50729	914	119	86.98	100.0	100.0	plus	0.0	1655	mate-pair-formation
+NC_013284_00019|MPF_T	ACAKVK010000029.1 Yersinia enterocolitica strain 01806316 SAMN50794739-rid27444563.denovo.029, whole genome shotgun sequence	357	62993	1	356	51468	52526	356	55	83.708	99.0	99.0	plus	3.96e-166	511	mate-pair-formation
+NC_005814_00013|MPF_T	ACAKVK010000029.1 Yersinia enterocolitica strain 01806316 SAMN50794739-rid27444563.denovo.029, whole genome shotgun sequence	227	62993	1	227	52754	53434	227	40	82.379	100.0	100.0	plus	9.2e-116	360	mate-pair-formation

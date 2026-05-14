@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902170485.1.fna	chromosome			NZ_CABHXO010000049.1 Yersinia intermedia isolate IP36321, whole genome shotgun sequence	13811	0.44529722684816453	e39ac89948144490bc3514ccf2b3b034	00634	CP024842	IS1400	IS3	1207	1	1207	10888	12093						
+GCF_902170485.1.fna	chromosome			NZ_CABHXO010000108.1 Yersinia intermedia isolate IP36321, whole genome shotgun sequence	3422	0.5192869666861485	989fb267d0e72266a8d148572ee7f059	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	212	2584						
+GCF_902170485.1.fna	chromosome			NZ_CABHXO010000081.1 Yersinia intermedia isolate IP36321, whole genome shotgun sequence	1764	0.5249433106575964	2d4e1792d9c959f3db30f102d7655c20	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	20	1567						

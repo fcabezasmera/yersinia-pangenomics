@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001319925.1.fna	chromosome			NZ_CVJX01000007.1 Yersinia intermedia strain FCF130, whole genome shotgun sequence	222455	0.47510710127532557	6abbd4e02df349777172ee0f681969e1	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	182933	184480						
+GCF_001319925.1.fna	chromosome			NZ_CVJX01000007.1 Yersinia intermedia strain FCF130, whole genome shotgun sequence	222455	0.47510710127532557	6abbd4e02df349777172ee0f681969e1	01399	CP016586.1	16s-rRNA	16S	1554	480	1547	184512	185580						
+GCF_001319925.1.fna	chromosome			NZ_CVJX01000007.1 Yersinia intermedia strain FCF130, whole genome shotgun sequence	222455	0.47510710127532557	6abbd4e02df349777172ee0f681969e1	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	186834	189206						
+GCF_001319925.1.fna	chromosome			NZ_CVJX01000025.1 Yersinia intermedia strain FCF130, whole genome shotgun sequence	43024	0.4549553737448866	08d61d43c1307fa672c3cfdf89f3a12d	00495	KX710093	ISLad1	IS3	1249	1	1249	10595	11843						

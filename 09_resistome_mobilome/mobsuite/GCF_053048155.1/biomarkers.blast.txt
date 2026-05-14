@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002438__NC_009705_00164|rep_cluster_957	NZ_CP155582.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-A, complete sequence	1020	198112	1	1020	27314	28333	1020	112	89.02	100.0	100.0	minus	0.0	1264	replicon
+000621__CP009126_00005|rep_cluster_1304	NZ_CP155583.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-B, complete sequence	918	129022	6	918	6	918	913	39	95.728	99.0	99.0	plus	0.0	1471	replicon
+CP000966|IncFII	NZ_CP155583.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-B, complete sequence	230	129022	5	200	100577	100776	202	31	80.693	85.0	85.0	plus	4.5900000000000006e-37	150	replicon
+NC_021523_00003|MOBQ	NZ_CP155584.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-C, complete sequence	311	3658	1	311	1315	2247	311	1	99.678	100.0	100.0	minus	0.0	647	relaxase
+NC_009705_00148|MPF_I	NZ_CP155582.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-A, complete sequence	934	198112	1	934	34275	37079	935	85	90.802	100.0	100.0	minus	0.0	1629	mate-pair-formation
+NC_009705_00139|MPF_I	NZ_CP155582.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-A, complete sequence	361	198112	1	361	45564	46646	361	38	89.474	100.0	100.0	minus	0.0	642	mate-pair-formation
+NC_009705_00138|MPF_I	NZ_CP155582.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-A, complete sequence	264	198112	1	264	46651	47427	265	40	82.264	100.0	100.0	minus	3.49e-142	438	mate-pair-formation
+NC_009705_00134|MPF_I	NZ_CP155582.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-A, complete sequence	282	198112	1	279	50200	51036	279	28	89.964	99.0	99.0	plus	1.19e-170	521	mate-pair-formation
+NC_006143_00077|MPF_T	NZ_CP155582.1 Yersinia enterocolitica strain 19-YE00019 plasmid p19YE19-A, complete sequence	349	198112	1	349	121737	122783	349	0	100.0	100.0	100.0	minus	0.0	632	mate-pair-formation

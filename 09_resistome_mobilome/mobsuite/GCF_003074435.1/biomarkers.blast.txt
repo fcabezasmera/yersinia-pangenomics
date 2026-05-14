@@ -1,0 +1,20 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000104__CP010386_00052|IncFIB	NZ_LZTG01000035.1 Yersinia pestis strain KM874 contig00035, whole genome shotgun sequence	1065	43077	1	1065	29571	30635	1065	26	97.559	100.0	100.0	minus	0.0	1823	replicon
+CP042519_00001|rep_cluster_2272	NZ_LZTG01000070.1 Yersinia pestis strain KM874 contig00070, whole genome shotgun sequence	756	25054	1	756	21304	22059	756	5	99.339	100.0	100.0	minus	0.0	1369	replicon
+AJ851089|IncFII	NZ_LZTG01000070.1 Yersinia pestis strain KM874 contig00070, whole genome shotgun sequence	261	25054	1	261	22165	22429	267	31	85.393	100.0	100.0	plus	3.47e-73	270	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_LZTG01000121.1 Yersinia pestis strain KM874 contig00121, whole genome shotgun sequence	1167	9791	1	1167	1168	2334	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_LZTG01000125.1 Yersinia pestis strain KM874 contig00125, whole genome shotgun sequence	227	8968	1	227	7582	7808	227	0	100.0	100.0	100.0	minus	2.79e-118	420	replicon
+NC_010157_00072|MOBF	NZ_LZTG01000133.1 Yersinia pestis strain KM874 contig00133, whole genome shotgun sequence	152	7577	1	152	7022	7477	152	0	100.0	100.0	100.0	plus	1.57e-101	316	relaxase
+MF042352_00080|MOBF	NZ_LZTG01000146.1 Yersinia pestis strain KM874 contig00146, whole genome shotgun sequence	385	4354	1	364	2122	3213	364	10	97.253	95.0	95.0	plus	0.0	734	relaxase
+NC_006323_00105|MPF_F	NZ_LZTG01000119.1 Yersinia pestis strain KM874 contig00119, whole genome shotgun sequence	215	10092	39	215	3	533	177	0	100.0	82.0	82.0	plus	6.33e-115	357	mate-pair-formation
+NC_021501_00085|MPF_F	NZ_LZTG01000119.1 Yersinia pestis strain KM874 contig00119, whole genome shotgun sequence	330	10092	1	330	533	1522	330	16	95.152	100.0	100.0	plus	0.0	624	mate-pair-formation
+NC_021501_00084|MPF_F	NZ_LZTG01000119.1 Yersinia pestis strain KM874 contig00119, whole genome shotgun sequence	209	10092	1	209	1542	2168	209	9	95.694	100.0	100.0	plus	3.38e-127	392	mate-pair-formation
+NC_006323_00108|MPF_F	NZ_LZTG01000119.1 Yersinia pestis strain KM874 contig00119, whole genome shotgun sequence	616	10092	1	616	2168	4015	616	0	100.0	100.0	100.0	plus	0.0	1170	mate-pair-formation
+NC_006323_00113|MPF_F	NZ_LZTG01000119.1 Yersinia pestis strain KM874 contig00119, whole genome shotgun sequence	456	10092	1	456	5818	7185	456	0	100.0	100.0	100.0	plus	0.0	910	mate-pair-formation
+NC_021501_00076|MPF_F	NZ_LZTG01000119.1 Yersinia pestis strain KM874 contig00119, whole genome shotgun sequence	940	10092	1	928	7188	9971	928	38	95.905	99.0	99.0	plus	0.0	1739	mate-pair-formation
+NC_009378_00101|MPF_T	NZ_LZTG01000126.1 Yersinia pestis strain KM874 contig00126, whole genome shotgun sequence	876	8736	1	876	408	3035	876	1	99.886	100.0	100.0	minus	0.0	1786	mate-pair-formation
+NC_006323_00097|MPF_F	NZ_LZTG01000126.1 Yersinia pestis strain KM874 contig00126, whole genome shotgun sequence	179	8736	1	179	4508	5044	179	0	100.0	100.0	100.0	minus	2.49e-108	337	mate-pair-formation
+NC_006323_00096|MPF_F	NZ_LZTG01000126.1 Yersinia pestis strain KM874 contig00126, whole genome shotgun sequence	464	8736	161	408	5236	5979	248	6	97.581	53.0	94.0	minus	0.0	499	mate-pair-formation
+NC_006323_00095|MPF_F	NZ_LZTG01000126.1 Yersinia pestis strain KM874 contig00126, whole genome shotgun sequence	247	8736	1	247	6448	7188	247	0	100.0	100.0	100.0	minus	1.77e-155	475	mate-pair-formation
+NC_021501_00097|MPF_F	NZ_LZTG01000126.1 Yersinia pestis strain KM874 contig00126, whole genome shotgun sequence	101	8736	1	101	7759	8061	101	2	98.02	100.0	100.0	minus	1.01e-63	205	mate-pair-formation
+NC_009378_00113|MPF_T	NZ_LZTG01000146.1 Yersinia pestis strain KM874 contig00146, whole genome shotgun sequence	703	4354	1	703	11	2119	703	0	100.0	100.0	100.0	plus	0.0	1244	mate-pair-formation

@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902170955.1.fna	chromosome			NZ_CABHZN010000107.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	68378	0.5278452133727222	b87df06e55f4bcd6a3925b6120ffff21	00910	CP023316	ISPpu18	IS5	1192	34	1192	23943	25101						
+GCF_902170955.1.fna	chromosome			NZ_CABHZN010000004.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	3301	0.5168130869433505	375c692a2ea920df120daf439e58af05	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	704	3076						
+GCF_902170955.1.fna	chromosome			NZ_CABHZN010000025.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	1720	0.5255813953488372	de50171e3a64ede02ee7f26d61903b3b	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	132	1679						

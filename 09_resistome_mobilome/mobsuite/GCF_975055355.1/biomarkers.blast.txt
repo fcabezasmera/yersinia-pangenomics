@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP001049|IncFII	NZ_CDGPHV010000101.1 Yersinia pseudotuberculosis isolate IMI-YP NODE_101_length_9025_cov_221.432834, whole genome shotgun sequence	227	9025	1	227	7562	7788	227	0	100.0	100.0	100.0	minus	2.91e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CDGPHV010000104.1 Yersinia pseudotuberculosis isolate IMI-YP NODE_104_length_8541_cov_201.492439, whole genome shotgun sequence	1167	8541	1	1167	6192	7358	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+NC_010157_00072|MOBF	NZ_CDGPHV010000154.1 Yersinia pseudotuberculosis isolate IMI-YP NODE_155_length_779_cov_279.242165, whole genome shotgun sequence	152	779	1	152	120	575	152	0	100.0	100.0	100.0	plus	4.03e-112	316	relaxase

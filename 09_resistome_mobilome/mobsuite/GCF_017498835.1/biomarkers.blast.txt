@@ -1,0 +1,17 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002389__NC_011759_00077|rep_cluster_904	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	1038	60400	1	1038	5894	6931	1038	0	100.0	100.0	100.0	minus	0.0	1917	replicon
+000120__NC_011759|IncFII	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	390	60400	1	390	7051	7440	390	0	100.0	100.0	100.0	plus	0.0	721	replicon
+CP000966|IncFII	NZ_WGGG01000047.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_47, whole genome shotgun sequence	230	32505	5	200	914	1110	201	22	84.577	85.0	85.0	plus	2.58e-49	191	replicon
+CP025802_00058|rep_cluster_2307	NZ_WGGG01000047.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_47, whole genome shotgun sequence	714	32505	1	714	12663	13376	714	23	96.779	100.0	100.0	minus	0.0	1192	replicon
+NC_011759_00021|MOBP	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	633	60400	1	633	50628	52526	633	1	99.842	100.0	100.0	minus	0.0	1280	relaxase
+NC_013284_00016|MPF_T	NZ_WGGG01000005.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_5, whole genome shotgun sequence	914	196916	1	914	31610	34345	914	84	90.591	100.0	100.0	minus	0.0	1720	mate-pair-formation
+NC_011759_00082|MPF_G	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	347	60400	1	347	9773	10813	347	0	100.0	100.0	100.0	plus	0.0	632	mate-pair-formation
+NC_011759_00096|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	262	60400	1	262	22600	23385	262	0	100.0	100.0	100.0	plus	1.67e-166	508	mate-pair-formation
+NC_011759_00002|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	143	60400	1	143	29574	30002	143	0	100.0	100.0	100.0	plus	1.32e-83	264	mate-pair-formation
+NC_011759_00003|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	225	60400	1	225	30056	30730	225	0	100.0	100.0	100.0	plus	6.36e-136	418	mate-pair-formation
+NC_011759_00004|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	330	60400	1	330	30747	31736	330	0	100.0	100.0	100.0	plus	0.0	611	mate-pair-formation
+NC_011759_00006|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	266	60400	1	266	33077	33874	266	0	100.0	100.0	100.0	plus	1.65e-155	476	mate-pair-formation
+NC_011759_00007|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	179	60400	1	179	33888	34424	179	0	100.0	100.0	100.0	plus	4.93e-116	359	mate-pair-formation
+NC_011759_00008|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	131	60400	1	131	34568	34960	131	0	100.0	100.0	100.0	plus	8.84e-62	201	mate-pair-formation
+NC_011759_00012|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	399	60400	1	399	39239	40435	399	0	100.0	100.0	100.0	plus	0.0	794	mate-pair-formation
+NC_011759_00017|MPF_I	NZ_WGGG01000026.1 Yersinia pseudotuberculosis strain 18-YE00013 NODE_26, whole genome shotgun sequence	727	60400	1	727	46321	48501	727	0	100.0	100.0	100.0	plus	0.0	1503	mate-pair-formation

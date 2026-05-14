@@ -1,0 +1,11 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016527|MOBQ	ABOYAD010000091.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.denovo.094, whole genome shotgun sequence	157	11614	1	157	5615	5771	157	0	100.0	100.0	100.0	minus	1.5e-79	291	oriT
+CP016527|MOBQ	ABOYAD010000164.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.guided.093, whole genome shotgun sequence	157	11654	1	157	2268	2424	157	0	100.0	100.0	100.0	plus	1.5e-79	291	oriT
+002101__NC_004564_00056|rep_cluster_645	ABOYAD010000040.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.denovo.040, whole genome shotgun sequence	1167	40347	1	1167	1610	2776	1167	5	99.572	100.0	100.0	plus	0.0	2128	replicon
+000192__AM183225_00009|IncQ1	ABOYAD010000091.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.denovo.094, whole genome shotgun sequence	858	11614	36	858	2047	2869	823	0	100.0	96.0	96.0	minus	0.0	1520	replicon
+CP001049|IncFII	ABOYAD010000124.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.denovo.129, whole genome shotgun sequence	227	5500	1	224	3265	3488	224	1	99.554	99.0	99.0	plus	5.9599999999999985e-115	409	replicon
+CP017588_00047|rep_cluster_2203	ABOYAD010000124.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.denovo.129, whole genome shotgun sequence	867	5500	33	856	3515	4338	828	157	80.072	95.0	95.0	plus	2.25e-174	608	replicon
+000192__AM183225_00009|IncQ1	ABOYAD010000164.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.guided.093, whole genome shotgun sequence	858	11654	36	858	5170	5992	823	0	100.0	96.0	96.0	plus	0.0	1520	replicon
+CP022499|MOBQ	ABOYAD010000091.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.denovo.094, whole genome shotgun sequence	709	11614	1	709	3400	5526	709	0	100.0	100.0	100.0	minus	0.0	1316	relaxase
+NC_015475_00074|MOBF	ABOYAD010000095.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.denovo.098, whole genome shotgun sequence	149	11249	1	149	28	474	149	3	97.987	100.0	100.0	minus	1.21e-94	296	relaxase
+CP022499|MOBQ	ABOYAD010000164.1 Yersinia enterocolitica strain 1844917 SAMN34541250-rid17924703.guided.093, whole genome shotgun sequence	709	11654	1	709	2513	4639	709	0	100.0	100.0	100.0	plus	0.0	1316	relaxase

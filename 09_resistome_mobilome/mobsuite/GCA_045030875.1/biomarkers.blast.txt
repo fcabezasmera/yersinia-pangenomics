@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_014304_00056|MPF_F	DBBWMH010000015.1 TPA_asm: Yersinia enterocolitica strain IDR2400038775-01-04 SAMN44798019-rid24022683.denovo.15, whole genome shotgun sequence	699	134854	1	699	29958	32054	699	126	81.974	100.0	100.0	plus	0.0	1157	mate-pair-formation

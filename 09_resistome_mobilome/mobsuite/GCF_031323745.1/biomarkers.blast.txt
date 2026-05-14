@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_006154_00025|MOBC	NZ_JAVIYI010000034.1 Yersinia rochesterensis strain 12bell NODE_34_length_31329_cov_370.886071, whole genome shotgun sequence	246	31329	1	246	9052	9789	246	28	88.618	100.0	100.0	plus	9.54e-147	450	relaxase
+NC_006154_00013|MPF_T	NZ_JAVIYI010000034.1 Yersinia rochesterensis strain 12bell NODE_34_length_31329_cov_370.886071, whole genome shotgun sequence	227	31329	1	227	28976	29656	227	32	85.903	100.0	100.0	plus	1.1e-117	366	mate-pair-formation
+NC_006154_00014|MPF_T	NZ_JAVIYI010000034.1 Yersinia rochesterensis strain 12bell NODE_34_length_31329_cov_370.886071, whole genome shotgun sequence	315	31329	27	314	29782	30645	289	47	83.045	91.0	91.0	plus	5.330000000000001e-163	500	mate-pair-formation

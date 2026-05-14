@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001112925.1.fna	chromosome			NZ_CPYD01000005.1 Yersinia nurmii strain CIP110231T, whole genome shotgun sequence	324145	0.49023122368076016	56b639e1cb4210b9fdfea61721b57265	00647	AP010958	ISCfr6	IS3	1258	40	1258	106799	108017						
+GCF_001112925.1.fna	chromosome			NZ_CPYD01000015.1 Yersinia nurmii strain CIP110231T, whole genome shotgun sequence	128221	0.48741625786727605	d17694d0e966e4c614a2f546c6ae89b7	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	1035	3407						
+GCF_001112925.1.fna	chromosome			NZ_CPYD01000031.1 Yersinia nurmii strain CIP110231T, whole genome shotgun sequence	1781	0.5210555867490174	155550a9b923386c8caf936998c0274b	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	193	1740						

@@ -1,0 +1,3 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description	Hierarchy node
+NA	ABKTEX010000001.1	115528	116667	-	blaYRC	YRC family class C beta-lactamase	core	AMR	AMR	BETA-LACTAM	CEPHALOSPORIN	BLASTX	380	383	99.22	99.47	380	WP_168370989.1	class C beta-lactamase YRC-1	NA	NA	blaYRC
+NA	ABKTEX010000030.1	11994	13133	+	blaYRC	YRC family class C beta-lactamase	core	AMR	AMR	BETA-LACTAM	CEPHALOSPORIN	BLASTX	380	383	99.22	99.47	380	WP_168370989.1	class C beta-lactamase YRC-1	NA	NA	blaYRC

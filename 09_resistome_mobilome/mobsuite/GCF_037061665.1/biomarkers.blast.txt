@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_CP124255.1 Yersinia enterocolitica strain Y140 plasmid unnamed, complete sequence	1167	75163	7	1167	16549	17709	1161	5	99.569	99.0	99.0	minus	0.0	2117	replicon
+CP001049|IncFII	NZ_CP124255.1 Yersinia enterocolitica strain Y140 plasmid unnamed, complete sequence	227	75163	1	224	34888	35111	224	1	99.554	99.0	99.0	plus	6.26e-115	409	replicon
+NC_015475_00074|MOBF	NZ_CP124255.1 Yersinia enterocolitica strain Y140 plasmid unnamed, complete sequence	149	75163	1	149	31193	31639	149	1	99.329	100.0	100.0	plus	7.63e-96	299	relaxase

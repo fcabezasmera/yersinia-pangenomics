@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000104__CP010386_00052|IncFIB	NZ_CP015119.1 Yersinia pestis strain 125 B plague Bombay plasmid pMT1, complete sequence	1065	103606	1	1065	53884	54948	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon

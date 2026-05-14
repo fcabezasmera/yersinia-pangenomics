@@ -1,0 +1,4 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description	Hierarchy node
+NA	NZ_CTIR01000022.1	49229	49891	-	vat(F)	streptogramin A O-acetyltransferase Vat(F)	core	AMR	AMR	STREPTOGRAMIN	STREPTOGRAMIN	EXACTX	221	221	100.00	100.00	221	WP_005164767.1	streptogramin A O-acetyltransferase Vat(F)	NA	NA	vat(F)
+NA	NZ_CTIR01000022.1	57168	57761	-	blaA	class A beta-lactamase BlaA	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	PARTIALX	198	294	67.35	99.49	198	WP_005165780.1	class A beta-lactamase BlaA	NA	NA	blaA_Yent
+NA	NZ_CTIR01000038.1	24538	25734	+	tet(A)	tetracycline efflux MFS transporter Tet(A)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	EXACTX	399	399	100.00	100.00	399	WP_000804064.1	tetracycline efflux MFS transporter Tet(A)	NA	NA	tet(A)

@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_046029995.1.fna	chromosome			NZ_JBBEPZ010000022.1 Yersinia enterocolitica strain N22-1346 contig00022, whole genome shotgun sequence	2948	0.5223880597014925	691ebf899615e42c67348f3cf5d95ac0	01400	CP016586.1	23s-rRNA	23S	3027	658	3020	580	2945						
+GCF_046029995.1.fna	chromosome			NZ_JBBEPZ010000024.1 Yersinia enterocolitica strain N22-1346 contig00024, whole genome shotgun sequence	1374	0.5407569141193596	e635b033a7d8d6857002a7f6aedbd0aa	01399	CP016586.1	16s-rRNA	16S	1554	193	1547	3	1358						

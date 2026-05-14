@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001153365.1.fna	chromosome			NZ_CPXZ01000002.1 Yersinia kristensenii strain 119/84, whole genome shotgun sequence	732584	0.4719458792438819	21119ba763cb2ccb60f517de554043b2	00495	KX710093	ISLad1	IS3	1249	1	1249	309703	310951						
+GCF_001153365.1.fna	chromosome			NZ_CPXZ01000006.1 Yersinia kristensenii strain 119/84, whole genome shotgun sequence	260979	0.47322379664186254	05706a34834610e095fb41ca38f77671	01399	CP016586.1	16s-rRNA	16S	1554	101	1547	259492	260939						
+GCF_001153365.1.fna	chromosome			NZ_CPXZ01000008.1 Yersinia kristensenii strain 119/84, whole genome shotgun sequence	253498	0.4575696849679287	486a5bbb7b5d5b748aa5805bfaeb4a63	00676	MF072964	ISCfr4	IS30	1253	4	1250	236449	237695						
+GCF_001153365.1.fna	chromosome			NZ_CPXZ01000013.1 Yersinia kristensenii strain 119/84, whole genome shotgun sequence	132926	0.4752680082753432	59209b25eec93e11eea25a494fef3cf8	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	129514	131886						

@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902170635.1.fna	chromosome			NZ_CABHYV010000033.1 Yersinia mollaretii isolate IP36688, whole genome shotgun sequence	48377	0.4781197676581847	24de078b3c0416bca5a3b6ed7d5ac5c7	00543	JX424614	ISKpn34	IS3	1221	1	1221	215	1435						
+GCF_902170635.1.fna	chromosome			NZ_CABHYV010000013.1 Yersinia mollaretii isolate IP36688, whole genome shotgun sequence	20530	0.4569897710667316	3ee250d3372d54a8f48d665937dbfe5d	00733	NC_000913	IS30D	IS30	1221	1	1221	6403	7623						
+GCF_902170635.1.fna	chromosome			NZ_CABHYV010000065.1 Yersinia mollaretii isolate IP36688, whole genome shotgun sequence	3369	0.5212229148115167	a6ad52b2aab51f862c25aea525684e52	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	218	2590						
+GCF_902170635.1.fna	chromosome			NZ_CABHYV010000055.1 Yersinia mollaretii isolate IP36688, whole genome shotgun sequence	1783	0.5272013460459899	1ebe0d70150496ba3daadbdab712d08f	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	43	1590						

@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001142305.1.fna	chromosome			NZ_CQBH01000003.1 Yersinia massiliensis strain 24070, whole genome shotgun sequence	450700	0.4681322263126522	e60b31f94b5492fc07cababfbca30c9e	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	232737	235109						
+GCF_001142305.1.fna	chromosome			NZ_CQBH01000003.1 Yersinia massiliensis strain 24070, whole genome shotgun sequence	450700	0.4681322263126522	e60b31f94b5492fc07cababfbca30c9e	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	236112	237659						
+GCF_001142305.1.fna	chromosome			NZ_CQBH01000038.1 Yersinia massiliensis strain 24070, whole genome shotgun sequence	1246	0.5561797752808989	233bf6f14ca2ae2d0cb556a297c4f351	00584	AP010953	ISEc16	IS3	1233	1	1233	3	1246						

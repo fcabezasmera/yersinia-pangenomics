@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_021819_00066|MOBP	NZ_CABHQF010000044.1 Yersinia bercovieri isolate IP33686, whole genome shotgun sequence	295	4706	195	295	1457	1759	101	20	80.198	34.0	96.0	minus	1.33e-49	173	relaxase

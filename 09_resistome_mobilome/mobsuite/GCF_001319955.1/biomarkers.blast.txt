@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP041116_00002|ColRNAI_rep_cluster_1987	NZ_CGBH01000051.1 Yersinia bercovieri strain FE80217, whole genome shotgun sequence	519	2862	22	519	1753	2250	505	46	88.119	96.0	96.0	minus	1.64e-168	588	replicon

@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000621__CP009126_00005|rep_cluster_1304	NZ_CP173104.1 Yersinia intermedia strain SCPM-O-B-16218 (Nart-101-1-10) plasmid pB16218-1, complete sequence	918	60085	6	918	6	918	914	15	98.14	99.0	99.0	plus	0.0	1592	replicon
+000198__KU644673_00005|IncQ1	NZ_CP173106.1 Yersinia intermedia strain SCPM-O-B-16218 (Nart-101-1-10) plasmid pB16218-3, complete sequence	843	4985	1	802	481	1282	803	15	97.883	95.0	95.0	minus	0.0	1387	replicon
+CP009126_00025|MOBC	NZ_CP173104.1 Yersinia intermedia strain SCPM-O-B-16218 (Nart-101-1-10) plasmid pB16218-1, complete sequence	248	60085	1	248	41250	41993	248	5	97.984	100.0	100.0	minus	7.559999999999999e-165	502	relaxase
+KU644672_00003|MOBQ	NZ_CP173106.1 Yersinia intermedia strain SCPM-O-B-16218 (Nart-101-1-10) plasmid pB16218-3, complete sequence	705	4985	1	701	1610	3712	701	15	97.86	99.0	99.0	minus	0.0	1250	relaxase

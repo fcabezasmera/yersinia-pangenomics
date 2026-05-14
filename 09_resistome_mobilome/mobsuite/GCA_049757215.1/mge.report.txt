@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_049757215.1.fna	chromosome			DBHYRC010000010.1 TPA_asm: Yersinia enterocolitica isolate 22PH0240-002-P1 SAMN44049545-rid26070293.denovo.10, whole genome shotgun sequence	165527	0.47388643544557685	396a32e4d5e8d61271ee2f57897cee96	00459	CP006262	IS629	IS3	1314	6	1314	162061	163369						

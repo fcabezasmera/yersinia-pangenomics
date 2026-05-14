@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_902168645.1.fna	chromosome			CABHQR010000022.1 Yersinia enterocolitica isolate IP11921 genome assembly, contig: contig_00157, whole genome shotgun sequence	3607	0.5151095092874965	a651f2751b7be53806d3cff5c8551bd1	01400	CP016586.1	23s-rRNA	23S	3027	1288	3027	296	2038						
+GCA_902168645.1.fna	chromosome			CABHQR010000194.1 Yersinia enterocolitica isolate IP11921 genome assembly, contig: contig_00158, whole genome shotgun sequence	1784	0.5201793721973094	a32616f708810183b3bf856ab4d5f53e	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	42	1589						

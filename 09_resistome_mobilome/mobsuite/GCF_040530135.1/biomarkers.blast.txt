@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+JQ319772|MOBH	NZ_JBEWCL010000002.1 Yersinia enterocolitica strain IP51348 cluster_004_consensus_polypolish, whole genome shotgun sequence	398	81151	1	398	79938	80335	398	0	100.0	100.0	100.0	plus	0.0	736	oriT
+000092__CP025470|IncC	NZ_JBEWCL010000002.1 Yersinia enterocolitica strain IP51348 cluster_004_consensus_polypolish, whole genome shotgun sequence	1101	81151	1	1101	1	1101	1101	0	100.0	100.0	100.0	plus	0.0	2034	replicon
+NC_012885_00167|MPF_F	NZ_JBEWCL010000002.1 Yersinia enterocolitica strain IP51348 cluster_004_consensus_polypolish, whole genome shotgun sequence	477	81151	1	477	69915	71345	477	12	97.484	100.0	100.0	plus	0.0	931	mate-pair-formation

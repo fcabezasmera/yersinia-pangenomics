@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_CP009842.1 Yersinia pestis strain Dodson plasmid pCD, complete sequence	1167	70305	1	1167	37594	38760	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_CP009842.1 Yersinia pestis strain Dodson plasmid pCD, complete sequence	227	70305	1	227	58847	59073	227	0	100.0	100.0	100.0	plus	2.93e-118	420	replicon
+000104__CP010386_00052|IncFIB	NZ_CP009843.1 Yersinia pestis strain Dodson plasmid pMT, complete sequence	1065	53435	1	1065	48148	49212	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+NC_010157_00072|MOBF	NZ_CP009842.1 Yersinia pestis strain Dodson plasmid pCD, complete sequence	152	70305	1	152	56321	56776	152	0	100.0	100.0	100.0	plus	1.69e-101	316	relaxase

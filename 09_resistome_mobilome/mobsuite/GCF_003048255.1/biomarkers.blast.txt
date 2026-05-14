@@ -1,0 +1,13 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP025802_00058|rep_cluster_2307	NZ_CP028488.1 Yersinia massiliensis strain GTA plasmid unnamed1, complete sequence	714	121622	1	714	6142	6855	714	41	94.258	100.0	100.0	minus	0.0	1092	replicon
+CP025802_00058|rep_cluster_2307	NZ_CP028488.1 Yersinia massiliensis strain GTA plasmid unnamed1, complete sequence	714	121622	24	714	98338	99028	691	12	98.263	97.0	100.0	minus	0.0	1210	replicon
+002386__CP000718_00001|rep_cluster_901	NZ_CP028489.1 Yersinia massiliensis strain GTA plasmid unnamed2, complete sequence	1038	57277	1	1036	39683	40718	1036	13	98.745	99.0	99.0	plus	0.0	1842	replicon
+NC_009704_00057|MOBP	NZ_CP028489.1 Yersinia massiliensis strain GTA plasmid unnamed2, complete sequence	866	57277	1	866	49916	52513	866	7	99.192	100.0	100.0	plus	0.0	1694	relaxase
+NC_002523_00134|MPF_I	NZ_CP028488.1 Yersinia massiliensis strain GTA plasmid unnamed1, complete sequence	725	121622	16	717	56433	58538	702	88	87.464	97.0	97.0	minus	0.0	1259	mate-pair-formation
+NC_002523_00141|MPF_I	NZ_CP028488.1 Yersinia massiliensis strain GTA plasmid unnamed1, complete sequence	408	121622	1	408	64535	65761	409	77	80.929	100.0	100.0	minus	0.0	639	mate-pair-formation
+NC_002523_00145|MPF_I	NZ_CP028488.1 Yersinia massiliensis strain GTA plasmid unnamed1, complete sequence	176	121622	1	176	70147	70674	176	27	84.659	100.0	100.0	minus	1.93e-86	274	mate-pair-formation
+NC_002523_00001|MPF_I	NZ_CP028488.1 Yersinia massiliensis strain GTA plasmid unnamed1, complete sequence	224	121622	1	224	73649	74320	224	37	83.482	100.0	100.0	minus	4.68e-126	390	mate-pair-formation
+NC_002523_00008|MPF_I	NZ_CP028488.1 Yersinia massiliensis strain GTA plasmid unnamed1, complete sequence	262	121622	1	262	79623	80408	262	30	88.55	100.0	100.0	minus	2.4100000000000004e-156	479	mate-pair-formation
+NC_009704_00014|MPF_T	NZ_CP028489.1 Yersinia massiliensis strain GTA plasmid unnamed2, complete sequence	295	57277	1	295	29751	30635	295	1	99.661	100.0	100.0	minus	0.0	608	mate-pair-formation
+NC_009704_00012|MPF_T	NZ_CP028489.1 Yersinia massiliensis strain GTA plasmid unnamed2, complete sequence	845	57277	1	845	31449	33983	845	11	98.698	100.0	100.0	minus	0.0	1698	mate-pair-formation
+NC_009704_00056|MPF_T	NZ_CP028489.1 Yersinia massiliensis strain GTA plasmid unnamed2, complete sequence	645	57277	1	645	52513	54447	645	0	100.0	100.0	100.0	plus	0.0	1343	mate-pair-formation

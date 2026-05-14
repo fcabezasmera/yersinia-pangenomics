@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_002523_00134|MPF_I	ABSFMD010000025.1 Yersinia ruckeri strain OTH-21-VL-OH-WA-0076 SAMN41434327-rid21643323.denovo.27, whole genome shotgun sequence	725	35446	16	717	5965	8070	702	88	87.464	97.0	97.0	plus	0.0	1260	mate-pair-formation
+NC_002523_00141|MPF_I	ABSFMD010000027.1 Yersinia ruckeri strain OTH-21-VL-OH-WA-0076 SAMN41434327-rid21643323.denovo.29, whole genome shotgun sequence	408	34051	1	400	2	1204	401	75	81.047	98.0	98.0	minus	0.0	627	mate-pair-formation
+NC_002523_00145|MPF_I	ABSFMD010000027.1 Yersinia ruckeri strain OTH-21-VL-OH-WA-0076 SAMN41434327-rid21643323.denovo.29, whole genome shotgun sequence	176	34051	1	176	5590	6117	176	26	85.227	100.0	100.0	minus	6.36e-87	275	mate-pair-formation
+NC_002523_00001|MPF_I	ABSFMD010000027.1 Yersinia ruckeri strain OTH-21-VL-OH-WA-0076 SAMN41434327-rid21643323.denovo.29, whole genome shotgun sequence	224	34051	1	224	9095	9766	224	38	83.036	100.0	100.0	minus	7.89e-126	389	mate-pair-formation
+NC_002523_00008|MPF_I	ABSFMD010000027.1 Yersinia ruckeri strain OTH-21-VL-OH-WA-0076 SAMN41434327-rid21643323.denovo.29, whole genome shotgun sequence	262	34051	1	262	15327	16112	262	29	88.931	100.0	100.0	minus	4.13e-157	480	mate-pair-formation

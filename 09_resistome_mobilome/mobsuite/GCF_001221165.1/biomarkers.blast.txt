@@ -1,0 +1,11 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000126__FO834904|IncFII	NZ_CTKY01000069.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	228	17787	31	225	8208	8402	199	25	83.417	86.0	86.0	plus	1.99e-45	178	replicon
+CP025802_00058|rep_cluster_2307	NZ_CTKY01000077.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	714	13058	1	708	11508	12215	708	37	94.774	99.0	99.0	plus	0.0	1103	replicon
+CP006609_00010|MOBF	NZ_CTKY01000069.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	1607	17787	462	1606	11712	15149	1146	207	81.85	71.0	82.0	minus	0.0	1907	relaxase
+AP019635_00032|MOBF	NZ_CTKY01000069.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	176	17787	1	167	15144	15644	167	31	81.437	95.0	95.0	minus	1.57e-92	291	relaxase
+NC_009790_00086|MPF_T	NZ_CTKY01000069.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	681	17787	460	669	11799	12428	210	40	80.952	31.0	98.0	minus	3.78e-107	355	mate-pair-formation
+NC_021817_00013|MPF_T	NZ_CTKY01000069.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	763	17787	32	763	15647	17785	732	122	80.738	96.0	96.0	minus	0.0	1183	mate-pair-formation
+NC_021871_00015|MPF_F	NZ_CTKY01000071.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	453	16357	1	453	3770	5128	453	49	89.183	100.0	100.0	minus	0.0	787	mate-pair-formation
+NC_021871_00019|MPF_F	NZ_CTKY01000071.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	204	16357	20	201	8367	8912	182	32	82.418	89.0	89.0	minus	3.2499999999999995e-89	283	mate-pair-formation
+NC_021817_00023|MPF_F	NZ_CTKY01000071.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	331	16357	22	331	9358	10287	310	20	93.548	94.0	94.0	minus	0.0	590	mate-pair-formation
+NC_021871_00022|MPF_F	NZ_CTKY01000071.1 Yersinia intermedia strain 93/02, whole genome shotgun sequence	212	16357	3	211	10356	10982	209	27	87.081	99.0	99.0	minus	2.29e-123	381	mate-pair-formation

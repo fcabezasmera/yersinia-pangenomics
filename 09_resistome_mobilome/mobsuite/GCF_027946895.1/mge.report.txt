@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_027946895.1.fna	chromosome			NZ_JAQIRR010000119.1 Yersinia enterocolitica strain SCPM-O-B-4625 119, whole genome shotgun sequence	3437	0.523712540005819	21267e97d62e6f39399c877f9be2cc88	01400	CP016586.1	23s-rRNA	23S	3027	1288	3027	301	2043						
+GCF_027946895.1.fna	chromosome			NZ_JAQIRR010000126.1 Yersinia enterocolitica strain SCPM-O-B-4625 126, whole genome shotgun sequence	1673	0.5265989240884639	43acdf9a9f2d92edbddd45d2fd9aa1e2	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	41	1588						

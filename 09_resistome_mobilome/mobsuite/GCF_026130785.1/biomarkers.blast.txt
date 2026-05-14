@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_021819_00066|MOBP	NZ_JANATT010000047.1 Yersinia ruckeri strain NVI-3736 47, whole genome shotgun sequence	295	1255	1	287	386	1246	287	52	81.882	97.0	97.0	plus	1.3799999999999999e-176	491	relaxase

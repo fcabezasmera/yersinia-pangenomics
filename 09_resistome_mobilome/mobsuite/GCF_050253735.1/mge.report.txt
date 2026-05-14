@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_050253735.1.fna	chromosome			NZ_JBGEGU010000001.1 Yersinia enterocolitica strain SK69-3 contig00001, whole genome shotgun sequence	1595837	0.4694188692203527	8fafadaea89532a11a9e9152666bf2d6	00590	KX242350	ISEc17	IS3	1263	1	1263	1590875	1592129						

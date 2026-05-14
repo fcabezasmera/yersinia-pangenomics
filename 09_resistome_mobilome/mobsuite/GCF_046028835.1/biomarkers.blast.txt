@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_JBBEOY010000046.1 Yersinia enterocolitica strain N23-0981 contig00046, whole genome shotgun sequence	1167	40756	1	1167	1716	2882	1167	5	99.572	100.0	100.0	plus	0.0	2128	replicon
+CP017588_00047|rep_cluster_2203	NZ_JBBEOY010000077.1 Yersinia enterocolitica strain N23-0981 contig00077, whole genome shotgun sequence	867	12497	39	856	7925	8742	822	155	80.17	94.0	94.0	minus	2.23e-174	608	replicon
+CP001049|IncFII	NZ_JBBEOY010000077.1 Yersinia enterocolitica strain N23-0981 contig00077, whole genome shotgun sequence	227	12497	1	227	8772	8998	227	2	99.119	100.0	100.0	minus	5.91e-115	409	replicon
+NC_015475_00074|MOBF	NZ_JBBEOY010000078.1 Yersinia enterocolitica strain N23-0981 contig00078, whole genome shotgun sequence	149	11878	1	149	491	937	149	3	97.987	100.0	100.0	minus	1.2e-94	296	relaxase

@@ -1,0 +1,13 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016527|MOBQ	NZ_JBBETV010000093.1 Yersinia enterocolitica strain N19-0325 contig00093, whole genome shotgun sequence	157	10855	1	157	5614	5770	157	0	100.0	100.0	100.0	minus	1.5e-79	291	oriT
+002101__NC_004564_00056|rep_cluster_645	NZ_JBBETV010000045.1 Yersinia enterocolitica strain N19-0325 contig00045, whole genome shotgun sequence	1167	40813	1	1167	1773	2939	1167	5	99.572	100.0	100.0	plus	0.0	2128	replicon
+000192__AM183225_00009|IncQ1	NZ_JBBETV010000093.1 Yersinia enterocolitica strain N19-0325 contig00093, whole genome shotgun sequence	858	10855	36	858	2046	2868	823	0	100.0	96.0	96.0	minus	0.0	1520	replicon
+CP001049|IncFII	NZ_JBBETV010000116.1 Yersinia enterocolitica strain N19-0325 contig00116, whole genome shotgun sequence	227	5729	1	224	3494	3717	224	1	99.554	99.0	99.0	plus	5.98e-115	409	replicon
+CP017588_00047|rep_cluster_2203	NZ_JBBETV010000116.1 Yersinia enterocolitica strain N19-0325 contig00116, whole genome shotgun sequence	867	5729	33	856	3744	4567	828	157	80.072	95.0	95.0	plus	2.25e-174	608	replicon
+CP023822_00060|MOBP	NZ_JBBETV010000040.1 Yersinia enterocolitica strain N19-0325 contig00040, whole genome shotgun sequence	1190	42485	1	1190	37036	40617	1194	26	97.487	100.0	100.0	plus	0.0	2371	relaxase
+NC_015475_00074|MOBF	NZ_JBBETV010000087.1 Yersinia enterocolitica strain N19-0325 contig00087, whole genome shotgun sequence	149	11808	1	149	376	822	149	3	97.987	100.0	100.0	minus	1.21e-94	296	relaxase
+CP022499|MOBQ	NZ_JBBETV010000093.1 Yersinia enterocolitica strain N19-0325 contig00093, whole genome shotgun sequence	709	10855	1	709	3399	5525	709	0	100.0	100.0	100.0	minus	0.0	1316	relaxase
+NC_011148_00022|MPF_T	NZ_JBBETV010000040.1 Yersinia enterocolitica strain N19-0325 contig00040, whole genome shotgun sequence	673	42485	1	673	13853	15871	673	106	84.25	100.0	100.0	minus	0.0	1118	mate-pair-formation
+NC_011148_00025|MPF_T	NZ_JBBETV010000040.1 Yersinia enterocolitica strain N19-0325 contig00040, whole genome shotgun sequence	262	42485	1	262	18249	19034	262	31	88.168	100.0	100.0	minus	9.56e-153	468	mate-pair-formation
+NC_011148_00028|MPF_T	NZ_JBBETV010000040.1 Yersinia enterocolitica strain N19-0325 contig00040, whole genome shotgun sequence	841	42485	1	819	20797	23259	821	116	85.627	97.0	97.0	minus	0.0	1481	mate-pair-formation
+NC_017903_00051|MPF_T	NZ_JBBETV010000040.1 Yersinia enterocolitica strain N19-0325 contig00040, whole genome shotgun sequence	350	42485	1	350	28124	29173	350	50	85.714	100.0	100.0	plus	0.0	569	mate-pair-formation

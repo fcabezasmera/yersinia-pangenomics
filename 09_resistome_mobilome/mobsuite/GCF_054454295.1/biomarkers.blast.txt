@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_JBTJFN010000051.1 Yersinia pseudotuberculosis strain 25-YE00098 contig00051, whole genome shotgun sequence	1167	17276	1	1167	7578	8744	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_JBTJFN010000057.1 Yersinia pseudotuberculosis strain 25-YE00098 contig00057, whole genome shotgun sequence	227	8674	1	227	871	1097	227	0	100.0	100.0	100.0	plus	2.81e-118	420	replicon
+NC_010157_00072|MOBF	NZ_JBTJFN010000077.1 Yersinia pseudotuberculosis strain 25-YE00098 contig00077, whole genome shotgun sequence	152	807	1	152	134	589	152	0	100.0	100.0	100.0	plus	5.48e-112	316	relaxase

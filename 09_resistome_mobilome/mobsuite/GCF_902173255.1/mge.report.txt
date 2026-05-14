@@ -1,0 +1,6 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902173255.1.fna	chromosome			NZ_CABIHS010000393.1 Yersinia similis isolate OK6609, whole genome shotgun sequence	14562	0.4510369454745227	c7aac0117140ca41eecd0324d67d8c39	00288	CP011136	IS640	IS21	2131	1	2131	1527	3656						
+GCF_902173255.1.fna	chromosome			NZ_CABIHS010000030.1 Yersinia similis isolate OK6609, whole genome shotgun sequence	5423	0.4556518532177761	6d49fbae362f30707bd8a9c35ad2c1bc	00336	NC_003134	ISEc39	IS256	1316	228	1316	2826	3914						
+GCF_902173255.1.fna	chromosome			NZ_CABIHS010000138.1 Yersinia similis isolate OK6609, whole genome shotgun sequence	3306	0.5187537810042347	88bf1d3ec07259d75eabaa7ced473684	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	221	2593						
+GCF_902173255.1.fna	chromosome			NZ_CABIHS010000286.1 Yersinia similis isolate OK6609, whole genome shotgun sequence	1793	0.5237032905744562	2cb766cb81f99c56ee44b3d1b8bb8b25	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	41	1588						
+GCF_902173255.1.fna	chromosome			NZ_CABIHS010000243.1 Yersinia similis isolate OK6609, whole genome shotgun sequence	1207	0.49212924606462305	6203e4d5c02c03defb577d1ed7af2612	00634	CP024842	IS1400	IS3	1207	1	1207	1	1207						

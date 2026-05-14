@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP001049|IncFII	JBKNIV010000032.1 Yersinia pestis strain J200006 contig00032, whole genome shotgun sequence	227	49091	1	227	47261	47487	227	0	100.0	100.0	100.0	minus	2.81e-118	420	replicon
+000104__CP010386_00052|IncFIB	JBKNIV010000055.1 Yersinia pestis strain J200006 contig00055, whole genome shotgun sequence	1065	36049	1	1065	27082	28146	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	JBKNIV010000105.1 Yersinia pestis strain J200006 contig00105, whole genome shotgun sequence	1167	9844	1	1167	1021	2187	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+NC_010157_00072|MOBF	JBKNIV010000158.1 Yersinia pestis strain J200006 contig00158, whole genome shotgun sequence	152	847	1	152	154	609	152	0	100.0	100.0	100.0	plus	8.52e-112	316	relaxase

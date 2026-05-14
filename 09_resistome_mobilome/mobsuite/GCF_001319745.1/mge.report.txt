@@ -1,0 +1,7 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001319745.1.fna	chromosome			NZ_CHJS01000019.1 Yersinia similis strain Y252, whole genome shotgun sequence	79024	0.47400789633529056	4ed5adc6834992ffb4e15389aaae3f53	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	40083	42455						
+GCF_001319745.1.fna	chromosome			NZ_CHJS01000019.1 Yersinia similis strain Y252, whole genome shotgun sequence	79024	0.47400789633529056	4ed5adc6834992ffb4e15389aaae3f53	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	43462	45009						
+GCF_001319745.1.fna	chromosome			NZ_CHJS01000052.1 Yersinia similis strain Y252, whole genome shotgun sequence	30926	0.4519174804371726	cfb5cbd66bca203a4fcf3f2640529688	00028	JX424614	ISEc21	IS110	1374	1	1374	29234	30607						
+GCF_001319745.1.fna	chromosome			NZ_CHJS01000091.1 Yersinia similis strain Y252, whole genome shotgun sequence	4850	0.4963910084553516	bbd184ac3aa733b50ede51e07f580ee0	00634	CP024842	IS1400	IS3	1207	1	1207	1	1207						
+GCF_001319745.1.fna	chromosome			NZ_CHJS01000102.1 Yersinia similis strain Y252, whole genome shotgun sequence	3092	0.4330530401034929	35b8cb56dec084758a3d88b99337399f	00336	NC_003134	ISEc39	IS256	1316	1	1316	1684	2999						
+GCF_001319745.1.fna	chromosome			NZ_CHJS01000118.1 Yersinia similis strain Y252, whole genome shotgun sequence	1912	0.475418410041841	fa3a7e29c260a995e16fc2b84d94539b	00336	NC_003134	ISEc39	IS256	1316	2	1316	598	1912						

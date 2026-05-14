@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_021819_00066|MOBP	NZ_JAQIRX010000035.1 Yersinia intermedia strain SCPM-O-B-3971 (680) 35, whole genome shotgun sequence	295	38496	1	295	14903	15784	295	35	87.797	100.0	100.0	plus	1.08e-172	527	relaxase

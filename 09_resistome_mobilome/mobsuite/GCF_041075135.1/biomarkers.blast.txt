@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP032236_00057|MOBP	NZ_CP163506.1 Yersinia ruckeri strain Y2022-239 plasmid pY2022-239, complete sequence	641	141599	1	641	52875	54797	641	0	100.0	100.0	100.0	plus	0.0	1295	relaxase

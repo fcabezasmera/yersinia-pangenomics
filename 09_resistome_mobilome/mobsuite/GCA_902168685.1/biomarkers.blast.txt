@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP041088_00001|rep_cluster_2358	CABHQU010000126.1 Yersinia enterocolitica isolate IP28862 genome assembly, contig: contig_00372, whole genome shotgun sequence	129	563	2	126	1	125	126	13	88.095	97.0	97.0	minus	7.69e-37	148	replicon

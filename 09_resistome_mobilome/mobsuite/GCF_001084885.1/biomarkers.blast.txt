@@ -1,0 +1,3 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000133__NC_008791_00085|IncFII	NZ_CQCV01000031.1 Yersinia enterocolitica strain WA, whole genome shotgun sequence	1023	42981	1	1023	34633	35655	1023	2	99.804	100.0	100.0	plus	0.0	1879	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CQCV01000040.1 Yersinia enterocolitica strain WA, whole genome shotgun sequence	1167	21013	1	1167	16075	17241	1167	0	100.0	100.0	100.0	plus	0.0	2156	replicon

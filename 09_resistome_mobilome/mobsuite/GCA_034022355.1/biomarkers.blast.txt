@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NZ_CP012928|MOBF	DARWNA010000021.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000312 SAMN38474580-rid20444863.denovo.21, whole genome shotgun sequence	259	53417	1	259	12239	12497	259	2	99.228	100.0	100.0	plus	1.26e-132	468	oriT
+000155__CP018649|IncN	DARWNA010000021.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000312 SAMN38474580-rid20444863.denovo.21, whole genome shotgun sequence	720	53417	1	720	51808	52527	720	23	96.806	100.0	100.0	minus	0.0	1203	replicon
+NC_015599_00019|MOBF	DARWNA010000021.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000312 SAMN38474580-rid20444863.denovo.21, whole genome shotgun sequence	1080	53417	1	1059	14506	17682	1059	2	99.811	98.0	98.0	plus	0.0	2032	relaxase
+NC_022375_00024|MPF_T	DARWNA010000021.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000312 SAMN38474580-rid20444863.denovo.21, whole genome shotgun sequence	509	53417	1	509	12977	14503	509	1	99.804	100.0	100.0	plus	0.0	996	mate-pair-formation

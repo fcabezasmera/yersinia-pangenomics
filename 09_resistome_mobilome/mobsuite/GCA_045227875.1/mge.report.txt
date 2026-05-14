@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_045227875.1.fna	chromosome			DBCGKK010000015.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000524 SAMN41842248-rid21978463.denovo.15, whole genome shotgun sequence	66845	0.5078465105841873	53972284cd8e7b5eb8e6ee3413c2b171	01373	MF156713	ISSba14	Tn3	2238	1	2238	36315	38552						

@@ -1,0 +1,15 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	89	47984	1	89	7452	7540	89	0	100.0	100.0	100.0	plus	5.1e-42	165	oriT
+NC_017657|MOBP	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	89	47984	1	89	17064	17152	89	0	100.0	100.0	100.0	plus	5.1e-42	165	oriT
+NC_017657|MOBP	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	89	47984	1	89	26677	26765	89	0	100.0	100.0	100.0	plus	5.1e-42	165	oriT
+NC_017657|MOBP	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	89	47984	1	89	36288	36375	89	0	98.876	100.0	100.0	plus	8.53e-40	158	oriT
+NC_017657|MOBP	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	89	47984	1	89	45882	45970	89	0	100.0	100.0	100.0	plus	5.1e-42	165	oriT
+000104__CP010386_00052|IncFIB	NZ_CP096667.1 Yersinia pestis EV76-CN plasmid unnamed, complete sequence	1065	120847	1	1065	18083	19147	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	552	47984	4	552	6884	7430	552	26	93.841	99.0	99.0	minus	0.0	824	replicon
+CP041342_00001|rep_cluster_2350	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	552	47984	4	552	16495	17042	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+CP041342_00001|rep_cluster_2350	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	552	47984	4	552	26108	26655	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+CP041342_00001|rep_cluster_2350	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	552	47984	4	552	35719	36266	553	28	93.309	99.0	99.0	minus	0.0	808	replicon
+CP041342_00001|rep_cluster_2350	NZ_CP096668.1 Yersinia pestis EV76-CN plasmid unnamed1, complete sequence	552	47984	4	552	45313	45860	553	26	93.671	99.0	99.0	minus	0.0	819	replicon
+CP001049|IncFII	NZ_CP096669.1 Yersinia pestis EV76-CN plasmid unnamed2, complete sequence	227	70300	1	227	24736	24962	227	0	100.0	100.0	100.0	minus	2.94e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP096669.1 Yersinia pestis EV76-CN plasmid unnamed2, complete sequence	1167	70300	1	1167	45049	46215	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+NC_010157_00072|MOBF	NZ_CP096669.1 Yersinia pestis EV76-CN plasmid unnamed2, complete sequence	152	70300	1	152	27033	27488	152	0	100.0	100.0	100.0	minus	1.7e-101	316	relaxase

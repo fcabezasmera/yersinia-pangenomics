@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000127__CP009275|IncFII	DBIRSI010000012.1 TPA_asm: Yersinia enterocolitica strain Toyama_YE15 SAMD00590506-rid26467963.denovo.12, whole genome shotgun sequence	228	121169	31	223	108209	108402	196	26	84.184	85.0	85.0	minus	1.18e-47	185	replicon

@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000621__CP009126_00005|rep_cluster_1304	NZ_CP107100.1 Yersinia enterocolitica strain NW1 chromosome	918	4737272	6	918	4650920	4651832	914	14	98.249	99.0	99.0	minus	0.0	1598	replicon
+000621__CP009126_00005|rep_cluster_1304	NZ_CP107100.1 Yersinia enterocolitica strain NW1 chromosome	918	4737272	490	918	4680067	4680495	429	3	99.301	47.0	99.0	minus	0.0	776	replicon
+CP009126_00025|MOBC	NZ_CP107100.1 Yersinia enterocolitica strain NW1 chromosome	248	4737272	1	248	4670691	4671434	248	5	97.984	100.0	100.0	plus	5.17e-165	503	relaxase
+LT985292_00003|MOBP	NZ_CP107101.1 Yersinia enterocolitica strain NW1 plasmid unnamed	165	904	1	137	395	805	137	24	82.482	83.0	83.0	plus	1.48e-77	230	relaxase

@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_003634395.1.fna	chromosome			NZ_QCZL01000048.1 Yersinia sp. IP36721 contig_00048, whole genome shotgun sequence	3297	0.5195632393084623	c8b1afda65bd08cbed6a35d746e4b1cb	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	704	3076						
+GCF_003634395.1.fna	chromosome			NZ_QCZL01000047.1 Yersinia sp. IP36721 contig_00047, whole genome shotgun sequence	1781	0.5216170690623245	9152dc99e01d40a6ad2d8080b47ce738	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	193	1740						

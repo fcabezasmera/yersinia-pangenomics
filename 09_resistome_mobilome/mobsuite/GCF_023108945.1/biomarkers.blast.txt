@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_JALHKU010000142.1 Yersinia pseudotuberculosis strain 2396 NODE_142_length_8593_cov_33.8018, whole genome shotgun sequence	1167	8593	1	1167	3775	4941	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_JALHKU010000147.1 Yersinia pseudotuberculosis strain 2396 NODE_147_length_7112_cov_36.092, whole genome shotgun sequence	227	7112	1	227	1180	1406	227	0	100.0	100.0	100.0	plus	2.94e-118	420	replicon
+FJ696405|Col(Ye4449)	NZ_JALHKU010000249.1 Yersinia pseudotuberculosis strain 2396 NODE_249_length_976_cov_1.4327, whole genome shotgun sequence	194	976	1	194	594	787	194	23	88.144	100.0	100.0	plus	1.24e-61	231	replicon

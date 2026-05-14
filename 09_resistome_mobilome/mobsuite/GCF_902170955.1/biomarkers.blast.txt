@@ -1,0 +1,11 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+X01654|ColE10	NZ_CABHZN010000041.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	177	7861	4	177	5175	5348	175	28	82.857	98.0	98.0	minus	6.78e-39	156	replicon
+000437__KT351737_00006|rep_cluster_1159	NZ_CABHZN010000044.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	957	7041	1	957	883	1830	957	134	85.057	100.0	100.0	minus	0.0	966	replicon
+000793__CP011573|rep_cluster_1451	NZ_CABHZN010000065.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	864	4027	1	864	1882	2733	864	63	91.319	100.0	100.0	plus	0.0	1170	replicon
+000621__CP009126_00005|rep_cluster_1304	NZ_CABHZN010000107.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	918	68378	6	918	440	1352	914	15	98.14	99.0	99.0	minus	0.0	1592	replicon
+KT351737_00004|MOBQ	NZ_CABHZN010000041.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	371	7861	146	371	2	673	226	39	81.858	61.0	100.0	plus	2.27e-97	314	relaxase
+KT351737_00004|MOBQ	NZ_CABHZN010000041.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	371	7861	1	169	7353	7859	169	11	93.491	46.0	100.0	plus	3.03e-104	334	relaxase
+CP009870_00005|MOBQ	NZ_CABHZN010000044.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	365	7041	1	365	3046	4158	371	41	87.332	100.0	100.0	plus	0.0	637	relaxase
+CP011573_00003|MOBQ	NZ_CABHZN010000065.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	451	4027	1	138	3	416	138	8	94.203	31.0	100.0	minus	2.23e-84	279	relaxase
+CP011573_00003|MOBQ	NZ_CABHZN010000065.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	451	4027	115	451	3010	4026	339	18	94.1	75.0	100.0	minus	0.0	550	relaxase
+CP009126_00025|MOBC	NZ_CABHZN010000107.1 Yersinia proxima strain IP39432, whole genome shotgun sequence	248	68378	1	248	19455	20198	248	5	97.984	100.0	100.0	plus	5.08e-165	503	relaxase

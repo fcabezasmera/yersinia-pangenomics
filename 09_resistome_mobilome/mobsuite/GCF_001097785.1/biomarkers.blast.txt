@@ -1,0 +1,12 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+001623__NC_020920_00001|rep_cluster_312	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	1353	29872	1	1353	24231	25583	1353	19	98.596	100.0	100.0	minus	0.0	2394	replicon
+CP001049|IncFII	NZ_CPWQ01000059.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	227	18384	1	224	14506	14729	224	1	99.554	99.0	99.0	plus	6.05e-115	409	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CPWQ01000077.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	1167	10316	7	1167	7056	8216	1161	6	99.483	99.0	99.0	minus	0.0	2111	replicon
+NZ_CM000957_00016|MOBP	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	328	29872	1	328	16257	17237	328	22	92.988	100.0	100.0	minus	0.0	588	relaxase
+NC_015475_00074|MOBF	NZ_CPWQ01000059.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	149	18384	1	149	10811	11257	149	1	99.329	100.0	100.0	plus	7.31e-96	299	relaxase
+NC_020920_00010|MPF_T	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	105	29872	1	105	1323	1637	105	0	100.0	100.0	100.0	plus	1.05e-66	214	mate-pair-formation
+NC_020920_00011|MPF_T	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	816	29872	1	816	1637	4084	816	0	100.0	100.0	100.0	plus	0.0	1697	mate-pair-formation
+NZ_CM000957_00030|MPF_T	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	337	29872	1	337	5026	6036	337	1	99.703	100.0	100.0	plus	0.0	592	mate-pair-formation
+NZ_CM000957_00028|MPF_T	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	252	29872	14	252	6428	7144	239	7	97.071	95.0	95.0	plus	4.42e-148	454	mate-pair-formation
+NC_020920_00017|MPF_T	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	273	29872	1	273	7150	7968	273	3	98.901	100.0	100.0	plus	2.32e-174	531	mate-pair-formation
+NC_020920_00020|MPF_T	NZ_CPWQ01000044.1 Yersinia enterocolitica strain 1127, whole genome shotgun sequence	642	29872	1	642	10136	12061	642	9	98.598	100.0	100.0	plus	0.0	1207	mate-pair-formation

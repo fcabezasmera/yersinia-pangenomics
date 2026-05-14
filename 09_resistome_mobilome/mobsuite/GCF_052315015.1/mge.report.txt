@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_052315015.1.fna	chromosome			NZ_JBQRBP010000053.1 Yersinia bercovieri strain SR_P9c NODE_53_length_1315_cov_3324.424879, whole genome shotgun sequence	1315	0.5041825095057034	815d2cf6a9bff0010d3afceeb4333468	00336	NC_003134	ISEc39	IS256	1316	2	1313	1	1312						

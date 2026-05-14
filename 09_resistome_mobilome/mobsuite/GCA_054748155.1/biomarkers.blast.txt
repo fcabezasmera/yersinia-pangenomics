@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	DBLSIL010000040.1 TPA_asm: Yersinia enterocolitica strain Y23PE0776 SAMN50001349-rid28786233.denovo.040, whole genome shotgun sequence	1167	40398	1	1167	1609	2775	1167	5	99.572	100.0	100.0	plus	0.0	2128	replicon
+CP017588_00047|rep_cluster_2203	DBLSIL010000097.1 TPA_asm: Yersinia enterocolitica strain Y23PE0776 SAMN50001349-rid28786233.denovo.100, whole genome shotgun sequence	867	5975	39	856	1633	2450	822	155	80.17	94.0	94.0	minus	2.25e-174	608	replicon
+CP001049|IncFII	DBLSIL010000097.1 TPA_asm: Yersinia enterocolitica strain Y23PE0776 SAMN50001349-rid28786233.denovo.100, whole genome shotgun sequence	227	5975	1	227	2480	2706	227	2	99.119	100.0	100.0	minus	5.97e-115	409	replicon
+NC_015475_00074|MOBF	DBLSIL010000079.1 TPA_asm: Yersinia enterocolitica strain Y23PE0776 SAMN50001349-rid28786233.denovo.081, whole genome shotgun sequence	149	11232	1	149	88	534	149	3	97.987	100.0	100.0	minus	1.21e-94	296	relaxase

@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_025758285.1.fna	chromosome			NZ_CP107091.1 Yersinia enterocolitica strain Gp2 chromosome	4543090	0.471647728436776	66aa14bdf9e948497e9f992ef510e1f1	00543	JX424614	ISKpn34	IS3	1221	1	1221	849668	850880						

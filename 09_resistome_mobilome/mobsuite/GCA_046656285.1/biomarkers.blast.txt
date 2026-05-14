@@ -1,0 +1,12 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JBKLMY010000119.1 Yersinia pestis strain 90031 contig00119, whole genome shotgun sequence	89	7865	1	89	6432	6520	89	0	100.0	100.0	100.0	plus	4.87e-42	165	oriT
+000104__CP010386_00052|IncFIB	JBKLMY010000057.1 Yersinia pestis strain 90031 contig00057, whole genome shotgun sequence	1065	36050	1	1065	7904	8968	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+000116__CP022119_00033|IncFII	JBKLMY010000079.1 Yersinia pestis strain 90031 contig00079, whole genome shotgun sequence	714	21853	1	714	18929	19642	715	27	95.944	100.0	100.0	plus	0.0	1158	replicon
+002101__NC_004564_00056|rep_cluster_645	JBKLMY010000109.1 Yersinia pestis strain 90031 contig00109, whole genome shotgun sequence	1167	10347	1	1167	1614	2780	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP041342_00001|rep_cluster_2350	JBKLMY010000119.1 Yersinia pestis strain 90031 contig00119, whole genome shotgun sequence	552	7865	4	552	5863	6410	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+CP001049|IncFII	JBKLMY010000139.1 Yersinia pestis strain 90031 contig00139, whole genome shotgun sequence	227	4053	1	227	1272	1498	227	0	100.0	100.0	100.0	plus	2.81e-118	420	replicon
+NC_010157_00072|MOBF	JBKLMY010000166.1 Yersinia pestis strain 90031 contig00166, whole genome shotgun sequence	152	847	1	152	239	694	152	0	100.0	100.0	100.0	minus	8.52e-112	316	relaxase
+NC_010726_00014|MPF_T	JBKLMY010000079.1 Yersinia pestis strain 90031 contig00079, whole genome shotgun sequence	301	21853	1	301	9174	10076	301	4	98.671	100.0	100.0	minus	0.0	617	mate-pair-formation
+NC_005814_00013|MPF_T	JBKLMY010000079.1 Yersinia pestis strain 90031 contig00079, whole genome shotgun sequence	227	21853	1	227	10079	10759	227	0	100.0	100.0	100.0	minus	1.71e-133	411	mate-pair-formation
+NC_005814_00011|MPF_T	JBKLMY010000079.1 Yersinia pestis strain 90031 contig00079, whole genome shotgun sequence	357	21853	1	357	10983	12053	357	0	100.0	100.0	100.0	minus	0.0	567	mate-pair-formation
+NC_013284_00016|MPF_T	JBKLMY010000079.1 Yersinia pestis strain 90031 contig00079, whole genome shotgun sequence	914	21853	1	914	13030	15765	914	82	90.81	100.0	100.0	minus	0.0	1720	mate-pair-formation

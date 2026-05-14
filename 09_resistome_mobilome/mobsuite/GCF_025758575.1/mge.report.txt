@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_025758575.1.fna	chromosome			NZ_CP107097.1 Yersinia enterocolitica strain NW116 chromosome	4770099	0.47166472506818674	a37fae7632add347a712ab6572237145	00459	CP006262	IS629	IS3	1314	6	1314	629749	631057						
+GCF_025758575.1.fna	chromosome			NZ_CP107097.1 Yersinia enterocolitica strain NW116 chromosome	4770099	0.47166472506818674	a37fae7632add347a712ab6572237145	00278	KY320277	ISSen3	IS21	1956	1	1956	1240114	1242069						
+GCF_025758575.1.fna	chromosome			NZ_CP107097.1 Yersinia enterocolitica strain NW116 chromosome	4770099	0.47166472506818674	a37fae7632add347a712ab6572237145	00543	JX424614	ISKpn34	IS3	1221	208	1221	1242070	1243083						

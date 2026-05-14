@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_LPVG01000211.1 Yersinia pestis strain I1996 contig00211, whole genome shotgun sequence	89	1607	1	89	1254	1342	89	0	100.0	100.0	100.0	minus	4.89e-42	165	oriT
+000104__CP010386_00052|IncFIB	NZ_LPVG01000045.1 Yersinia pestis strain I1996 contig00045, whole genome shotgun sequence	1065	35872	1	1065	26979	28042	1065	25	97.559	100.0	100.0	minus	0.0	1821	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_LPVG01000149.1 Yersinia pestis strain I1996 contig00149, whole genome shotgun sequence	1167	6897	1	1167	4989	6155	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_LPVG01000180.1 Yersinia pestis strain I1996 contig00180, whole genome shotgun sequence	227	3403	1	227	734	960	227	0	100.0	100.0	100.0	plus	2.82e-118	420	replicon
+CP033698_00001|rep_cluster_2370	NZ_LPVG01000233.1 Yersinia pestis strain I1996 contig00233, whole genome shotgun sequence	408	641	71	408	303	641	339	0	99.705	83.0	83.0	minus	4.86e-178	619	replicon
+NC_010157_00072|MOBF	NZ_LPVG01000234.1 Yersinia pestis strain I1996 contig00234, whole genome shotgun sequence	152	626	1	152	129	584	152	0	100.0	100.0	100.0	minus	6.3e-113	316	relaxase

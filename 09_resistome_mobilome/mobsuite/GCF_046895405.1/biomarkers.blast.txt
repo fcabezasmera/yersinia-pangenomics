@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000104__CP010386_00052|IncFIB	NZ_CP178019.1 Yersinia pestis strain CMCCK110001 plasmid pMT1, complete sequence	1065	96213	1	1065	1	1065	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP178020.1 Yersinia pestis strain CMCCK110001 plasmid pCD1, complete sequence	1167	70302	1	1167	48843	50009	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_CP178020.1 Yersinia pestis strain CMCCK110001 plasmid pCD1, complete sequence	227	70302	1	206	70097	70302	206	0	100.0	91.0	91.0	plus	1.41e-106	381	replicon
+NC_010157_00072|MOBF	NZ_CP178020.1 Yersinia pestis strain CMCCK110001 plasmid pCD1, complete sequence	152	70302	1	152	67571	68026	152	0	100.0	100.0	100.0	plus	1.72e-101	316	relaxase

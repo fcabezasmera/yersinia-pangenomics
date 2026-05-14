@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	NZ_CP173108.1 Yersinia similis strain SCPM-O-B-14837 (R104) plasmid pB14837, complete sequence	230	23956	5	200	21660	21856	201	23	84.08	85.0	85.0	minus	1.17e-47	185	replicon

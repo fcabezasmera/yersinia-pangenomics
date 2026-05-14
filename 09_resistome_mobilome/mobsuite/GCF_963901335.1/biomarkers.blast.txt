@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP017588_00047|rep_cluster_2203	NZ_CAWRHB010000106.1 Yersinia rochesterensis isolate ena-yuan-GCF_902170505.1 NZ_CABHXK010000106.1, whole genome shotgun sequence	867	19623	40	856	7935	8751	823	146	80.802	94.0	94.0	minus	0.0	634	replicon
+CP001049|IncFII	NZ_CAWRHB010000106.1 Yersinia rochesterensis isolate ena-yuan-GCF_902170505.1 NZ_CABHXK010000106.1, whole genome shotgun sequence	227	19623	1	227	8782	9008	227	5	97.797	100.0	100.0	minus	5.780000000000001e-110	392	replicon
+NC_015475_00074|MOBF	NZ_CAWRHB010000106.1 Yersinia rochesterensis isolate ena-yuan-GCF_902170505.1 NZ_CABHXK010000106.1, whole genome shotgun sequence	149	19623	1	133	11969	12367	133	13	90.226	89.0	89.0	minus	8.43e-77	245	relaxase
+NC_010157_00072|MOBF	NZ_CAWRHB010000106.1 Yersinia rochesterensis isolate ena-yuan-GCF_902170505.1 NZ_CABHXK010000106.1, whole genome shotgun sequence	152	19623	24	149	12377	12754	126	10	92.063	83.0	83.0	minus	2.26e-76	244	relaxase

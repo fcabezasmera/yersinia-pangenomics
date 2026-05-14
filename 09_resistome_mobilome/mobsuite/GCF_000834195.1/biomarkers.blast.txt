@@ -1,0 +1,3 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000133__NC_008791_00085|IncFII	NZ_CP009366.1 Yersinia enterocolitica strain WA plasmid unnamed, complete sequence	1023	66663	1	1023	32308	33330	1023	2	99.804	100.0	100.0	minus	0.0	1879	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP009366.1 Yersinia enterocolitica strain WA plasmid unnamed, complete sequence	1167	66663	1	1167	52534	53700	1167	0	100.0	100.0	100.0	plus	0.0	2156	replicon

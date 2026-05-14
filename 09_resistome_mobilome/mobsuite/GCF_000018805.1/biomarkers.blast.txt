@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NC_010158.1 Yersinia pestis Angola plasmid pMT-pPCP, complete sequence	89	114570	1	89	3200	3288	89	1	98.876	100.0	100.0	minus	2.32e-40	159	oriT
+NC_017657|MOBP	NC_010158.1 Yersinia pestis Angola plasmid pMT-pPCP, complete sequence	89	114570	1	89	12808	12896	89	1	98.876	100.0	100.0	minus	2.32e-40	159	oriT
+002101__NC_004564_00056|rep_cluster_645	NC_010157.1 Yersinia pestis Angola plasmid new_pCD, complete sequence	1167	68190	1	1167	4923	6089	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NC_010157.1 Yersinia pestis Angola plasmid new_pCD, complete sequence	227	68190	1	227	54758	54984	227	0	100.0	100.0	100.0	minus	2.88e-118	420	replicon
+CP041342_00001|rep_cluster_2350	NC_010158.1 Yersinia pestis Angola plasmid pMT-pPCP, complete sequence	552	114570	4	552	3310	3857	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+CP041342_00001|rep_cluster_2350	NC_010158.1 Yersinia pestis Angola plasmid pMT-pPCP, complete sequence	552	114570	4	552	12918	13465	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+000104__CP010386_00052|IncFIB	NC_010158.1 Yersinia pestis Angola plasmid pMT-pPCP, complete sequence	1065	114570	1	1065	32568	33632	1065	26	97.559	100.0	100.0	plus	0.0	1823	replicon
+NC_010157_00072|MOBF	NC_010157.1 Yersinia pestis Angola plasmid new_pCD, complete sequence	152	68190	1	152	57055	57510	152	0	100.0	100.0	100.0	minus	1.66e-101	316	relaxase

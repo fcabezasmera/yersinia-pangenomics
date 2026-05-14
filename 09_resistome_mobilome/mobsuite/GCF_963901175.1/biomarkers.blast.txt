@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_021817|MOB_unknown	NZ_CAWRFZ010000023.1 Yersinia alsatica isolate ena-yuan-GCF_902170305.1 NZ_CABHWW010000023.1, whole genome shotgun sequence	280	305224	1	280	236266	236545	280	9	96.786	100.0	100.0	plus	1.3600000000000002e-132	468	oriT

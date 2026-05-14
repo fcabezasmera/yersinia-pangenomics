@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP025802_00058|rep_cluster_2307	NZ_CABHQB010000162.1 Yersinia bercovieri isolate IP36520, whole genome shotgun sequence	714	88115	1	702	3019	3720	702	56	92.023	98.0	98.0	plus	0.0	987	replicon
+NC_002523_00008|MPF_I	NZ_CABHQB010000162.1 Yersinia bercovieri isolate IP36520, whole genome shotgun sequence	262	88115	1	262	20551	21336	262	32	87.786	100.0	100.0	plus	1.34e-146	450	mate-pair-formation
+NC_002523_00001|MPF_I	NZ_CABHQB010000162.1 Yersinia bercovieri isolate IP36520, whole genome shotgun sequence	224	88115	1	224	26596	27267	224	37	83.482	100.0	100.0	plus	1.31e-127	394	mate-pair-formation
+NC_002523_00145|MPF_I	NZ_CABHQB010000162.1 Yersinia bercovieri isolate IP36520, whole genome shotgun sequence	176	88115	1	176	30260	30787	176	23	86.932	100.0	100.0	plus	8.65e-88	278	mate-pair-formation
+NC_002523_00141|MPF_I	NZ_CABHQB010000162.1 Yersinia bercovieri isolate IP36520, whole genome shotgun sequence	408	88115	1	408	35173	36399	409	80	80.196	100.0	100.0	plus	0.0	632	mate-pair-formation
+NC_002523_00134|MPF_I	NZ_CABHQB010000162.1 Yersinia bercovieri isolate IP36520, whole genome shotgun sequence	725	88115	16	717	42396	44501	702	86	87.749	97.0	97.0	plus	0.0	1260	mate-pair-formation

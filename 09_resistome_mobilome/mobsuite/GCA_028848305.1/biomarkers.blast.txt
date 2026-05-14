@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+FJ696405|Col(Ye4449)	ABKTIZ010000021.1 Yersinia ruckeri strain OTH-19-VL-OH-WA-0039 SAMN17105860-rid13269173.denovo.23, whole genome shotgun sequence	194	5287	1	194	1955	2148	194	22	88.66	100.0	100.0	plus	2.23e-63	237	replicon
+CP032236_00057|MOBP	ABKTIZ010000012.1 Yersinia ruckeri strain OTH-19-VL-OH-WA-0039 SAMN17105860-rid13269173.denovo.13, whole genome shotgun sequence	641	85638	1	641	79520	81442	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase
+NC_019223_00002|MOBP	ABKTIZ010000021.1 Yersinia ruckeri strain OTH-19-VL-OH-WA-0039 SAMN17105860-rid13269173.denovo.23, whole genome shotgun sequence	511	5287	1	511	433	1965	511	22	95.695	100.0	100.0	minus	0.0	929	relaxase

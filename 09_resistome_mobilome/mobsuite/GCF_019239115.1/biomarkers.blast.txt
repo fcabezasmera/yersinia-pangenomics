@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000104__CP010386_00052|IncFIB	NZ_JAAHWC010000052.1 Yersinia pestis strain NM2018.4378 Scaffold51_1, whole genome shotgun sequence	1065	36083	1	1065	7920	8984	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_JAAHWC010000118.1 Yersinia pestis strain NM2018.4378 Scaffold114_1, whole genome shotgun sequence	1167	10155	1	1167	7584	8750	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_JAAHWC010000145.1 Yersinia pestis strain NM2018.4378 Scaffold141_1, whole genome shotgun sequence	227	4326	1	227	1397	1623	227	0	100.0	100.0	100.0	plus	2.84e-118	420	replicon
+NC_010157_00072|MOBF	NZ_JAAHWC010000127.1 Yersinia pestis strain NM2018.4378 Scaffold123_1, whole genome shotgun sequence	152	7855	1	152	255	710	152	0	100.0	100.0	100.0	minus	1.6e-101	316	relaxase

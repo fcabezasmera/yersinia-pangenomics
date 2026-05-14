@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_CP009833.1 Yersinia pestis strain KIM5 plasmid pPCP	89	10072	1	89	6960	7048	89	0	100.0	100.0	100.0	plus	5.09e-42	165	oriT
+CP041342_00001|rep_cluster_2350	NZ_CP009833.1 Yersinia pestis strain KIM5 plasmid pPCP	552	10072	4	552	6391	6938	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+000104__CP010386_00052|IncFIB	NZ_CP009834.1 Yersinia pestis strain KIM5 plasmid pMT, complete sequence	1065	100990	1	1065	16376	17440	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP009835.1 Yersinia pestis strain KIM5 plasmid pCD, complete sequence	1167	71004	1	1167	15159	16325	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_CP009835.1 Yersinia pestis strain KIM5 plasmid pCD, complete sequence	227	71004	1	227	67312	67538	227	0	100.0	100.0	100.0	minus	2.94e-118	420	replicon
+NC_010157_00072|MOBF	NZ_CP009835.1 Yersinia pestis strain KIM5 plasmid pCD, complete sequence	152	71004	1	152	69609	70064	152	0	100.0	100.0	100.0	minus	1.69e-101	316	relaxase

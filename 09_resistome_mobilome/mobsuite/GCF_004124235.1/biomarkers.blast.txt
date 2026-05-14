@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	NZ_CP032488.1 Yersinia hibernica strain CFS1934 plasmid pCFS1934, complete sequence	230	60496	3	200	56570	56768	203	30	80.788	86.0	86.0	minus	4.33e-37	150	replicon

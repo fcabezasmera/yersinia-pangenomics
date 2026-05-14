@@ -1,0 +1,14 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000120__NC_011759|IncFII	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	390	66042	1	330	20431	20760	334	40	85.629	85.0	85.0	minus	3.39e-95	344	replicon
+NC_011759_00021|MOBP	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	633	66042	1	633	44015	45916	634	40	93.533	100.0	100.0	plus	0.0	1197	relaxase
+NC_011759_00003|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	225	66042	1	113	45	383	113	1	99.115	50.0	100.0	minus	2.31e-56	190	mate-pair-formation
+NC_011759_00002|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	143	66042	1	143	437	865	143	4	97.203	100.0	100.0	minus	1.02e-80	256	mate-pair-formation
+NC_011759_00096|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	262	66042	1	262	5967	6752	262	7	97.328	100.0	100.0	minus	5.3200000000000003e-163	498	mate-pair-formation
+NC_011759_00082|MPF_G	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	347	66042	1	347	17142	18173	350	43	85.143	100.0	100.0	minus	1.01e-179	550	mate-pair-formation
+NC_011759_00017|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	727	66042	1	727	48150	50330	727	5	99.312	100.0	100.0	minus	0.0	1496	mate-pair-formation
+NC_011759_00012|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	399	66042	1	399	56228	57424	399	1	99.749	100.0	100.0	minus	0.0	793	mate-pair-formation
+NC_011759_00008|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	131	66042	1	131	61419	61811	131	1	99.237	100.0	100.0	minus	4.26e-61	199	mate-pair-formation
+NC_011759_00007|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	179	66042	1	179	61955	62491	179	1	99.441	100.0	100.0	minus	2.28e-115	357	mate-pair-formation
+NC_011759_00006|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	266	66042	1	266	62505	63302	266	5	98.12	100.0	100.0	minus	8.52e-152	466	mate-pair-formation
+NC_011759_00004|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	330	66042	1	330	64642	65613	330	12	94.545	100.0	100.0	minus	0.0	583	mate-pair-formation
+NC_011759_00003|MPF_I	NZ_CHJS01000022.1 Yersinia similis strain Y252, whole genome shotgun sequence	225	66042	107	225	65630	65986	119	6	94.958	53.0	100.0	minus	1.97e-70	230	mate-pair-formation

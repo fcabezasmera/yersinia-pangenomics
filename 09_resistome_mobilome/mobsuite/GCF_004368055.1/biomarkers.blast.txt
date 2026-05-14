@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP017588_00047|rep_cluster_2203	NZ_CP030981.1 Yersinia enterocolitica subsp. palearctica strain Y1 plasmid pYV, complete sequence	867	72411	39	856	51869	52686	822	155	80.17	94.0	94.0	minus	2.3000000000000003e-174	608	replicon
+CP001049|IncFII	NZ_CP030981.1 Yersinia enterocolitica subsp. palearctica strain Y1 plasmid pYV, complete sequence	227	72411	1	227	52716	52942	227	2	99.119	100.0	100.0	minus	6.1e-115	409	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP030981.1 Yersinia enterocolitica subsp. palearctica strain Y1 plasmid pYV, complete sequence	1167	72411	1	1163	71249	72411	1163	5	99.57	99.0	99.0	plus	0.0	2121	replicon
+NC_015475_00074|MOBF	NZ_CP030981.1 Yersinia enterocolitica subsp. palearctica strain Y1 plasmid pYV, complete sequence	149	72411	1	149	68018	68464	149	3	97.987	100.0	100.0	plus	1.26e-94	296	relaxase

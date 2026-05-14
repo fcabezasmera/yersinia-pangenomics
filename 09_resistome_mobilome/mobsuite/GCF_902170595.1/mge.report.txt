@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902170595.1.fna	chromosome			NZ_CABHXM010000022.1 Yersinia rochesterensis strain IP38487, whole genome shotgun sequence	3293	0.5174612815062253	472f7fd3f3c79c00bff34c6f7599e1ad	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	219	2591						
+GCF_902170595.1.fna	chromosome			NZ_CABHXM010000024.1 Yersinia rochesterensis strain IP38487, whole genome shotgun sequence	1787	0.5226636821488528	7814d98ec689c8fb310fb44e027c8242	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	43	1590						

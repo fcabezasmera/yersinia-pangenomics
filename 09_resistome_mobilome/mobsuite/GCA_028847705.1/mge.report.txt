@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_028847705.1.fna	plasmid	AA996	AJ511	DANNEX010000134.1 TPA_asm: Yersinia enterocolitica isolate IN_Ye_FI_001 SAMEA4697939-rid13275113.denovo.138, whole genome shotgun sequence	5497	0.49827178460978716	96ede8307c84159da09517c3024572f3	00646	MF344564	ISKpn37	IS3	1253	1	1243	815	2055	1243	plus	99.0	87.852	0.0	1458

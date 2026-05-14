@@ -1,0 +1,20 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_CP009992.1 Yersinia pestis strain Java9 plasmid p4	89	9670	1	89	7001	7089	89	0	100.0	100.0	100.0	plus	5.14e-42	165	oriT
+CP041342_00001|rep_cluster_2350	NZ_CP009992.1 Yersinia pestis strain Java9 plasmid p4	552	9670	4	552	6432	6979	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+000228__CP002179_00041|IncX7	NZ_CP009993.1 Yersinia pestis strain Java9 plasmid p3, complete sequence	861	35044	1	861	20230	21090	861	0	100.0	100.0	100.0	minus	0.0	1591	replicon
+000614__NZ_CP009994_00039|rep_cluster_1297	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	921	36084	1	921	31385	32305	921	0	100.0	100.0	100.0	plus	0.0	1701	replicon
+CP001049|IncFII	NZ_CP009995.1 Yersinia pestis strain Java9 plasmid p1, complete sequence	227	77073	1	227	4729	4955	227	0	100.0	100.0	100.0	minus	2.96e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP009995.1 Yersinia pestis strain Java9 plasmid p1, complete sequence	1167	77073	1	1167	25042	26208	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+NC_015054_00008|MOBP	NZ_CP009993.1 Yersinia pestis strain Java9 plasmid p3, complete sequence	407	35044	1	407	25192	26412	407	0	100.0	100.0	100.0	plus	0.0	842	relaxase
+NC_015068_00028|MOBP	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	1005	36084	1	993	20221	23199	993	0	100.0	99.0	99.0	minus	0.0	2008	relaxase
+NC_010157_00072|MOBF	NZ_CP009995.1 Yersinia pestis strain Java9 plasmid p1, complete sequence	152	77073	1	152	7026	7481	152	0	100.0	100.0	100.0	minus	1.71e-101	316	relaxase
+NC_015054_00022|MPF_T	NZ_CP009993.1 Yersinia pestis strain Java9 plasmid p3, complete sequence	620	35044	1	620	1826	3685	620	1	99.839	100.0	100.0	plus	0.0	1184	mate-pair-formation
+NC_015054_00015|MPF_T	NZ_CP009993.1 Yersinia pestis strain Java9 plasmid p3, complete sequence	364	35044	1	364	31751	32842	364	0	100.0	100.0	100.0	plus	0.0	610	mate-pair-formation
+NC_015054_00018|MPF_T	NZ_CP009993.1 Yersinia pestis strain Java9 plasmid p3, complete sequence	228	35044	1	228	33146	33829	228	0	100.0	100.0	100.0	plus	9.05e-152	464	mate-pair-formation
+NC_015054_00019|MPF_T	NZ_CP009993.1 Yersinia pestis strain Java9 plasmid p3, complete sequence	303	35044	1	303	33832	34740	303	0	100.0	100.0	100.0	plus	0.0	583	mate-pair-formation
+NC_015068_00008|MPF_T	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	808	36084	414	808	3	1187	395	0	100.0	49.0	99.0	plus	0.0	824	mate-pair-formation
+NC_015068_00010|MPF_T	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	345	36084	1	337	1872	2882	337	0	100.0	98.0	98.0	plus	0.0	615	mate-pair-formation
+NC_015068_00011|MPF_T	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	248	36084	1	248	3054	3797	248	0	100.0	100.0	100.0	plus	1.56e-144	444	mate-pair-formation
+NC_015068_00012|MPF_T	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	260	36084	1	260	3797	4576	260	1	99.615	100.0	100.0	plus	7.57e-175	531	mate-pair-formation
+NC_015068_00015|MPF_T	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	652	36084	1	652	6816	8771	652	0	100.0	100.0	100.0	plus	0.0	1313	mate-pair-formation
+NC_015068_00008|MPF_T	NZ_CP009994.1 Yersinia pestis strain Java9 plasmid p2, complete sequence	808	36084	1	412	34848	36083	412	0	100.0	51.0	99.0	plus	0.0	865	mate-pair-formation

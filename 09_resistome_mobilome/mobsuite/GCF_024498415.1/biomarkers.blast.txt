@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_CP084344.1 Yersinia pestis strain 20 plasmid unnamed1, complete sequence	89	19159	1	89	3585	3672	89	0	98.876	100.0	100.0	plus	8.55e-40	158	oriT
+NC_017657|MOBP	NZ_CP084344.1 Yersinia pestis strain 20 plasmid unnamed1, complete sequence	89	19159	1	89	13180	13268	89	0	100.0	100.0	100.0	plus	5.11e-42	165	oriT
+CP041342_00001|rep_cluster_2350	NZ_CP084344.1 Yersinia pestis strain 20 plasmid unnamed1, complete sequence	552	19159	4	552	3027	3563	551	29	91.833	99.0	99.0	minus	0.0	754	replicon
+CP041342_00001|rep_cluster_2350	NZ_CP084344.1 Yersinia pestis strain 20 plasmid unnamed1, complete sequence	552	19159	4	552	12611	13158	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+CP001049|IncFII	NZ_CP084345.1 Yersinia pestis strain 20 plasmid unnamed2, complete sequence	227	71623	1	227	13439	13667	229	0	99.127	100.0	100.0	plus	1.7699999999999998e-115	411	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP084345.1 Yersinia pestis strain 20 plasmid unnamed2, complete sequence	1167	71623	1	1167	65768	66934	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+000104__CP010386_00052|IncFIB	NZ_CP084346.1 Yersinia pestis strain 20 plasmid unnamed3, complete sequence	1065	77493	1	1065	6593	7657	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+NC_010157_00072|MOBF	NZ_CP084345.1 Yersinia pestis strain 20 plasmid unnamed2, complete sequence	152	71623	9	93	10930	11184	85	3	96.471	56.0	94.0	plus	2.88e-73	170	relaxase
+NC_010157_00072|MOBF	NZ_CP084345.1 Yersinia pestis strain 20 plasmid unnamed2, complete sequence	152	71623	95	152	11186	11359	58	1	98.276	38.0	94.0	plus	2.88e-73	119	relaxase

@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+AJ001708|MOBP	NZ_CP140121.1 Yersinia enterocolitica strain HNF10 plasmid p-unamed, complete sequence	175	17224	1	175	3212	3386	175	1	99.429	100.0	100.0	plus	8.1e-88	318	oriT
+KU302809_00001|rep_cluster_2335	NZ_CP140121.1 Yersinia enterocolitica strain HNF10 plasmid p-unamed, complete sequence	606	17224	1	605	2683	3289	615	46	89.593	99.0	99.0	minus	0.0	765	replicon
+CP017588_00047|rep_cluster_2203	NZ_CP140122.1 Yersinia enterocolitica strain HNF10 plasmid pYV, complete sequence	867	72198	39	856	19266	20083	822	155	80.17	94.0	94.0	minus	2.34e-174	608	replicon
+CP001049|IncFII	NZ_CP140122.1 Yersinia enterocolitica strain HNF10 plasmid pYV, complete sequence	227	72198	1	227	20113	20339	227	2	99.119	100.0	100.0	minus	6.21e-115	409	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP140122.1 Yersinia enterocolitica strain HNF10 plasmid pYV, complete sequence	1167	72198	1	1167	38629	39795	1167	5	99.572	100.0	100.0	plus	0.0	2128	replicon
+NC_015475_00074|MOBF	NZ_CP140122.1 Yersinia enterocolitica strain HNF10 plasmid pYV, complete sequence	149	72198	1	149	35391	35837	149	3	97.987	100.0	100.0	plus	1.28e-94	296	relaxase

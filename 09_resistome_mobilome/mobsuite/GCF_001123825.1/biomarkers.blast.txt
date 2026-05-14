@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000309__NZ_CP009710_00009|rep_cluster_1066	NZ_CQAW01000029.1 Yersinia thracica strain IP6945, whole genome shotgun sequence	987	27449	1	987	12817	13803	987	19	98.075	100.0	100.0	plus	0.0	1718	replicon
+NC_006154_00025|MOBC	NZ_CQAW01000029.1 Yersinia thracica strain IP6945, whole genome shotgun sequence	246	27449	1	246	4436	5173	246	17	93.089	100.0	100.0	plus	5.46e-153	468	relaxase
+NC_006154_00013|MPF_T	NZ_CQAW01000029.1 Yersinia thracica strain IP6945, whole genome shotgun sequence	227	27449	1	227	21741	22421	227	33	85.463	100.0	100.0	plus	1.55e-117	365	mate-pair-formation
+NC_006154_00014|MPF_T	NZ_CQAW01000029.1 Yersinia thracica strain IP6945, whole genome shotgun sequence	315	27449	27	314	22559	23422	289	48	82.699	91.0	91.0	plus	6.210000000000001e-163	500	mate-pair-formation

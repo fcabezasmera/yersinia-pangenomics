@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP010360_00062|MOBP	CABIJI010000123.1 Yersinia enterocolitica isolate IP39692 genome assembly, contig: contig_00081, whole genome shotgun sequence	667	16849	13	663	7468	9420	655	63	89.16	98.0	98.0	minus	0.0	1053	relaxase

@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_021817|MOB_unknown	DBBWMF010000002.1 TPA_asm: Yersinia enterocolitica strain IDR2400047784-03-07 SAMN44798031-rid24022743.denovo.02, whole genome shotgun sequence	280	634455	1	280	304644	304923	280	7	97.5	100.0	100.0	plus	6.06e-136	479	oriT

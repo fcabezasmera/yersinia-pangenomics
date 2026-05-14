@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_019223_00002|MOBP	NZ_JBPYAK010000026.1 Yersinia enterocolitica strain DSY34-5 contig00026, whole genome shotgun sequence	511	6350	1	511	2765	4297	511	35	93.151	100.0	100.0	minus	0.0	908	relaxase

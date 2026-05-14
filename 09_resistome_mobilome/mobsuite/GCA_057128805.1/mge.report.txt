@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_057128805.1.fna	chromosome			JBXOCY010000028.1 Yersinia proxima strain 25-YE00261 contig00028, whole genome shotgun sequence	1281	0.49804839968774395	5963d1e5da531eea71cd3d99eff0d0d2	00796	CP024842	ISCro2	IS4	1281	1	1281	1	1281						

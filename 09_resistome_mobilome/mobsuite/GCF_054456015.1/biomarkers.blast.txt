@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_JBTJIG010000021.1 Yersinia enterocolitica strain 25-YE00063 contig00021, whole genome shotgun sequence	1167	66558	1	1165	1197	2361	1165	85	92.704	99.0	99.0	minus	0.0	1681	replicon
+AF401292|IncFIC	NZ_JBTJIG010000021.1 Yersinia enterocolitica strain 25-YE00063 contig00021, whole genome shotgun sequence	258	66558	6	258	58951	59197	255	33	83.137	98.0	98.0	minus	2.94e-59	224	replicon
+000215__KC853434_00019|IncX1	NZ_JBTJIG010000023.1 Yersinia enterocolitica strain 25-YE00063 contig00023, whole genome shotgun sequence	447	36762	1	447	1330	1776	448	49	88.616	100.0	100.0	plus	3.56e-155	544	replicon
+NC_019096_00001|MOBP	NZ_JBTJIG010000023.1 Yersinia enterocolitica strain 25-YE00063 contig00023, whole genome shotgun sequence	388	36762	1	388	29854	31017	388	17	95.619	100.0	100.0	minus	0.0	774	relaxase
+NC_017624_00009|MPF_T	NZ_JBTJIG010000023.1 Yersinia enterocolitica strain 25-YE00063 contig00023, whole genome shotgun sequence	611	36762	1	599	15810	17606	599	6	98.998	98.0	98.0	minus	0.0	1190	mate-pair-formation
+NC_010860_00022|MPF_T	NZ_JBTJIG010000023.1 Yersinia enterocolitica strain 25-YE00063 contig00023, whole genome shotgun sequence	309	36762	1	309	19850	20776	309	19	93.851	100.0	100.0	minus	0.0	605	mate-pair-formation
+NC_019067_00043|MPF_T	NZ_JBTJIG010000023.1 Yersinia enterocolitica strain 25-YE00063 contig00023, whole genome shotgun sequence	237	36762	1	237	22074	22784	237	28	88.186	100.0	100.0	minus	9.24e-126	390	mate-pair-formation
+NC_013503_00034|MPF_T	NZ_JBTJIG010000023.1 Yersinia enterocolitica strain 25-YE00063 contig00023, whole genome shotgun sequence	377	36762	1	376	22975	24102	376	7	98.138	99.0	99.0	minus	0.0	650	mate-pair-formation
+NC_023277_00163|MPF_T	NZ_JBTJIG010000023.1 Yersinia enterocolitica strain 25-YE00063 contig00023, whole genome shotgun sequence	717	36762	1	717	25113	27263	717	54	92.469	100.0	100.0	minus	0.0	1364	mate-pair-formation

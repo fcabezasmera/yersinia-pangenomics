@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_CP010069.1 Yersinia pseudotuberculosis str. PA3606 plasmid unnamed1, complete sequence	1167	74956	1	1167	36855	38021	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_CP010069.1 Yersinia pseudotuberculosis str. PA3606 plasmid unnamed1, complete sequence	227	74956	1	227	56242	56468	227	0	100.0	100.0	100.0	plus	2.96e-118	420	replicon
+NC_010157_00072|MOBF	NZ_CP010069.1 Yersinia pseudotuberculosis str. PA3606 plasmid unnamed1, complete sequence	152	74956	1	152	53711	54166	152	0	100.0	100.0	100.0	plus	1.71e-101	316	relaxase

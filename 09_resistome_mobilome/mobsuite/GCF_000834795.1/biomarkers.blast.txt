@@ -1,0 +1,3 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_CP009845.1 Yersinia enterocolitica strain 8081 plasmid pYV	1167	69199	1	1167	7825	8991	1167	0	100.0	100.0	100.0	minus	0.0	2156	replicon
+000133__NC_008791_00085|IncFII	NZ_CP009845.1 Yersinia enterocolitica strain 8081 plasmid pYV	1023	69199	1	1023	30481	31503	1023	0	100.0	100.0	100.0	plus	0.0	1890	replicon

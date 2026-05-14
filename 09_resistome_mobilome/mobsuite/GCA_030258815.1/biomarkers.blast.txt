@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JAQRNW010000138.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00138, whole genome shotgun sequence	89	7865	1	89	6432	6520	89	0	100.0	100.0	100.0	plus	4.9599999999999986e-42	165	oriT
+CP001049|IncFII	JAQRNW010000030.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00030, whole genome shotgun sequence	227	48879	1	227	47049	47275	227	0	100.0	100.0	100.0	minus	2.86e-118	420	replicon
+000104__CP010386_00052|IncFIB	JAQRNW010000096.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00096, whole genome shotgun sequence	1065	18792	1	1065	9825	10889	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	JAQRNW010000138.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00138, whole genome shotgun sequence	552	7865	4	552	5863	6410	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+002101__NC_004564_00056|rep_cluster_645	JAQRNW010000147.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00147, whole genome shotgun sequence	1167	7150	1	1167	1021	2187	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+000016__NC_002144|Col3M	JAQRNW010000156.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00156, whole genome shotgun sequence	153	5930	1	153	699	851	153	0	100.0	100.0	100.0	minus	2.53e-77	283	replicon
+NC_010157_00072|MOBF	JAQRNW010000189.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00189, whole genome shotgun sequence	152	847	1	152	154	609	152	0	100.0	100.0	100.0	plus	8.67e-112	316	relaxase
+NC_002144_00007|MPF_T	JAQRNW010000156.1 Yersinia pestis strain B8-K120003_DMS23228-V B8-K120003_DMS23228-Vcontig00156, whole genome shotgun sequence	294	5930	1	268	1795	2598	268	11	95.896	91.0	91.0	plus	1.5e-170	516	mate-pair-formation

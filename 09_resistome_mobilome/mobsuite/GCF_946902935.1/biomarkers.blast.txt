@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	NZ_CAMPQA010000020.1 Yersinia sp. Marseille-Q5920 contig00020, whole genome shotgun sequence	230	37265	3	200	1490	1688	204	28	80.882	86.0	86.0	plus	3.9700000000000005e-37	150	replicon

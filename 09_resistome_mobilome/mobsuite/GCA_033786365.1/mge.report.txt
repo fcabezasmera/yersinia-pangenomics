@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_033786365.1.fna	chromosome			DARPDA010000014.1 TPA_asm: Yersinia enterocolitica strain Ye-2021-6558 isolate Ye-2021-6558 SAMEA14386517-rid20230953.denovo.14, whole genome shotgun sequence	127708	0.4758668211858302	29080c9a531202f286163ea43c7cbbca	00590	KX242350	ISEc17	IS3	1263	1	1263	96716	97970						

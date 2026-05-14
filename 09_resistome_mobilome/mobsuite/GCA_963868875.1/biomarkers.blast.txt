@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+KJ541069_00010|rep_cluster_2335	CAWMMN010000047.1 Yersinia enterocolitica isolate ena-yuan-GCF_001220485.1 genome assembly, contig: NZ_CTEV01000047.1, whole genome shotgun sequence	267	6521	4	257	4999	5251	255	37	84.314	95.0	95.0	minus	6.390000000000002e-66	246	replicon
+CP043517_00004|MOBP	CAWMMN010000047.1 Yersinia enterocolitica isolate ena-yuan-GCF_001220485.1 genome assembly, contig: NZ_CTEV01000047.1, whole genome shotgun sequence	279	6521	130	265	1	408	136	17	87.5	49.0	95.0	plus	1.31e-75	248	relaxase
+NC_019092_00012|MOBP	CAWMMN010000047.1 Yersinia enterocolitica isolate ena-yuan-GCF_001220485.1 genome assembly, contig: NZ_CTEV01000047.1, whole genome shotgun sequence	503	6521	1	143	6091	6519	143	7	95.105	28.0	100.0	plus	5.05e-86	287	relaxase

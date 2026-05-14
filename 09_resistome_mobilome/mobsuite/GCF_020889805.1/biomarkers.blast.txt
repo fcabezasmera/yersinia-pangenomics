@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP001049|IncFII	NZ_CP071945.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_1, complete sequence	227	74868	1	227	859	1085	227	0	100.0	100.0	100.0	minus	3.0400000000000002e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP071945.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_1, complete sequence	1167	74868	1	1167	19217	20383	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+002438__NC_009705_00164|rep_cluster_957	NZ_CP071946.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_2, complete sequence	1020	143029	1	1020	10	1029	1020	0	100.0	100.0	100.0	plus	0.0	1884	replicon
+NC_010157_00072|MOBF	NZ_CP071945.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_1, complete sequence	152	74868	1	152	3161	3616	152	0	100.0	100.0	100.0	minus	1.75e-101	316	relaxase
+NC_009705_00134|MPF_I	NZ_CP071946.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_2, complete sequence	282	143029	1	282	115288	116133	282	0	100.0	100.0	100.0	minus	0.0	576	mate-pair-formation
+NC_009705_00138|MPF_I	NZ_CP071946.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_2, complete sequence	264	143029	1	264	118914	119705	264	0	100.0	100.0	100.0	plus	9.820000000000001e-179	543	mate-pair-formation
+NC_009705_00139|MPF_I	NZ_CP071946.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_2, complete sequence	361	143029	1	361	119710	120792	361	0	100.0	100.0	100.0	plus	0.0	702	mate-pair-formation
+NC_009705_00148|MPF_I	NZ_CP071946.1 Yersinia pseudotuberculosis strain 598 plasmid pYP598_2, complete sequence	934	143029	1	934	129287	132088	934	0	100.0	100.0	100.0	plus	0.0	1777	mate-pair-formation

@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_JBQSQA010000003.1 Yersinia pestis strain 39_YP13_TLH plasmid pPCP, whole genome shotgun sequence	89	9641	1	89	8692	8780	89	0	100.0	100.0	100.0	plus	5.01e-42	165	oriT
+000104__CP010386_00052|IncFIB	NZ_JBQSQA010000002.1 Yersinia pestis strain 39_YP13_TLH plasmid pMT1, whole genome shotgun sequence	1065	96782	1	1065	22	1086	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	NZ_JBQSQA010000003.1 Yersinia pestis strain 39_YP13_TLH plasmid pPCP, whole genome shotgun sequence	552	9641	4	552	8123	8670	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+CP001049|IncFII	NZ_JBQSQA010000004.1 Yersinia pestis strain 39_YP13_TLH plasmid pCD, whole genome shotgun sequence	227	70333	1	227	23693	23919	227	0	100.0	100.0	100.0	minus	2.89e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_JBQSQA010000004.1 Yersinia pestis strain 39_YP13_TLH plasmid pCD, whole genome shotgun sequence	1167	70333	1	1167	42048	43214	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+NC_010157_00072|MOBF	NZ_JBQSQA010000004.1 Yersinia pestis strain 39_YP13_TLH plasmid pCD, whole genome shotgun sequence	152	70333	1	152	25990	26445	152	0	100.0	100.0	100.0	minus	1.67e-101	316	relaxase

@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP009870_00005|MOBQ	ABKTJR010000054.1 Yersinia enterocolitica isolate 746889 SAMN11890793-rid7668453.denovo.56, whole genome shotgun sequence	365	6170	1	365	4016	5128	371	45	86.253	100.0	100.0	minus	0.0	611	relaxase

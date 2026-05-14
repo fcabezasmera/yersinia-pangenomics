@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+FJ696405|Col(Ye4449)	NZ_CABIHY010000085.1 Yersinia rohdei isolate IP38566, whole genome shotgun sequence	194	4464	1	194	3786	3979	194	2	98.969	100.0	100.0	minus	1.1000000000000001e-96	348	replicon
+000621__CP009126_00005|rep_cluster_1304	NZ_CABIHY010000102.1 Yersinia rohdei isolate IP38566, whole genome shotgun sequence	918	1119	118	918	319	1119	801	7	99.126	87.0	87.0	minus	0.0	1441	replicon
+NC_012208_00003|MOBP	NZ_CABIHY010000085.1 Yersinia rohdei isolate IP38566, whole genome shotgun sequence	523	4464	141	511	2	1135	378	55	83.598	71.0	98.0	plus	0.0	568	relaxase
+NC_012208_00003|MOBP	NZ_CABIHY010000085.1 Yersinia rohdei isolate IP38566, whole genome shotgun sequence	523	4464	1	165	3969	4463	165	1	99.394	32.0	98.0	plus	2.71e-106	344	relaxase
+CP009126_00025|MOBC	NZ_CABIHY010000092.1 Yersinia rohdei isolate IP38566, whole genome shotgun sequence	248	50669	1	248	31993	32736	248	5	97.984	100.0	100.0	minus	4.81e-165	503	relaxase

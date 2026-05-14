@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_CP009489.1 Yersinia pestis strain PBM19 plasmid pPCP1, complete sequence	89	9610	1	89	6609	6697	89	0	100.0	100.0	100.0	minus	5.17e-42	165	oriT
+CP041342_00001|rep_cluster_2350	NZ_CP009489.1 Yersinia pestis strain PBM19 plasmid pPCP1, complete sequence	552	9610	4	552	6719	7266	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+000104__CP010386_00052|IncFIB	NZ_CP009490.1 Yersinia pestis strain PBM19 plasmid pMT1, complete sequence	1065	96196	1	1065	35221	36285	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP001049|IncFII	NZ_CP009491.1 Yersinia pestis strain PBM19 plasmid pCD1, complete sequence	227	70288	1	227	24820	25046	227	0	100.0	100.0	100.0	minus	2.98e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP009491.1 Yersinia pestis strain PBM19 plasmid pCD1, complete sequence	1167	70288	1	1167	45127	46293	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+NC_010157_00072|MOBF	NZ_CP009491.1 Yersinia pestis strain PBM19 plasmid pCD1, complete sequence	152	70288	1	152	27117	27572	152	0	100.0	100.0	100.0	minus	1.72e-101	316	relaxase

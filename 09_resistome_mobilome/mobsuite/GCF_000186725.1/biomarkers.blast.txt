@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NC_017264.1 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pPCP, complete sequence	89	9600	1	89	3190	3278	89	0	100.0	100.0	100.0	minus	5.01e-42	165	oriT
+002101__NC_004564_00056|rep_cluster_645	NC_017263.1 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pCD, complete sequence	1167	68552	1	1167	5202	6368	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NC_017263.1 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pCD, complete sequence	227	68552	1	227	55399	55625	227	0	100.0	100.0	100.0	minus	2.89e-118	420	replicon
+CP041342_00001|rep_cluster_2350	NC_017264.1 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pPCP, complete sequence	552	9600	4	552	3300	3847	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+000104__CP010386_00052|IncFIB	NC_017266.1 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pMT, complete sequence	1065	99286	1	1065	44854	45918	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+NC_010157_00072|MOBF	NC_017263.1 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pCD, complete sequence	152	68552	1	152	57696	58151	152	0	100.0	100.0	100.0	minus	1.67e-101	316	relaxase

@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP025802_00058|rep_cluster_2307	NZ_JBSJQI010000094.1 Yersinia sp. BI4D contig_00094, whole genome shotgun sequence	714	13144	1	708	11980	12687	708	39	94.492	99.0	99.0	plus	0.0	1092	replicon
+000309__NZ_CP009710_00009|rep_cluster_1066	NZ_JBSJQI010000097.1 Yersinia sp. BI4D contig_00097, whole genome shotgun sequence	987	11310	1	987	7733	8719	987	26	97.366	100.0	100.0	minus	0.0	1679	replicon
+000133__NC_008791_00085|IncFII	NZ_JBSJQI010000155.1 Yersinia sp. BI4D contig_00155, whole genome shotgun sequence	1023	3471	1	1023	864	1886	1023	13	98.729	100.0	100.0	minus	0.0	1818	replicon
+NC_006154_00025|MOBC	NZ_JBSJQI010000104.1 Yersinia sp. BI4D contig_00104, whole genome shotgun sequence	246	10115	1	246	4676	5413	246	19	92.276	100.0	100.0	plus	9.609999999999999e-152	464	relaxase

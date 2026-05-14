@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_000275685.1.fna	chromosome			NZ_AKVQ01000006.1 Yersinia pestis 2501 contig006, whole genome shotgun sequence	94726	0.47782023942740115	49fc8b3e8e262eedcc3d6be9627f11d8	00336	NC_003134	ISEc39	IS256	1316	2	1316	83518	84822						
+GCF_000275685.1.fna	chromosome			NZ_AKVQ01000151.1 Yersinia pestis 2501 contig151, whole genome shotgun sequence	3334	0.5212957408518296	05a568f9eaa35c6497a6dadb07f6fa8b	01400	CP016586.1	23s-rRNA	23S	3027	1224	3027	186	1992						
+GCF_000275685.1.fna	chromosome			NZ_AKVQ01000162.1 Yersinia pestis 2501 contig162, whole genome shotgun sequence	1419	0.5391120507399577	090347e83d8727a9398d4fb26bbc1989	01399	CP016586.1	16s-rRNA	16S	1554	170	1547	1	1379						
+GCF_000275685.1.fna	plasmid	AA996		NZ_AKVQ01000132.1 Yersinia pestis 2501 contig132, whole genome shotgun sequence	7712	0.4451504149377593	28e8722c660631151684c12a76361734	00592	NC_003131	ISYps8	IS3	6302	1195	6302	2605	7712	5108	minus	81.0	100.0	0.0	9433

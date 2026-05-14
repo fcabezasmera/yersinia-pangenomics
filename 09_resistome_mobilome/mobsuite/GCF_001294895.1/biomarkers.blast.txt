@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_LIZG01000208.1 Yersinia pestis subsp. microtus bv. Ulegeica strain SCPM-O-B-6906 plasmid pPCP1 contig00208, whole genome shotgun sequence	89	4305	1	89	2971	3059	89	0	100.0	100.0	100.0	plus	4.8e-42	165	oriT
+CP001049|IncFII	NZ_LIZG01000162.1 Yersinia pestis subsp. microtus bv. Ulegeica strain SCPM-O-B-6906 plasmid pCD1 contig00162, whole genome shotgun sequence	227	8873	1	227	1161	1387	227	0	100.0	100.0	100.0	plus	2.77e-118	420	replicon
+CP041342_00001|rep_cluster_2350	NZ_LIZG01000208.1 Yersinia pestis subsp. microtus bv. Ulegeica strain SCPM-O-B-6906 plasmid pPCP1 contig00208, whole genome shotgun sequence	552	4305	4	552	2402	2949	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_LIZG01000224.1 Yersinia pestis subsp. microtus bv. Ulegeica strain SCPM-O-B-6906 plasmid pCD1 contig00224, whole genome shotgun sequence	1167	3454	1	1167	1168	2334	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+NC_010157_00072|MOBF	NZ_LIZG01000287.1 Yersinia pestis subsp. microtus bv. Ulegeica strain SCPM-O-B-6906 plasmid pCD1 contig00287, whole genome shotgun sequence	152	627	1	152	43	498	152	0	100.0	100.0	100.0	plus	6.4e-113	316	relaxase

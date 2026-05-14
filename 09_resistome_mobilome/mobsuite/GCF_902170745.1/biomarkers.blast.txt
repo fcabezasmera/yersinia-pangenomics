@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	NZ_CABHYJ010000013.1 Yersinia mollaretii isolate IP26765, whole genome shotgun sequence	230	1926	3	200	586	783	203	29	80.788	86.0	86.0	minus	4.36e-37	150	replicon
+NC_002523_00008|MPF_I	NZ_CABHYJ010000029.1 Yersinia mollaretii isolate IP26765, whole genome shotgun sequence	262	63617	1	262	14772	15557	262	30	88.55	100.0	100.0	plus	2.25e-156	479	mate-pair-formation
+NC_002523_00001|MPF_I	NZ_CABHYJ010000029.1 Yersinia mollaretii isolate IP26765, whole genome shotgun sequence	224	63617	1	224	20849	21520	224	38	83.036	100.0	100.0	plus	9.86e-126	389	mate-pair-formation
+NC_002523_00145|MPF_I	NZ_CABHYJ010000029.1 Yersinia mollaretii isolate IP26765, whole genome shotgun sequence	176	63617	1	176	24504	25031	176	26	85.227	100.0	100.0	plus	4.4e-87	276	mate-pair-formation
+NC_002523_00141|MPF_I	NZ_CABHYJ010000029.1 Yersinia mollaretii isolate IP26765, whole genome shotgun sequence	408	63617	1	408	29417	30643	409	77	80.929	100.0	100.0	plus	0.0	638	mate-pair-formation
+NC_002523_00134|MPF_I	NZ_CABHYJ010000029.1 Yersinia mollaretii isolate IP26765, whole genome shotgun sequence	725	63617	16	717	36652	38757	702	87	87.607	97.0	97.0	plus	0.0	1261	mate-pair-formation

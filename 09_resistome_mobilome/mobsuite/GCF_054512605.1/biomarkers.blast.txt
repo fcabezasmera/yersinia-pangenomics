@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP032236_00057|MOBP	NZ_JBTNCN010000002.1 Yersinia ruckeri strain 24-YE00067 plasmid pYR67-24A, whole genome shotgun sequence	641	103905	1	641	70294	72216	641	0	100.0	100.0	100.0	plus	0.0	1295	relaxase

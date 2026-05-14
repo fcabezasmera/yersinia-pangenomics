@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	ABKTKI010000042.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.44, whole genome shotgun sequence	218	3223	1	194	647	839	195	12	92.308	89.0	89.0	plus	2.38e-74	274	oriT
+002438__NC_009705_00164|rep_cluster_957	ABKTKI010000015.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.15, whole genome shotgun sequence	1020	153304	1	1020	106974	107993	1020	112	89.02	100.0	100.0	plus	0.0	1264	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	ABKTKI010000042.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.44, whole genome shotgun sequence	519	3223	38	518	184	665	489	59	84.867	93.0	93.0	minus	1.18e-135	479	replicon
+NC_013090_00004|MOBP	ABKTKI010000042.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.44, whole genome shotgun sequence	499	3223	1	499	1248	2738	499	39	91.784	100.0	100.0	plus	0.0	893	relaxase
+NC_009705_00134|MPF_I	ABKTKI010000015.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.15, whole genome shotgun sequence	282	153304	1	279	84271	85107	279	28	89.964	99.0	99.0	minus	1.15e-170	521	mate-pair-formation
+NC_009705_00138|MPF_I	ABKTKI010000015.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.15, whole genome shotgun sequence	264	153304	1	264	87880	88656	265	41	81.887	100.0	100.0	plus	1.29e-141	436	mate-pair-formation
+NC_009705_00139|MPF_I	ABKTKI010000015.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.15, whole genome shotgun sequence	361	153304	1	361	88661	89743	361	38	89.474	100.0	100.0	plus	0.0	642	mate-pair-formation
+NC_009705_00148|MPF_I	ABKTKI010000015.1 Yersinia enterocolitica isolate 636248 SAMN11890747-rid7668243.denovo.15, whole genome shotgun sequence	934	153304	1	934	98228	101032	935	85	90.802	100.0	100.0	plus	0.0	1629	mate-pair-formation

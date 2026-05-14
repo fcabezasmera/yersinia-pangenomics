@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP008720|MOBP	NZ_CPYD01000030.1 Yersinia nurmii strain CIP110231T, whole genome shotgun sequence	175	2657	1	175	39	213	175	13	92.571	100.0	100.0	plus	7.38e-68	252	oriT
+FJ696405|Col(Ye4449)	NZ_CPYD01000026.1 Yersinia nurmii strain CIP110231T, whole genome shotgun sequence	194	5452	1	194	4858	5051	194	14	92.784	100.0	100.0	plus	1.06e-76	281	replicon
+KU302809_00001|rep_cluster_2335	NZ_CPYD01000030.1 Yersinia nurmii strain CIP110231T, whole genome shotgun sequence	606	2657	19	586	2088	2655	574	52	88.85	94.0	97.0	minus	0.0	695	replicon
+NC_019223_00002|MOBP	NZ_CPYD01000026.1 Yersinia nurmii strain CIP110231T, whole genome shotgun sequence	511	5452	1	511	3336	4868	511	18	96.477	100.0	100.0	minus	0.0	939	relaxase

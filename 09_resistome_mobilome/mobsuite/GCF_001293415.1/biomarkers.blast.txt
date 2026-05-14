@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000104__CP010386_00052|IncFIB	NZ_CP009971.1 Yersinia pestis CO92 plasmid unnamed_2, complete sequence	1065	96210	1	1065	43454	44518	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+CP001049|IncFII	NZ_CP009972.1 Yersinia pestis CO92 plasmid unnamed_1, complete sequence	227	70305	1	227	19469	19695	227	0	100.0	100.0	100.0	plus	2.9000000000000002e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP009972.1 Yersinia pestis CO92 plasmid unnamed_1, complete sequence	1167	70305	1	1167	68521	69687	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+NC_010157_00072|MOBF	NZ_CP009972.1 Yersinia pestis CO92 plasmid unnamed_1, complete sequence	152	70305	1	152	16943	17398	152	0	100.0	100.0	100.0	plus	1.67e-101	316	relaxase

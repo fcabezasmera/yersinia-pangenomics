@@ -1,0 +1,3 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_KN150724.1 Yersinia pestis strain Colorado 92 scaffold1, whole genome shotgun sequence	89	1724217	1	89	1724097	1724185	91	0	95.604	100.0	100.0	minus	2.35e-35	143	oriT
+000104__CP010386_00052|IncFIB	NZ_KN150726.1 Yersinia pestis strain Colorado 92 scaffold3, whole genome shotgun sequence	1065	948086	1	1065	867684	868748	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon

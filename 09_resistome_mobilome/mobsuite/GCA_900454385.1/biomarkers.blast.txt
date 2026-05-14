@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP001049|IncFII	UGSR01000002.1 Yersinia pseudotuberculosis strain NCTC10547 genome assembly, contig: ERS1123934SCcontig000002, whole genome shotgun sequence	227	79902	1	227	3714	3940	227	0	100.0	100.0	100.0	plus	2.88e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	UGSR01000002.1 Yersinia pseudotuberculosis strain NCTC10547 genome assembly, contig: ERS1123934SCcontig000002, whole genome shotgun sequence	1167	79902	1	1167	53092	54258	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	UGSR01000002.1 Yersinia pseudotuberculosis strain NCTC10547 genome assembly, contig: ERS1123934SCcontig000002, whole genome shotgun sequence	227	79902	1	227	72654	72880	227	0	100.0	100.0	100.0	plus	2.88e-118	420	replicon
+NC_010157_00072|MOBF	UGSR01000002.1 Yersinia pseudotuberculosis strain NCTC10547 genome assembly, contig: ERS1123934SCcontig000002, whole genome shotgun sequence	152	79902	17	152	1233	1640	136	4	97.059	89.0	100.0	plus	2.18e-85	270	relaxase
+NC_010157_00072|MOBF	UGSR01000002.1 Yersinia pseudotuberculosis strain NCTC10547 genome assembly, contig: ERS1123934SCcontig000002, whole genome shotgun sequence	152	79902	1	152	70125	70580	152	0	100.0	100.0	100.0	plus	1.66e-101	316	relaxase

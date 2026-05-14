@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_002523_00008|MPF_I	NZ_JBBEQI010000018.1 Yersinia enterocolitica strain N22-0655 contig00018, whole genome shotgun sequence	262	70242	1	262	21361	22146	262	30	88.55	100.0	100.0	plus	2.19e-156	479	mate-pair-formation
+NC_002523_00001|MPF_I	NZ_JBBEQI010000018.1 Yersinia enterocolitica strain N22-0655 contig00018, whole genome shotgun sequence	224	70242	1	224	27438	28109	224	38	83.036	100.0	100.0	plus	9.6e-126	389	mate-pair-formation
+NC_002523_00145|MPF_I	NZ_JBBEQI010000018.1 Yersinia enterocolitica strain N22-0655 contig00018, whole genome shotgun sequence	176	70242	1	176	31093	31620	176	26	85.227	100.0	100.0	plus	4.28e-87	276	mate-pair-formation
+NC_002523_00141|MPF_I	NZ_JBBEQI010000018.1 Yersinia enterocolitica strain N22-0655 contig00018, whole genome shotgun sequence	408	70242	1	408	36006	37232	409	77	80.929	100.0	100.0	plus	0.0	638	mate-pair-formation
+NC_002523_00134|MPF_I	NZ_JBBEQI010000018.1 Yersinia enterocolitica strain N22-0655 contig00018, whole genome shotgun sequence	725	70242	16	717	43241	45346	702	87	87.607	97.0	97.0	plus	0.0	1261	mate-pair-formation

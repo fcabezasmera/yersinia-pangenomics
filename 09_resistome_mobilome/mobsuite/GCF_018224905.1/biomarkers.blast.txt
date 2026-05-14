@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP025802_00058|rep_cluster_2307	NZ_JAGTUJ010000050.1 Yersinia sp. Marseille-Q3913 NODE_50_length_4743_cov_6.021544, whole genome shotgun sequence	714	4743	1	702	122	823	702	57	91.88	98.0	98.0	plus	0.0	981	replicon
+NC_002523_00141|MPF_I	NZ_JAGTUJ010000048.1 Yersinia sp. Marseille-Q3913 NODE_48_length_7271_cov_5.946924, whole genome shotgun sequence	408	7271	1	408	2733	3959	409	80	80.196	100.0	100.0	plus	0.0	632	mate-pair-formation
+NC_002523_00134|MPF_I	NZ_JAGTUJ010000051.1 Yersinia sp. Marseille-Q3913 NODE_51_length_4651_cov_4.475413, whole genome shotgun sequence	725	4651	16	717	93	2198	702	86	87.749	97.0	97.0	minus	0.0	1260	mate-pair-formation
+NC_002523_00145|MPF_I	NZ_JAGTUJ010000054.1 Yersinia sp. Marseille-Q3913 NODE_54_length_3756_cov_5.408808, whole genome shotgun sequence	176	3756	1	176	221	748	176	23	86.932	100.0	100.0	minus	3.22e-88	278	mate-pair-formation
+NC_002523_00008|MPF_I	NZ_JAGTUJ010000062.1 Yersinia sp. Marseille-Q3913 NODE_62_length_2195_cov_4.788318, whole genome shotgun sequence	262	2195	1	251	1441	2193	251	30	88.048	96.0	96.0	plus	1.68e-149	432	mate-pair-formation

@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001166625.1.fna	chromosome			NZ_CQBB01000006.1 Yersinia intermedia strain 821/84, whole genome shotgun sequence	120906	0.4970721056026996	b505a00b0a6fe11911a8fbaf8269bd29	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	117220	119592						
+GCF_001166625.1.fna	chromosome			NZ_CQBB01000071.1 Yersinia intermedia strain 821/84, whole genome shotgun sequence	17660	0.6167990919409762	be5803f3a98894367464bd9affcff403	00910	CP023316	ISPpu18	IS5	1192	34	1192	15495	16653						
+GCF_001166625.1.fna	chromosome			NZ_CQBB01000089.1 Yersinia intermedia strain 821/84, whole genome shotgun sequence	10745	0.4844084520152658	aa4be082ec530abd5b22af79586e631b	01399	CP016586.1	16s-rRNA	16S	1554	1	1003	551	1553						
+GCF_001166625.1.fna	chromosome			NZ_CQBB01000119.1 Yersinia intermedia strain 821/84, whole genome shotgun sequence	3619	0.5385465598231556	e3905d35f34458de8a81f5d85719ad9d	00626	KU997026	ISEc27	IS3	1329	1	1329	1	1331						

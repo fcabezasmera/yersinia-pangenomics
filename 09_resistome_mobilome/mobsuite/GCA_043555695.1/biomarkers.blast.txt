@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	DAZDTU010000020.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000610 SAMN43407907-rid23041593.denovo.21, whole genome shotgun sequence	230	48790	3	200	43739	43937	203	30	80.788	86.0	86.0	minus	4.4600000000000004e-37	150	replicon

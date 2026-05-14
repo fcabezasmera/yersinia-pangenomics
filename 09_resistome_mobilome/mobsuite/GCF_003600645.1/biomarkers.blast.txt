@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	NZ_CP032484.1 Yersinia rochesterensis strain ATCC BAA-2637 plasmid pUnnamed2	218	4160	1	182	1238	1418	182	24	86.264	83.0	83.0	minus	4.79e-51	196	oriT
+JF937655|Col(YF27601)	NZ_CP032483.1 Yersinia rochesterensis strain ATCC BAA-2637 plasmid pUnnamed1	175	6670	17	175	5305	5466	164	16	85.976	91.0	91.0	minus	8.22e-43	169	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	NZ_CP032484.1 Yersinia rochesterensis strain ATCC BAA-2637 plasmid pUnnamed2	519	4160	31	515	1393	1881	492	39	90.041	93.0	93.0	plus	1.01e-180	628	replicon
+CP011605_00002|MOBP	NZ_CP032484.1 Yersinia rochesterensis strain ATCC BAA-2637 plasmid pUnnamed2	501	4160	1	272	1	816	272	14	94.853	54.0	99.0	minus	6.4199999999999995e-168	508	relaxase
+KU302808_00002|MOBP	NZ_CP032484.1 Yersinia rochesterensis strain ATCC BAA-2637 plasmid pUnnamed2	505	4160	274	501	3377	4060	228	39	82.895	45.0	99.0	minus	1.41e-105	341	relaxase

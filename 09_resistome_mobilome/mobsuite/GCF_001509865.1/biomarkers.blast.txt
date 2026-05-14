@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_LIXX01000012.1 Yersinia pestis strain Yp1945 Yp1945_13, whole genome shotgun sequence	89	9662	1	89	3201	3289	89	0	100.0	100.0	100.0	minus	5.1299999999999987e-42	165	oriT
+002101__NC_004564_00056|rep_cluster_645	NZ_LIXX01000010.1 Yersinia pestis strain Yp1945 map unlocalized plasmid unnamed 2 Yp1945_11, whole genome shotgun sequence	1167	70381	1	1167	7160	8326	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_LIXX01000010.1 Yersinia pestis strain Yp1945 map unlocalized plasmid unnamed 2 Yp1945_11, whole genome shotgun sequence	227	70381	1	227	57152	57378	227	0	100.0	100.0	100.0	minus	2.96e-118	420	replicon
+000104__CP010386_00052|IncFIB	NZ_LIXX01000011.1 Yersinia pestis strain Yp1945 map unlocalized plasmid unnamed 3 Yp1945_12, whole genome shotgun sequence	1065	96284	1	1065	46489	47553	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	NZ_LIXX01000012.1 Yersinia pestis strain Yp1945 Yp1945_13, whole genome shotgun sequence	552	9662	4	552	3311	3858	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+NC_010157_00072|MOBF	NZ_LIXX01000010.1 Yersinia pestis strain Yp1945 map unlocalized plasmid unnamed 2 Yp1945_11, whole genome shotgun sequence	152	70381	1	152	59449	59904	152	0	100.0	100.0	100.0	minus	1.71e-101	316	relaxase

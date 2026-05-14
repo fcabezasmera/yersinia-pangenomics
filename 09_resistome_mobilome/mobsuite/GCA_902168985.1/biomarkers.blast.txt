@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_021817|MOB_unknown	CABHRY010000033.1 Yersinia enterocolitica isolate IP37421 genome assembly, contig: contig_00034, whole genome shotgun sequence	280	36197	1	280	24178	24457	280	10	96.429	100.0	100.0	plus	6.259999999999999e-131	462	oriT

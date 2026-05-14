@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_054455575.1.fna	chromosome			NZ_JBTJHK010000030.1 Yersinia enterocolitica strain 25-YE00118 contig00030, whole genome shotgun sequence	2656	0.5523343373493976	95d2122da06212f435e4e57ba1faafb3	01140	AB024946	IS679	IS66	2704	10	2665	1	2656						

@@ -1,0 +1,11 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP017588_00047|rep_cluster_2203	NZ_KN150737.1 Yersinia enterocolitica strain YEE scaffold2, whole genome shotgun sequence	867	69708	39	856	13262	14079	821	158	80.024	94.0	94.0	minus	1.09e-172	603	replicon
+CP001049|IncFII	NZ_KN150737.1 Yersinia enterocolitica strain YEE scaffold2, whole genome shotgun sequence	227	69708	1	227	14109	14335	227	2	99.119	100.0	100.0	minus	6.24e-115	409	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_KN150737.1 Yersinia enterocolitica strain YEE scaffold2, whole genome shotgun sequence	1167	69708	1	1167	32563	33729	1167	6	99.486	100.0	100.0	plus	0.0	2122	replicon
+000224__NC_022105_00002|IncX4	NZ_KN150738.1 Yersinia enterocolitica strain YEE scaffold3, whole genome shotgun sequence	873	31920	1	873	1345	2217	873	3	99.656	100.0	100.0	plus	0.0	1596	replicon
+NC_015475_00074|MOBF	NZ_KN150737.1 Yersinia enterocolitica strain YEE scaffold2, whole genome shotgun sequence	149	69708	1	149	18713	19159	149	1	99.329	100.0	100.0	minus	7.6e-96	299	relaxase
+NC_013718_00057|MOBP	NZ_KN150738.1 Yersinia enterocolitica strain YEE scaffold3, whole genome shotgun sequence	409	31920	1	409	25424	26650	409	24	94.132	100.0	100.0	minus	0.0	796	relaxase
+NC_013718_00041|MPF_T	NZ_KN150738.1 Yersinia enterocolitica strain YEE scaffold3, whole genome shotgun sequence	620	31920	1	620	12839	14698	620	6	99.032	100.0	100.0	minus	0.0	1170	mate-pair-formation
+NC_013718_00044|MPF_T	NZ_KN150738.1 Yersinia enterocolitica strain YEE scaffold3, whole genome shotgun sequence	302	31920	1	302	16829	17734	302	6	98.013	100.0	100.0	minus	0.0	585	mate-pair-formation
+NC_013718_00045|MPF_T	NZ_KN150738.1 Yersinia enterocolitica strain YEE scaffold3, whole genome shotgun sequence	228	31920	1	228	17734	18417	228	2	99.123	100.0	100.0	minus	5.9999999999999985e-140	430	mate-pair-formation
+NC_019128_00037|MPF_T	NZ_KN150738.1 Yersinia enterocolitica strain YEE scaffold3, whole genome shotgun sequence	359	31920	1	352	18956	20011	352	2	99.432	98.0	98.0	minus	7.57e-172	528	mate-pair-formation

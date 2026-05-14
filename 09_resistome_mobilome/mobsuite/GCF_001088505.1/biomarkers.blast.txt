@@ -1,0 +1,16 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+HQ328804|MOBP	NZ_CPZJ01000044.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	174	4735	1	174	2733	2905	174	5	96.552	100.0	100.0	plus	2.47e-78	287	oriT
+CP025802_00058|rep_cluster_2307	NZ_CPZJ01000019.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	714	115812	1	714	28872	29585	714	39	94.538	100.0	100.0	minus	0.0	1103	replicon
+KU302809_00001|rep_cluster_2335	NZ_CPZJ01000044.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	606	4735	1	552	2256	2809	557	35	92.28	91.0	91.0	minus	0.0	784	replicon
+NC_019096_00001|MOBP	NZ_CPZJ01000024.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	388	65017	1	385	586	1740	385	62	83.896	99.0	99.0	plus	0.0	675	relaxase
+NC_013090_00004|MOBP	NZ_CPZJ01000044.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	499	4735	1	468	3331	4734	468	37	92.094	94.0	100.0	plus	0.0	843	relaxase
+NC_002523_00145|MPF_I	NZ_CPZJ01000019.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	176	115812	1	176	425	952	176	26	85.227	100.0	100.0	minus	8.42e-87	275	mate-pair-formation
+NC_002523_00001|MPF_I	NZ_CPZJ01000019.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	224	115812	1	224	3942	4613	224	38	83.036	100.0	100.0	minus	1.05e-125	389	mate-pair-formation
+NC_002523_00008|MPF_I	NZ_CPZJ01000019.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	262	115812	1	262	9928	10713	262	30	88.55	100.0	100.0	minus	2.39e-156	479	mate-pair-formation
+NC_002523_00134|MPF_I	NZ_CPZJ01000019.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	725	115812	16	717	102525	104630	702	86	87.749	97.0	97.0	minus	0.0	1263	mate-pair-formation
+NC_002523_00141|MPF_I	NZ_CPZJ01000019.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	408	115812	1	408	110634	111860	409	77	80.929	100.0	100.0	minus	0.0	638	mate-pair-formation
+NC_023277_00163|MPF_T	NZ_CPZJ01000024.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	717	65017	1	715	4364	6508	715	114	84.056	99.0	99.0	plus	0.0	1262	mate-pair-formation
+NC_019899_00040|MPF_T	NZ_CPZJ01000024.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	351	65017	1	351	7540	8592	351	52	85.185	100.0	100.0	plus	0.0	594	mate-pair-formation
+NC_019899_00039|MPF_T	NZ_CPZJ01000024.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	242	65017	1	242	8869	9594	242	46	80.992	100.0	100.0	plus	2.7e-124	386	mate-pair-formation
+NC_019899_00038|MPF_T	NZ_CPZJ01000024.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	309	65017	1	309	9603	10529	309	40	87.055	100.0	100.0	plus	0.0	566	mate-pair-formation
+NC_017624_00009|MPF_T	NZ_CPZJ01000024.1 Yersinia intermedia strain BR165/97, whole genome shotgun sequence	611	65017	1	599	12795	14591	599	63	89.482	98.0	98.0	plus	0.0	1093	mate-pair-formation

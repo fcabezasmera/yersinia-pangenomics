@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_UAVH01000002.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	89	12831	1	89	7156	7244	89	0	100.0	100.0	100.0	plus	5.08e-42	165	oriT
+NC_017657|MOBP	NZ_UAVH01000003.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	89	8177	1	89	5119	5207	89	0	100.0	100.0	100.0	minus	5.08e-42	165	oriT
+CP041342_00001|rep_cluster_2350	NZ_UAVH01000002.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	552	12831	4	552	6587	7134	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+CP041342_00001|rep_cluster_2350	NZ_UAVH01000003.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	552	8177	4	552	5229	5776	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_UAVH01000010.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	1167	70249	1	1167	6009	7175	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_UAVH01000010.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	227	70249	1	227	27262	27488	227	0	100.0	100.0	100.0	plus	2.93e-118	420	replicon
+000104__CP010386_00052|IncFIB	NZ_UAVH01000011.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	1065	108144	1	1065	11205	12269	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+NC_010157_00072|MOBF	NZ_UAVH01000010.1 Yersinia pestis strain NCTC5923, whole genome shotgun sequence	152	70249	1	152	24736	25191	152	0	100.0	100.0	100.0	plus	1.69e-101	316	relaxase

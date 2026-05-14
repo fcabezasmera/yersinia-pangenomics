@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	ACCJCZ010000085.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.088, whole genome shotgun sequence	218	1586	1	182	362	542	182	21	87.912	83.0	83.0	plus	5.180000000000001e-56	213	oriT
+000435__NC_009344_00001|rep_cluster_1155	ACCJCZ010000059.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.060, whole genome shotgun sequence	957	8362	1	957	5919	6893	975	145	83.282	100.0	100.0	plus	0.0	881	replicon
+FJ696405|Col(Ye4449)	ACCJCZ010000068.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.070, whole genome shotgun sequence	194	4928	1	194	4428	4621	196	17	89.286	100.0	100.0	plus	5.8000000000000004e-65	243	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	ACCJCZ010000075.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.077, whole genome shotgun sequence	519	3351	31	518	109	598	495	40	89.495	94.0	94.0	plus	8.53e-177	616	replicon
+NC_019223_00002|MOBP	ACCJCZ010000068.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.070, whole genome shotgun sequence	511	4928	1	511	2906	4438	511	13	97.456	100.0	100.0	minus	0.0	954	relaxase
+NC_021523_00003|MOBQ	ACCJCZ010000072.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.074, whole genome shotgun sequence	311	3658	1	311	1494	2426	311	1	99.678	100.0	100.0	plus	0.0	647	relaxase
+LT985292_00003|MOBP	ACCJCZ010000085.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.088, whole genome shotgun sequence	165	1586	1	137	964	1374	137	23	83.212	83.0	83.0	plus	4.45e-75	231	relaxase
+CP041056_00004|MOBP	ACCJCZ010000089.1 Yersinia enterocolitica strain 01912354 SAMN55869461-rid29060363.denovo.092, whole genome shotgun sequence	220	1018	39	195	546	1016	157	9	94.268	71.0	88.0	plus	2.49e-104	302	relaxase

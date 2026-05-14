@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_046028445.1.fna	plasmid	AA996	AJ511	NZ_JBBEOP010000105.1 Yersinia enterocolitica strain N23-1931 contig00105, whole genome shotgun sequence	5211	0.5004797543657648	751710bacd3f631b172e7bb14ace134f	00646	MF344564	ISKpn37	IS3	1253	165	1243	849	1925	1079	plus	86.0	87.581	0.0	1249

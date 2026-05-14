@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NC_008119.1 Yersinia pestis Nepal516 plasmid pPCP, complete sequence	89	10778	1	89	4361	4449	89	0	100.0	100.0	100.0	minus	4.94e-42	165	oriT
+000104__CP010386_00052|IncFIB	NC_008118.1 Yersinia pestis Nepal516 plasmid pMT, complete sequence	1065	100918	1	1065	46486	47550	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	NC_008119.1 Yersinia pestis Nepal516 plasmid pPCP, complete sequence	552	10778	4	552	4471	5018	552	27	93.841	99.0	99.0	plus	0.0	824	replicon

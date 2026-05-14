@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+JX133088|ColpVC	DASKQC010000020.1 TPA_asm: Yersinia enterocolitica strain IDR2300030013-01-03 SAMN38809963-rid20582513.denovo.23, whole genome shotgun sequence	193	1934	1	193	654	846	193	22	88.601	100.0	100.0	plus	9.63e-63	235	replicon

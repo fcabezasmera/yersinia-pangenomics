@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	NZ_CBLG010000225.1 Yersinia wautersii strain WP-930601, whole genome shotgun sequence	230	20512	5	200	1126	1322	201	21	85.075	85.0	85.0	minus	5.72e-51	196	replicon
+CP025802_00058|rep_cluster_2307	NZ_CBLG010000233.1 Yersinia wautersii strain WP-930601, whole genome shotgun sequence	714	22405	1	714	1829	2542	714	22	96.919	100.0	100.0	minus	0.0	1197	replicon
+NC_021819_00066|MOBP	NZ_CBLG010000088.1 Yersinia wautersii strain WP-930601, whole genome shotgun sequence	295	30253	22	295	28205	29026	274	14	94.891	93.0	100.0	minus	1.89e-176	538	relaxase

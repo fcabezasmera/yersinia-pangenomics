@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	NZ_CABHQI010000137.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	218	3300	1	194	3010	3202	195	11	92.821	89.0	89.0	minus	4.49e-76	279	oriT
+000160__CU468128_00001|IncP	NZ_CABHQI010000051.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	954	7071	1	954	1323	2276	954	27	97.17	100.0	100.0	minus	0.0	1613	replicon
+LT985313_00005|rep_cluster_2373	NZ_CABHQI010000137.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	432	3300	13	402	71	459	392	41	88.265	90.0	90.0	plus	2.4e-131	464	replicon
+FJ696405|Col(Ye4449)	NZ_CABHQI010000182.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	194	5350	1	194	3747	3940	194	23	88.144	100.0	100.0	minus	1.12e-61	231	replicon
+NC_010695_00006|MOBQ	NZ_CABHQI010000051.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	369	7071	1	369	3504	4607	369	48	86.721	100.0	100.0	plus	0.0	642	relaxase
+NC_013090_00004|MOBP	NZ_CABHQI010000137.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	499	3300	1	499	1111	2601	499	39	91.784	100.0	100.0	minus	0.0	893	relaxase
+NC_019223_00002|MOBP	NZ_CABHQI010000182.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	511	5350	1	473	3930	5348	473	23	95.137	93.0	100.0	plus	0.0	845	relaxase
+CP008826_00025|MOBC	NZ_CABHQI010000217.1 Yersinia aleksiciae isolate IP28585, whole genome shotgun sequence	237	31539	1	237	29979	30689	237	41	82.7	100.0	100.0	minus	2.55e-140	431	relaxase

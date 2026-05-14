@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_039658675.1.fna	chromosome			ABSFLS010000030.1 Yersinia ruckeri strain OTH-21-VL-OH-WA-0077 SAMN41434328-rid21643413.denovo.32, whole genome shotgun sequence	1638	0.5323565323565324	f7a5098101054ec4d5a5fa63622b4a52	01399	CP016586.1	16s-rRNA	16S	1554	1	1553	71	1623						

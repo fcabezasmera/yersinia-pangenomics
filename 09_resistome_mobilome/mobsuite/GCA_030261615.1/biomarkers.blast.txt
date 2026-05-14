@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JAQRTF010000138.1 Yersinia pestis strain YN2092 YN2092contig00138, whole genome shotgun sequence	89	7865	1	89	1346	1434	89	0	100.0	100.0	100.0	minus	4.9599999999999986e-42	165	oriT
+CP001049|IncFII	JAQRTF010000042.1 Yersinia pestis strain YN2092 YN2092contig00042, whole genome shotgun sequence	227	40300	1	227	38803	39029	227	0	100.0	100.0	100.0	minus	2.86e-118	420	replicon
+000104__CP010386_00052|IncFIB	JAQRTF010000097.1 Yersinia pestis strain YN2092 YN2092contig00097, whole genome shotgun sequence	1065	18792	1	1065	9825	10889	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	JAQRTF010000138.1 Yersinia pestis strain YN2092 YN2092contig00138, whole genome shotgun sequence	552	7865	4	552	1456	2003	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+002101__NC_004564_00056|rep_cluster_645	JAQRTF010000145.1 Yersinia pestis strain YN2092 YN2092contig00145, whole genome shotgun sequence	1167	7150	1	1167	4964	6130	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+000016__NC_002144|Col3M	JAQRTF010000154.1 Yersinia pestis strain YN2092 YN2092contig00154, whole genome shotgun sequence	153	6030	1	153	789	941	153	0	100.0	100.0	100.0	minus	2.53e-77	283	replicon
+NC_010157_00072|MOBF	JAQRTF010000121.1 Yersinia pestis strain YN2092 YN2092contig00121, whole genome shotgun sequence	152	11208	1	152	10515	10970	152	0	100.0	100.0	100.0	plus	1.6199999999999998e-101	316	relaxase
+NC_002144_00007|MPF_T	JAQRTF010000154.1 Yersinia pestis strain YN2092 YN2092contig00154, whole genome shotgun sequence	294	6030	1	268	1885	2688	268	11	95.896	91.0	91.0	plus	2.11e-170	516	mate-pair-formation

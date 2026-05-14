@@ -1,0 +1,5 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description	Hierarchy node
+NA	DBHYTS010000005.1	281954	282835	+	blaA	class A beta-lactamase BlaA	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	294	294	100.00	98.64	294	WP_019083125.1	class A beta-lactamase BlaA	NA	NA	blaA_Yent
+NA	DBHYTS010000005.1	289757	290419	+	vat(F)	streptogramin A O-acetyltransferase Vat(F)	core	AMR	AMR	STREPTOGRAMIN	STREPTOGRAMIN	BLASTX	221	221	100.00	98.64	221	WP_005164767.1	streptogramin A O-acetyltransferase Vat(F)	NA	NA	vat(F)
+NA	DBHYTS010000058.1	9853	10734	+	blaA	class A beta-lactamase BlaA	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	294	294	100.00	98.64	294	WP_019083125.1	class A beta-lactamase BlaA	NA	NA	blaA_Yent
+NA	DBHYTS010000058.1	17656	18318	+	vat(F)	streptogramin A O-acetyltransferase Vat(F)	core	AMR	AMR	STREPTOGRAMIN	STREPTOGRAMIN	BLASTX	221	221	100.00	98.64	221	WP_005164767.1	streptogramin A O-acetyltransferase Vat(F)	NA	NA	vat(F)

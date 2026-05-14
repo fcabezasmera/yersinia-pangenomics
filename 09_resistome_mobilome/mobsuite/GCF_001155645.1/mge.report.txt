@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001155645.1.fna	chromosome			NZ_CPVC01000014.1 Yersinia pseudotuberculosis strain Y722, whole genome shotgun sequence	135135	0.47764087764087765	b13a5b6e46948ae85c65f422f5486a3b	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	317	1864						
+GCF_001155645.1.fna	chromosome			NZ_CPVC01000014.1 Yersinia pseudotuberculosis strain Y722, whole genome shotgun sequence	135135	0.47764087764087765	b13a5b6e46948ae85c65f422f5486a3b	00336	NC_003134	ISEc39	IS256	1316	2	1316	133376	134690						
+GCF_001155645.1.fna	chromosome			NZ_CPVC01000040.1 Yersinia pseudotuberculosis strain Y722, whole genome shotgun sequence	8406	0.45836307399476567	9f2f9ef48f7d7fb72682d6173ff23ac6	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	1041	3413						

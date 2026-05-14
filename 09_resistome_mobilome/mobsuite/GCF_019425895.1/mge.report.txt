@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_019425895.1.fna	chromosome			NZ_JACCJP010000045.1 Yersinia enterocolitica strain HR88 NODE_45_length_2630_cov_1710.78, whole genome shotgun sequence	2630	0.523574144486692	140c38f15fa2d28be8be5bad939bba73	01400	CP016586.1	23s-rRNA	23S	3027	658	3023	1	2369						
+GCF_019425895.1.fna	chromosome			NZ_JACCJP010000048.1 Yersinia enterocolitica strain HR88 NODE_48_length_1785_cov_1693.75, whole genome shotgun sequence	1785	0.5204481792717087	c84e6446e5a488cad888fbef3abe7a4d	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	198	1745						

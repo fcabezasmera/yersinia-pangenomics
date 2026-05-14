@@ -1,0 +1,13 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP017588_00047|rep_cluster_2203	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	867	78924	39	856	18533	19350	819	150	81.441	94.0	94.0	minus	0.0	669	replicon
+AJ851089|IncFII	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	261	78924	1	261	19386	19645	265	28	86.038	100.0	100.0	plus	7.95e-75	276	replicon
+000133__NC_008791_00085|IncFII	NZ_CP007450.1 Yersinia hibernica strain LC20 plasmid p2_50K, complete sequence	1023	49188	1	1023	15942	16964	1023	84	91.789	100.0	100.0	minus	0.0	1424	replicon
+NC_022333_00006|MOBF	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	1766	78924	1	1766	22082	27400	1774	330	80.891	100.0	100.0	minus	0.0	2829	relaxase
+NC_021817_00013|MPF_T	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	763	78924	18	666	27708	29582	649	79	84.129	85.0	94.0	minus	0.0	1100	mate-pair-formation
+NC_021871_00015|MPF_F	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	453	78924	1	453	35132	36490	453	48	89.404	100.0	100.0	minus	0.0	788	mate-pair-formation
+NZ_AGTD01000004_00099|MPF_F	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	204	78924	22	201	39713	40252	180	30	83.333	88.0	88.0	minus	2.02e-91	290	mate-pair-formation
+NC_021817_00023|MPF_F	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	331	78924	22	331	40704	41633	310	20	93.548	94.0	94.0	minus	0.0	593	mate-pair-formation
+NC_021871_00022|MPF_F	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	212	78924	3	211	41702	42328	209	26	87.56	99.0	99.0	minus	1.02e-123	382	mate-pair-formation
+NZ_AGTD01000004_00094|MPF_T	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	863	78924	1	854	42810	45371	854	82	90.398	99.0	99.0	minus	0.0	1592	mate-pair-formation
+NC_021871_00033|MPF_F	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	187	78924	1	187	49233	49793	187	26	86.096	100.0	100.0	minus	3.56e-101	317	mate-pair-formation
+NC_019342_00064|MPF_F	NZ_CP007449.1 Yersinia hibernica strain LC20 plasmid p1_80K, complete sequence	101	78924	1	101	49815	50117	101	5	95.05	100.0	100.0	minus	2.3e-61	198	mate-pair-formation

@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000621__CP009126_00005|rep_cluster_1304	NZ_CABHPU010000055.1 Yersinia aleksiciae isolate IP38862, whole genome shotgun sequence	918	54438	6	918	46022	46934	914	14	98.249	99.0	99.0	plus	0.0	1598	replicon
+KU302809_00001|rep_cluster_2335	NZ_CABHPU010000069.1 Yersinia aleksiciae isolate IP38862, whole genome shotgun sequence	606	3200	57	547	176	666	491	23	95.316	81.0	81.0	plus	0.0	780	replicon
+CP009126_00025|MOBC	NZ_CABHPU010000055.1 Yersinia aleksiciae isolate IP38862, whole genome shotgun sequence	248	54438	1	248	25221	25964	248	6	97.581	100.0	100.0	minus	1.5e-163	498	relaxase

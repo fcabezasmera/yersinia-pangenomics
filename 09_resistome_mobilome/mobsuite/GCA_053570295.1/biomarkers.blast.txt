@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JBSEGJ010000005.1 Yersinia pestis strain 23_YP47_MANG plasmid pPCP, whole genome shotgun sequence	89	9611	1	89	2825	2913	89	0	100.0	100.0	100.0	plus	5.15e-42	165	oriT
+002101__NC_004564_00056|rep_cluster_645	JBSEGJ010000002.1 Yersinia pestis strain 23_YP47_MANG plasmid pCD, whole genome shotgun sequence	1167	70503	1	1167	51002	52168	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	JBSEGJ010000002.1 Yersinia pestis strain 23_YP47_MANG plasmid pCD, whole genome shotgun sequence	227	70503	1	206	70298	70503	206	0	100.0	91.0	91.0	plus	1.4e-106	381	replicon
+001223__KM112087_00001|rep_cluster_1800	JBSEGJ010000003.1 Yersinia pestis strain 23_YP47_MANG plasmid pCKF, whole genome shotgun sequence	693	5400	1	693	200	892	693	0	100.0	100.0	100.0	minus	0.0	1280	replicon
+000104__CP010386_00052|IncFIB	JBSEGJ010000004.1 Yersinia pestis strain 23_YP47_MANG plasmid pMT1, whole genome shotgun sequence	1065	101699	1	1065	1	1065	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	JBSEGJ010000005.1 Yersinia pestis strain 23_YP47_MANG plasmid pPCP, whole genome shotgun sequence	552	9611	4	552	2256	2803	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+NC_010157_00072|MOBF	JBSEGJ010000002.1 Yersinia pestis strain 23_YP47_MANG plasmid pCD, whole genome shotgun sequence	152	70503	1	152	67772	68227	152	0	100.0	100.0	100.0	plus	1.71e-101	316	relaxase
+CP045162_00003|MOBC	JBSEGJ010000003.1 Yersinia pestis strain 23_YP47_MANG plasmid pCKF, whole genome shotgun sequence	241	5400	1	241	2389	3111	241	0	100.0	100.0	100.0	minus	7.14e-166	498	relaxase

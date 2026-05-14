@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	NZ_JBGEES010000025.1 Yersinia enterocolitica strain SF12 contig00025, whole genome shotgun sequence	218	5118	1	182	41	222	183	19	88.525	83.0	83.0	minus	3.08e-58	220	oriT
+000621__CP009126_00005|rep_cluster_1304	NZ_JBGEES010000014.1 Yersinia enterocolitica strain SF12 contig00014, whole genome shotgun sequence	918	59019	490	918	26674	27102	429	3	99.301	47.0	99.0	plus	0.0	776	replicon
+000621__CP009126_00005|rep_cluster_1304	NZ_JBGEES010000014.1 Yersinia enterocolitica strain SF12 contig00014, whole genome shotgun sequence	918	59019	6	918	55337	56249	914	14	98.249	99.0	99.0	plus	0.0	1598	replicon
+FJ696405|Col(Ye4449)	NZ_JBGEES010000024.1 Yersinia enterocolitica strain SF12 contig00024, whole genome shotgun sequence	194	5386	1	194	4774	4967	194	17	91.237	100.0	100.0	plus	1.23e-71	265	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	NZ_JBGEES010000025.1 Yersinia enterocolitica strain SF12 contig00025, whole genome shotgun sequence	519	5118	4	516	170	684	521	48	88.1	99.0	99.0	plus	5.1e-174	606	replicon
+CP009126_00025|MOBC	NZ_JBGEES010000014.1 Yersinia enterocolitica strain SF12 contig00014, whole genome shotgun sequence	248	59019	1	248	35735	36478	248	5	97.984	100.0	100.0	minus	5.21e-165	503	relaxase
+NC_019223_00002|MOBP	NZ_JBGEES010000024.1 Yersinia enterocolitica strain SF12 contig00024, whole genome shotgun sequence	511	5386	1	511	3252	4784	511	17	96.673	100.0	100.0	minus	0.0	939	relaxase
+NC_013090_00004|MOBP	NZ_JBGEES010000025.1 Yersinia enterocolitica strain SF12 contig00025, whole genome shotgun sequence	499	5118	1	495	3142	4626	495	35	92.929	99.0	99.0	minus	0.0	893	relaxase

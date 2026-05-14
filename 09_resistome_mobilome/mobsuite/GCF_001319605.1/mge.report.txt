@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001319605.1.fna	chromosome			NZ_CIFJ01000001.1 Yersinia mollaretii strain 92/84, whole genome shotgun sequence	262008	0.47684649710461924	a1dac4290a386a925fd06c720f78ba69	00543	JX424614	ISKpn34	IS3	1221	1	1221	29230	30450						
+GCF_001319605.1.fna	chromosome			NZ_CIFJ01000022.1 Yersinia mollaretii strain 92/84, whole genome shotgun sequence	80910	0.5074898034853541	b2f868cc58385c1993c96a24595e2d98	00733	NC_000913	IS30D	IS30	1221	1	1221	79638	80858						
+GCF_001319605.1.fna	chromosome			NZ_CIFJ01000059.1 Yersinia mollaretii strain 92/84, whole genome shotgun sequence	3598	0.5116731517509727	dacfaac46d8382780b98c0431fbc6951	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	1191	3563						
+GCF_001319605.1.fna	chromosome			NZ_CIFJ01000064.1 Yersinia mollaretii strain 92/84, whole genome shotgun sequence	2121	0.5242809995285242	d6dced6c4de60d9a09d1e7d3a618dd50	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	331	1878						

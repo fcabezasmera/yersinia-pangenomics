@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016527|MOBQ	NZ_JBAJHQ010000043.1 Yersinia ruckeri strain Y248 Seq43, whole genome shotgun sequence	157	9101	1	157	1116	1272	157	1	99.363	100.0	100.0	plus	5.93e-78	285	oriT
+000198__KU644673_00005|IncQ1	NZ_JBAJHQ010000043.1 Yersinia ruckeri strain Y248 Seq43, whole genome shotgun sequence	843	9101	1	787	3769	4555	791	44	93.426	93.0	93.0	plus	0.0	1166	replicon
+CP032236_00057|MOBP	NZ_JBAJHQ010000022.1 Yersinia ruckeri strain Y248 Seq22, whole genome shotgun sequence	641	55351	1	641	49155	51077	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase
+KU644672_00003|MOBQ	NZ_JBAJHQ010000043.1 Yersinia ruckeri strain Y248 Seq43, whole genome shotgun sequence	705	9101	1	701	1339	3441	701	14	98.003	99.0	99.0	plus	0.0	1253	relaxase

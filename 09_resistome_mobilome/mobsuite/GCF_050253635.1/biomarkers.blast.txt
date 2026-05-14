@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	NZ_JBGEGZ010000036.1 Yersinia hibernica strain SK77 contig00036, whole genome shotgun sequence	230	31739	3	200	25194	25392	203	30	80.788	86.0	86.0	minus	4.1800000000000006e-37	150	replicon

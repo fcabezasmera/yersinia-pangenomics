@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_025758555.1.fna	chromosome			NZ_CP107088.1 Yersinia enterocolitica strain Gp200 chromosome	4530554	0.47321339156882336	f5d5dc02fe9a0c2ed4fca210980d1593	00495	KX710093	ISLad1	IS3	1249	1	1249	338509	339757						
+GCF_025758555.1.fna	chromosome			NZ_CP107088.1 Yersinia enterocolitica strain Gp200 chromosome	4530554	0.47321339156882336	f5d5dc02fe9a0c2ed4fca210980d1593	01077	NC_004851	IS630	IS630	1160	1	1160	397771	398930						
+GCF_025758555.1.fna	chromosome			NZ_CP107088.1 Yersinia enterocolitica strain Gp200 chromosome	4530554	0.47321339156882336	f5d5dc02fe9a0c2ed4fca210980d1593	00543	JX424614	ISKpn34	IS3	1221	1	1221	569834	571054						
+GCF_025758555.1.fna	chromosome			NZ_CP107088.1 Yersinia enterocolitica strain Gp200 chromosome	4530554	0.47321339156882336	f5d5dc02fe9a0c2ed4fca210980d1593	00459	CP006262	IS629	IS3	1314	6	1314	590972	592280						

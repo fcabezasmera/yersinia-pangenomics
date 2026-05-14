@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NC_015475.1 Yersinia enterocolitica subsp. palearctica 105.5R(r) plasmid 105.5R(r)p, complete sequence	1167	69704	7	1167	41874	43034	1161	6	99.483	99.0	99.0	minus	0.0	2111	replicon
+CP001049|IncFII	NC_015475.1 Yersinia enterocolitica subsp. palearctica 105.5R(r) plasmid 105.5R(r)p, complete sequence	227	69704	1	224	61277	61500	224	1	99.554	99.0	99.0	plus	6.14e-115	409	replicon
+NC_015475_00074|MOBF	NC_015475.1 Yersinia enterocolitica subsp. palearctica 105.5R(r) plasmid 105.5R(r)p, complete sequence	149	69704	1	149	56443	56889	149	1	99.329	100.0	100.0	plus	7.48e-96	299	relaxase

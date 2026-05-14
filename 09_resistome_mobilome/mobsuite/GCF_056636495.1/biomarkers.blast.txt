@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP025802_00058|rep_cluster_2307	NZ_JBSJQG010000062.1 Yersinia sp. BI02 contig_00062, whole genome shotgun sequence	714	31668	1	708	5489	6196	708	39	94.492	99.0	99.0	plus	0.0	1092	replicon
+X01654|ColE10	NZ_JBSJQG010000118.1 Yersinia sp. BI02 contig_00118, whole genome shotgun sequence	177	12293	1	177	3390	3566	177	13	92.655	100.0	100.0	minus	7.089999999999998e-69	255	replicon
+000309__NZ_CP009710_00009|rep_cluster_1066	NZ_JBSJQG010000131.1 Yersinia sp. BI02 contig_00131, whole genome shotgun sequence	987	8880	1	987	1003	1989	987	26	97.366	100.0	100.0	plus	0.0	1679	replicon
+FJ696405|Col(Ye4449)	NZ_JBSJQG010000163.1 Yersinia sp. BI02 contig_00163, whole genome shotgun sequence	194	5322	1	194	3112	3305	194	9	95.361	100.0	100.0	plus	5.950000000000001e-85	309	replicon
+000621__CP009126_00005|rep_cluster_1304	NZ_JBSJQG010000165.1 Yersinia sp. BI02 contig_00165, whole genome shotgun sequence	918	5228	1	918	3926	4843	918	27	97.059	100.0	100.0	minus	0.0	1546	replicon
+NC_019223_00002|MOBP	NZ_JBSJQG010000163.1 Yersinia sp. BI02 contig_00163, whole genome shotgun sequence	511	5322	1	511	1590	3122	511	13	97.456	100.0	100.0	minus	0.0	951	relaxase
+NC_006154_00014|MPF_T	NZ_JBSJQG010000106.1 Yersinia sp. BI02 contig_00106, whole genome shotgun sequence	315	14797	10	315	3608	4528	307	58	80.782	97.0	97.0	minus	8.68e-170	520	mate-pair-formation
+NC_006154_00013|MPF_T	NZ_JBSJQG010000106.1 Yersinia sp. BI02 contig_00106, whole genome shotgun sequence	227	14797	1	227	4540	5220	227	35	84.581	100.0	100.0	minus	1.2900000000000002e-125	389	mate-pair-formation

@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_001104645.1.fna	chromosome			NZ_CQCT01000009.1 Yersinia intermedia strain FCF335, whole genome shotgun sequence	265757	0.4710309352057769	0698dae6faab6abda89bd058d4bda348	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	59603	61975						
+GCF_001104645.1.fna	chromosome			NZ_CQCT01000009.1 Yersinia intermedia strain FCF335, whole genome shotgun sequence	265757	0.4710309352057769	0698dae6faab6abda89bd058d4bda348	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	63078	64625						

@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+FJ696405|Col(Ye4449)	NZ_CP098709.1 Yersinia ruckeri strain NVI-4570 plasmid pYR5, complete sequence	194	5191	1	194	2621	2814	194	21	89.175	100.0	100.0	minus	4.74e-65	243	replicon
+NC_021819_00066|MOBP	NZ_CP098706.1 Yersinia ruckeri strain NVI-4570 chromosome, complete genome	295	3773969	83	181	2844021	2844317	99	8	91.919	34.0	98.0	minus	1.64e-54	187	relaxase
+CP032236_00057|MOBP	NZ_CP098707.1 Yersinia ruckeri strain NVI-4570 plasmid pYR4, complete sequence	641	80847	1	641	16164	18086	641	0	100.0	100.0	100.0	plus	0.0	1295	relaxase
+NC_019223_00002|MOBP	NZ_CP098709.1 Yersinia ruckeri strain NVI-4570 plasmid pYR5, complete sequence	511	5191	1	511	2804	4336	511	21	95.89	100.0	100.0	plus	0.0	930	relaxase
+NC_002523_00008|MPF_I	NZ_CP098708.1 Yersinia ruckeri strain NVI-4570 plasmid pYR6, complete sequence	262	71441	1	262	13183	13968	262	30	88.55	100.0	100.0	plus	1.83e-156	479	mate-pair-formation
+NC_002523_00001|MPF_I	NZ_CP098708.1 Yersinia ruckeri strain NVI-4570 plasmid pYR6, complete sequence	224	71441	1	224	19295	19966	224	38	83.036	100.0	100.0	plus	8.01e-126	389	mate-pair-formation
+NC_002523_00145|MPF_I	NZ_CP098708.1 Yersinia ruckeri strain NVI-4570 plasmid pYR6, complete sequence	176	71441	1	176	22944	23471	176	26	85.227	100.0	100.0	plus	6.45e-87	275	mate-pair-formation
+NC_002523_00141|MPF_I	NZ_CP098708.1 Yersinia ruckeri strain NVI-4570 plasmid pYR6, complete sequence	408	71441	1	408	27857	29083	409	79	80.44	100.0	100.0	plus	0.0	637	mate-pair-formation
+NC_002523_00134|MPF_I	NZ_CP098708.1 Yersinia ruckeri strain NVI-4570 plasmid pYR6, complete sequence	725	71441	16	717	35112	37217	702	88	87.464	97.0	97.0	plus	0.0	1260	mate-pair-formation

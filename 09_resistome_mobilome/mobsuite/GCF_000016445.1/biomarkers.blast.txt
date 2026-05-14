@@ -1,0 +1,19 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP001049|IncFII	NC_009377.1 Yersinia pestis Pestoides F plasmid CD, complete sequence	227	71507	1	227	1516	1742	227	0	100.0	100.0	100.0	plus	2.9000000000000002e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NC_009377.1 Yersinia pestis Pestoides F plasmid CD, complete sequence	1167	71507	1	1167	53817	54983	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+000104__CP010386_00052|IncFIB	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	1065	137010	1	1065	51924	52988	1065	26	97.559	100.0	100.0	plus	0.0	1823	replicon
+CP042519_00001|rep_cluster_2272	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	756	137010	1	756	114962	115717	756	5	99.339	100.0	100.0	plus	0.0	1369	replicon
+NC_010157_00072|MOBF	NC_009377.1 Yersinia pestis Pestoides F plasmid CD, complete sequence	152	71507	1	152	70497	70952	152	0	100.0	100.0	100.0	plus	1.67e-101	316	relaxase
+NC_021501_00073|MOBF	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	1746	137010	1	1746	106193	111430	1746	33	98.11	100.0	100.0	plus	0.0	3320	relaxase
+NC_021501_00076|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	940	137010	1	928	83998	86781	928	38	95.905	99.0	99.0	minus	0.0	1739	mate-pair-formation
+NC_006323_00113|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	456	137010	1	456	86784	88151	456	0	100.0	100.0	100.0	minus	0.0	910	mate-pair-formation
+NC_006323_00108|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	616	137010	1	616	89954	91801	616	0	100.0	100.0	100.0	minus	0.0	1170	mate-pair-formation
+NC_021501_00084|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	209	137010	1	209	91801	92427	209	9	95.694	100.0	100.0	minus	3.62e-127	392	mate-pair-formation
+NC_021501_00085|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	330	137010	1	330	92447	93436	330	16	95.152	100.0	100.0	minus	0.0	624	mate-pair-formation
+NC_006323_00105|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	215	137010	19	215	93436	94026	197	0	100.0	92.0	92.0	minus	1.45e-129	399	mate-pair-formation
+NC_009378_00101|MPF_T	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	876	137010	1	876	94427	97054	876	1	99.886	100.0	100.0	minus	0.0	1786	mate-pair-formation
+NC_006323_00097|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	179	137010	1	179	98527	99063	179	0	100.0	100.0	100.0	minus	2.66e-108	337	mate-pair-formation
+NC_006323_00096|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	464	137010	1	464	99088	100479	464	0	100.0	100.0	100.0	minus	0.0	840	mate-pair-formation
+NC_021501_00096|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	188	137010	1	188	101199	101762	188	2	98.936	100.0	100.0	minus	4.13e-125	385	mate-pair-formation
+NC_021501_00097|MPF_F	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	101	137010	1	101	101780	102082	101	2	98.02	100.0	100.0	minus	1.06e-63	205	mate-pair-formation
+NC_009378_00113|MPF_T	NC_009378.1 Yersinia pestis Pestoides F plasmid MT, complete sequence	703	137010	1	703	104082	106190	703	0	100.0	100.0	100.0	plus	0.0	1245	mate-pair-formation

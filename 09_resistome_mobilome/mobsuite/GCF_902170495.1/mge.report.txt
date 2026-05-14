@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902170495.1.fna	chromosome			NZ_CABHXL010000002.1 Yersinia kristensenii isolate IP39338, whole genome shotgun sequence	3158	0.5250158328055732	a821de250c8a5d0b0ebd516e76a9abb9	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	565	2937						
+GCF_902170495.1.fna	chromosome			NZ_CABHXL010000016.1 Yersinia kristensenii isolate IP39338, whole genome shotgun sequence	1785	0.523249299719888	1231f983702624ab8a52b8480f9f0627	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	198	1745						
+GCF_902170495.1.fna	chromosome			NZ_CABHXL010000023.1 Yersinia kristensenii isolate IP39338, whole genome shotgun sequence	1249	0.500400320256205	ae7031c2170b98cc3ec4502c398216ed	00492	NC_007606	IS911	IS3	1251	1	1251	1	1249						

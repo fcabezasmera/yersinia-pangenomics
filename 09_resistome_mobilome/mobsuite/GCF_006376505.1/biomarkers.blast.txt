@@ -1,0 +1,18 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000104__CP010386_00052|IncFIB	NZ_VEZX01000034.1 Yersinia pestis strain C-232 contig00034, whole genome shotgun sequence	1065	43082	1	1065	29574	30638	1065	26	97.559	100.0	100.0	minus	0.0	1823	replicon
+CP042519_00001|rep_cluster_2272	NZ_VEZX01000050.1 Yersinia pestis strain C-232 contig00050, whole genome shotgun sequence	756	32942	1	756	10893	11648	756	5	99.339	100.0	100.0	plus	0.0	1369	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_VEZX01000130.1 Yersinia pestis strain C-232 contig00130, whole genome shotgun sequence	1167	9682	1	1167	7350	8515	1167	10	99.057	100.0	100.0	minus	0.0	2093	replicon
+CP001049|IncFII	NZ_VEZX01000164.1 Yersinia pestis strain C-232 contig00164, whole genome shotgun sequence	227	3695	1	227	2444	2670	227	0	100.0	100.0	100.0	minus	2.78e-118	420	replicon
+NC_021501_00073|MOBF	NZ_VEZX01000050.1 Yersinia pestis strain C-232 contig00050, whole genome shotgun sequence	1746	32942	1	1346	2126	6163	1346	29	97.845	77.0	100.0	plus	0.0	2621	relaxase
+NC_010157_00072|MOBF	NZ_VEZX01000206.1 Yersinia pestis strain C-232 contig00206, whole genome shotgun sequence	152	1005	1	152	130	585	152	0	100.0	100.0	100.0	minus	4.95e-111	316	relaxase
+NC_009378_00113|MPF_T	NZ_VEZX01000050.1 Yersinia pestis strain C-232 contig00050, whole genome shotgun sequence	703	32942	1	703	15	2123	703	0	100.0	100.0	100.0	plus	0.0	1244	mate-pair-formation
+NC_021501_00097|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	101	18879	1	101	676	978	101	2	98.02	100.0	100.0	plus	1.02e-63	205	mate-pair-formation
+NC_006323_00096|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	464	18879	1	464	2279	3670	464	0	100.0	100.0	100.0	plus	0.0	840	mate-pair-formation
+NC_006323_00097|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	179	18879	1	179	3695	4231	179	0	100.0	100.0	100.0	plus	2.53e-108	337	mate-pair-formation
+NC_009378_00101|MPF_T	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	876	18879	1	876	5704	8331	876	1	99.886	100.0	100.0	plus	0.0	1786	mate-pair-formation
+NC_006323_00105|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	215	18879	19	215	8732	9322	197	0	100.0	92.0	92.0	plus	1.37e-129	399	mate-pair-formation
+NC_021501_00085|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	330	18879	1	330	9322	10311	330	16	95.152	100.0	100.0	plus	0.0	624	mate-pair-formation
+NC_021501_00084|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	209	18879	1	209	10331	10957	209	9	95.694	100.0	100.0	plus	3.42e-127	392	mate-pair-formation
+NC_006323_00108|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	616	18879	1	616	10957	12804	616	0	100.0	100.0	100.0	plus	0.0	1170	mate-pair-formation
+NC_006323_00113|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	456	18879	1	456	14605	15972	456	0	100.0	100.0	100.0	plus	0.0	910	mate-pair-formation
+NC_021501_00076|MPF_F	NZ_VEZX01000094.1 Yersinia pestis strain C-232 contig00094, whole genome shotgun sequence	940	18879	1	928	15975	18758	928	38	95.905	99.0	99.0	plus	0.0	1739	mate-pair-formation

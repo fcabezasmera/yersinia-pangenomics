@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002372__CP009363_00012|rep_cluster_891	DANMKX010000034.1 TPA_asm: Yersinia enterocolitica strain 2011N-4071 SAMN32130347-rid16267793.denovo.34, whole genome shotgun sequence	1041	51949	1	1041	20000	21040	1041	101	90.298	100.0	100.0	plus	0.0	1363	replicon

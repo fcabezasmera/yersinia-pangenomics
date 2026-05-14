@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_JBQSRY010000002.1 Yersinia pestis strain 10_YP59_IM plasmid pPCP, whole genome shotgun sequence	89	9626	1	89	2832	2920	89	0	100.0	100.0	100.0	plus	5.01e-42	165	oriT
+CP041342_00001|rep_cluster_2350	NZ_JBQSRY010000002.1 Yersinia pestis strain 10_YP59_IM plasmid pPCP, whole genome shotgun sequence	552	9626	4	552	2263	2810	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+000104__CP010386_00052|IncFIB	NZ_JBQSRY010000003.1 Yersinia pestis strain 10_YP59_IM plasmid pMT1, whole genome shotgun sequence	1065	101709	1	1065	22	1086	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_JBQSRY010000004.1 Yersinia pestis strain 10_YP59_IM plasmid pCD, whole genome shotgun sequence	1167	70560	1	1167	51041	52207	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_JBQSRY010000004.1 Yersinia pestis strain 10_YP59_IM plasmid pCD, whole genome shotgun sequence	227	70560	1	220	70336	70555	220	0	100.0	97.0	100.0	plus	2.25e-114	407	replicon
+NC_010157_00072|MOBF	NZ_JBQSRY010000004.1 Yersinia pestis strain 10_YP59_IM plasmid pCD, whole genome shotgun sequence	152	70560	1	152	67810	68265	152	0	100.0	100.0	100.0	plus	1.67e-101	316	relaxase

@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP025802_00058|rep_cluster_2307	ABKTWE010000267.1 Yersinia enterocolitica strain 510181 SAMN09671484-rid6092803.denovo.269, whole genome shotgun sequence	714	3244	1	714	1457	2170	714	43	93.978	100.0	100.0	minus	0.0	1081	replicon

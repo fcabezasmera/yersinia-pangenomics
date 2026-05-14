@@ -1,0 +1,8 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_AKTR01000005.1 Yersinia pestis PY-103 PY_103.contig.13_1, whole genome shotgun sequence	1167	3657	1	1167	1683	2849	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+000687__KX348146_00033|rep_cluster_1367	NZ_AKTR01000012.1 Yersinia pestis PY-103 PY_103.contig.27_1, whole genome shotgun sequence	894	25896	1	894	4751	5644	894	11	98.77	100.0	100.0	minus	0.0	1591	replicon
+000104__CP010386_00052|IncFIB	NZ_AKTR01000015.1 Yersinia pestis PY-103 PY_103.contig.29_3, whole genome shotgun sequence	1065	7973	1	1065	190	1254	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+GU949535_00001|ColRNAI_rep_cluster_1857	NZ_AKTR01000035.1 Yersinia pestis PY-103 PY_103.contig.85_1, whole genome shotgun sequence	201	261	26	201	86	261	176	5	97.159	88.0	88.0	minus	1.2e-81	298	replicon
+CP001049|IncFII	NZ_AKTR01000053.1 Yersinia pestis PY-103 PY_103.contig.124_1, whole genome shotgun sequence	227	3536	1	227	2511	2737	227	0	100.0	100.0	100.0	minus	2.81e-118	420	replicon
+CP008826_00025|MOBC	NZ_AKTR01000012.1 Yersinia pestis PY-103 PY_103.contig.27_1, whole genome shotgun sequence	237	25896	1	237	19054	19764	237	3	98.734	100.0	100.0	minus	5.85e-160	488	relaxase
+NC_010157_00072|MOBF	NZ_AKTR01000019.1 Yersinia pestis PY-103 PY_103.contig.39_1, whole genome shotgun sequence	152	734	1	152	194	649	152	0	100.0	100.0	100.0	minus	2.33e-112	316	relaxase

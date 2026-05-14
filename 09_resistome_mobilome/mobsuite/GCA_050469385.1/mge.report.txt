@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_050469385.1.fna	chromosome			DBIRUB010000054.1 TPA_asm: Yersinia enterocolitica strain YE3_Fukuoka SAMD00590541-rid26468163.denovo.57, whole genome shotgun sequence	1357	0.5401621223286662	4cc51b670a884d61c55e1ab6266ca759	01399	CP016586.1	16s-rRNA	16S	1554	193	1541	8	1357						

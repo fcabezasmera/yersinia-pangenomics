@@ -1,0 +1,5 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902173105.1.fna	chromosome			NZ_CABIHV010000207.1 Yersinia similis isolate Kuratani-2, whole genome shotgun sequence	3531	0.4678561314075333	f7f90b3fb868e2ce3f5e92f7c57ced4f	00336	NC_003134	ISEc39	IS256	1316	1	1316	151	1466						
+GCF_902173105.1.fna	chromosome			NZ_CABIHV010000253.1 Yersinia similis isolate Kuratani-2, whole genome shotgun sequence	3308	0.5202539298669892	35f8b1b0be02772f22bbaba73a023f48	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	221	2593						
+GCF_902173105.1.fna	chromosome			NZ_CABIHV010000120.1 Yersinia similis isolate Kuratani-2, whole genome shotgun sequence	1795	0.5242339832869081	8e37fe288069fa8d0186a6ade6d08b1a	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	43	1590						
+GCF_902173105.1.fna	chromosome			NZ_CABIHV010000163.1 Yersinia similis isolate Kuratani-2, whole genome shotgun sequence	1315	0.49961977186311785	02ee26f55da832a830fcfa58fe0ae3db	00336	NC_003134	ISEc39	IS256	1316	2	1316	1	1315						

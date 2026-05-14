@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_CM003247.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pPCP1, whole genome shotgun sequence	89	9610	1	89	3200	3288	89	0	100.0	100.0	100.0	minus	5.1299999999999987e-42	165	oriT
+CP041342_00001|rep_cluster_2350	NZ_CM003247.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pPCP1, whole genome shotgun sequence	552	9610	4	552	3310	3857	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+000104__CP010386_00052|IncFIB	NZ_LBFJ01000024.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pMT1 YPES0010000024, whole genome shotgun sequence	1065	59100	1	1065	46428	47492	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_LBFJ01000081.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pCD1, whole genome shotgun sequence	1167	70064	1	1167	6793	7959	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_LBFJ01000081.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pCD1, whole genome shotgun sequence	227	70064	1	227	56780	57006	227	0	100.0	100.0	100.0	minus	2.96e-118	420	replicon
+000104__CP010386_00052|IncFIB	NZ_LBFJ01000083.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pMT1, whole genome shotgun sequence	1065	94828	1	1065	46426	47490	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+NC_010157_00072|MOBF	NZ_LBFJ01000058.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pCD1 YPES0010000058, whole genome shotgun sequence	152	10788	1	152	358	813	152	0	100.0	100.0	100.0	minus	1.68e-101	316	relaxase
+NC_010157_00072|MOBF	NZ_LBFJ01000081.1 Yersinia pestis subsp. pestis bv. Orientalis strain ZE94-2122 plasmid pCD1, whole genome shotgun sequence	152	70064	1	152	59077	59532	152	0	100.0	100.0	100.0	minus	1.71e-101	316	relaxase

@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_JBHFCY010000112.1 Yersinia pestis strain Pestoides_B_LOU Ypestis_PestoidesB_X74_112, whole genome shotgun sequence	89	7804	1	89	1320	1408	89	0	100.0	100.0	100.0	minus	4.89e-42	165	oriT
+002101__NC_004564_00056|rep_cluster_645	NZ_JBHFCY010000019.1 Yersinia pestis strain Pestoides_B_LOU Ypestis_PestoidesB_X74_19, whole genome shotgun sequence	1167	64637	1	1167	4929	6095	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_JBHFCY010000019.1 Yersinia pestis strain Pestoides_B_LOU Ypestis_PestoidesB_X74_19, whole genome shotgun sequence	227	64637	1	227	54789	55015	227	0	100.0	100.0	100.0	minus	2.82e-118	420	replicon
+000104__CP010386_00052|IncFIB	NZ_JBHFCY010000074.1 Yersinia pestis strain Pestoides_B_LOU Ypestis_PestoidesB_X74_74, whole genome shotgun sequence	1065	23707	1	1065	12516	13580	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	NZ_JBHFCY010000112.1 Yersinia pestis strain Pestoides_B_LOU Ypestis_PestoidesB_X74_112, whole genome shotgun sequence	552	7804	4	552	1430	1977	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+NC_010157_00072|MOBF	NZ_JBHFCY010000019.1 Yersinia pestis strain Pestoides_B_LOU Ypestis_PestoidesB_X74_19, whole genome shotgun sequence	152	64637	1	152	57086	57541	152	0	100.0	100.0	100.0	minus	1.63e-101	316	relaxase

@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	ABQHRL010000050.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.53, whole genome shotgun sequence	218	4486	1	182	2742	2922	182	21	87.912	83.0	83.0	plus	5.21e-56	213	oriT
+CP016722|MOB_unknown	ABQHRL010000051.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.54, whole genome shotgun sequence	218	4447	1	182	1565	1745	182	21	87.912	83.0	83.0	minus	5.21e-56	213	oriT
+000435__NC_009344_00001|rep_cluster_1155	ABQHRL010000044.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.47, whole genome shotgun sequence	957	8362	1	957	5919	6893	975	145	83.282	100.0	100.0	plus	0.0	881	replicon
+FJ696405|Col(Ye4449)	ABQHRL010000049.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.52, whole genome shotgun sequence	194	4928	1	194	4428	4621	196	17	89.286	100.0	100.0	plus	5.84e-65	243	replicon
+CP000974_00005|rep_cluster_2358	ABQHRL010000050.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.53, whole genome shotgun sequence	528	4486	3	496	2054	2532	499	53	84.369	94.0	94.0	minus	9.3e-132	466	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	ABQHRL010000051.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.54, whole genome shotgun sequence	519	4447	31	518	1720	2209	495	40	89.495	94.0	94.0	plus	8.58e-177	616	replicon
+NC_019223_00002|MOBP	ABQHRL010000049.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.52, whole genome shotgun sequence	511	4928	1	511	2906	4438	511	13	97.456	100.0	100.0	minus	0.0	954	relaxase
+NC_013090_00004|MOBP	ABQHRL010000050.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.53, whole genome shotgun sequence	499	4486	1	381	3344	4486	381	38	90.026	76.0	85.0	plus	0.0	668	relaxase
+NC_013090_00004|MOBP	ABQHRL010000051.1 Yersinia enterocolitica strain 01419733 SAMN39967332-rid21013973.denovo.54, whole genome shotgun sequence	499	4447	1	381	1	1143	381	27	92.913	76.0	85.0	minus	0.0	688	relaxase

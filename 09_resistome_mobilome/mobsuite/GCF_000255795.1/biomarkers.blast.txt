@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_AGJV01000163.1 Yersinia pestis biovar Orientalis str. BA200901703 contig00199, whole genome shotgun sequence	89	7669	1	89	1250	1338	89	0	100.0	100.0	100.0	minus	4.84e-42	165	oriT
+CP001049|IncFII	NZ_AGJV01000082.1 Yersinia pestis biovar Orientalis str. BA200901703 contig00102, whole genome shotgun sequence	227	3837	1	227	1162	1388	227	0	100.0	100.0	100.0	plus	2.8000000000000003e-118	420	replicon
+CP041342_00001|rep_cluster_2350	NZ_AGJV01000163.1 Yersinia pestis biovar Orientalis str. BA200901703 contig00199, whole genome shotgun sequence	552	7669	4	552	1360	1907	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+000104__CP010386_00052|IncFIB	NZ_AGJV01000203.1 Yersinia pestis biovar Orientalis str. BA200901703 contig00244, whole genome shotgun sequence	1065	18579	1	1065	9720	10784	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_AGJV01000260.1 Yersinia pestis biovar Orientalis str. BA200901703 contig00318, whole genome shotgun sequence	1167	6922	1	1167	5014	6180	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon

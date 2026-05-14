@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_900079875.1.fna	chromosome			NZ_FKKL01000096.1 Yersinia enterocolitica isolate IP35463, whole genome shotgun sequence	3335	0.5244377811094453	5e82b3c9f8e6f3c86f99118957985deb	01400	CP016586.1	23s-rRNA	23S	3027	1288	3027	1302	3044						
+GCF_900079875.1.fna	chromosome			NZ_FKKL01000095.1 Yersinia enterocolitica isolate IP35463, whole genome shotgun sequence	1784	0.5213004484304933	a2fbe19a1a93b858d3a59968736d917b	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	196	1743						

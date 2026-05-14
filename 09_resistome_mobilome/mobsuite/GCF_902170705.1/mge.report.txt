@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902170705.1.fna	chromosome			NZ_CABHYP010000032.1 Yersinia canariae isolate IP38017, whole genome shotgun sequence	2963	0.5200809989875127	a8de32e23a90625c6477fb8b70829b70	01400	CP016586.1	23s-rRNA	23S	3027	658	2908	5	2258						
+GCF_902170705.1.fna	chromosome			NZ_CABHYP010000051.1 Yersinia canariae isolate IP38017, whole genome shotgun sequence	1789	0.5220793739519285	c5bb44963e81f427b3ef31bb3705acb2	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	45	1592						

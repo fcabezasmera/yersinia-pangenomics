@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002386__CP000718_00001|rep_cluster_901	DANMUW010000024.1 TPA_asm: Yersinia enterocolitica strain IDR2200026389-01 SAMN29221878-rid14783903.denovo.24, whole genome shotgun sequence	1038	57376	1	1036	54411	55446	1036	69	93.34	99.0	99.0	minus	0.0	1531	replicon
+NC_009704_00057|MOBP	DANMUW010000024.1 TPA_asm: Yersinia enterocolitica strain IDR2200026389-01 SAMN29221878-rid14783903.denovo.24, whole genome shotgun sequence	866	57376	1	866	41399	43996	866	40	95.381	100.0	100.0	minus	0.0	1632	relaxase
+NC_009704_00012|MPF_T	DANMUW010000024.1 TPA_asm: Yersinia enterocolitica strain IDR2200026389-01 SAMN29221878-rid14783903.denovo.24, whole genome shotgun sequence	845	57376	1	845	4901	7435	845	25	97.041	100.0	100.0	plus	0.0	1669	mate-pair-formation
+NC_009704_00014|MPF_T	DANMUW010000024.1 TPA_asm: Yersinia enterocolitica strain IDR2200026389-01 SAMN29221878-rid14783903.denovo.24, whole genome shotgun sequence	295	57376	1	295	8171	9055	295	6	97.966	100.0	100.0	plus	0.0	597	mate-pair-formation
+NC_009704_00056|MPF_T	DANMUW010000024.1 TPA_asm: Yersinia enterocolitica strain IDR2200026389-01 SAMN29221878-rid14783903.denovo.24, whole genome shotgun sequence	645	57376	1	645	39465	41399	645	9	98.605	100.0	100.0	minus	0.0	1329	mate-pair-formation

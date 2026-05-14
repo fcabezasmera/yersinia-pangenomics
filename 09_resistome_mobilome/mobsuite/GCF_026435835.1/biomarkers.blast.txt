@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+FJ696405|Col(Ye4449)	NZ_CP098726.1 Yersinia ruckeri strain NVI-10571 plasmid pYR5, complete sequence	194	5191	1	194	2260	2453	194	21	89.175	100.0	100.0	plus	4.65e-65	243	replicon
+NC_021819_00066|MOBP	NZ_CP098724.1 Yersinia ruckeri strain NVI-10571 chromosome, complete genome	295	3782452	83	181	2844190	2844486	99	8	91.919	34.0	98.0	minus	1.6099999999999998e-54	187	relaxase
+CP032236_00057|MOBP	NZ_CP098725.1 Yersinia ruckeri strain NVI-10571 plasmid pYR4, complete sequence	641	76483	1	641	54835	56757	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase
+NC_019223_00002|MOBP	NZ_CP098726.1 Yersinia ruckeri strain NVI-10571 plasmid pYR5, complete sequence	511	5191	1	511	738	2270	511	21	95.89	100.0	100.0	minus	0.0	930	relaxase

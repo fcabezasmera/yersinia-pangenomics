@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP025802_00058|rep_cluster_2307	CABHVF010000050.1 Yersinia enterocolitica isolate IP38839 genome assembly, contig: contig_00072, whole genome shotgun sequence	714	8091	1	708	6836	7543	708	41	94.209	99.0	99.0	plus	0.0	1081	replicon
+NC_002523_00134|MPF_I	CABHVF010000092.1 Yersinia enterocolitica isolate IP38839 genome assembly, contig: contig_00027, whole genome shotgun sequence	725	68954	16	717	27856	29961	702	86	87.749	97.0	97.0	minus	0.0	1263	mate-pair-formation
+NC_002523_00141|MPF_I	CABHVF010000092.1 Yersinia enterocolitica isolate IP38839 genome assembly, contig: contig_00027, whole genome shotgun sequence	408	68954	1	408	35952	37178	409	77	80.929	100.0	100.0	minus	0.0	638	mate-pair-formation
+NC_002523_00145|MPF_I	CABHVF010000092.1 Yersinia enterocolitica isolate IP38839 genome assembly, contig: contig_00027, whole genome shotgun sequence	176	68954	1	176	41564	42091	176	27	84.659	100.0	100.0	minus	1.65e-86	274	mate-pair-formation
+NC_002523_00001|MPF_I	CABHVF010000092.1 Yersinia enterocolitica isolate IP38839 genome assembly, contig: contig_00027, whole genome shotgun sequence	224	68954	1	224	45066	45737	224	37	83.482	100.0	100.0	minus	1.01e-125	389	mate-pair-formation
+NC_002523_00008|MPF_I	CABHVF010000092.1 Yersinia enterocolitica isolate IP38839 genome assembly, contig: contig_00027, whole genome shotgun sequence	262	68954	1	262	51022	51807	262	33	87.405	100.0	100.0	minus	4.72e-147	452	mate-pair-formation

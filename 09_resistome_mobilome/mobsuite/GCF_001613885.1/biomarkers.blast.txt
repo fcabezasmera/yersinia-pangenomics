@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_LPXT01000390.1 Yersinia pestis strain M-978 contig00390__length, whole genome shotgun sequence	89	231	1	89	5	93	89	0	100.0	100.0	100.0	minus	4.87e-42	165	oriT
+NC_017657|MOBP	NZ_LPXT01000391.1 Yersinia pestis strain M-978 contig00391__length, whole genome shotgun sequence	89	231	1	89	5	93	89	0	100.0	100.0	100.0	minus	4.87e-42	165	oriT
+000104__CP010386_00052|IncFIB	NZ_LPXT01000033.1 Yersinia pestis strain M-978 contig00033__length, whole genome shotgun sequence	1065	35832	1	1065	7794	8858	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_LPXT01000166.1 Yersinia pestis strain M-978 contig00166__length, whole genome shotgun sequence	1167	9201	1	1167	595	1760	1167	10	99.057	100.0	100.0	plus	0.0	2093	replicon
+CP001049|IncFII	NZ_LPXT01000220.1 Yersinia pestis strain M-978 contig00220__length, whole genome shotgun sequence	227	3668	1	227	2445	2671	227	0	100.0	100.0	100.0	minus	2.81e-118	420	replicon
+GU949535_00001|ColRNAI_rep_cluster_1857	NZ_LPXT01000353.1 Yersinia pestis strain M-978 contig00353__length, whole genome shotgun sequence	201	257	2	201	35	234	200	6	97.0	99.0	99.0	minus	2.55e-93	337	replicon
+GU949535_00001|ColRNAI_rep_cluster_1857	NZ_LPXT01000354.1 Yersinia pestis strain M-978 contig00354__length, whole genome shotgun sequence	201	257	2	201	24	223	200	6	97.0	99.0	99.0	plus	2.55e-93	337	replicon
+NC_010157_00072|MOBF	NZ_LPXT01000302.1 Yersinia pestis strain M-978 contig00302__length, whole genome shotgun sequence	152	598	1	152	101	556	152	0	100.0	100.0	100.0	minus	4.59e-113	316	relaxase

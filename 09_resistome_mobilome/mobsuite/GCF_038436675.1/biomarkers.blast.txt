@@ -1,0 +1,8 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000966|IncFII	NZ_JAQQXH010000116.1 Yersinia enterocolitica strain CMP 76 PIRAS-76_116_89.9608, whole genome shotgun sequence	230	42180	3	200	8777	8975	203	30	80.788	86.0	86.0	plus	4.2200000000000006e-37	150	replicon
+000164__NC_022344_00310|IncP	NZ_JAQQXH010000153.1 Yersinia enterocolitica strain CMP 76 PIRAS-76_153_86.0592, whole genome shotgun sequence	858	20080	19	858	7500	8339	843	130	83.867	98.0	98.0	minus	0.0	798	replicon
+CP010360_00062|MOBP	NZ_JAQQXH010000153.1 Yersinia enterocolitica strain CMP 76 PIRAS-76_153_86.0592, whole genome shotgun sequence	667	20080	1	663	2692	4680	667	65	89.055	99.0	99.0	minus	0.0	1062	relaxase
+NC_022344_00321|MPF_T	NZ_JAQQXH010000134.1 Yersinia enterocolitica strain CMP 76 PIRAS-76_134_86.1444, whole genome shotgun sequence	667	18634	1	667	1514	3517	670	61	90.149	100.0	100.0	plus	0.0	1158	mate-pair-formation
+NC_008757_00075|MPF_T	NZ_JAQQXH010000134.1 Yersinia enterocolitica strain CMP 76 PIRAS-76_134_86.1444, whole genome shotgun sequence	813	18634	1	806	5725	8130	806	95	87.717	99.0	99.0	plus	0.0	1399	mate-pair-formation
+NC_022344_00330|MPF_T	NZ_JAQQXH010000134.1 Yersinia enterocolitica strain CMP 76 PIRAS-76_134_86.1444, whole genome shotgun sequence	234	18634	1	234	10651	11352	234	23	90.171	100.0	100.0	plus	4.41e-143	439	mate-pair-formation
+NC_008757_00079|MPF_T	NZ_JAQQXH010000134.1 Yersinia enterocolitica strain CMP 76 PIRAS-76_134_86.1444, whole genome shotgun sequence	337	18634	1	329	11352	12338	329	55	83.283	98.0	98.0	plus	1.36e-153	474	mate-pair-formation

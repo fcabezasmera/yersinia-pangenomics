@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_021819_00066|MOBP	NZ_CP177154.1 Yersinia ruckeri strain QDH-202303 chromosome, complete genome	295	3773872	83	181	2799170	2799466	99	8	91.919	34.0	97.0	minus	1.58e-54	187	relaxase

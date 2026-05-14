@@ -1,0 +1,12 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JAPVKA010000135.1 Yersinia pestis strain YN1662 YN1662contig00135, whole genome shotgun sequence	89	7865	1	89	1346	1434	89	0	100.0	100.0	100.0	minus	4.97e-42	165	oriT
+CP001049|IncFII	JAPVKA010000030.1 Yersinia pestis strain YN1662 YN1662contig00030, whole genome shotgun sequence	227	48477	1	227	46980	47206	227	0	100.0	100.0	100.0	minus	2.87e-118	420	replicon
+000228__CP002179_00041|IncX7	JAPVKA010000067.1 Yersinia pestis strain YN1662 YN1662contig00067, whole genome shotgun sequence	861	29327	1	851	454	1304	851	79	90.717	99.0	99.0	plus	0.0	1134	replicon
+000104__CP010386_00052|IncFIB	JAPVKA010000094.1 Yersinia pestis strain YN1662 YN1662contig00094, whole genome shotgun sequence	1065	18792	1	1065	9825	10889	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	JAPVKA010000135.1 Yersinia pestis strain YN1662 YN1662contig00135, whole genome shotgun sequence	552	7865	4	552	1456	2003	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+002101__NC_004564_00056|rep_cluster_645	JAPVKA010000142.1 Yersinia pestis strain YN1662 YN1662contig00142, whole genome shotgun sequence	1167	7150	1	1167	1021	2187	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+NC_015054_00008|MOBP	JAPVKA010000067.1 Yersinia pestis strain YN1662 YN1662contig00067, whole genome shotgun sequence	407	29327	1	407	24251	25477	409	78	80.44	100.0	100.0	minus	0.0	691	relaxase
+NC_010157_00072|MOBF	JAPVKA010000120.1 Yersinia pestis strain YN1662 YN1662contig00120, whole genome shotgun sequence	152	11208	1	152	239	694	152	0	100.0	100.0	100.0	minus	1.63e-101	316	relaxase
+NC_015054_00022|MPF_T	JAPVKA010000067.1 Yersinia pestis strain YN1662 YN1662contig00067, whole genome shotgun sequence	620	29327	1	620	11943	13802	620	68	89.032	100.0	100.0	minus	0.0	1081	mate-pair-formation
+NC_015054_00019|MPF_T	JAPVKA010000067.1 Yersinia pestis strain YN1662 YN1662contig00067, whole genome shotgun sequence	303	29327	19	303	15932	16786	285	25	91.228	94.0	94.0	minus	2.52e-176	538	mate-pair-formation
+NC_015054_00015|MPF_T	JAPVKA010000067.1 Yersinia pestis strain YN1662 YN1662contig00067, whole genome shotgun sequence	364	29327	1	357	17839	18909	357	14	96.078	98.0	98.0	minus	0.0	580	mate-pair-formation

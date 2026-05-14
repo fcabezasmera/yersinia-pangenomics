@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP017588_00047|rep_cluster_2203	NZ_CP158631.1 Yersinia intermedia strain SCPM-O-B-8114 (334) plasmid pB-8114, complete sequence	867	70607	39	856	51	868	824	147	80.704	94.0	94.0	plus	0.0	630	replicon
+CP001049|IncFII	NZ_CP158631.1 Yersinia intermedia strain SCPM-O-B-8114 (334) plasmid pB-8114, complete sequence	227	70607	1	206	70405	70607	207	19	88.406	91.0	91.0	plus	1.98e-65	244	replicon
+NC_020306_00007|MOBF	NZ_CP158631.1 Yersinia intermedia strain SCPM-O-B-8114 (334) plasmid pB-8114, complete sequence	538	70607	48	449	66501	67706	402	76	81.095	75.0	83.0	plus	0.0	659	relaxase

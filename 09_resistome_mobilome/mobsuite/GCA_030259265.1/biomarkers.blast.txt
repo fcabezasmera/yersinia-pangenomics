@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JAQROU010000130.1 Yersinia pestis strain D4-81003_DMS24017-V D4-81003_DMS24017-Vcontig00130, whole genome shotgun sequence	89	7865	1	89	1346	1434	89	0	100.0	100.0	100.0	minus	4.84e-42	165	oriT
+CP001049|IncFII	JAQROU010000030.1 Yersinia pestis strain D4-81003_DMS24017-V D4-81003_DMS24017-Vcontig00030, whole genome shotgun sequence	227	48477	1	227	46980	47206	227	0	100.0	100.0	100.0	minus	2.79e-118	420	replicon
+000104__CP010386_00052|IncFIB	JAQROU010000090.1 Yersinia pestis strain D4-81003_DMS24017-V D4-81003_DMS24017-Vcontig00090, whole genome shotgun sequence	1065	18792	1	1065	7904	8968	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	JAQROU010000130.1 Yersinia pestis strain D4-81003_DMS24017-V D4-81003_DMS24017-Vcontig00130, whole genome shotgun sequence	552	7865	4	552	1456	2003	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+002101__NC_004564_00056|rep_cluster_645	JAQROU010000138.1 Yersinia pestis strain D4-81003_DMS24017-V D4-81003_DMS24017-Vcontig00138, whole genome shotgun sequence	1167	7149	1	1167	1021	2187	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+NC_010157_00072|MOBF	JAQROU010000176.1 Yersinia pestis strain D4-81003_DMS24017-V D4-81003_DMS24017-Vcontig00176, whole genome shotgun sequence	152	847	1	152	239	694	152	0	100.0	100.0	100.0	minus	8.47e-112	316	relaxase

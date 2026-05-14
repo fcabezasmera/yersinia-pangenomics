@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+X01654|ColE10	NZ_JBEGCZ010000040.1 Yersinia alsatica strain N21-2545 contig00040, whole genome shotgun sequence	177	7089	1	177	1030	1206	177	11	93.785	100.0	100.0	plus	3.17e-72	267	replicon
+NC_010695_00006|MOBQ	NZ_JBEGCZ010000040.1 Yersinia alsatica strain N21-2545 contig00040, whole genome shotgun sequence	369	7089	1	369	4905	6008	369	48	86.721	100.0	100.0	minus	0.0	642	relaxase
+NC_014304_00056|MPF_F	NZ_JBEGCZ010000019.1 Yersinia alsatica strain N21-2545 contig00019, whole genome shotgun sequence	699	113444	1	699	73845	75941	699	125	82.117	100.0	100.0	plus	0.0	1160	mate-pair-formation

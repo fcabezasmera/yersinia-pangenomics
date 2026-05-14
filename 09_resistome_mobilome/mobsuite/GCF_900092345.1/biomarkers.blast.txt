@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_LT596222.1 Yersinia pseudotuberculosis isolate NZYP4713 plasmid 2	1167	69815	1	1167	50314	51480	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_LT596222.1 Yersinia pseudotuberculosis isolate NZYP4713 plasmid 2	227	69815	1	218	69598	69815	218	0	100.0	96.0	96.0	plus	2.96e-113	403	replicon
+NC_010157_00072|MOBF	NZ_LT596222.1 Yersinia pseudotuberculosis isolate NZYP4713 plasmid 2	152	69815	1	152	67069	67524	152	0	100.0	100.0	100.0	plus	1.7e-101	316	relaxase

@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902387525.1.fna	chromosome			NZ_CABMMJ010000003.1 Yersinia mollaretii isolate MGYG-HGUT-02471, whole genome shotgun sequence	382008	0.4945472346128877	663c87d7498bf4d5a2ad93bf52c47c61	01373	MF156713	ISSba14	Tn3	2238	1	2238	360597	362835						
+GCF_902387525.1.fna	chromosome			NZ_CABMMJ010000010.1 Yersinia mollaretii isolate MGYG-HGUT-02471, whole genome shotgun sequence	125975	0.5035443540384997	ab47f0d2806285419e2dacfe0b03cc26	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	120708	122255						
+GCF_902387525.1.fna	chromosome			NZ_CABMMJ010000010.1 Yersinia mollaretii isolate MGYG-HGUT-02471, whole genome shotgun sequence	125975	0.5035443540384997	ab47f0d2806285419e2dacfe0b03cc26	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	123382	125754						

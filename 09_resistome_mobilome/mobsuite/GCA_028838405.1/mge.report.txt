@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_028838405.1.fna	chromosome			DANMPO010000017.1 TPA_asm: Yersinia enterocolitica strain Yersinia isolate NX12020 SAMN19699811-rid14944913.denovo.17, whole genome shotgun sequence	66896	0.48600813202583115	06766e3655db79d494b84ac81b89e2a7	00676	MF072964	ISCfr4	IS30	1253	16	1237	7359	8580						

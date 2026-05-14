@@ -1,0 +1,8 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002351__CU468130_00001|rep_cluster_871	NZ_JBSSWL010000031.1 Yersinia enterocolitica strain TP3-3 contig00031, whole genome shotgun sequence	1047	35755	1	1047	510	1556	1047	3	99.713	100.0	100.0	plus	0.0	1917	replicon
+NC_010696_00029|MOBP	NZ_JBSSWL010000031.1 Yersinia enterocolitica strain TP3-3 contig00031, whole genome shotgun sequence	1193	35755	1	1193	23188	26766	1193	7	99.413	100.0	100.0	minus	0.0	2375	relaxase
+NC_010696_00007|MPF_T	NZ_JBSSWL010000031.1 Yersinia enterocolitica strain TP3-3 contig00031, whole genome shotgun sequence	824	35755	1	811	4198	6630	811	7	99.137	98.0	98.0	plus	0.0	1677	mate-pair-formation
+NC_010696_00010|MPF_T	NZ_JBSSWL010000031.1 Yersinia enterocolitica strain TP3-3 contig00031, whole genome shotgun sequence	267	35755	1	267	7555	8355	267	1	99.625	100.0	100.0	plus	4.5100000000000005e-161	492	mate-pair-formation
+NC_010696_00011|MPF_T	NZ_JBSSWL010000031.1 Yersinia enterocolitica strain TP3-3 contig00031, whole genome shotgun sequence	261	35755	1	261	8379	9161	261	0	100.0	100.0	100.0	plus	8.010000000000001e-179	543	mate-pair-formation
+NC_010696_00014|MPF_T	NZ_JBSSWL010000031.1 Yersinia enterocolitica strain TP3-3 contig00031, whole genome shotgun sequence	683	35755	1	683	11532	13580	683	0	100.0	100.0	100.0	plus	0.0	1368	mate-pair-formation
+NC_010696_00041|MPF_T	NZ_JBSSWL010000031.1 Yersinia enterocolitica strain TP3-3 contig00031, whole genome shotgun sequence	351	35755	1	351	33833	34885	351	0	100.0	100.0	100.0	minus	0.0	620	mate-pair-formation

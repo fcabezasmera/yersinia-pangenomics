@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP001049|IncFII	NZ_CP180262.1 Yersinia pseudotuberculosis strain SCPM-O-B-16895 plasmid pSPMB-O-B-16895, complete sequence	227	68355	1	227	10887	11113	227	0	100.0	100.0	100.0	plus	2.86e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP180262.1 Yersinia pseudotuberculosis strain SCPM-O-B-16895 plasmid pSPMB-O-B-16895, complete sequence	1167	68355	1	1167	61640	62806	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+NC_010157_00072|MOBF	NZ_CP180262.1 Yersinia pseudotuberculosis strain SCPM-O-B-16895 plasmid pSPMB-O-B-16895, complete sequence	152	68355	1	152	8358	8813	152	0	100.0	100.0	100.0	plus	1.65e-101	316	relaxase

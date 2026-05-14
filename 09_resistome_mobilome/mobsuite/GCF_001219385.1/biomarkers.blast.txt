@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+AJ001708|MOBP	NZ_CTKV01000037.1 Yersinia enterocolitica strain YE77/03, whole genome shotgun sequence	175	6856	1	175	6070	6244	175	1	99.429	100.0	100.0	plus	8.3e-88	318	oriT
+CP000966|IncFII	NZ_CTKV01000026.1 Yersinia enterocolitica strain YE77/03, whole genome shotgun sequence	230	31126	3	200	23646	23844	203	30	80.788	86.0	86.0	plus	4.35e-37	150	replicon
+KU302809_00001|rep_cluster_2335	NZ_CTKV01000037.1 Yersinia enterocolitica strain YE77/03, whole genome shotgun sequence	606	6856	1	605	5541	6147	615	46	89.593	99.0	99.0	minus	0.0	765	replicon

@@ -1,0 +1,3 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+LT985313_00005|rep_cluster_2373	NZ_JAQQXE010000002.1 Yersinia enterocolitica strain CMP 94 PIRAS-94_2_1487.1_Circ, whole genome shotgun sequence	432	4577	4	391	515	901	389	15	95.373	90.0	90.0	minus	6.68e-177	616	replicon
+KU302809_00001|rep_cluster_2335	NZ_JAQQXE010000004.1 Yersinia enterocolitica strain CMP 94 PIRAS-94_4_2649.97_Circ, whole genome shotgun sequence	606	2265	57	606	110	660	551	25	95.281	91.0	91.0	minus	0.0	872	replicon

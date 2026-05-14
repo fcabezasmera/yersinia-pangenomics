@@ -1,0 +1,9 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JBKLSF010000116.1 Yersinia pestis strain 99069 contig00116, whole genome shotgun sequence	89	7865	1	89	6432	6520	89	0	100.0	100.0	100.0	plus	4.79e-42	165	oriT
+000104__CP010386_00052|IncFIB	JBKLSF010000056.1 Yersinia pestis strain 99069 contig00056, whole genome shotgun sequence	1065	36050	1	1065	7904	8968	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+000116__CP022119_00033|IncFII	JBKLSF010000078.1 Yersinia pestis strain 99069 contig00078, whole genome shotgun sequence	714	21853	1	714	10316	11029	715	27	95.944	100.0	100.0	plus	0.0	1158	replicon
+CP041342_00001|rep_cluster_2350	JBKLSF010000116.1 Yersinia pestis strain 99069 contig00116, whole genome shotgun sequence	552	7865	4	552	5863	6410	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+NC_010726_00014|MPF_T	JBKLSF010000078.1 Yersinia pestis strain 99069 contig00078, whole genome shotgun sequence	301	21853	1	301	561	1463	301	4	98.671	100.0	100.0	minus	0.0	617	mate-pair-formation
+NC_005814_00013|MPF_T	JBKLSF010000078.1 Yersinia pestis strain 99069 contig00078, whole genome shotgun sequence	227	21853	1	227	1466	2146	227	0	100.0	100.0	100.0	minus	1.69e-133	411	mate-pair-formation
+NC_005814_00011|MPF_T	JBKLSF010000078.1 Yersinia pestis strain 99069 contig00078, whole genome shotgun sequence	357	21853	1	357	2370	3440	357	0	100.0	100.0	100.0	minus	0.0	567	mate-pair-formation
+NC_013284_00016|MPF_T	JBKLSF010000078.1 Yersinia pestis strain 99069 contig00078, whole genome shotgun sequence	914	21853	1	914	4417	7152	914	82	90.81	100.0	100.0	minus	0.0	1720	mate-pair-formation

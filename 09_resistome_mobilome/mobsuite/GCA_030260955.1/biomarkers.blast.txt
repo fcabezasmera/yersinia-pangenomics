@@ -1,0 +1,14 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	JAQRRG010000024.1 Yersinia pestis strain YN2509 YN2509contig00024, whole genome shotgun sequence	89	50633	1	89	6432	6520	89	0	100.0	100.0	100.0	plus	5e-42	165	oriT
+CP041342_00001|rep_cluster_2350	JAQRRG010000024.1 Yersinia pestis strain YN2509 YN2509contig00024, whole genome shotgun sequence	552	50633	4	552	5863	6410	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
+000228__CP002179_00041|IncX7	JAQRRG010000024.1 Yersinia pestis strain YN2509 YN2509contig00024, whole genome shotgun sequence	861	50633	1	851	33455	34305	851	79	90.717	99.0	99.0	plus	0.0	1134	replicon
+CP001049|IncFII	JAQRRG010000031.1 Yersinia pestis strain YN2509 YN2509contig00031, whole genome shotgun sequence	227	48477	1	227	46980	47206	227	0	100.0	100.0	100.0	minus	2.89e-118	420	replicon
+000104__CP010386_00052|IncFIB	JAQRRG010000095.1 Yersinia pestis strain YN2509 YN2509contig00095, whole genome shotgun sequence	1065	18792	1	1065	7904	8968	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	JAQRRG010000141.1 Yersinia pestis strain YN2509 YN2509contig00141, whole genome shotgun sequence	1167	7150	1	1167	4964	6130	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+000016__NC_002144|Col3M	JAQRRG010000150.1 Yersinia pestis strain YN2509 YN2509contig00150, whole genome shotgun sequence	153	6030	1	153	799	951	153	0	100.0	100.0	100.0	minus	2.55e-77	283	replicon
+NC_015054_00008|MOBP	JAQRRG010000024.1 Yersinia pestis strain YN2509 YN2509contig00024, whole genome shotgun sequence	407	50633	1	407	28036	29262	409	78	80.44	100.0	100.0	minus	0.0	691	relaxase
+NC_010157_00072|MOBF	JAQRRG010000118.1 Yersinia pestis strain YN2509 YN2509contig00118, whole genome shotgun sequence	152	11207	1	152	239	694	152	0	100.0	100.0	100.0	minus	1.64e-101	316	relaxase
+NC_015054_00022|MPF_T	JAQRRG010000024.1 Yersinia pestis strain YN2509 YN2509contig00024, whole genome shotgun sequence	620	50633	1	620	15728	17587	620	68	89.032	100.0	100.0	minus	0.0	1081	mate-pair-formation
+NC_015054_00019|MPF_T	JAQRRG010000024.1 Yersinia pestis strain YN2509 YN2509contig00024, whole genome shotgun sequence	303	50633	19	303	19717	20571	285	25	91.228	94.0	94.0	minus	2.57e-176	538	mate-pair-formation
+NC_015054_00015|MPF_T	JAQRRG010000024.1 Yersinia pestis strain YN2509 YN2509contig00024, whole genome shotgun sequence	364	50633	1	357	21624	22694	357	14	96.078	98.0	98.0	minus	0.0	580	mate-pair-formation
+NC_002144_00007|MPF_T	JAQRRG010000150.1 Yersinia pestis strain YN2509 YN2509contig00150, whole genome shotgun sequence	294	6030	1	268	1895	2698	268	11	95.896	91.0	91.0	plus	2.13e-170	516	mate-pair-formation

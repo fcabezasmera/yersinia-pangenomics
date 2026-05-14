@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	NZ_JBGEDS010000017.1 Yersinia enterocolitica strain GF17-1 contig00017, whole genome shotgun sequence	218	4839	1	187	2151	2335	187	22	87.166	86.0	86.0	plus	1.82e-55	211	oriT
+000621__CP009126_00005|rep_cluster_1304	NZ_JBGEDS010000011.1 Yersinia enterocolitica strain GF17-1 contig00011, whole genome shotgun sequence	918	52354	1	918	7760	8677	918	7	99.237	100.0	100.0	plus	0.0	1657	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	NZ_JBGEDS010000017.1 Yersinia enterocolitica strain GF17-1 contig00017, whole genome shotgun sequence	519	4839	222	515	1652	1944	295	16	93.559	57.0	87.0	minus	6.960000000000001e-123	436	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	NZ_JBGEDS010000017.1 Yersinia enterocolitica strain GF17-1 contig00017, whole genome shotgun sequence	519	4839	38	192	2011	2169	161	24	80.124	30.0	87.0	minus	1.33e-25	113	replicon
+CP009126_00025|MOBC	NZ_JBGEDS010000011.1 Yersinia enterocolitica strain GF17-1 contig00011, whole genome shotgun sequence	248	52354	1	248	41156	41899	248	5	97.984	100.0	100.0	minus	7.12e-165	502	relaxase
+NC_017389_00004|MOBP	NZ_JBGEDS010000017.1 Yersinia enterocolitica strain GF17-1 contig00017, whole genome shotgun sequence	504	4839	1	504	2752	4257	504	47	90.278	100.0	100.0	plus	0.0	887	relaxase

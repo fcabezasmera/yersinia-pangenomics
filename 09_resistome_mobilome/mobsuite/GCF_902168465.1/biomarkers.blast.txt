@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NZ_CP015239|MOBF	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	266	30862	4	216	19650	19863	217	32	82.028	80.0	80.0	minus	2.15e-45	178	oriT
+000152__NZ_CP011646_00085|IncN	NZ_CABHPX010000006.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	882	3952	1	882	2950	3831	883	87	89.921	100.0	100.0	plus	0.0	1136	replicon
+NC_015872_00034|MOBF	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	1068	30862	1	1068	14364	17579	1072	6	99.067	100.0	100.0	minus	0.0	2032	relaxase
+NC_015872_00011|MPF_T	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	105	30862	1	105	2972	3286	105	1	99.048	100.0	100.0	plus	3.2599999999999995e-67	215	mate-pair-formation
+NC_015872_00010|MPF_T	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	857	30862	1	857	3290	5860	857	14	98.366	100.0	100.0	plus	0.0	1779	mate-pair-formation
+NC_015872_00007|MPF_T	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	345	30862	1	300	6858	7757	300	1	99.667	87.0	87.0	plus	2.13e-180	551	mate-pair-formation
+NC_015872_00006|MPF_T	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	231	30862	1	231	8114	8806	231	3	98.701	100.0	100.0	plus	3.62e-145	445	mate-pair-formation
+NC_015872_00005|MPF_T	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	295	30862	1	295	8820	9704	295	2	99.322	100.0	100.0	plus	6.42e-173	528	mate-pair-formation
+NC_015872_00033|MPF_T	NZ_CABHPX010000013.1 Yersinia aleksiciae isolate IP29443, whole genome shotgun sequence	510	30862	1	510	17587	19116	510	51	90.0	100.0	100.0	minus	0.0	939	mate-pair-formation

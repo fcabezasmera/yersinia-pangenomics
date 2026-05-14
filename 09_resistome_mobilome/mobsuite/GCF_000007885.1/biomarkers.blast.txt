@@ -1,0 +1,12 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NC_005816.1 Yersinia pestis biovar Microtus str. 91001 plasmid pPCP1, complete sequence	89	9609	1	89	3200	3288	89	0	100.0	100.0	100.0	minus	5.11e-42	165	oriT
+CP001049|IncFII	NC_005813.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence	227	70159	1	227	3505	3731	227	0	100.0	100.0	100.0	plus	2.95e-118	420	replicon
+002101__NC_004564_00056|rep_cluster_645	NC_005813.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence	1167	70159	1	1167	52410	53576	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+000116__CP022119_00033|IncFII	NC_005814.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCRY, complete sequence	714	21742	1	714	739	1452	715	27	95.944	100.0	100.0	minus	0.0	1158	replicon
+000104__CP010386_00052|IncFIB	NC_005815.1 Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence	1065	106642	1	1065	50857	51921	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+CP041342_00001|rep_cluster_2350	NC_005816.1 Yersinia pestis biovar Microtus str. 91001 plasmid pPCP1, complete sequence	552	9609	4	552	3310	3857	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+NC_010157_00072|MOBF	NC_005813.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence	152	70159	1	152	69179	69634	152	0	100.0	100.0	100.0	plus	1.7e-101	316	relaxase
+NC_013284_00016|MPF_T	NC_005814.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCRY, complete sequence	914	21742	1	914	4616	7351	914	82	90.81	100.0	100.0	plus	0.0	1720	mate-pair-formation
+NC_005814_00011|MPF_T	NC_005814.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCRY, complete sequence	357	21742	1	357	8328	9398	357	0	100.0	100.0	100.0	plus	0.0	567	mate-pair-formation
+NC_005814_00013|MPF_T	NC_005814.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCRY, complete sequence	227	21742	1	227	9622	10302	227	0	100.0	100.0	100.0	plus	1.79e-133	411	mate-pair-formation
+NC_010726_00014|MPF_T	NC_005814.1 Yersinia pestis biovar Microtus str. 91001 plasmid pCRY, complete sequence	301	21742	1	301	10305	11207	301	4	98.671	100.0	100.0	plus	0.0	617	mate-pair-formation

@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_000343995.1.fna	chromosome			NZ_CAQV01000197.1 Yersinia pseudotuberculosis B-6863 isolate 1384, whole genome shotgun sequence	27015	0.47186643962389874	a44af81f5291a2c3d52bc3484b191f13	00336	NC_003134	ISEc39	IS256	1316	2	1316	25496	26810						
+GCF_000343995.1.fna	chromosome			NZ_CAQV01000043.1 Yersinia pseudotuberculosis B-6863 isolate 1384, whole genome shotgun sequence	3142	0.5162627551020408	bd94d15e5394db3d800b6f3ccbacbb68	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	720	3092						
+GCF_000343995.1.fna	chromosome			NZ_CAQV01000013.1 Yersinia pseudotuberculosis B-6863 isolate 1384, whole genome shotgun sequence	1809	0.5213770127706829	d75922cafbe2a1aeac18ea0899b6ac39	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	49	1596						

@@ -1,0 +1,4 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+002101__NC_004564_00056|rep_cluster_645	NZ_KN150743.1 Yersinia pseudotuberculosis strain ATCC 4284 scaffold3, whole genome shotgun sequence	1167	22202	1	1167	14653	15819	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
+CP001049|IncFII	NZ_KN150743.1 Yersinia pseudotuberculosis strain ATCC 4284 scaffold3, whole genome shotgun sequence	227	22202	1	227	19324	19550	227	0	100.0	100.0	100.0	minus	2.93e-118	420	replicon
+NC_010157_00072|MOBF	NZ_KN150743.1 Yersinia pseudotuberculosis strain ATCC 4284 scaffold3, whole genome shotgun sequence	152	22202	1	152	21470	21925	152	0	100.0	100.0	100.0	plus	1.68e-101	316	relaxase

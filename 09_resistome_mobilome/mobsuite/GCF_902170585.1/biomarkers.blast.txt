@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_019269_00003|MOBP	NZ_CABHYB010000005.1 Yersinia intermedia isolate IP39994, whole genome shotgun sequence	487	5558	1	487	690	2150	487	57	88.296	100.0	100.0	plus	0.0	827	relaxase

@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCF_902168595.1.fna	chromosome			NZ_CABHQK010000115.1 Yersinia aleksiciae isolate IP28587, whole genome shotgun sequence	35321	0.523144871323009	3585f8b9cfb07dde0bbb64c0910a09af	00634	CP024842	IS1400	IS3	1207	1	1207	142	1348						
+GCF_902168595.1.fna	chromosome			NZ_CABHQK010000165.1 Yersinia aleksiciae isolate IP28587, whole genome shotgun sequence	3508	0.5139680729760547	684a2d563995266b402fddaf97881328	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	299	2671						
+GCF_902168595.1.fna	chromosome			NZ_CABHQK010000040.1 Yersinia aleksiciae isolate IP28587, whole genome shotgun sequence	1762	0.5238365493757094	7668451de88ac4fee732a009dc072016	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	18	1565						

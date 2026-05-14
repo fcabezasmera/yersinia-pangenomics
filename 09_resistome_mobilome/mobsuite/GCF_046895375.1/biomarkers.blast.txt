@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NC_017657|MOBP	NZ_CP178009.1 Yersinia pestis strain 2506 plasmid pPCP1, complete sequence	89	9610	1	89	7350	7438	89	0	100.0	100.0	100.0	minus	4.99e-42	165	oriT
+000104__CP010386_00052|IncFIB	NZ_CP178007.1 Yersinia pestis strain 2506 plasmid pMT1, complete sequence	1065	101700	1	1065	1	1065	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
+002101__NC_004564_00056|rep_cluster_645	NZ_CP178008.1 Yersinia pestis strain 2506 plasmid pCD1, complete sequence	1167	70385	1	1167	50883	52049	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
+CP001049|IncFII	NZ_CP178008.1 Yersinia pestis strain 2506 plasmid pCD1, complete sequence	227	70385	1	206	70180	70385	206	0	100.0	91.0	91.0	plus	1.36e-106	381	replicon
+CP041342_00001|rep_cluster_2350	NZ_CP178009.1 Yersinia pestis strain 2506 plasmid pPCP1, complete sequence	552	9610	4	552	7460	8007	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
+NC_010157_00072|MOBF	NZ_CP178008.1 Yersinia pestis strain 2506 plasmid pCD1, complete sequence	152	70385	1	152	67653	68108	152	0	100.0	100.0	100.0	plus	1.66e-101	316	relaxase

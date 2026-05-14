@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000309__NZ_CP009710_00009|rep_cluster_1066	NZ_CP054046.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed1, complete sequence	987	124188	1	987	40724	41710	989	132	86.249	100.0	100.0	minus	0.0	1070	replicon
+CP025802_00058|rep_cluster_2307	NZ_CP054047.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed2, complete sequence	714	79154	1	708	41561	42268	708	47	93.362	99.0	99.0	plus	0.0	1048	replicon
+NC_006154_00025|MOBC	NZ_CP054046.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed1, complete sequence	246	124188	1	246	22062	22799	246	29	88.211	100.0	100.0	minus	2.29e-147	452	relaxase
+NC_006154_00014|MPF_T	NZ_CP054046.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed1, complete sequence	315	124188	32	314	31145	31993	283	46	83.746	90.0	90.0	minus	2.33e-157	484	mate-pair-formation
+NC_006154_00013|MPF_T	NZ_CP054046.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed1, complete sequence	227	124188	1	227	32146	32826	227	23	89.868	100.0	100.0	minus	3.23e-130	402	mate-pair-formation
+NC_002523_00134|MPF_I	NZ_CP054047.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed2, complete sequence	725	79154	16	717	3215	5320	702	88	87.464	97.0	97.0	plus	0.0	1262	mate-pair-formation
+NC_002523_00008|MPF_I	NZ_CP054047.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed2, complete sequence	262	79154	1	262	60407	61192	262	31	88.168	100.0	100.0	plus	6.260000000000001e-157	480	mate-pair-formation
+NC_002523_00001|MPF_I	NZ_CP054047.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed2, complete sequence	224	79154	1	224	66465	67136	224	40	82.143	100.0	100.0	plus	1.07e-126	392	mate-pair-formation
+NC_002523_00145|MPF_I	NZ_CP054047.1 Yersinia massiliensis strain 2011N-4075 plasmid unnamed2, complete sequence	176	79154	1	176	70129	70656	176	24	86.364	100.0	100.0	plus	1.31e-87	277	mate-pair-formation

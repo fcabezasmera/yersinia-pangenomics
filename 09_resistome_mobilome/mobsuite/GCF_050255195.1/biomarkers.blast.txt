@@ -1,0 +1,15 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000621__CP009126_00005|rep_cluster_1304	NZ_JBGEEC010000028.1 Yersinia enterocolitica strain GF54 contig00028, whole genome shotgun sequence	918	52202	6	918	38222	39134	914	14	98.249	99.0	99.0	plus	0.0	1598	replicon
+CP000974_00005|rep_cluster_2358	NZ_JBGEEC010000039.1 Yersinia enterocolitica strain GF54 contig00039, whole genome shotgun sequence	528	2692	1	524	381	889	530	32	88.868	99.0	99.0	plus	4.009999999999999e-180	627	replicon
+NC_019096_00001|MOBP	NZ_JBGEEC010000023.1 Yersinia enterocolitica strain GF54 contig00023, whole genome shotgun sequence	388	68269	1	385	62063	63217	385	62	83.896	99.0	99.0	minus	0.0	675	relaxase
+CP009126_00025|MOBC	NZ_JBGEEC010000028.1 Yersinia enterocolitica strain GF54 contig00028, whole genome shotgun sequence	248	52202	1	248	19376	20119	248	5	97.984	100.0	100.0	minus	5.23e-165	503	relaxase
+CP010360_00062|MOBP	NZ_JBGEEC010000032.1 Yersinia enterocolitica strain GF54 contig00032, whole genome shotgun sequence	667	28430	1	663	23580	25568	667	65	89.055	99.0	99.0	minus	0.0	1060	relaxase
+NC_017624_00009|MPF_T	NZ_JBGEEC010000023.1 Yersinia enterocolitica strain GF54 contig00023, whole genome shotgun sequence	611	68269	1	599	49212	51008	599	63	89.482	98.0	98.0	minus	0.0	1093	mate-pair-formation
+NC_019899_00038|MPF_T	NZ_JBGEEC010000023.1 Yersinia enterocolitica strain GF54 contig00023, whole genome shotgun sequence	309	68269	1	309	53274	54200	309	40	87.055	100.0	100.0	minus	0.0	566	mate-pair-formation
+NC_019899_00039|MPF_T	NZ_JBGEEC010000023.1 Yersinia enterocolitica strain GF54 contig00023, whole genome shotgun sequence	242	68269	1	242	54209	54934	242	46	80.992	100.0	100.0	minus	2.55e-124	386	mate-pair-formation
+NC_019899_00040|MPF_T	NZ_JBGEEC010000023.1 Yersinia enterocolitica strain GF54 contig00023, whole genome shotgun sequence	351	68269	1	351	55211	56263	351	52	85.185	100.0	100.0	minus	0.0	594	mate-pair-formation
+NC_023277_00163|MPF_T	NZ_JBGEEC010000023.1 Yersinia enterocolitica strain GF54 contig00023, whole genome shotgun sequence	717	68269	1	715	57295	59439	715	114	84.056	99.0	99.0	minus	0.0	1262	mate-pair-formation
+NC_008757_00079|MPF_T	NZ_JBGEEC010000032.1 Yersinia enterocolitica strain GF54 contig00032, whole genome shotgun sequence	337	28430	1	329	8467	9453	329	55	83.283	98.0	98.0	minus	1.42e-153	474	mate-pair-formation
+NC_022344_00330|MPF_T	NZ_JBGEEC010000032.1 Yersinia enterocolitica strain GF54 contig00032, whole genome shotgun sequence	234	28430	1	234	9453	10154	234	23	90.171	100.0	100.0	minus	4.6e-143	439	mate-pair-formation
+NC_008757_00075|MPF_T	NZ_JBGEEC010000032.1 Yersinia enterocolitica strain GF54 contig00032, whole genome shotgun sequence	813	28430	1	806	12675	15080	806	94	87.841	99.0	99.0	minus	0.0	1401	mate-pair-formation
+NC_022344_00321|MPF_T	NZ_JBGEEC010000032.1 Yersinia enterocolitica strain GF54 contig00032, whole genome shotgun sequence	667	28430	1	667	17288	19291	670	60	90.299	100.0	100.0	minus	0.0	1160	mate-pair-formation

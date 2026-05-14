@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+GCA_028849105.1.fna	chromosome			ABKTKL010000013.1 Yersinia enterocolitica isolate 735121 SAMN11890778-rid7668203.denovo.13, whole genome shotgun sequence	117538	0.4505947012880941	7f5c2246aedc1bb8e402ae5440363f26	00676	MF072964	ISCfr4	IS30	1253	15	1252	80314	81551						

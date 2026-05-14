@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP016722|MOB_unknown	NZ_CP107084.1 Yersinia enterocolitica strain NW115 plasmid unnamed2	218	3300	1	194	2014	2206	195	11	92.821	89.0	89.0	plus	4.73e-76	279	oriT
+FJ696405|Col(Ye4449)	NZ_CP107083.1 Yersinia enterocolitica strain NW115 plasmid unnamed1	194	5350	1	194	4721	4914	194	23	88.144	100.0	100.0	plus	1.18e-61	231	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	NZ_CP107084.1 Yersinia enterocolitica strain NW115 plasmid unnamed2	519	3300	38	518	1551	2032	489	59	84.867	93.0	93.0	minus	1.1e-135	479	replicon
+NC_019223_00002|MOBP	NZ_CP107083.1 Yersinia enterocolitica strain NW115 plasmid unnamed1	511	5350	1	511	3199	4731	511	27	94.716	100.0	100.0	minus	0.0	916	relaxase
+NC_013090_00004|MOBP	NZ_CP107084.1 Yersinia enterocolitica strain NW115 plasmid unnamed2	499	3300	204	499	1	882	296	29	89.527	59.0	100.0	plus	8.99e-174	516	relaxase
+CP011605_00002|MOBP	NZ_CP107084.1 Yersinia enterocolitica strain NW115 plasmid unnamed2	501	3300	1	228	2615	3298	228	10	95.614	46.0	100.0	plus	5.93e-149	451	relaxase

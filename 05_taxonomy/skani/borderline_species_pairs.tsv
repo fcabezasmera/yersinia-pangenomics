@@ -1,0 +1,17 @@
+ref_sp	query_sp	n_pairs	mean_ani	max_ani
+Yersinia intermedia	Yersinia sp.	47	98.8223404255319	100.0
+Yersinia pestis	Yersinia pseudotuberculosis	1327116	99.25473672233626	100.0
+Yersinia rochesterensis	Yersinia sp.	28	99.15107142857143	100.0
+Yersinia alsatica	Yersinia frederiksenii	36	98.63055555555555	99.98
+Yersinia entomophaga	Yersinia sp.	6	99.815	99.98
+Yersinia sp.	Yersinia vastinensis	20	99.69500000000001	99.98
+Yersinia enterocolitica	Yersinia sp.	5397	97.89861033907728	99.95
+Yersinia bercovieri	Yersinia sp.	59	96.65186440677967	99.94
+Yersinia frederiksenii	Yersinia massiliensis	144	97.88826388888889	99.94
+Yersinia intermedia	Yersinia massiliensis	16	96.6125	99.06
+Yersinia pseudotuberculosis	Yersinia wautersii	1098	97.73448087431694	98.78
+Yersinia pestis	Yersinia wautersii	10878	97.57451185879758	98.05
+Yersinia frederiksenii	Yersinia intermedia	9	95.54222222222222	95.68
+Yersinia pseudotuberculosis	Yersinia similis	503	95.07594433399602	95.37
+Yersinia pestis	Yersinia similis	691	95.07251808972504	95.36
+Yersinia similis	Yersinia wautersii	5	95.08200000000001	95.14

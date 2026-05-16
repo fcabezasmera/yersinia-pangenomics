@@ -1,0 +1,27 @@
+accession	best_match_sp	best_ani	best_af	reclassify
+GCF_946902935.1	Yersinia rochesterensis	99.58	92.8	True
+GCF_963882275.1	Yersinia vastinensis	99.98	91.73	True
+GCF_963892745.1	Yersinia bercovieri	95.49	78.64	True
+GCF_002073315.2	Yersinia intermedia	100.0	100.0	True
+GCF_003634395.1	Yersinia entomophaga	99.98	98.56	True
+GCF_004100405.1	Yersinia vastinensis	99.98	91.73	True
+GCF_005937895.2	Yersinia bercovieri	99.94	94.52	True
+GCF_018224905.1	Yersinia bercovieri	95.49	78.64	True
+GCF_026183365.1	Yersinia rochesterensis	100.0	98.3	True
+GCF_030433455.1	Yersinia enterocolitica	99.95	91.93	True
+GCF_041538345.1	no_hit	0.0	0.0	False
+GCF_041538325.1	no_hit	0.0	0.0	False
+GCF_048593885.1	no_hit	0.0	0.0	False
+GCF_052217185.1	no_hit	0.0	0.0	False
+GCF_052217165.1	no_hit	0.0	0.0	False
+GCF_052217145.1	no_hit	0.0	0.0	False
+GCF_048593855.1	no_hit	0.0	0.0	False
+GCF_048593865.1	no_hit	0.0	0.0	False
+GCF_052217125.1	no_hit	0.0	0.0	False
+GCF_052217105.1	no_hit	0.0	0.0	False
+GCF_050586585.1	Yersinia entomophaga	99.87	92.19	True
+GCF_056636475.1	no_hit	0.0	0.0	False
+GCF_056636495.1	no_hit	0.0	0.0	False
+GCF_056636415.1	no_hit	0.0	0.0	False
+GCF_056636455.1	no_hit	0.0	0.0	False
+GCF_056636425.1	no_hit	0.0	0.0	False

@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "finding": "Putative novel Yersinia species",
+    "n_genomes": 15,
+    "ani_threshold": 95.0,
+    "min_intragroup_ani": 97.61,
+    "mean_intragroup_ani": 98.82,
+    "geographic_distribution": "Circumpolar (Arctic Russia + Antarctica)",
+    "collection_years": "2006-2025",
+    "niche": "Environmental [E]",
+    "assembly_level": "All Contig (GCF RefSeq)",
+    "criteria_met": "ANI < 95% with all described Yersinia species; ANI > 95% within group",
+    "formal_proposal_required": "Yes - phenotypic characterization per IJSEM guidelines",
+    "working_name": "Candidatus Yersinia sp. nov. (circumpolar clade)",
+    "note": "Formal species description requires wet-lab characterization beyond scope of this study"
+  },
+  "accessions_by_group": {
+    "Arctic_Russia": [
+      "GCF_041538345.1",
+      "GCF_041538325.1",
+      "GCF_048593885.1",
+      "GCF_052217185.1",
+      "GCF_052217165.1",
+      "GCF_052217145.1",
+      "GCF_048593855.1",
+      "GCF_048593865.1",
+      "GCF_052217125.1",
+      "GCF_052217105.1"
+    ],
+    "Antarctica": [
+      "GCF_056636475.1",
+      "GCF_056636495.1",
+      "GCF_056636415.1",
+      "GCF_056636455.1",
+      "GCF_056636425.1"
+    ]
+  }
+}

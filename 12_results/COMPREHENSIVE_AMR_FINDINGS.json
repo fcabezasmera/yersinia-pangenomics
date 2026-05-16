@@ -1,0 +1,66 @@
+{
+  "analysis": "Comprehensive genus-wide AMR metadata analysis",
+  "dataset": "20,966 AMR gene hits across 9,957 genomes",
+  "key_findings": {
+    "1_beta_lactam_streptogramin_dominance": {
+      "beta_lactam_hits": 9811,
+      "streptogramin_hits": 9264,
+      "combined_pct": "91.4% of all AMR hits",
+      "explanation": "blaA+vat(F) co-occurrence drives these numbers \u2014 both are core in Y. enterocolitica"
+    },
+    "2_dramatic_temporal_surge": {
+      "pre_2000": "9.0% AMR prevalence",
+      "2010_2014": "82.5% AMR prevalence",
+      "2020_plus": "96.6% AMR prevalence",
+      "interpretation": "10-fold increase from pre-2000 to 2020+. Partly sequencing bias (more clinical isolates sequenced post-2010) but also genuine AMR selection. Requires rarefaction analysis."
+    },
+    "3_geographic_hotspots": {
+      "UK_98.9pct": "Highest AMR prevalence \u2014 dominated by clinical Y. enterocolitica",
+      "USA_98.3pct": "Similar \u2014 clinical surveillance bias",
+      "Russia_10pct": "Low AMR \u2014 environmental Y. pestis from Siberia (no antibiotic pressure)",
+      "China_Mongolia_5.6pct": "Lowest \u2014 Y. pestis plague surveillance (wildlife, no treatment)",
+      "interpretation": "Geographic AMR pattern perfectly tracks clinical vs wildlife surveillance: countries with dominant clinical sequencing show near-100% AMR; countries sequencing wildlife/environmental isolates show near-0%"
+    },
+    "4_host_AMR_gradient": {
+      "Fish_100pct": "blaYRC universal \u2014 intrinsic, not acquired",
+      "Pig_93.8pct": "blaA/vat(F) core + SA cluster acquired genes",
+      "Human_88.7pct": "Clinical Y. enterocolitica \u2014 blaA/vat(F) + additional acquired",
+      "Cattle_57.1pct": "Mixed \u2014 some Y. enterocolitica, some other species",
+      "Poultry_33.3pct": "Low \u2014 3 genomes only, insufficient",
+      "Rodent_Marmot_1.7pct": "Near-zero \u2014 Y. pestis from wildlife, no AMR pressure",
+      "interpretation": "AMR gradient follows antibiotic use intensity: aquaculture (high beta-lactam use) \u2192 pig farming (high use) \u2192 human clinical (high use) \u2192 wildlife (no use)"
+    },
+    "5_aac6_in_mollaretii": {
+      "finding": "aac(6') in 62.2% of Y. mollaretii genomes",
+      "significance": "aac(6') = aminoglycoside acetyltransferase \u2014 modifies gentamicin/tobramycin. Y. mollaretii is rarely studied but carries significant acquired AMR. This is the 'surveillance-neglected species' with cryptic mobilome referenced in Paper 1 title."
+    },
+    "6_novel_species_blaFONA": {
+      "gene": "blaFONA",
+      "genome": "GCF_052217185.1 (Arctic Russia, 2021)",
+      "normal_host": "Serratia fonticola (aquatic environment)",
+      "interpretation": "blaFONA in the novel circumpolar clade = horizontal gene transfer from co-occurring environmental bacteria in Arctic permafrost/water. Demonstrates environmental AMR acquisition in the cryptic novel species. The one genome carrying blaFONA is from Franz Josef Land (Arctic archipelago) \u2014 a geographically isolated environment where blaFONA-carrying Serratia may co-exist."
+    },
+    "7_pseudotuberculosis_minimal_amr": {
+      "pct_amr": 2.2,
+      "genes": [
+        "aph(3'')-Ib",
+        "aph(6)-Id",
+        "sul2",
+        "tet(A)"
+      ],
+      "interpretation": "Y. pseudotuberculosis rarely acquires AMR despite being a human pathogen. Likely reflects its ecology (animal reservoir, sporadic human cases) vs Y. enterocolitica (food chain, consistent human exposure)"
+    }
+  },
+  "paper_figures": {
+    "Fig1": "Genus-wide ANI heatmap + novel species circumpolar distribution",
+    "Fig2": "Marker gene saturation \u2014 all 5 markers vs ANI comparison",
+    "Fig3": "Species AMR profile matrix (heatmap) \u2014 29 species \u00d7 69 genes",
+    "Fig4": "Temporal AMR surge 1990-2026 (line graph)",
+    "Fig5": "Geographic AMR hotspots (world map)",
+    "Fig6": "Three-class mobilome architecture (conceptual diagram)",
+    "Fig7": "SA cluster mechanism (integron acquisition cartoon)",
+    "SuppFig1": "D statistic results (pending)",
+    "SuppFig2": "Host AMR gradient",
+    "SuppFig3": "Environmental resistome paradox"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "integron_finder": {
+    "CALIN_elements_per_genome": 14,
+    "all_SA_genomes_positive": true,
+    "blaYRC_fish_negative": true,
+    "interpretation": "CALIN = chromosomally integrated class 1 integron (integrase lost = permanently integrated MDR)"
+  },
+  "genomad": {
+    "SA_plasmid_sequences": 127,
+    "SA_mean_score": 0.898,
+    "DTR_circular_confirmed": 1,
+    "ITR_transposon_like": 4,
+    "fish_plasmid_sequences": 48,
+    "total_viral_sequences": 199,
+    "interpretation": "DTR+ITR confirm transposon-mediated chromosomal integration mechanism"
+  },
+  "integrated_mechanism": "Proposed mechanism for SA cluster MDR:\n1. Conjugative plasmid (IncFII, 41 kb DTR) enters pig Y. enterocolitica\n2. Class 1 integron on plasmid acquires sat2/dfrA1/floR/aadA1 cassettes\n3. Transposon (ITR elements) mediates integron transfer to chromosome\n4. Plasmid may be lost; chromosomal CALIN element persists permanently\nResult: stable heritable MDR unaffected by plasmid curing"
+}

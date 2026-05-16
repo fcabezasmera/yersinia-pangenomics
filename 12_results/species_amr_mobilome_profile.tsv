@@ -1,0 +1,29 @@
+species	n	pct_amr	mean_burden	unique_genes	core_genes	acquired_genes	pct_plasmid	mean_plasmid_kb
+Y. enterocolitica	5398	100.0	2.18	60	blaA, vat(F)	-	60.4	37.0
+Y. pestis	3626	0.3	0.01	12	-	-	99.6	173.1
+Y. pseudotuberculosis	366	2.2	0.04	7	-	-	76.2	59.2
+Y. ruckeri	209	100.0	1.11	11	blaYRC	-	42.6	39.6
+Y. kristensenii	53	9.4	0.09	1	-	blaTEM-116	15.1	2.5
+Y. intermedia	49	0.0	0.0	0	-	-	18.4	5.9
+Y. mollaretii	37	62.2	1.22	4	-	aac(6'), blaTEM, blaYEM	13.5	5.7
+Y. bercovieri	24	0.0	0.0	0	-	-	29.2	19.2
+Y. frederiksenii	22	4.5	0.05	1	-	-	9.1	8.5
+Y. proxima	19	100.0	1.05	2	blaA	qnrD1	15.8	2.9
+Y. alsatica	18	11.1	0.11	1	-	qacE	16.7	7.0
+Y. rochesterensis	16	0.0	0.0	0	-	-	18.8	1.4
+Y. massiliensis	16	0.0	0.0	0	-	-	31.2	31.0
+Y. sp. (novel candidate)	15	6.7	0.07	1	-	blaFONA	13.3	2.1
+Y. aleksiciae	14	0.0	0.0	0	-	-	57.1	14.9
+Y. rohdei	13	0.0	0.0	0	-	-	30.8	11.4
+Y. vastinensis	12	0.0	0.0	0	-	-	25.0	1.8
+Y. aldovae	11	0.0	0.0	0	-	-	0.0	0.0
+Y. similis	10	20.0	0.2	1	-	blaTEM	40.0	19.0
+Y. entomophaga	5	100.0	1.4	2	blaYRC	qnrD1	60.0	36.0
+Y. hibernica	4	0.0	0.0	0	-	-	100.0	74.8
+Y. thracica	4	0.0	0.0	0	-	-	0.0	0.0
+Y. artesiana	4	100.0	1.0	1	blaA	-	0.0	0.0
+Y. pekkanenii	3	0.0	0.0	0	-	-	100.0	45.2
+Y. canariae	3	0.0	0.0	0	-	-	0.0	0.0
+Y. wautersii	3	0.0	0.0	0	-	-	0.0	0.0
+Y. nurmii	2	100.0	1.5	2	blaYRC	qnrD	100.0	6.0
+Y. fenwicki	1	100.0	2.0	2	blaA, vat(F)	-	0.0	0.0

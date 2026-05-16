@@ -1,0 +1,28 @@
+{
+  "analysis": "Genus-wide AMR + mobilome by species",
+  "key_findings": {
+    "intrinsic_blaA_lineage": [
+      "Y. enterocolitica",
+      "Y. proxima",
+      "Y. artesiana",
+      "Y. fenwicki"
+    ],
+    "intrinsic_blaYRC_lineage": [
+      "Y. ruckeri",
+      "Y. entomophaga",
+      "Y. nurmii"
+    ],
+    "pestis_paradox": "99.6% plasmid prevalence (virulence) but 0.3% AMR",
+    "clean_species": [
+      "Y. intermedia",
+      "Y. bercovieri",
+      "Y. rochesterensis",
+      "Y. massiliensis",
+      "Y. aleksiciae",
+      "Y. rohdei",
+      "Y. vastinensis",
+      "Y. aldovae"
+    ],
+    "novel_species_amr": "1/15 genomes (6.7%) \u2014 identity TBD"
+  }
+}

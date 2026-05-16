@@ -1,0 +1,341 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy	accession
+ABKSWW010000028.1	8757	No terminal repeats		13	11	0.9745		5	18.4025	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000011.1|provirus_57413_89136	31724	Provirus	57413-89136	43	11	0.9722		18	52.0674	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000027.1	9633	No terminal repeats		14	11	0.9677		5	18.7654	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000039.1	1551	No terminal repeats		4	11	0.9617		3	6.0023	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000031.1	4546	No terminal repeats		12	11	0.96		1	8.5743	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000058.1	537	No terminal repeats		2	11	0.9393		1	3.1141	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000034.1	1989	No terminal repeats		2	11	0.9168		1	2.9793	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000035.1	1983	No terminal repeats		3	11	0.9097		3	4.6875	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000020.1|provirus_156_16694	16539	Provirus	156-16694	25	11	0.8595		2	7.5309	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000033.1	2557	No terminal repeats		6	11	0.8489		1	3.001	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000051.1	891	No terminal repeats		2	11	0.844		1	1.7174	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000059.1	476	No terminal repeats		1	11	0.8434		1	1.4429	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000038.1	1632	No terminal repeats		1	11	0.8215		1	1.5038	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000061.1	459	No terminal repeats		1	11	0.7924		1	1.4429	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWW010000002.1|provirus_105887_131017	25131	Provirus	105887-131017	23	11	0.7677		0	6.3912	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830745.1
+ABKSWU010000036.1|provirus_22198_33112	10915	Provirus	22198-33112	16	11	0.9678		5	18.8959	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830945.1
+ABKSWU010000010.1|provirus_86168_121147	34980	Provirus	86168-121147	45	11	0.9669		20	45.8666	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830945.1
+ABKSWU010000002.1|provirus_242882_272804	29923	Provirus	242882-272804	41	11	0.9606		22	47.3729	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028830945.1
+ABKTET010000001.1|provirus_897551_927143	29593	Provirus	897551-927143	38	11	0.9752		14	51.555	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836405.1
+ABKTET010000002.1|provirus_57888_102754	44867	Provirus	57888-102754	60	11	0.9661		18	73.4863	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836405.1
+ABKTET010000001.1|provirus_127942_187292	59351	Provirus	127942-187292	69	11	0.9631		8	67.0226	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836405.1
+ABKTEV010000003.1|provirus_116702_156007	39306	Provirus	116702-156007	59	11	0.9696		22	67.2284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836425.1
+ABKTEV010000010.1|provirus_1_35398	35398	Provirus	1-35398	43	11	0.9559		23	49.5493	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836425.1
+ABKTEV010000006.1|provirus_84462_129957	45496	Provirus	84462-129957	63	11	0.953		20	61.9584	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836425.1
+ABKTEV010000001.1|provirus_35_12493	12459	Provirus	35-12493	20	11	0.928		2	10.5922	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836425.1
+ABKTEV010000018.1|provirus_2_26632	26631	Provirus	2-26632	18	11	0.8191		5	8.2328	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836425.1
+ABKTEY010000001.1|provirus_469571_495777	26207	Provirus	469571-495777	34	11	0.9756		14	50.4557	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836465.1
+ABKTEY010000006.1|provirus_3_41330	41328	Provirus	3-41330	57	11	0.9673		16	62.4446	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836465.1
+ABKTEY010000038.1	2420	No terminal repeats		4	11	0.9077		3	4.9758	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836465.1
+ABKTEX010000002.1|provirus_116702_156025	39324	Provirus	116702-156025	59	11	0.9691		22	67.2284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836505.1
+ABKTEX010000008.1|provirus_470_35324	34855	Provirus	470-35324	42	11	0.9583		23	49.5493	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836505.1
+ABKTEX010000001.1|provirus_35_12493	12459	Provirus	35-12493	20	11	0.928		2	10.5922	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836505.1
+ABKTEX010000018.1|provirus_2_26632	26631	Provirus	2-26632	18	11	0.8191		5	8.2328	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836505.1
+ABKTEW010000013.1|provirus_26691_61670	34980	Provirus	26691-61670	45	11	0.9669		20	45.8666	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836585.1
+ABKTEW010000002.1|provirus_242882_272804	29923	Provirus	242882-272804	41	11	0.9606		22	47.3729	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028836585.1
+ABKTIX010000002.1|provirus_116702_156007	39306	Provirus	116702-156007	59	11	0.9696		22	67.2284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848265.1
+ABKTIX010000019.1|provirus_23682_58515	34834	Provirus	23682-58515	42	11	0.96		23	49.5493	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848265.1
+ABKTIX010000007.1|provirus_84462_129957	45496	Provirus	84462-129957	62	11	0.9522		18	60.2401	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848265.1
+ABKTIX010000001.1|provirus_435535_447993	12459	Provirus	435535-447993	20	11	0.9252		2	10.5922	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848265.1
+ABKTIX010000020.1|provirus_2_26632	26631	Provirus	2-26632	18	11	0.8191		5	8.2328	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848265.1
+ABKTIY010000024.1	31618	No terminal repeats		47	11	0.9788		17	63.3896	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIY010000004.1|provirus_3_6908	6906	Provirus	3-6908	12	11	0.9725		1	11.263	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIY010000003.1|provirus_3_40184	40182	Provirus	3-40184	59	11	0.9672		20	66.4073	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIY010000011.1|provirus_218_30212	29995	Provirus	218-30212	37	11	0.9632		9	37.8511	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIY010000039.1	861	No terminal repeats		2	11	0.9617		2	2.8577	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIY010000017.1	84040	No terminal repeats		100	11	0.9448		12	50.631	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIY010000025.1|provirus_3_20855	20853	Provirus	3-20855	18	11	0.9302		0	10.8851	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIY010000020.1|provirus_2_26626	26625	Provirus	2-26626	18	11	0.8203		5	8.2328	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848285.1
+ABKTIZ010000020.1	11935	No terminal repeats		17	11	0.9785		15	24.9944	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000005.1|provirus_3_25752	25750	Provirus	3-25752	39	11	0.972		4	42.0018	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000002.1|provirus_418041_449836	31796	Provirus	418041-449836	41	11	0.967		23	50.4795	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000035.1|provirus_46702_78497	31796	Provirus	46702-78497	41	11	0.967		23	50.4795	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000019.1	19681	No terminal repeats		25	11	0.9667		13	34.8093	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000026.1	1559	No terminal repeats		3	11	0.9626		3	4.576	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000025.1	1595	No terminal repeats		4	11	0.9621		4	6.2942	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000016.1|provirus_23682_40265	16584	Provirus	23682-40265	24	11	0.9507		1	19.561	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000023.1	3426	No terminal repeats		8	11	0.9247		1	4.4055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+ABKTIZ010000002.1|provirus_360126_369243	9118	Provirus	360126-369243	12	11	0.7036		3	4.9689	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCA_028848305.1
+NZ_JAHSQX010000015.1|provirus_83385_95077	11693	Provirus	83385-95077	14	11	0.9734		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000083.1	3839	No terminal repeats		4	11	0.9656		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000046.1|provirus_3_14509	14507	Provirus	3-14509	18	11	0.9653		4	20.2453	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000072.1	8261	No terminal repeats		12	11	0.9646		4	9.6416	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000087.1	2427	No terminal repeats		5	11	0.9588		4	7.5075	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000070.1	9259	No terminal repeats		17	11	0.9563		10	17.5971	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000051.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000040.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000031.1|provirus_37044_57794	20751	Provirus	37044-57794	37	11	0.8838		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000034.1|provirus_39484_49883	10400	Provirus	39484-49883	12	11	0.8413		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000015.1|provirus_83385_95077	11693	Provirus	83385-95077	14	11	0.9734		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000083.1	3839	No terminal repeats		4	11	0.9656		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000046.1|provirus_3_14509	14507	Provirus	3-14509	18	11	0.9653		4	20.2453	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000072.1	8261	No terminal repeats		12	11	0.9646		4	9.6416	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000087.1	2427	No terminal repeats		5	11	0.9588		4	7.5075	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000070.1	9259	No terminal repeats		17	11	0.9563		10	17.5971	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000051.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000040.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000031.1|provirus_37044_57794	20751	Provirus	37044-57794	37	11	0.8838		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQX010000034.1|provirus_39484_49883	10400	Provirus	39484-49883	12	11	0.8413		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395055.1
+NZ_JAHSQZ010000032.1|provirus_42544_54175	11632	Provirus	42544-54175	14	11	0.9726		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000080.1	6478	No terminal repeats		14	11	0.9682		9	13.9094	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000047.1|provirus_13_14569	14557	Provirus	13-14569	19	11	0.9656		5	21.6118	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000085.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000070.1	10121	No terminal repeats		15	11	0.9543		4	10.8581	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000053.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000005.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000073.1	9048	No terminal repeats		16	11	0.9441		10	17.5971	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000091.1	1335	No terminal repeats		2	11	0.9183		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000029.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000033.1|provirus_39891_50275	10385	Provirus	39891-50275	13	11	0.8287		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000032.1|provirus_42544_54175	11632	Provirus	42544-54175	14	11	0.9726		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000080.1	6478	No terminal repeats		14	11	0.9682		9	13.9094	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000047.1|provirus_13_14569	14557	Provirus	13-14569	19	11	0.9656		5	21.6118	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000085.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000070.1	10121	No terminal repeats		15	11	0.9543		4	10.8581	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000053.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000005.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000073.1	9048	No terminal repeats		16	11	0.9441		10	17.5971	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000091.1	1335	No terminal repeats		2	11	0.9183		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000029.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQZ010000033.1|provirus_39891_50275	10385	Provirus	39891-50275	13	11	0.8287		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395095.1
+NZ_JAHSQW010000094.1	7168	No terminal repeats		9	11	0.9771		7	11.3562	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000105.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000062.1|provirus_1_5743	5743	Provirus	1-5743	10	11	0.9519		4	12.6463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000068.1	15981	No terminal repeats		20	11	0.9518		4	15.5223	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000056.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000040.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000101.1	5039	No terminal repeats		12	11	0.9442		6	9.9975	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000099.1	5909	No terminal repeats		10	11	0.9424		5	8.3714	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000034.1|provirus_39478_45365	5888	Provirus	39478-45365	7	11	0.9377		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000108.1	3289	No terminal repeats		3	11	0.9315		0	2.9348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Peduoviridae	GCF_022395135.1
+NZ_JAHSQW010000110.1	1584	No terminal repeats		2	11	0.9266		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000113.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000112.1	1428	No terminal repeats		4	11	0.9134		2	4.4752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000115.1	917	No terminal repeats		3	11	0.913		1	2.7569	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000029.1|provirus_37036_57174	20139	Provirus	37036-57174	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000094.1	7168	No terminal repeats		9	11	0.9771		7	11.3562	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000105.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000062.1|provirus_1_5743	5743	Provirus	1-5743	10	11	0.9519		4	12.6463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000068.1	15981	No terminal repeats		20	11	0.9518		4	15.5223	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000056.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000040.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000101.1	5039	No terminal repeats		12	11	0.9442		6	9.9975	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000099.1	5909	No terminal repeats		10	11	0.9424		5	8.3714	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000034.1|provirus_39478_45365	5888	Provirus	39478-45365	7	11	0.9377		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000108.1	3289	No terminal repeats		3	11	0.9315		0	2.9348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Peduoviridae	GCF_022395135.1
+NZ_JAHSQW010000110.1	1584	No terminal repeats		2	11	0.9266		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000113.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000112.1	1428	No terminal repeats		4	11	0.9134		2	4.4752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000115.1	917	No terminal repeats		3	11	0.913		1	2.7569	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQW010000029.1|provirus_37036_57174	20139	Provirus	37036-57174	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395135.1
+NZ_JAHSQU010000011.1|provirus_80698_97546	16849	Provirus	80698-97546	25	11	0.9726		15	26.2171	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000047.1|provirus_3_14444	14442	Provirus	3-14444	18	11	0.9709		4	20.2453	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000093.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000078.1	9599	No terminal repeats		17	11	0.957		10	17.5971	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000075.1	10342	No terminal repeats		14	11	0.9507		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000054.1|provirus_14899_26655	11757	Provirus	14899-26655	14	11	0.949		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000041.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000099.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000029.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000034.1|provirus_39926_50309	10384	Provirus	39926-50309	13	11	0.8281		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000011.1|provirus_80698_97546	16849	Provirus	80698-97546	25	11	0.9726		15	26.2171	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000047.1|provirus_3_14444	14442	Provirus	3-14444	18	11	0.9709		4	20.2453	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000093.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000078.1	9599	No terminal repeats		17	11	0.957		10	17.5971	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000075.1	10342	No terminal repeats		14	11	0.9507		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000054.1|provirus_14899_26655	11757	Provirus	14899-26655	14	11	0.949		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000041.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000099.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000029.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQU010000034.1|provirus_39926_50309	10384	Provirus	39926-50309	13	11	0.8281		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395155.1
+NZ_JAHSQV010000085.1	6991	No terminal repeats		8	11	0.9763		3	9.063	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000092.1	5733	No terminal repeats		12	11	0.9681		7	11.1283	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000014.1|provirus_80791_99294	18504	Provirus	80791-99294	25	11	0.9674		15	27.9354	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000097.1	3916	No terminal repeats		4	11	0.9616		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000077.1	8874	No terminal repeats		12	11	0.9571		4	9.6416	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000057.1|provirus_2_5828	5827	Provirus	2-5828	10	11	0.9526		4	12.6463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000052.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000040.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000099.1	3386	No terminal repeats		3	11	0.9405		0	2.9348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Peduoviridae	GCF_022395165.1
+NZ_JAHSQV010000034.1|provirus_39530_45417	5888	Provirus	39530-45417	7	11	0.9377		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000104.1	1524	No terminal repeats		2	11	0.9373		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000029.1|provirus_37060_57198	20139	Provirus	37060-57198	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000085.1	6991	No terminal repeats		8	11	0.9763		3	9.063	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000092.1	5733	No terminal repeats		12	11	0.9681		7	11.1283	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000014.1|provirus_80791_99294	18504	Provirus	80791-99294	25	11	0.9674		15	27.9354	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000097.1	3916	No terminal repeats		4	11	0.9616		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000077.1	8874	No terminal repeats		12	11	0.9571		4	9.6416	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000057.1|provirus_2_5828	5827	Provirus	2-5828	10	11	0.9526		4	12.6463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000052.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000040.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000099.1	3386	No terminal repeats		3	11	0.9405		0	2.9348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Peduoviridae	GCF_022395165.1
+NZ_JAHSQV010000034.1|provirus_39530_45417	5888	Provirus	39530-45417	7	11	0.9377		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000104.1	1524	No terminal repeats		2	11	0.9373		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQV010000029.1|provirus_37060_57198	20139	Provirus	37060-57198	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395165.1
+NZ_JAHSQS010000084.1	7756	No terminal repeats		10	11	0.9762		4	10.7813	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000062.1	16835	No terminal repeats		23	11	0.9644		14	25.3579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000057.1|provirus_438_9058	8621	Provirus	438-9058	12	11	0.9601		3	14.2146	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000075.1	10342	No terminal repeats		14	11	0.9509		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000054.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000042.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000099.1	1286	No terminal repeats		4	11	0.9407		3	5.8658	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000102.1	822	No terminal repeats		3	11	0.9177		1	2.7569	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000098.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000094.1	4535	No terminal repeats		10	11	0.9126		5	6.5841	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000028.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000032.1|provirus_39877_50158	10282	Provirus	39877-50158	13	11	0.8276		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000084.1	7756	No terminal repeats		10	11	0.9762		4	10.7813	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000062.1	16835	No terminal repeats		23	11	0.9644		14	25.3579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000057.1|provirus_438_9058	8621	Provirus	438-9058	12	11	0.9601		3	14.2146	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000075.1	10342	No terminal repeats		14	11	0.9509		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000054.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000042.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000099.1	1286	No terminal repeats		4	11	0.9407		3	5.8658	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000102.1	822	No terminal repeats		3	11	0.9177		1	2.7569	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000098.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000094.1	4535	No terminal repeats		10	11	0.9126		5	6.5841	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000028.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQS010000032.1|provirus_39877_50158	10282	Provirus	39877-50158	13	11	0.8276		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395195.1
+NZ_JAHSQY010000015.1|provirus_81589_93186	11598	Provirus	81589-93186	14	11	0.9716		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000049.1|provirus_2_15637	15636	Provirus	2-15637	20	11	0.9658		6	23.2776	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000091.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000076.1	9077	No terminal repeats		17	11	0.9597		10	17.5281	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000095.1	1077	No terminal repeats		3	11	0.9582		2	4.4752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000073.1	10342	No terminal repeats		14	11	0.9507		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000054.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000044.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000038.1|provirus_39891_45778	5888	Provirus	39891-45778	7	11	0.9377		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000031.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000089.1	4608	No terminal repeats		10	11	0.8922		5	6.6531	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000015.1|provirus_81589_93186	11598	Provirus	81589-93186	14	11	0.9716		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000049.1|provirus_2_15637	15636	Provirus	2-15637	20	11	0.9658		6	23.2776	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000091.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000076.1	9077	No terminal repeats		17	11	0.9597		10	17.5281	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000095.1	1077	No terminal repeats		3	11	0.9582		2	4.4752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000073.1	10342	No terminal repeats		14	11	0.9507		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000054.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9484		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000044.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000038.1|provirus_39891_45778	5888	Provirus	39891-45778	7	11	0.9377		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000031.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8953		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQY010000089.1	4608	No terminal repeats		10	11	0.8922		5	6.6531	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395215.1
+NZ_JAHSQR010000012.1|provirus_83034_94609	11576	Provirus	83034-94609	14	11	0.9711		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000089.1	2524	No terminal repeats		5	11	0.9668		4	7.5075	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000047.1|provirus_2_17514	17513	Provirus	2-17514	26	11	0.966		9	29.471	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000086.1	3843	No terminal repeats		4	11	0.9657		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000069.1	10487	No terminal repeats		15	11	0.9506		4	10.8581	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000052.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000039.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000082.1	5923	No terminal repeats		10	11	0.945		5	8.3714	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000030.1|provirus_37047_57185	20139	Provirus	37047-57185	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000085.1	4608	No terminal repeats		10	11	0.8922		5	6.6531	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000033.1|provirus_39891_50172	10282	Provirus	39891-50172	13	11	0.8276		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000012.1|provirus_83034_94609	11576	Provirus	83034-94609	14	11	0.9711		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000089.1	2524	No terminal repeats		5	11	0.9668		4	7.5075	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000047.1|provirus_2_17514	17513	Provirus	2-17514	26	11	0.966		9	29.471	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000086.1	3843	No terminal repeats		4	11	0.9657		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000069.1	10487	No terminal repeats		15	11	0.9506		4	10.8581	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000052.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000039.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000082.1	5923	No terminal repeats		10	11	0.945		5	8.3714	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000030.1|provirus_37047_57185	20139	Provirus	37047-57185	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000085.1	4608	No terminal repeats		10	11	0.8922		5	6.6531	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQR010000033.1|provirus_39891_50172	10282	Provirus	39891-50172	13	11	0.8276		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395235.1
+NZ_JAHSQT010000031.1|provirus_43132_54651	11520	Provirus	43132-54651	14	11	0.9719		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000074.1	7384	No terminal repeats		15	11	0.9618		9	14.0916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000082.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000043.1|provirus_1_23006	23006	Provirus	1-23006	36	11	0.9568		15	39.1399	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000067.1	10465	No terminal repeats		14	11	0.9499		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000051.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000039.1|provirus_147_11080	10934	Provirus	147-11080	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000022.1|provirus_43753_64386	20634	Provirus	43753-64386	37	11	0.8837		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000032.1|provirus_39907_50173	10267	Provirus	39907-50173	13	11	0.8279		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000031.1|provirus_43132_54651	11520	Provirus	43132-54651	14	11	0.9719		9	16.4491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000074.1	7384	No terminal repeats		15	11	0.9618		9	14.0916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000082.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000043.1|provirus_1_23006	23006	Provirus	1-23006	36	11	0.9568		15	39.1399	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000067.1	10465	No terminal repeats		14	11	0.9499		3	9.4916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000051.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000039.1|provirus_147_11080	10934	Provirus	147-11080	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000022.1|provirus_43753_64386	20634	Provirus	43753-64386	37	11	0.8837		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQT010000032.1|provirus_39907_50173	10267	Provirus	39907-50173	13	11	0.8279		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395255.1
+NZ_JAHSQQ010000086.1	7183	No terminal repeats		9	11	0.9759		7	11.3562	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000093.1	5545	No terminal repeats		6	11	0.9724		1	6.0307	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000097.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000060.1|provirus_1_5743	5743	Provirus	1-5743	10	11	0.9519		4	12.6463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000080.1	8768	No terminal repeats		12	11	0.9509		4	9.6416	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000055.1|provirus_14873_26571	11699	Provirus	14873-26571	14	11	0.948		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000042.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000099.1	3337	No terminal repeats		3	11	0.9443		0	2.9348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Peduoviridae	GCF_022395275.1
+NZ_JAHSQQ010000095.1	5039	No terminal repeats		12	11	0.9428		6	9.9975	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000092.1	5909	No terminal repeats		10	11	0.9424		5	8.3714	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000103.1	1604	No terminal repeats		2	11	0.9421		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000104.1	1461	No terminal repeats		4	11	0.9358		2	4.4752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000105.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000029.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000109.1	931	No terminal repeats		3	11	0.8785		1	2.7569	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000034.1|provirus_39914_50195	10282	Provirus	39914-50195	13	11	0.8276		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000086.1	7183	No terminal repeats		9	11	0.9759		7	11.3562	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000093.1	5545	No terminal repeats		6	11	0.9724		1	6.0307	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000097.1	3839	No terminal repeats		4	11	0.9603		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000060.1|provirus_1_5743	5743	Provirus	1-5743	10	11	0.9519		4	12.6463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000080.1	8768	No terminal repeats		12	11	0.9509		4	9.6416	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000055.1|provirus_14873_26571	11699	Provirus	14873-26571	14	11	0.948		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000042.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000099.1	3337	No terminal repeats		3	11	0.9443		0	2.9348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Peduoviridae	GCF_022395275.1
+NZ_JAHSQQ010000095.1	5039	No terminal repeats		12	11	0.9428		6	9.9975	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000092.1	5909	No terminal repeats		10	11	0.9424		5	8.3714	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000103.1	1604	No terminal repeats		2	11	0.9421		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000104.1	1461	No terminal repeats		4	11	0.9358		2	4.4752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000105.1	1335	No terminal repeats		2	11	0.9171		2	3.0323	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000029.1|provirus_37044_57182	20139	Provirus	37044-57182	36	11	0.8952		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000109.1	931	No terminal repeats		3	11	0.8785		1	2.7569	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQQ010000034.1|provirus_39914_50195	10282	Provirus	39914-50195	13	11	0.8276		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395275.1
+NZ_JAHSQP010000084.1	7036	No terminal repeats		14	11	0.9666		9	14.0916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000028.1|provirus_42501_60586	18086	Provirus	42501-60586	26	11	0.9664		15	26.4697	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000092.1	3843	No terminal repeats		4	11	0.9657		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000061.1|provirus_343_8963	8621	Provirus	343-8963	12	11	0.9601		3	14.2146	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000066.1	15693	No terminal repeats		21	11	0.9591		5	16.8888	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000095.1	3026	No terminal repeats		7	11	0.9556		5	9.2258	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000053.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000042.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000031.1|provirus_37044_57677	20634	Provirus	37044-57677	37	11	0.8841		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000034.1|provirus_39899_50281	10383	Provirus	39899-50281	12	11	0.8412		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000084.1	7036	No terminal repeats		14	11	0.9666		9	14.0916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000028.1|provirus_42501_60586	18086	Provirus	42501-60586	26	11	0.9664		15	26.4697	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000092.1	3843	No terminal repeats		4	11	0.9657		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000061.1|provirus_343_8963	8621	Provirus	343-8963	12	11	0.9601		3	14.2146	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000066.1	15693	No terminal repeats		21	11	0.9591		5	16.8888	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000095.1	3026	No terminal repeats		7	11	0.9556		5	9.2258	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000053.1|provirus_14873_26568	11696	Provirus	14873-26568	14	11	0.9482		7	10.055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000042.1|provirus_143_11076	10934	Provirus	143-11076	11	11	0.948		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000031.1|provirus_37044_57677	20634	Provirus	37044-57677	37	11	0.8841		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_JAHSQP010000034.1|provirus_39899_50281	10383	Provirus	39899-50281	12	11	0.8412		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_022395295.1
+NZ_WJHZ01000011.1|provirus_113_7952	7840	Provirus	113-7952	8	11	0.9714		5	9.1441	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000078.1	5945	No terminal repeats		11	11	0.9692		7	13.6427	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000073.1	26157	No terminal repeats		38	11	0.9673		15	33.9669	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000097.1|provirus_15985_24506	8522	Provirus	15985-24506	12	11	0.9645		3	14.2146	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000114.1	1996	No terminal repeats		3	11	0.9516		3	4.0512	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000083.1|provirus_1_11218	11218	Provirus	1-11218	12	11	0.9389		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000101.1	4835	No terminal repeats		5	11	0.934		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000055.1|provirus_2_11158	11157	Provirus	2-11158	12	11	0.926		6	8.6287	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000128.1	1030	No terminal repeats		3	11	0.9182		1	3.1732	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000006.1|provirus_37222_57961	20740	Provirus	37222-57961	37	11	0.8826		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000140.1	721	No terminal repeats		2	11	0.8698		2	2.7491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000136.1	998	No terminal repeats		2	11	0.801		1	1.3122	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000107.1	3273	No terminal repeats		6	11	0.7872		3	4.0229	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000017.1|provirus_2_14159	14158	Provirus	2-14159	16	11	0.7754		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000011.1|provirus_113_7952	7840	Provirus	113-7952	8	11	0.9714		5	9.1441	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000078.1	5945	No terminal repeats		11	11	0.9692		7	13.6427	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000073.1	26157	No terminal repeats		38	11	0.9673		15	33.9669	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000097.1|provirus_15985_24506	8522	Provirus	15985-24506	12	11	0.9645		3	14.2146	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000114.1	1996	No terminal repeats		3	11	0.9516		3	4.0512	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000083.1|provirus_1_11218	11218	Provirus	1-11218	12	11	0.9389		3	10.4579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000101.1	4835	No terminal repeats		5	11	0.934		2	5.0928	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000055.1|provirus_2_11158	11157	Provirus	2-11158	12	11	0.926		6	8.6287	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000128.1	1030	No terminal repeats		3	11	0.9182		1	3.1732	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000006.1|provirus_37222_57961	20740	Provirus	37222-57961	37	11	0.8826		13	17.752	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000140.1	721	No terminal repeats		2	11	0.8698		2	2.7491	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000136.1	998	No terminal repeats		2	11	0.801		1	1.3122	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000107.1	3273	No terminal repeats		6	11	0.7872		3	4.0229	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1
+NZ_WJHZ01000017.1|provirus_2_14159	14158	Provirus	2-14159	16	11	0.7754		3	7.3824	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;	GCF_033712305.1

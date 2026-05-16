@@ -51,3 +51,22 @@ Eog
 
 # MOBsuite individual genome results
 09_resistome_mobilome/mobsuite/GC*/
+
+# IQ-TREE checkpoints
+*.ckp.gz
+*.model.gz
+
+# Individual geNomad/IntegronFinder genome dirs
+09_resistome_mobilome/genomad/GC*/
+09_resistome_mobilome/integron_finder/GC*/
+09_resistome_mobilome/platon/SA_cluster/
+09_resistome_mobilome/platon/blaYRC/
+09_resistome_mobilome/platon/other/
+
+# Raw Pfam HMM files (kept combined versions)
+07_markers/hmm_profiles/PF*.hmm
+07_markers/hmm_profiles/PF*.hmm.h3*
+
+# Compressed logs
+logs/*.gz
+platon_DB/

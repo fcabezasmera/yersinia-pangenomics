@@ -1,0 +1,40 @@
+{
+  "analysis": "Platon v1.7 \u2014 plasmid characterization of GWAS priority genomes",
+  "groups_analyzed": {
+    "SA_cluster": "12 Brazilian pig Y. enterocolitica (GCF_022395*)",
+    "blaYRC_fish": "10 Y. ruckeri fish isolates"
+  },
+  "SA_cluster_findings": {
+    "n_contigs_plasmid_signal": 31,
+    "circular_confirmed": 3,
+    "key_observation": "AMR-carrying contigs (11,575-22,455 bp) show LOW RDS (0.2-4.6) indicating CHROMOSOMAL location, NOT plasmid. The sat2/dfrA1/floR cluster is embedded in chromosomal integrons.",
+    "plasmid_evidence": {
+      "NZ_JAHSQV010000038.1": {
+        "size_bp": 41627,
+        "circular": true,
+        "RDS": 11.7,
+        "rep_genes": 2,
+        "interpretation": "Circular 41 kb plasmid \u2014 likely conjugative plasmid backbone WITHOUT AMR genes"
+      },
+      "large_contigs_122kb": {
+        "RDS": -7.9,
+        "interpretation": "Chromosomal \u2014 negative RDS confirms chromosome fragment"
+      }
+    },
+    "conclusion": "The South American MDR cluster (sat2/dfrA1/floR/aadA1) is chromosomally integrated in Brazilian pig Y. enterocolitica. Co-occurrence with circular plasmids (41 kb, RDS=11.7) suggests historical plasmid-mediated acquisition followed by chromosomal integration \u2014 a 'hit-and-run' plasmid transfer mechanism. This represents stable chromosomal MDR that cannot be cured by plasmid loss, posing persistent AMR risk in pig populations."
+  },
+  "blaYRC_fish_findings": {
+    "n_contigs_plasmid_signal": 14,
+    "AMR_contigs": 2,
+    "key_observation": "blaYRC-carrying contigs show LOW RDS (0.2-2.4) \u2014 chromosomal location in Y. ruckeri. No high-RDS AMR contigs detected \u2014 blaYRC is a chromosomal gene.",
+    "conclusion": "blaYRC is a CHROMOSOMAL beta-lactamase in Y. ruckeri \u2014 an intrinsic resistance gene, NOT plasmid-borne. This explains its extreme host specificity (OR=29,220 in fish) and lack of horizontal transfer to human clinical isolates. Classification: intrinsic resistance, not acquired AMR.",
+    "clinical_risk_assessment": "MINIMAL \u2014 chromosomal intrinsic gene, no transfer potential"
+  },
+  "integrated_conclusion": "Combined GWAS + MOBsuite + Platon analysis reveals two distinct AMR mobilome architectures in Yersinia:\n1. ACQUIRED chromosomal MDR (SA cluster): historically mobile, now stably integrated \u2014 persistent but not actively spreading\n2. INTRINSIC chromosomal resistance (blaYRC): species-specific, no transfer risk \u2014 surveillance red herring\n3. ACTIVE plasmid-borne AMR (blaA/vat(F) on IncFII): conjugative, spreading in clinical/food chain \u2014 highest surveillance priority",
+  "surveillance_recommendations": [
+    "Priority 1: IncFII-associated blaA/vat(F) in Y. enterocolitica \u2014 active spread",
+    "Priority 2: European class 1 integron cluster (aadA12/qacEdelta1/sul1)",
+    "Monitor: SA chromosomal MDR \u2014 stable but present in food chain pigs",
+    "Low priority: blaYRC \u2014 intrinsic, no transfer risk"
+  ]
+}

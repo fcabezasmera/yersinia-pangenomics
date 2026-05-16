@@ -1,0 +1,32 @@
+accession	species	niche	geo_loc	genes_found	n_genes
+GCA_028844625.1	Yersinia enterocolitica	H	France	['aadA1', 'aadA12', 'dfrA1']	3
+GCA_028849345.1	Yersinia enterocolitica	H	not applicable	['aadA1', 'dfrA1', 'sat2']	3
+GCA_037206555.1	Yersinia enterocolitica	H	United Kingdom: United Kingdom	['aadA1', 'floR', 'sat2']	3
+GCA_038086935.1	Yersinia enterocolitica	H	United Kingdom: United Kingdom	['aadA1', 'floR', 'sat2']	3
+GCA_045490595.1	Yersinia enterocolitica	H	USA	['aadA1', 'dfrA1', 'sat2']	3
+GCA_053918615.1	Yersinia enterocolitica	F	United Kingdom: United Kingdom	['aadA1', 'dfrA1', 'sat2']	3
+GCA_055639965.1	Yersinia enterocolitica	H	United Kingdom: United Kingdom	['aadA1', 'floR', 'sat2']	3
+GCA_902169495.1	Yersinia enterocolitica	U		['aadA1', 'dfrA1', 'sat2']	3
+GCA_963896995.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963897065.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963897205.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963897245.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963897525.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963897945.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963898325.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963899055.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963899105.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963899195.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCA_963899755.1	Yersinia enterocolitica	U	not collected	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395055.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395095.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395135.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395155.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395165.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395195.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395215.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395235.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395255.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395275.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_022395295.1	Yersinia enterocolitica	A	Brazil: Minas_Gerais_1	['aadA1', 'dfrA1', 'sat2']	3
+GCF_033712305.1	Yersinia enterocolitica	A	Brazil	['aadA1', 'dfrA1', 'sat2']	3

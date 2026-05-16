@@ -1,0 +1,26 @@
+{
+  "SA_cluster": {
+    "n_genomes": 31,
+    "n_contigs_analyzed": 133,
+    "mobility": "predominantly chromosomal (133/133 not classified as plasmid)",
+    "plasmid_types_detected": [
+      "IncFII (n=16)",
+      "IncP (n=1)",
+      "IncC (n=1)"
+    ],
+    "conjugation_machinery": [
+      "MPF_T (n=3)",
+      "MPF_F (n=2)"
+    ],
+    "interpretation": "Chromosomal integrons, likely acquired via historical conjugative plasmid transfer",
+    "core_SA_genomes": "GCF_022395*: Brazil, Minas Gerais, pig (animal niche)"
+  },
+  "blaYRC_fish": {
+    "n_genomes_with_plasmids": 94,
+    "dominant_plasmid_type": "Col(Ye4449): ColE-type non-conjugative",
+    "broad_host_range": "IncQ1/IncQ2 in 9 genomes",
+    "conjugation_machinery": "absent/rare",
+    "interpretation": "Non-conjugative Col-type plasmids explain Y. ruckeri specificity and low human spillover",
+    "clinical_risk": "LOW \u2014 no IncF/IncI backbone detected"
+  }
+}

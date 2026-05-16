@@ -1,0 +1,217 @@
+accession	species	niche	host	geo_loc
+GCA_028830745.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA: OH
+GCA_028830945.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA: OH
+GCA_028836405.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA:WA
+GCA_028836425.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:ID
+GCA_028836465.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA:WA
+GCA_028836505.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_028836585.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA:WA
+GCA_028848265.1	Yersinia ruckeri	A	Oncorhynchus nerka	USA: OR
+GCA_028848285.1	Yersinia ruckeri	A	Oncorhynchus nerka	USA: WA
+GCA_028848305.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA: OR
+GCA_028848345.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA: ID
+GCA_028848365.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA: WA
+GCA_028848445.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA: ID
+GCA_028848465.1	Yersinia ruckeri	A	Oncorhynchus kisutch	USA: WA
+GCA_032094735.1	Yersinia ruckeri	A	Salmo salar	Canada: New Brunswick
+GCA_032496405.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Canada: New Brunswick
+GCA_032496425.1	Yersinia ruckeri	A	Salmo salar	Canada: Newfoundland and Labrador
+GCA_033625025.1	Yersinia ruckeri	A	Coregonus clupeaformis	Canada: Ontario
+GCA_038843465.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:ID
+GCA_038843695.1	Yersinia ruckeri	A	Oncorhynchus kisutch	USA:WA
+GCA_038843775.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:ID
+GCA_038848025.1	Yersinia ruckeri	A	Oncorhynchus kisutch	USA:WA
+GCA_039658675.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_039658695.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_039658715.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA:WA
+GCA_039658735.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_039658755.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA:WA
+GCA_039658775.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_039658795.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_039658815.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_039658835.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA:WA
+GCA_039658855.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_039658875.1	Yersinia ruckeri	A	Oncorhynchus kisutch	USA:WA
+GCA_039658915.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:WA
+GCA_046525565.1	Yersinia ruckeri	A	Salmo salar	Canada:New Brunswick
+GCA_050906275.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Canada:Newfoundland and Labrador
+GCA_051335285.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA:ID
+GCA_053879335.1	Yersinia ruckeri	A	Ictalurus punctatus X Ictalurus furcatus	USA:MS
+GCF_000173755.1	Yersinia ruckeri	U		
+GCF_000737165.1	Yersinia ruckeri	A	Salmo salar	Chile: Puerto Montt
+GCF_000754815.1	Yersinia ruckeri	U		unknown
+GCF_000775355.2	Yersinia ruckeri	U		China:Jianyang
+GCF_000824965.1	Yersinia ruckeri	U		
+GCF_000834255.1	Yersinia ruckeri	A		Not Available
+GCF_000964565.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	USA: Oregon
+GCF_001112925.1	Yersinia nurmii	F	unknown	Finland
+GCF_001166725.1	Yersinia ruckeri	A	rainbow trout	USA
+GCF_001172905.1	Yersinia ruckeri	A	fish	Finland
+GCF_001656035.1	Yersinia entomophaga	E		New Zealand: Canterbury
+GCF_001750505.1	Yersinia ruckeri	A	rainbow trout	Denmark
+GCF_001880355.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001880365.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001880425.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001880435.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Australia: Tasmania
+GCF_001880465.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001880475.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Australia: Tasmania
+GCF_001882465.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001882625.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001882675.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001882715.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001882895.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001882925.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001882945.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001882955.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Australia: Tasmania
+GCF_001882975.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	New Zealand: South Island
+GCF_001882995.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	New Zealand: South Island
+GCF_001883025.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	New Zealand: South Island
+GCF_001883035.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	New Zealand: South Island
+GCF_001883065.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883075.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883105.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883115.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883145.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883155.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883185.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	New Zealand: South Island
+GCF_001883195.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	New Zealand: South Island
+GCF_001883225.1	Yersinia ruckeri	A	Oncorhynchus tshawytscha	New Zealand: South Island
+GCF_001883245.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883255.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883265.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883275.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883325.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Australia: Tasmania
+GCF_001883335.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883345.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883365.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883405.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883415.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883425.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883435.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883485.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883495.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883525.1	Yersinia ruckeri	A	Salvelinus fontinalis	Australia: Tasmania
+GCF_001883535.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Australia: Tasmania
+GCF_001883565.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883575.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883605.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883615.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883745.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883755.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_001883765.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_002192595.1	Yersinia ruckeri	A	Salmo salar	Australia: Tasmania
+GCF_002192845.1	Yersinia entomophaga	U	missing	missing
+GCF_002442495.2	Yersinia ruckeri	A	Salmo salar	Norway: Nordland county
+GCF_002738395.1	Yersinia ruckeri	U	missing	missing
+GCF_003634395.1	Yersinia entomophaga	H	Homo sapiens	France
+GCF_008086925.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Peru:Lima
+GCF_017498685.1	Yersinia ruckeri	E		Russia:Sea of Okhotsk, near Iturup Island
+GCF_021399055.1	Yersinia ruckeri	A		United Kingdom: Scotland, Highlands
+GCF_021399075.1	Yersinia ruckeri	A		United Kingdom: Scotland, Western Isles
+GCF_021399095.1	Yersinia ruckeri	A		Germany: North Rhine-Westphalia
+GCF_021399115.1	Yersinia ruckeri	A		Germany: Hesse
+GCF_021399135.1	Yersinia ruckeri	U		Germany: Lower Saxony
+GCF_021399155.1	Yersinia ruckeri	U		Germany: Lower Saxony
+GCF_021399175.1	Yersinia ruckeri	A		Germany: North Rhine-Westphalia
+GCF_021399195.1	Yersinia ruckeri	A		Germany: Lower Saxony
+GCF_021399215.1	Yersinia ruckeri	A		USA: Idaho
+GCF_021399235.1	Yersinia ruckeri	A		Germany: North Rhine-Westphalia
+GCF_023212225.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA: Idaho
+GCF_023212235.1	Yersinia ruckeri	U	Anguilla anguilla	Denmark
+GCF_023212245.1	Yersinia ruckeri	A	Salmo salar	Norway: Troms
+GCF_023212255.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Canada: Ontario
+GCF_023212305.1	Yersinia ruckeri	A	Oncorhynchus mykiss	United Kingdom
+GCF_023212325.2	Yersinia ruckeri	A	not applicable	Norway: Vestland
+GCF_023212345.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Sweden: Storsjon
+GCF_023212365.1	Yersinia ruckeri	A	Salmo salar	Norway: More og Romsdal
+GCF_023212385.2	Yersinia ruckeri	A	Salmo salar	Norway: Trondelag
+GCF_023212395.1	Yersinia ruckeri	A	Salmo salar	Norway: More og Romsdal
+GCF_023212425.2	Yersinia ruckeri	A	Salmo salar	Norway: Trondelag
+GCF_023212445.2	Yersinia ruckeri	A	Salmo salar	Norway: More og Romsdal
+GCF_023212465.1	Yersinia ruckeri	A	Salmo salar	Norway: More og Romsdal
+GCF_023212475.1	Yersinia ruckeri	A	Salmo salar	Norway: Trondelag
+GCF_023212505.1	Yersinia ruckeri	A	Salmo salar	Norway: More og Romsdal
+GCF_023212525.1	Yersinia ruckeri	A	Salmo salar	Norway: Troms
+GCF_023212545.1	Yersinia ruckeri	A	Salmo salar	Norway: Vestland
+GCF_023212565.2	Yersinia ruckeri	A	Salmo salar	Norway: Trondelag
+GCF_023212585.2	Yersinia ruckeri	A	Salmo salar	Norway: More og Romsdal
+GCF_026130615.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130645.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130665.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130675.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130705.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Norway
+GCF_026130715.1	Yersinia ruckeri	A	Coregonus lavaretus	Norway
+GCF_026130725.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130765.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Norway
+GCF_026130775.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Norway
+GCF_026130785.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130825.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130835.1	Yersinia ruckeri	A	Coregonus lavaretus	Norway
+GCF_026130865.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130875.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130895.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Norway
+GCF_026130915.1	Yersinia ruckeri	A	Salmo trutta	Norway
+GCF_026130945.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130965.1	Yersinia ruckeri	A	Coregonus lavaretus	Norway
+GCF_026130975.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026130985.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026131025.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026131045.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026131065.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026131085.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026131105.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026131125.1	Yersinia ruckeri	A	Oncorhynchus mykiss	United Kingdom: England
+GCF_026131145.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026131165.1	Yersinia ruckeri	A	Salmo salar	United Kingdom: Wales
+GCF_026131185.1	Yersinia ruckeri	A	Oncorhynchus mykiss	United Kingdom: England
+GCF_026131205.1	Yersinia ruckeri	A	Oncorhynchus mykiss	United Kingdom: England
+GCF_026131225.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA
+GCF_026131235.1	Yersinia ruckeri	A	Oncorhynchus mykiss	United Kingdom: England
+GCF_026131265.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA
+GCF_026131285.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA
+GCF_026131295.1	Yersinia ruckeri	A	Oncorhynchus mykiss aguabonita	USA
+GCF_026131325.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA
+GCF_026131345.1	Yersinia ruckeri	A	Salmo trutta	USA
+GCF_026131365.1	Yersinia ruckeri	A	Oncorhynchus clarkii	USA
+GCF_026131385.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA
+GCF_026131405.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA
+GCF_026131425.1	Yersinia ruckeri	A	Oncorhynchus mykiss	USA
+GCF_026435115.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435135.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435155.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435175.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435195.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435215.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435235.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435255.1	Yersinia ruckeri	A	Oncorhynchus mykiss	Norway
+GCF_026435275.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435295.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435315.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435335.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435495.1	Yersinia ruckeri	E	Biofilm	Norway
+GCF_026435655.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_026435835.1	Yersinia ruckeri	A	Salmo salar	Norway
+GCF_027947075.1	Yersinia ruckeri	U	missing	missing
+GCF_030385005.1	Yersinia ruckeri	H	Homo sapiens	Russia: Saint Petersburg
+GCF_030385015.1	Yersinia nurmii	H	Homo sapiens	Russia: Saint Petersburg
+GCF_031192345.1	Yersinia ruckeri	A	Ictalurus furcatus	USA: Barren Creek, MD
+GCF_036867315.1	Yersinia ruckeri	A	Rainbow Trout	Turkey:Mugla
+GCF_036867325.1	Yersinia ruckeri	A	Rainbow Trout	Turkey:Mugla
+GCF_036867455.1	Yersinia ruckeri	A	Rainbow Trout	Turkey:Duzce
+GCF_036867495.1	Yersinia ruckeri	A	Rainbow Trout	Turkey:Mugla
+GCF_036867535.1	Yersinia ruckeri	A	Rainbow Trout	Turkey:Kayseri
+GCF_041075105.1	Yersinia ruckeri	A	Rainbow trout	Turkey:Mugla
+GCF_041075135.1	Yersinia ruckeri	A	Rainbow trout	Turkey:Sivas
+GCF_041075205.1	Yersinia ruckeri	A	Rainbow trout	Turkey:Kayseri
+GCF_046735975.1	Yersinia ruckeri	A	Carassius auratus	China:Hangzhou
+GCF_050360435.1	Yersinia ruckeri	U		Chile: Region de Los Lagos
+GCF_050586585.1	Yersinia entomophaga	E		USA: Slippery Rock
+GCF_054512605.1	Yersinia ruckeri	A	fish	Germany
+GCF_054890605.1	Yersinia ruckeri	E	Ctenopharyngodon idella	China: Hanshou city,Hunan province
+GCF_055797355.1	Yersinia ruckeri	A	Ictalurus punctatus x I. furcatus	USA: Mississippi
+GCF_056490485.1	Yersinia ruckeri	A	Rainbow trout	Turkey:Mugla
+GCF_900460675.1	Yersinia ruckeri	A	Fish (Rainbow Trout)	USA: Hagerman, Idaho
+GCF_900460715.1	Yersinia ruckeri	A	Rainbow Trout	USA: Idaho State
+GCF_902173085.1	Yersinia ruckeri	U		
+GCF_902173145.1	Yersinia ruckeri	U		
+GCF_965137505.1	Yersinia entomophaga	U		not provided

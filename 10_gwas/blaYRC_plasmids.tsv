@@ -1,0 +1,273 @@
+accession	species	amr_genes	plasmid_cluster	mobility	rep_type	relaxase	size
+GCA_028830745.1	Yersinia ruckeri	['blaYRC']	novel_21fa1d90d34ca7b34aed8b721636b248	-	rep_cluster_891	-	62400
+GCA_028836405.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	57237
+GCA_028836405.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	4214
+GCA_028848305.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	85638
+GCA_028848305.1	Yersinia ruckeri	['blaYRC']	novel_d64131d2da446d027497b87d6a7cfa9a	-	Col(Ye4449)	MOBP	5287
+GCA_028848305.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3706
+GCA_028848345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	50773
+GCA_028848345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	6950
+GCA_028848345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3706
+GCA_028848345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1192
+GCA_028848365.1	Yersinia ruckeri	['blaYRC']	AH242	-	rep_cluster_957	-	130004
+GCA_032496405.1	Yersinia ruckeri	['blaYRC', 'tet(C)']	AD702	-	IncQ2	MOBP	11845
+GCA_032496405.1	Yersinia ruckeri	['blaYRC', 'tet(C)']	AD702	-	IncQ2	MOBP	11838
+GCA_038843695.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	78130
+GCA_038843695.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1856
+GCA_038843695.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1276
+GCA_038843695.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1163
+GCA_039658715.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	109096
+GCA_039658715.1	Yersinia ruckeri	['blaYRC']	AF908	-	rep_cluster_1304	MOBC	31017
+GCA_039658715.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1178
+GCA_039658735.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	73352
+GCA_039658735.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	4771
+GCA_039658735.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3670
+GCA_039658735.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1178
+GCA_039658755.1	Yersinia ruckeri	['blaYRC']	AD917	-	rep_cluster_214	MOBF	54624
+GCA_039658755.1	Yersinia ruckeri	['blaYRC']	AD917	-	-	-	6336
+GCA_039658795.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	46670
+GCA_039658795.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	25985
+GCA_039658795.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	22675
+GCA_039658795.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3659
+GCA_039658795.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3065
+GCA_039658795.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1154
+GCA_039658855.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	50773
+GCA_039658855.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	7456
+GCA_039658855.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3706
+GCA_039658855.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1178
+GCA_039658875.1	Yersinia ruckeri	['blaYRC']	AD985	-	-	-	6121
+GCA_046525565.1	Yersinia ruckeri	['blaTEM-116', 'blaYRC']	AB951	-	rep_cluster_2350	-	1999
+GCA_046525565.1	Yersinia ruckeri	['blaTEM-116', 'blaYRC']	AB951	-	rep_cluster_2350	-	1983
+GCA_050906275.1	Yersinia ruckeri	['blaYRC', 'tet(C)']	AD702	-	IncQ2	MOBP	11845
+GCA_050906275.1	Yersinia ruckeri	['blaYRC', 'tet(C)']	AD702	-	IncQ2	MOBP	8869
+GCA_053879335.1	Yersinia ruckeri	['blaYRC']	AF950	-	rep_cluster_2307	MOBF	55521
+GCA_053879335.1	Yersinia ruckeri	['blaYRC']	AF950	-	-	-	1802
+GCA_053879335.1	Yersinia ruckeri	['blaYRC']	AF950	-	-	-	1797
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	53980
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	33784
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	12903
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3661
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3661
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3510
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3238
+GCF_000173755.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	2400
+GCF_000754815.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	99962
+GCF_000775355.2	Yersinia ruckeri	['blaYRC']	AD917	-	rep_cluster_214	MOBF	73051
+GCF_000775355.2	Yersinia ruckeri	['blaYRC']	AF950	-	rep_cluster_2307	MOBF	57905
+GCF_000824965.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	56879
+GCF_000824965.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1233
+GCF_000824965.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	13233
+GCF_000824965.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3918
+GCF_000824965.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3562
+GCF_000824965.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34287
+GCF_000824965.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	2980
+GCF_001112925.1	Yersinia nurmii	['blaYRC']	novel_7c6d1d27e378f4e921f41c2d798af433	-	Col(Ye4449)	MOBP	5452
+GCF_001166725.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	61001
+GCF_001166725.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	33817
+GCF_001166725.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	16883
+GCF_001166725.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	4288
+GCF_001166725.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	2953
+GCF_001750505.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	57094
+GCF_001750505.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34046
+GCF_001750505.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	13219
+GCF_001750505.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3918
+GCF_001750505.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3348
+GCF_001750505.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	2881
+GCF_001882955.1	Yersinia ruckeri	['blaYRC']	AF908	-	rep_cluster_1304	MOBC	26707
+GCF_001882975.1	Yersinia ruckeri	['blaYRC']	novel_40294460f01602a8a57dbeb403d1b277	-	IncFII	MOBF	71379
+GCF_001883115.1	Yersinia ruckeri	['blaYRC']	AF908	-	rep_cluster_1304	MOBC	26707
+GCF_001883145.1	Yersinia ruckeri	['blaYRC']	AF908	-	rep_cluster_1304	MOBC	26707
+GCF_001883185.1	Yersinia ruckeri	['blaYRC']	novel_4972a223c49f77a877b2c7c1a240ceb7	-	IncFII	MOBF	71863
+GCF_001883185.1	Yersinia ruckeri	['blaYRC']	AA531	-	ColRNAI_rep_cluster_1987	-	1854
+GCF_001883185.1	Yersinia ruckeri	['blaYRC']	AA531	-	-	MOBP	1116
+GCF_002442495.2	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	80843
+GCF_002738395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	53972
+GCF_002738395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	21704
+GCF_002738395.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	13262
+GCF_002738395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	12664
+GCF_002738395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	10904
+GCF_002738395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3917
+GCF_002738395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_003634395.1	Yersinia entomophaga	['blaYRC', 'qnrD1']	AD532	-	-	-	72708
+GCF_003634395.1	Yersinia entomophaga	['blaYRC', 'qnrD1']	AB434	-	Col3M	-	2760
+GCF_008086925.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	81786
+GCF_008086925.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34400
+GCF_008086925.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_017498685.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	16925
+GCF_017498685.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	103906
+GCF_021399075.1	Yersinia ruckeri	['blaYRC']	AD917	-	rep_cluster_214	MOBF	59471
+GCF_021399095.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	103901
+GCF_021399175.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	103903
+GCF_021399215.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	103904
+GCF_021399235.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	103903
+GCF_023212225.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	64717
+GCF_023212225.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	33929
+GCF_023212225.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	10661
+GCF_023212225.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3917
+GCF_023212225.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	2483
+GCF_023212245.1	Yersinia ruckeri	['blaYRC']	AF908	-	rep_cluster_1304	MOBC	30544
+GCF_023212245.1	Yersinia ruckeri	['blaYRC']	novel_1138fa786a6af52cc00d75f13d6c8f4a	-	Col(Ye4449)	MOBP	5413
+GCF_023212345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	64861
+GCF_023212345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34397
+GCF_023212345.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	10506
+GCF_023212345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3918
+GCF_023212345.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	3012
+GCF_023212345.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_023212365.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	29903
+GCF_023212365.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5318
+GCF_023212365.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1396
+GCF_023212365.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_023212395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	114453
+GCF_023212395.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5268
+GCF_023212395.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_023212425.2	Yersinia ruckeri	['blaYRC']	AC145	-	IncQ1	MOBQ	4985
+GCF_023212465.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	80974
+GCF_023212465.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5318
+GCF_023212465.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_023212475.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	82853
+GCF_023212475.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	29903
+GCF_023212475.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5318
+GCF_023212475.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1396
+GCF_023212475.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_023212525.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	81305
+GCF_023212525.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_023212565.2	Yersinia ruckeri	['blaYRC']	novel_ca1e262cc89c5271cc6c524e480595ba	-	Col(Ye4449)	MOBP	5286
+GCF_023212585.2	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	115589
+GCF_023212585.2	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_026130915.1	Yersinia ruckeri	['blaYRC']	AD532	-	-	-	89392
+GCF_026131065.1	Yersinia ruckeri	['blaYRC']	novel_253a5f51c5c71b58b7b8ba7f2aa73436	-	Col(Ye4449)	MOBP	5413
+GCF_026131125.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	64893
+GCF_026131125.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34411
+GCF_026131125.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	11058
+GCF_026131125.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3918
+GCF_026131125.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	2461
+GCF_026131125.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1202
+GCF_026131165.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	64862
+GCF_026131165.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34401
+GCF_026131165.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	10893
+GCF_026131165.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3917
+GCF_026131165.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	2628
+GCF_026131165.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_026131185.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	64893
+GCF_026131185.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34411
+GCF_026131185.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	13261
+GCF_026131185.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3918
+GCF_026131185.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1202
+GCF_026131205.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	64893
+GCF_026131205.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34411
+GCF_026131205.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	11058
+GCF_026131205.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3918
+GCF_026131205.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	2461
+GCF_026131205.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1202
+GCF_026131235.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	64861
+GCF_026131235.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	34411
+GCF_026131235.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	11058
+GCF_026131235.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3918
+GCF_026131235.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	2461
+GCF_026131235.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_026131265.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	119862
+GCF_026131265.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_026131285.1	Yersinia ruckeri	['blaYRC']	AD532	-	-	-	78836
+GCF_026131295.1	Yersinia ruckeri	['blaYRC']	AD532	-	-	-	78893
+GCF_026131325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	119862
+GCF_026131325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_026131365.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	106689
+GCF_026131365.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	13124
+GCF_026131365.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_026131385.1	Yersinia ruckeri	['blaYRC', 'qacEdelta1', 'qacG2', 'sul1', 'tet(A)']	AG311	-	-	MOBP	69829
+GCF_026131385.1	Yersinia ruckeri	['blaYRC', 'qacEdelta1', 'qacG2', 'sul1', 'tet(A)']	AC542	-	IncU	MOBP	41898
+GCF_026131385.1	Yersinia ruckeri	['blaYRC', 'qacEdelta1', 'qacG2', 'sul1', 'tet(A)']	AG311	-	-	-	34400
+GCF_026131385.1	Yersinia ruckeri	['blaYRC', 'qacEdelta1', 'qacG2', 'sul1', 'tet(A)']	AC542	-	-	-	2911
+GCF_026131385.1	Yersinia ruckeri	['blaYRC', 'qacEdelta1', 'qacG2', 'sul1', 'tet(A)']	AG311	-	-	-	1234
+GCF_026131405.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	119862
+GCF_026131405.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_026435115.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	115590
+GCF_026435115.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_026435155.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	80847
+GCF_026435175.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	80438
+GCF_026435175.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_026435195.1	Yersinia ruckeri	['blaYRC']	AD532	-	-	-	89273
+GCF_026435215.1	Yersinia ruckeri	['blaYRC']	AD917	-	rep_cluster_214	MOBF	78774
+GCF_026435235.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	80847
+GCF_026435235.1	Yersinia ruckeri	['blaYRC']	AD532	-	-	-	71441
+GCF_026435235.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_026435275.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	80847
+GCF_026435275.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_026435295.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	80847
+GCF_026435315.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	115590
+GCF_026435315.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_026435335.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	115590
+GCF_026435335.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_026435835.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	76483
+GCF_026435835.1	Yersinia ruckeri	['blaYRC']	AD336	-	Col(Ye4449)	MOBP	5191
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	56745
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	30769
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	13008
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3917
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3443
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	2802
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1901
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1476
+GCF_027947075.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1179
+GCF_030385015.1	Yersinia nurmii	['blaYRC', 'qnrD']	AB038	-	rep_cluster_2335	-	3793
+GCF_030385015.1	Yersinia nurmii	['blaYRC', 'qnrD']	AB434	-	Col3M	-	2760
+GCF_031192345.1	Yersinia ruckeri	['blaYRC']	AF950	-	rep_cluster_2307	MOBF	60993
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	MOBP	55351
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	33973
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	12258
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AC120	-	IncQ1	MOBQ	9101
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	4437
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	3420
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	2955
+GCF_036867315.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	1234
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	60275
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	23742
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	8881
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	8464
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	4438
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	3420
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	2955
+GCF_036867325.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	-	1234
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	MOBP	55351
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	33973
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	12258
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AC120	-	IncQ1	MOBQ	9101
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	4437
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	3420
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	2955
+GCF_036867455.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	1234
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	MOBP	55351
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	33973
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	12258
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AC120	-	IncQ1	MOBQ	9124
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	4437
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	3420
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	2953
+GCF_036867495.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	1234
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	MOBP	55351
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	33973
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	12258
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AC120	-	IncQ1	MOBQ	9101
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AF907	-	-	-	4437
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	3420
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	2955
+GCF_036867535.1	Yersinia ruckeri	"[""aph(3'')-Ib"", 'aph(6)-Id', 'blaYRC', 'dfrA14', 'sul2']"	AG311	-	-	-	1234
+GCF_041075105.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	150403
+GCF_041075135.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	141599
+GCF_041075205.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	156513
+GCF_050586585.1	Yersinia entomophaga	['blaYRC']	AB161	-	IncN	MOBF	32359
+GCF_050586585.1	Yersinia entomophaga	['blaYRC']	novel_cd1dbef811beddbabc20b4bbaf54e74a	-	ColRNAI_rep_cluster_1987	MOBP	4063
+GCF_054512605.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	103905
+GCF_054512605.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	16923
+GCF_054890605.1	Yersinia ruckeri	['blaYRC']	AH242	-	rep_cluster_957	-	143069
+GCF_055797355.1	Yersinia ruckeri	['blaYRC']	AF950	-	rep_cluster_2307	MOBF	60985
+GCF_056490485.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	16932
+GCF_056490485.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	109444
+GCF_900460675.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	103905
+GCF_900460675.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	35030
+GCF_900460715.1	Yersinia ruckeri	['blaYRC']	AG311	-	-	MOBP	111303
+GCF_900460715.1	Yersinia ruckeri	['blaYRC']	AF907	-	-	-	22890
+GCF_902173085.1	Yersinia ruckeri	['blaYRC']	novel_313d65b20f8b4082ec205c49ab1fc15f	-	Col(Ye4449)	MOBP	5435
+GCF_965137505.1	Yersinia entomophaga	['blaYRC', 'qnrD1']	AD532	-	-	-	54227
+GCF_965137505.1	Yersinia entomophaga	['blaYRC', 'qnrD1']	AD532	-	-	-	11197
+GCF_965137505.1	Yersinia entomophaga	['blaYRC', 'qnrD1']	AB434	-	Col3M	-	2802

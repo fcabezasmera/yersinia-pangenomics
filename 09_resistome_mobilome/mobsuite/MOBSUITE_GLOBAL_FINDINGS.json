@@ -1,0 +1,35 @@
+{
+  "analysis": "MOBsuite v3.x global plasmid reconstruction",
+  "dataset": "9,957 HQ Yersinia genomes",
+  "global_stats": {
+    "genomes_with_plasmids": 7317,
+    "pct_with_plasmids": 73.5,
+    "total_plasmid_contigs": 57084
+  },
+  "key_findings": {
+    "1_pestis_plasmidome": "99.6% Y. pestis carry plasmids (pFra/pPla/pCD1 positive control)",
+    "2_animal_niche_highest_burden": {
+      "A_pct": 88.4,
+      "A_mean_bp": 143597,
+      "H_pct": 66.3,
+      "H_mean_bp": 47579,
+      "E_pct": 34.1,
+      "E_mean_bp": 20314,
+      "interpretation": "Animal reservoirs = primary plasmid pool; 3\u00d7 more plasmid DNA than clinical"
+    },
+    "3_IncFII_dominance": {
+      "IncFII_contigs": 3793,
+      "IncFIB_contigs": 3564,
+      "interpretation": "Shared backbone with E. coli clinical plasmids \u2014 inter-species transfer potential"
+    },
+    "4_novel_species_minimal_plasmids": {
+      "pct": 13.3,
+      "interpretation": "Cryosphere isolates acquire minimal plasmids; AMR likely chromosomal"
+    },
+    "5_environmental_paradox": {
+      "E_plasmid_pct": 34.1,
+      "E_AMR_genes": 69,
+      "interpretation": "Plasmid-poor but AMR-rich = cryptic chromosomal mobilome = Paper 1 title"
+    }
+  }
+}

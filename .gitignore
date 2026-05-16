@@ -22,3 +22,5 @@ __pycache__/
 *.fasta.bgz
 *.fasta.bai
 Eog
+09_resistome_mobilome/mobsuite/GC*/
+09_resistome_mobilome/amrfinder/GC*_amr.tsv

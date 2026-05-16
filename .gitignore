@@ -24,3 +24,27 @@ __pycache__/
 Eog
 09_resistome_mobilome/mobsuite/GC*/
 09_resistome_mobilome/amrfinder/GC*_amr.tsv
+
+# Individual 16S fasta files (9,957 files)
+07_markers/barrnap/
+07_markers/hmmsearch/
+07_markers/sequences/
+07_markers/alignments/
+07_markers/alignments_trimmed/
+
+# Bakta annotations (large, binary)
+04_annotation/
+
+# All genome FASTA files
+02_genomes/all_fna/
+02_genomes/raw/
+
+# skani large files
+05_taxonomy/skani/skani_allvsall.txt
+05_taxonomy/skani/skani_species_level.tsv
+05_taxonomy/skani/*.gff
+05_taxonomy/skani/*.fna
+
+# R/Python temp
+.Rhistory
+.env

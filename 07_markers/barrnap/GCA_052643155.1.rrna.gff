@@ -1,3 +1,0 @@
-##gff-version 3
-ACARMC010000050.1	barrnap:0.9	rRNA	116	1653	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-ACARMC010000055.1	barrnap:0.9	rRNA	1	823	1.1e-202	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA

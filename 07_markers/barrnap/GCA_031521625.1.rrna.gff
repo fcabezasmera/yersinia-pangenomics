@@ -1,5 +1,0 @@
-##gff-version 3
-DAPKLO010000018.1	barrnap:0.9	rRNA	93806	93916	4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DAPKLO010000018.1	barrnap:0.9	rRNA	94053	94163	7.1e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DAPKLO010000023.1	barrnap:0.9	rRNA	34338	34448	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DAPKLO010000036.1	barrnap:0.9	rRNA	8	1333	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

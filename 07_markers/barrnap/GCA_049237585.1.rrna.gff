@@ -1,4 +1,0 @@
-##gff-version 3
-ABYMXL010000001.1	barrnap:0.9	rRNA	126	236	4.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-ABYMXL010000140.1	barrnap:0.9	rRNA	2	2800	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-ABYMXL010000151.1	barrnap:0.9	rRNA	3	1424	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

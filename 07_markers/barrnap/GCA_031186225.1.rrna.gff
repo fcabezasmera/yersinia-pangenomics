@@ -1,4 +1,0 @@
-##gff-version 3
-DAPGKB010000070.1	barrnap:0.9	rRNA	8	1401	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 43 percent of the 23S ribosomal RNA
-DAPGKB010000074.1	barrnap:0.9	rRNA	2	1151	8.2e-295	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA
-DAPGKB010000079.1	barrnap:0.9	rRNA	8	771	9.7e-204	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 48 percent of the 16S ribosomal RNA

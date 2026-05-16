@@ -1,9 +1,0 @@
-##gff-version 3
-ACAVHO010000001.1	barrnap:0.9	rRNA	126	236	4.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-ACAVHO010000007.1	barrnap:0.9	rRNA	40	150	2.8e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-ACAVHO010000015.1	barrnap:0.9	rRNA	150778	150888	4.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-ACAVHO010000020.1	barrnap:0.9	rRNA	80359	80469	7.3e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-ACAVHO010000024.1	barrnap:0.9	rRNA	47321	47431	2.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-ACAVHO010000047.1	barrnap:0.9	rRNA	2	1196	3.9e-299	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 36 percent of the 23S ribosomal RNA
-ACAVHO010000049.1	barrnap:0.9	rRNA	3	1027	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 31 percent of the 23S ribosomal RNA
-ACAVHO010000052.1	barrnap:0.9	rRNA	8	771	9.6e-204	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 48 percent of the 16S ribosomal RNA

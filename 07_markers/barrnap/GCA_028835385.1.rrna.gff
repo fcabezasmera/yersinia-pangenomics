@@ -1,5 +1,0 @@
-##gff-version 3
-ABKTCU010000138.1	barrnap:0.9	rRNA	20	996	6.9e-240	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
-ABKTCU010000140.1	barrnap:0.9	rRNA	2	947	1.4e-229	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 29 percent of the 23S ribosomal RNA
-ABKTCU010000141.1	barrnap:0.9	rRNA	2	910	7.4e-239	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 28 percent of the 23S ribosomal RNA
-ABKTCU010000146.1	barrnap:0.9	rRNA	1	482	1.8e-132	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 30 percent of the 16S ribosomal RNA

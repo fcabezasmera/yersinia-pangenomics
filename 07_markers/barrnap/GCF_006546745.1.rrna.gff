@@ -1,5 +1,0 @@
-##gff-version 3
-NZ_VIDZ01000155.1	barrnap:0.9	rRNA	5123	5233	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VIDZ01000168.1	barrnap:0.9	rRNA	169	3072	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_VIDZ01000168.1	barrnap:0.9	rRNA	3185	3295	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VIDZ01000190.1	barrnap:0.9	rRNA	211	1749	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

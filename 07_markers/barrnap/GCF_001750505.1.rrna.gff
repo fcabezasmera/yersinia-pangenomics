@@ -1,3 +1,0 @@
-##gff-version 3
-NZ_MKFJ01000023.1	barrnap:0.9	rRNA	167	264	4e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_MKFJ01000029.1	barrnap:0.9	rRNA	1050	2265	8e-294	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA

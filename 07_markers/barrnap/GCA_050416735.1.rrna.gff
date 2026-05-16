@@ -1,3 +1,0 @@
-##gff-version 3
-ABYZXG010000026.1	barrnap:0.9	rRNA	276	1814	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
-ABYZXG010000036.1	barrnap:0.9	rRNA	3	2659	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

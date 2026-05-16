@@ -1,4 +1,0 @@
-##gff-version 3
-NZ_CTER01000041.1	barrnap:0.9	rRNA	41780	43318	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_CTER01000092.1	barrnap:0.9	rRNA	20	3023	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_CTER01000108.1	barrnap:0.9	rRNA	149	259	2.7e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA

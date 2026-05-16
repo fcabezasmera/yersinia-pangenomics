@@ -1,4 +1,0 @@
-##gff-version 3
-NZ_CTIO01000050.1	barrnap:0.9	rRNA	102	212	3.7e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CTIO01000072.1	barrnap:0.9	rRNA	20	2923	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_CTIO01000074.1	barrnap:0.9	rRNA	203	1741	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

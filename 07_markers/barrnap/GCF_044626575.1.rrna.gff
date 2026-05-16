@@ -1,9 +1,0 @@
-##gff-version 3
-NZ_JBGEVP010000019.1	barrnap:0.9	rRNA	58417	58527	6.6e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_JBGEVP010000072.1	barrnap:0.9	rRNA	208	318	6.6e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_JBGEVP010000168.1	barrnap:0.9	rRNA	159	2288	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 65 percent of the 23S ribosomal RNA
-NZ_JBGEVP010000178.1	barrnap:0.9	rRNA	1500	1610	3.7e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_JBGEVP010000178.1	barrnap:0.9	rRNA	1747	1857	6.6e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_JBGEVP010000180.1	barrnap:0.9	rRNA	137	1675	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_JBGEVP010000204.1	barrnap:0.9	rRNA	3	92	1.5e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 75 percent of the 5S ribosomal RNA
-NZ_JBGEVP010000205.1	barrnap:0.9	rRNA	3	92	1.5e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 75 percent of the 5S ribosomal RNA

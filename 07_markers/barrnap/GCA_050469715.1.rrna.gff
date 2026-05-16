@@ -1,5 +1,0 @@
-##gff-version 3
-DBIRUK010000016.1	barrnap:0.9	rRNA	112780	112890	4.4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBIRUK010000150.1	barrnap:0.9	rRNA	5	1142	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA
-DBIRUK010000176.1	barrnap:0.9	rRNA	2	669	2.2e-188	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 42 percent of the 16S ribosomal RNA
-DBIRUK010000180.1	barrnap:0.9	rRNA	8	619	3.7e-158	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 38 percent of the 16S ribosomal RNA

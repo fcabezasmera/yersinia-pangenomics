@@ -1,5 +1,0 @@
-##gff-version 3
-NZ_CTIM01000029.1	barrnap:0.9	rRNA	216	326	2.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CTIM01000061.1	barrnap:0.9	rRNA	15658	15768	2.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CTIM01000068.1	barrnap:0.9	rRNA	10220	11758	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_CTIM01000091.1	barrnap:0.9	rRNA	20	2410	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 73 percent of the 23S ribosomal RNA

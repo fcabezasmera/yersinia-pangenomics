@@ -1,7 +1,0 @@
-##gff-version 3
-NZ_CABIHO010000008.1	barrnap:0.9	rRNA	5	97	7.5e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 78 percent of the 5S ribosomal RNA
-NZ_CABIHO010000037.1	barrnap:0.9	rRNA	27	137	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CABIHO010000055.1	barrnap:0.9	rRNA	37	2943	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_CABIHO010000078.1	barrnap:0.9	rRNA	198240	198350	3.7e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CABIHO010000078.1	barrnap:0.9	rRNA	198487	198597	4.1e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CABIHO010000085.1	barrnap:0.9	rRNA	46	1584	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

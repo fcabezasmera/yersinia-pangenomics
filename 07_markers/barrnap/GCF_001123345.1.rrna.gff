@@ -1,4 +1,0 @@
-##gff-version 3
-NZ_CPWG01000031.1	barrnap:0.9	rRNA	16580	16690	1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CPWG01000031.1	barrnap:0.9	rRNA	16804	19707	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_CPWG01000031.1	barrnap:0.9	rRNA	20295	21833	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

@@ -1,7 +1,0 @@
-##gff-version 3
-CABIDX010000100.1	barrnap:0.9	rRNA	49	1587	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
-CABIDX010000111.1	barrnap:0.9	rRNA	501	3404	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-CABIDX010000111.1	barrnap:0.9	rRNA	3518	3620	3e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-CABIDX010000116.1	barrnap:0.9	rRNA	6	108	1.8e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-CABIDX010000196.1	barrnap:0.9	rRNA	34750	34860	6.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-CABIDX010000196.1	barrnap:0.9	rRNA	34974	37877	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA

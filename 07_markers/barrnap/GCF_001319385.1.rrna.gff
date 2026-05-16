@@ -1,5 +1,0 @@
-##gff-version 3
-NZ_CHDN01000001.1	barrnap:0.9	rRNA	235127	235237	1.1e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CHDN01000058.1	barrnap:0.9	rRNA	15551	15661	2.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CHDN01000058.1	barrnap:0.9	rRNA	15849	18852	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_CHDN01000064.1	barrnap:0.9	rRNA	424	1962	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

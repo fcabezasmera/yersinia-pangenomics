@@ -1,8 +1,0 @@
-##gff-version 3
-DBCWTL010000001.1	barrnap:0.9	rRNA	126	236	4.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBCWTL010000007.1	barrnap:0.9	rRNA	100	210	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBCWTL010000011.1	barrnap:0.9	rRNA	150471	150581	5.6e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBCWTL010000014.1	barrnap:0.9	rRNA	98672	98782	7.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBCWTL010000016.1	barrnap:0.9	rRNA	76694	76781	3.2e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
-DBCWTL010000022.1	barrnap:0.9	rRNA	92	202	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBCWTL010000034.1	barrnap:0.9	rRNA	12	775	8.9e-204	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 48 percent of the 16S ribosomal RNA

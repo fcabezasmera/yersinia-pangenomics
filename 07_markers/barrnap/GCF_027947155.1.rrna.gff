@@ -1,5 +1,0 @@
-##gff-version 3
-NZ_JAQISD010000006.1	barrnap:0.9	rRNA	177190	177300	3.6e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_JAQISD010000044.1	barrnap:0.9	rRNA	161	1699	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_JAQISD010000044.1	barrnap:0.9	rRNA	2136	5039	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_JAQISD010000044.1	barrnap:0.9	rRNA	5231	5286	9.5e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 47 percent of the 5S ribosomal RNA

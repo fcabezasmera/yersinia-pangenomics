@@ -1,3 +1,0 @@
-##gff-version 3
-DBLGGS010000001.1	barrnap:0.9	rRNA	405017	405127	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBLGGS010000049.1	barrnap:0.9	rRNA	10	1309	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

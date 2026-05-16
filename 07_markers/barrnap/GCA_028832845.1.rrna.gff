@@ -1,4 +1,0 @@
-##gff-version 3
-ABKSZR010000167.1	barrnap:0.9	rRNA	4527	4637	2.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-ABKSZR010000209.1	barrnap:0.9	rRNA	73	1594	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-ABKSZR010000261.1	barrnap:0.9	rRNA	191	301	2.4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA

@@ -1,4 +1,0 @@
-##gff-version 3
-DASKRT010000196.1	barrnap:0.9	rRNA	6592	6702	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DASKRT010000245.1	barrnap:0.9	rRNA	3554	3664	2.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DASKRT010000292.1	barrnap:0.9	rRNA	112	1649	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

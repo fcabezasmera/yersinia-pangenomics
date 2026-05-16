@@ -1,3 +1,0 @@
-##gff-version 3
-CABIDA010000073.1	barrnap:0.9	rRNA	211	1749	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-CABIDA010000073.1	barrnap:0.9	rRNA	2080	4983	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

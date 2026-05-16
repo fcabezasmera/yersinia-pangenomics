@@ -1,3 +1,0 @@
-Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description	Hierarchy node
-NA	DANMXD010000001.1	306954	307835	+	blaA	class A beta-lactamase BlaA	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	294	294	100.00	98.30	294	WP_011816299.1	class A beta-lactamase BlaA	NA	NA	blaA_Yent
-NA	DANMXD010000071.1	8092	8973	+	blaA	class A beta-lactamase BlaA	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	294	294	100.00	98.30	294	WP_011816299.1	class A beta-lactamase BlaA	NA	NA	blaA_Yent

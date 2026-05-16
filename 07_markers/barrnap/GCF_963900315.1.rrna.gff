@@ -1,5 +1,0 @@
-##gff-version 3
-NZ_CAWREV010000004.1	barrnap:0.9	rRNA	10	120	6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CAWREV010000004.1	barrnap:0.9	rRNA	244	3147	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_CAWREV010000106.1	barrnap:0.9	rRNA	204	314	4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CAWREV010000134.1	barrnap:0.9	rRNA	24	1562	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

@@ -1,7 +1,0 @@
-##gff-version 3
-NZ_WHKG01000048.1	barrnap:0.9	rRNA	342	452	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_WHKG01000048.1	barrnap:0.9	rRNA	589	699	3.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_WHKG01000137.1	barrnap:0.9	rRNA	342	452	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_WHKG01000147.1	barrnap:0.9	rRNA	23	1842	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 56 percent of the 23S ribosomal RNA
-NZ_WHKG01000152.1	barrnap:0.9	rRNA	5	918	4.6e-287	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 28 percent of the 23S ribosomal RNA
-NZ_WHKG01000153.1	barrnap:0.9	rRNA	1	907	3.2e-243	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 57 percent of the 16S ribosomal RNA

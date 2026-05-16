@@ -1,5 +1,0 @@
-##gff-version 3
-ABNAXV010000007.1	barrnap:0.9	rRNA	107353	107463	2.4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-ABNAXV010000012.1	barrnap:0.9	rRNA	180	290	2.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-ABNAXV010000134.1	barrnap:0.9	rRNA	73	1611	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-ABNAXV010000151.1	barrnap:0.9	rRNA	675	785	9.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA

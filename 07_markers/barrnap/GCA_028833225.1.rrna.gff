@@ -1,3 +1,0 @@
-##gff-version 3
-ABKTAR010000053.1	barrnap:0.9	rRNA	1	820	2.2e-222	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA
-ABKTAR010000059.1	barrnap:0.9	rRNA	1	501	8.7e-137	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 31 percent of the 16S ribosomal RNA

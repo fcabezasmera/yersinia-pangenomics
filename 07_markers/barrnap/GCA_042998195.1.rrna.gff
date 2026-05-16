@@ -1,9 +1,0 @@
-##gff-version 3
-DAXXJI010000002.1	barrnap:0.9	rRNA	686601	686711	4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DAXXJI010000004.1	barrnap:0.9	rRNA	88	198	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DAXXJI010000006.1	barrnap:0.9	rRNA	356993	357103	4.4e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DAXXJI010000011.1	barrnap:0.9	rRNA	151016	151126	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DAXXJI010000023.1	barrnap:0.9	rRNA	1	1621	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 50 percent of the 23S ribosomal RNA
-DAXXJI010000025.1	barrnap:0.9	rRNA	1	632	5.3e-173	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
-DAXXJI010000026.1	barrnap:0.9	rRNA	116	547	1.8e-92	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 27 percent of the 16S ribosomal RNA
-DAXXJI010000027.1	barrnap:0.9	rRNA	4	409	3.2e-106	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 25 percent of the 16S ribosomal RNA

@@ -1,6 +1,0 @@
-##gff-version 3
-NZ_MEAI01000021.1	barrnap:0.9	rRNA	182	292	3.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_MEAI01000034.1	barrnap:0.9	rRNA	241953	242063	4.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_MEAI01000034.1	barrnap:0.9	rRNA	242178	243288	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 34 percent of the 23S ribosomal RNA
-NZ_MEAI01000052.1	barrnap:0.9	rRNA	200	1738	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_MEAI01000053.1	barrnap:0.9	rRNA	1	1528	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 47 percent of the 23S ribosomal RNA

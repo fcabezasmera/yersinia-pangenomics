@@ -1,4 +1,0 @@
-##gff-version 3
-NZ_AKSH01000217.1	barrnap:0.9	rRNA	45	1583	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_AKSH01000219.1	barrnap:0.9	rRNA	98	3001	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_AKSH01000549.1	barrnap:0.9	rRNA	33962	34072	3.9e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA

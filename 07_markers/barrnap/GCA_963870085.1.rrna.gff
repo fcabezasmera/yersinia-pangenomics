@@ -1,3 +1,0 @@
-##gff-version 3
-CAWMQO010000074.1	barrnap:0.9	rRNA	424	1962	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
-CAWMQO010000103.1	barrnap:0.9	rRNA	20	3024	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

@@ -1,3 +1,0 @@
-##gff-version 3
-ABTECH010000057.1	barrnap:0.9	rRNA	15	2904	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-ABTECH010000063.1	barrnap:0.9	rRNA	8	1333	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

@@ -1,6 +1,0 @@
-##gff-version 3
-DBJTXL010000031.1	barrnap:0.9	rRNA	11848	11958	4.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBJTXL010000032.1	barrnap:0.9	rRNA	10757	10867	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBJTXL010000048.1	barrnap:0.9	rRNA	8	1388	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 42 percent of the 23S ribosomal RNA
-DBJTXL010000050.1	barrnap:0.9	rRNA	2	951	6.3e-243	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
-DBJTXL010000051.1	barrnap:0.9	rRNA	2	840	4.3e-225	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA

@@ -1,6 +1,0 @@
-##gff-version 3
-DANNCR010000024.1	barrnap:0.9	rRNA	100	210	9.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DANNCR010000024.1	barrnap:0.9	rRNA	347	457	3.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DANNCR010000042.1	barrnap:0.9	rRNA	38881	38991	2.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DANNCR010000121.1	barrnap:0.9	rRNA	3	1050	2.1e-292	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 66 percent of the 16S ribosomal RNA
-DANNCR010000130.1	barrnap:0.9	rRNA	55	165	2.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA

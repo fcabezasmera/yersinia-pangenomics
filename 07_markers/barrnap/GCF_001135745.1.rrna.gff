@@ -1,9 +1,0 @@
-##gff-version 3
-NZ_CPYU01000001.1	barrnap:0.9	rRNA	703991	704101	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CPYU01000001.1	barrnap:0.9	rRNA	704238	704348	6.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CPYU01000004.1	barrnap:0.9	rRNA	439607	439717	2.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CPYU01000006.1	barrnap:0.9	rRNA	15	125	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CPYU01000013.1	barrnap:0.9	rRNA	15	125	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_CPYU01000013.1	barrnap:0.9	rRNA	151083	152621	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_CPYU01000013.1	barrnap:0.9	rRNA	153079	155982	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_CPYU01000016.1	barrnap:0.9	rRNA	67060	67146	1.6e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA

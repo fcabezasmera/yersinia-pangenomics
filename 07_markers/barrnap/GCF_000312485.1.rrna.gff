@@ -1,7 +1,0 @@
-##gff-version 3
-NZ_HE997644.1	barrnap:0.9	rRNA	792429	792539	4.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_HE997644.1	barrnap:0.9	rRNA	792676	792786	3.9e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_HE997649.1	barrnap:0.9	rRNA	226306	226407	2.6e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_HE997654.1	barrnap:0.9	rRNA	82	192	7.3e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_HE997655.1	barrnap:0.9	rRNA	27	1565	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_HE997655.1	barrnap:0.9	rRNA	2471	5354	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

@@ -1,6 +1,0 @@
-##gff-version 3
-DBJELO010000003.1	barrnap:0.9	rRNA	126	236	3.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBJELO010000007.1	barrnap:0.9	rRNA	222744	222854	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBJELO010000016.1	barrnap:0.9	rRNA	34161	34271	4.4e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBJELO010000017.1	barrnap:0.9	rRNA	1	2717	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-DBJELO010000020.1	barrnap:0.9	rRNA	116	1653	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

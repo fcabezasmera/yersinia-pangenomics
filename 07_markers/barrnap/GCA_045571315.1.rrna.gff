@@ -1,5 +1,0 @@
-##gff-version 3
-DBCYYM010000018.1	barrnap:0.9	rRNA	93684	93794	4.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBCYYM010000040.1	barrnap:0.9	rRNA	2	911	6e-235	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 28 percent of the 23S ribosomal RNA
-DBCYYM010000041.1	barrnap:0.9	rRNA	1	483	5.7e-133	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 30 percent of the 16S ribosomal RNA
-DBCYYM010000042.1	barrnap:0.9	rRNA	8	771	9.6e-204	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 48 percent of the 16S ribosomal RNA

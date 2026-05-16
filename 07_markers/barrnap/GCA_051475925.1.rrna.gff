@@ -1,4 +1,0 @@
-##gff-version 3
-DBJLEX010000014.1	barrnap:0.9	rRNA	97398	97485	2.5e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
-DBJLEX010000015.1	barrnap:0.9	rRNA	94126	94236	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBJLEX010000020.1	barrnap:0.9	rRNA	2	2598	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

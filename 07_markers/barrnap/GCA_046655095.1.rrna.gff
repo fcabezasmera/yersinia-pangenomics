@@ -1,6 +1,0 @@
-##gff-version 3
-JBKLKT010000049.1	barrnap:0.9	rRNA	37258	37368	9.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-JBKLKT010000058.1	barrnap:0.9	rRNA	32959	33069	6.6e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-JBKLKT010000075.1	barrnap:0.9	rRNA	21878	21978	3.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-JBKLKT010000140.1	barrnap:0.9	rRNA	169	3072	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-JBKLKT010000151.1	barrnap:0.9	rRNA	211	1749	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

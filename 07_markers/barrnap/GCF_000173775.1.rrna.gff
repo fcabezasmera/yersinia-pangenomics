@@ -1,4 +1,0 @@
-##gff-version 3
-NZ_ACCD01000071.1	barrnap:0.9	rRNA	21	1559	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_ACCD01000072.1	barrnap:0.9	rRNA	21	1559	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
-NZ_ACCD01000075.1	barrnap:0.9	rRNA	4	1221	3.6e-293	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA

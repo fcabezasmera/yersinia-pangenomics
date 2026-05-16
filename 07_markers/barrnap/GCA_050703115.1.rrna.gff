@@ -1,5 +1,0 @@
-##gff-version 3
-ABZEMA010000029.1	barrnap:0.9	rRNA	13	1322	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 40 percent of the 23S ribosomal RNA
-ABZEMA010000030.1	barrnap:0.9	rRNA	2	1265	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 39 percent of the 23S ribosomal RNA
-ABZEMA010000033.1	barrnap:0.9	rRNA	11	893	1.1e-219	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 55 percent of the 16S ribosomal RNA
-ABZEMA010000036.1	barrnap:0.9	rRNA	2	426	6.5e-110	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 26 percent of the 16S ribosomal RNA

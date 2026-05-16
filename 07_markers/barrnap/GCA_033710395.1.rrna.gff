@@ -1,5 +1,0 @@
-##gff-version 3
-ABOYAU010000001.1	barrnap:0.9	rRNA	3	91	9.1e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 74 percent of the 5S ribosomal RNA
-ABOYAU010000001.1	barrnap:0.9	rRNA	228	338	2.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-ABOYAU010000026.1	barrnap:0.9	rRNA	59423	59533	2.4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-ABOYAU010000128.1	barrnap:0.9	rRNA	116	1654	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

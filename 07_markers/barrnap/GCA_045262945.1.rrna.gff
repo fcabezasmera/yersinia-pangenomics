@@ -1,5 +1,0 @@
-##gff-version 3
-ABWLZT010000020.1	barrnap:0.9	rRNA	93592	93702	4.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-ABWLZT010000063.1	barrnap:0.9	rRNA	116	1654	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
-ABWLZT010000066.1	barrnap:0.9	rRNA	15	1469	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 45 percent of the 23S ribosomal RNA
-ABWLZT010000077.1	barrnap:0.9	rRNA	191	301	7.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA

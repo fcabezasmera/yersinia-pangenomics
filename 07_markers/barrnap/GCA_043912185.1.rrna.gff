@@ -1,3 +1,0 @@
-##gff-version 3
-ABWACN010000045.1	barrnap:0.9	rRNA	2	2586	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-ABWACN010000050.1	barrnap:0.9	rRNA	22	1476	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

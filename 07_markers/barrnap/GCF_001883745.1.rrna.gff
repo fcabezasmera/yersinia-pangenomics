@@ -1,5 +1,0 @@
-##gff-version 3
-NZ_MDZQ01000016.1	barrnap:0.9	rRNA	182	292	3.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_MDZQ01000031.1	barrnap:0.9	rRNA	10	120	4.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_MDZQ01000031.1	barrnap:0.9	rRNA	235	3138	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_MDZQ01000038.1	barrnap:0.9	rRNA	200	1738	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

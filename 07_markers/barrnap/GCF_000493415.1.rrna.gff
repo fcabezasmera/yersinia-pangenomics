@@ -1,3 +1,0 @@
-##gff-version 3
-NZ_CBLI010000038.1	barrnap:0.9	rRNA	3	69	2.3e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 56 percent of the 5S ribosomal RNA
-NZ_CBLI010000055.1	barrnap:0.9	rRNA	151	217	2.3e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 56 percent of the 5S ribosomal RNA

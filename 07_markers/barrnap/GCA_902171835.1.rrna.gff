@@ -1,5 +1,0 @@
-##gff-version 3
-CABICS010000032.1	barrnap:0.9	rRNA	116	3000	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
-CABICS010000069.1	barrnap:0.9	rRNA	118	228	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-CABICS010000069.1	barrnap:0.9	rRNA	365	438	4.7e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 62 percent of the 5S ribosomal RNA
-CABICS010000122.1	barrnap:0.9	rRNA	211	1749	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

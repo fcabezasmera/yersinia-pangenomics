@@ -1,9 +1,0 @@
-##gff-version 3
-NZ_VDHI01000005.1	barrnap:0.9	rRNA	193921	194031	4.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VDHI01000011.1	barrnap:0.9	rRNA	127059	127169	4.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VDHI01000021.1	barrnap:0.9	rRNA	7	117	4.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VDHI01000021.1	barrnap:0.9	rRNA	253	363	3.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VDHI01000034.1	barrnap:0.9	rRNA	1	104	4.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VDHI01000040.1	barrnap:0.9	rRNA	10	120	4.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_VDHI01000040.1	barrnap:0.9	rRNA	235	3138	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
-NZ_VDHI01000043.1	barrnap:0.9	rRNA	46	1584	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

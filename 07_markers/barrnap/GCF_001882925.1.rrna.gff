@@ -1,8 +1,0 @@
-##gff-version 3
-NZ_MECE01000012.1	barrnap:0.9	rRNA	2	511	2.2e-102	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 32 percent of the 16S ribosomal RNA
-NZ_MECE01000012.1	barrnap:0.9	rRNA	310519	311028	2.2e-102	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 32 percent of the 16S ribosomal RNA
-NZ_MECE01000020.1	barrnap:0.9	rRNA	182	292	3.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_MECE01000034.1	barrnap:0.9	rRNA	248642	248752	4.3e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-NZ_MECE01000034.1	barrnap:0.9	rRNA	248867	249843	8.6e-282	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 30 percent of the 23S ribosomal RNA
-NZ_MECE01000061.1	barrnap:0.9	rRNA	16	1083	1.3e-296	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 67 percent of the 16S ribosomal RNA
-NZ_MECE01000066.1	barrnap:0.9	rRNA	1	946	4e-226	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 29 percent of the 23S ribosomal RNA

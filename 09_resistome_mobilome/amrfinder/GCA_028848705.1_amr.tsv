@@ -1,7 +1,0 @@
-Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description	Hierarchy node
-NA	ABKTJS010000002.1	110507	111169	-	vat(F)	streptogramin A O-acetyltransferase Vat(F)	core	AMR	AMR	STREPTOGRAMIN	STREPTOGRAMIN	BLASTX	221	221	100.00	98.64	221	WP_005164767.1	streptogramin A O-acetyltransferase Vat(F)	NA	NA	vat(F)
-NA	ABKTJS010000002.1	118095	118976	-	blaA	class A beta-lactamase BlaA	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	294	294	100.00	99.66	294	WP_019083125.1	class A beta-lactamase BlaA	NA	NA	blaA_Yent
-NA	ABKTJS010000038.1	128	985	-	blaTEM	TEM family class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	286	286	100.00	97.55	286	WP_038976851.1	class A beta-lactamase TEM-176	NA	NA	blaTEM
-NA	ABKTJS010000048.1	9801	10682	+	blaA	class A beta-lactamase BlaA	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	294	294	100.00	99.66	294	WP_019083125.1	class A beta-lactamase BlaA	NA	NA	blaA_Yent
-NA	ABKTJS010000048.1	17608	18270	+	vat(F)	streptogramin A O-acetyltransferase Vat(F)	core	AMR	AMR	STREPTOGRAMIN	STREPTOGRAMIN	BLASTX	221	221	100.00	98.64	221	WP_005164767.1	streptogramin A O-acetyltransferase Vat(F)	NA	NA	vat(F)
-NA	ABKTJS010000049.1	780	1637	+	blaTEM	TEM family class A beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	286	286	100.00	97.55	286	WP_038976851.1	class A beta-lactamase TEM-176	NA	NA	blaTEM

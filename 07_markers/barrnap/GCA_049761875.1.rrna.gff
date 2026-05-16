@@ -1,7 +1,0 @@
-##gff-version 3
-DBHYZT010000002.1	barrnap:0.9	rRNA	126	236	4.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBHYZT010000011.1	barrnap:0.9	rRNA	88474	88584	4.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBHYZT010000014.1	barrnap:0.9	rRNA	71611	71721	7.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBHYZT010000018.1	barrnap:0.9	rRNA	34161	34271	7.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
-DBHYZT010000030.1	barrnap:0.9	rRNA	2	1328	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 41 percent of the 23S ribosomal RNA
-DBHYZT010000040.1	barrnap:0.9	rRNA	2	904	2.4e-225	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 27 percent of the 23S ribosomal RNA

@@ -289,3 +289,44 @@ Repository: [github.com/fcabezasmera/yersinia-pangenomics](https://github.com/fc
 ---
 
 *Last updated: May 16, 2026 | Status: Active — D statistic running, Bakta ~52% on faraday HPC*
+
+---
+
+## Taxonomy Notes
+
+### Species Reclassifications
+
+11 former *Yersinia* sp. genomes reclassified based on ANI ≥ 95%:
+
+| Reclassified to | n genomes |
+|---|---|
+| *Y. bercovieri* | 3 |
+| *Y. entomophaga* | 2 |
+| *Y. vastinensis* | 2 |
+| *Y. rochesterensis* | 2 |
+| *Y. enterocolitica* | 1 |
+| *Y. intermedia* | 1 |
+| **Total** | **11** |
+
+Reclassification details: `05_taxonomy/skani/yersinia_sp_reclassification.tsv`
+
+### Borderline Species Pairs
+
+Two species pairs with ANI values approaching the species boundary (95%):
+
+| Pair | Max ANI | Status |
+|---|---|---|
+| *Y. alsatica* / *Y. frederiksenii* | 99.98% | Putative species complex |
+| *Y. frederiksenii* / *Y. massiliensis* | 99.94% | Putative species complex |
+
+These pairs may represent a single species or recently diverged lineages requiring additional phenotypic characterization.
+
+### Novel Species — Geographic Subgroups
+
+| Subgroup | n | Locations | Years |
+|---|---|---|---|
+| Arctic Russia | 10 | Sakha, Krasnoyarsk, Karelia, Franz Josef Land, Novaya Zemlya | 2006–2021 |
+| Antarctica | 5 | Galindez Is., Berthelot Is., Cape Tuxen, Yalour Is. | 2025 |
+
+Inter-subgroup ANI (Arctic vs Antarctica): mean 98.87% → single species.
+

@@ -1,0 +1,106 @@
+{
+  "analysis": "Scoary2 GWAS v0.0.15",
+  "dataset": "9,957 genomes \u00d7 69 AMR genes \u00d7 21 traits",
+  "significant_associations": 330,
+  "unique_genes": 69,
+  "unique_traits": 21,
+  "key_findings": {
+    "1_blaA_clinical_enrichment": {
+      "finding": "blaA strongly enriched in clinical and food chain niches",
+      "odds_ratios": {
+        "niche_H": 23.23,
+        "niche_F": 22.91,
+        "host_human": 10.77,
+        "host_pig": 9.84,
+        "region_Europe": 15.0,
+        "region_North_America": 16.38
+      },
+      "depleted_in": {
+        "niche_A": 0.04,
+        "host_marmot": 0.02,
+        "host_rodent": 0.01,
+        "host_fish": 0.0,
+        "region_Asia_Central": 0.01
+      },
+      "temporal": {
+        "era_2020plus": 49.82,
+        "era_2000s": 0.15,
+        "pre2000": 0.02
+      },
+      "interpretation": "blaA is under strong positive selection in human clinical and food chain contexts in Europe and North America, with a dramatic temporal increase (OR=49.82 in 2020+). Markedly depleted in wildlife (rodent, marmot, fish) and Central Asia suggesting anthropogenic selection pressure from beta-lactam use in human medicine and food animal production."
+    },
+    "2_blaYRC_animal_enrichment": {
+      "finding": "blaYRC uniquely enriched in animal niche and fish hosts",
+      "odds_ratios": {
+        "niche_A": 13.52,
+        "host_fish": 29220.0,
+        "region_Oceania": 5.16
+      },
+      "depleted_in": {
+        "niche_H": 0.02,
+        "host_human": 0.04,
+        "region_Asia_Central": 0.05
+      },
+      "interpretation": "blaYRC shows extreme enrichment in fish hosts (OR=29,220), consistent with its known role in Y. ruckeri (enteric red mouth disease in salmonids). This represents a clear animal-specific AMR lineage with minimal human spillover risk."
+    },
+    "3_south_america_integron_cluster": {
+      "finding": "South America: unique integron-associated AMR cluster",
+      "genes": [
+        "sat2",
+        "dfrA1",
+        "aadA1",
+        "floR",
+        "aadA12"
+      ],
+      "odds_ratios": {
+        "sat2": 159.52,
+        "dfrA1": 147.22,
+        "floR": 93.46,
+        "aadA1": 68.14
+      },
+      "interpretation": "A distinct multi-drug resistance gene cluster is uniquely enriched in South America (g+t+: 9-12 genomes), including streptothricin (sat2), trimethoprim (dfrA1), chloramphenicol phenicol (floR), and aminoglycosides (aadA1). This co-occurrence pattern suggests a South American-specific integron or plasmid carrying multiple resistance determinants \u2014 a candidate for MOBsuite plasmid characterization."
+    },
+    "4_europe_aminoglycoside_cluster": {
+      "finding": "Europe: aminoglycoside/sulfonamide cluster",
+      "genes": [
+        "aadA12",
+        "catA1",
+        "qacEdelta1",
+        "sul1",
+        "tet(C)"
+      ],
+      "odds_ratios": {
+        "aadA12": 17.52,
+        "catA1": 13.7,
+        "qacEdelta1": 7.47,
+        "sul1": 7.1
+      },
+      "interpretation": "European isolates show enrichment for class 1 integron-associated genes (aadA12, qacEdelta1, sul1), consistent with the known prevalence of IncI and IncF plasmids in European Y. enterocolitica clinical isolates. These are priority targets for plasmid reconstruction with MOBsuite."
+    },
+    "5_environmental_AMR_richness": {
+      "finding": "Environmental niche harbors highest AMR gene diversity",
+      "n_genes_niche_E": 69,
+      "n_genes_niche_H": 8,
+      "n_genes_niche_A": 8,
+      "n_genes_niche_F": 3,
+      "interpretation": "Despite being the smallest niche group (n=91 genomes), Environmental isolates harbor all 69 unique AMR genes \u2014 far exceeding the 8 genes in clinical (H) and animal (A) niches. This supports the environmental resistome as a reservoir for AMR genes not yet detected in clinical surveillance. The novel circumpolar Yersinia sp. nov. belongs to this niche \u2014 its AMR profile is part of this cryptic environmental resistome undetectable by current marker-based surveillance."
+    },
+    "6_temporal_AMR_increase": {
+      "finding": "Dramatic temporal increase in blaA/vat(F) post-2020",
+      "blaA_OR_2020plus": 49.82,
+      "blaA_OR_2000s": 0.15,
+      "vat(F)_OR_2020plus": 39.29,
+      "interpretation": "The 2020+ era shows 49-fold enrichment for blaA and 39-fold for vat(F) compared to baseline. This likely reflects both increased sequencing of clinical isolates post-COVID and genuine AMR selection pressure. Requires temporal stratification analysis to disentangle sequencing bias from true AMR emergence."
+    }
+  },
+  "paper_implications": {
+    "paper1_validation": "Environmental niche harbors 69/69 AMR genes vs 8 in clinical \u2014 surveillance-neglected environmental species carry the full resistome diversity. The novel circumpolar clade in niche_E is part of this cryptic mobilome.",
+    "paper2_panmob": "South American integron cluster and European aminoglycoside cluster are prime targets for MOBsuite/Platon plasmid characterization \u2014 PanMob toolkit validation cases.",
+    "priority_targets": [
+      "South American integron (sat2/dfrA1/floR cluster)",
+      "European IncI plasmid (aadA12/qacEdelta1/sul1)",
+      "blaYRC in Y. ruckeri fish isolates",
+      "Environmental novel species AMR profile"
+    ]
+  }
+}

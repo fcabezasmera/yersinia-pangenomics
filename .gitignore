@@ -1,48 +1,24 @@
-# Large genome files — never push to GitHub
-02_genomes/
-03_qc/checkm2/
-03_qc/gunc/
-04_annotation/bakta/
+# Large data files (not needed in repo)
+02_genomes/raw/                 # Raw genomes (45 GB)
+03_qc/checkm2/*.fasta          # Intermediate CheckM2
+logs/                            # Log files
+nohup.out                        # Nohup output
+*.log
 
-# Large intermediate files
-*.fna
-*.fasta
-*.fastq
-*.gz
-*.zip
-*.bam
-*.sam
-
-# Conda environments
-*.conda
-*.tar.gz
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-.pytest_cache/
-
-# R temporary files
-*.Rhistory
-*.RData
-
-# Logs (keep structure, ignore content)
-logs/*.log
-logs/*.txt
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Large result files (tracked via Zenodo instead)
-12_results/figures/*.pdf
-12_results/figures/*.png
-
-# Environment files with credentials
-.env
-*.env
-gunc_db/
-# IQ-TREE diagnostic output (too large, keep only .treefile)
+# IQ-TREE outputs (keep only .treefile)
 *.iqtree
 *.mldist
+*.iqtree.model
+
+# Temporary files
+*.tmp
+*.temp
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large intermediate files
+*.fai
+*.fasta.bgz
+*.fasta.bai
+Eog

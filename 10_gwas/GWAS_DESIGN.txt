@@ -1,0 +1,51 @@
+PHASE 10: GWAS — Genome-Wide Association Study
+Yersinia genus-wide pangenomics
+
+OBJECTIVE:
+  Identify AMR genes under positive selection across One Health niches
+  (Clinical/Human vs Animal vs Food vs Environmental)
+
+DATASET:
+  9,957 genomes × 69 AMR genes detected by AMRFinderPlus
+  Phenotypes: One Health niche classification (5 categories)
+
+GENOTYPE MATRIX:
+  gene_presence_absence.tsv: 9,957 × 4 genes (≥1% prevalence)
+  Top genes:
+    - blaA (β-lactamase): 54.4%
+    - vat(F) (streptogramin acetyltransferase): 53.1%
+    - blaYRC (β-lactamase): 2.2%
+    - tet(A) (tetracycline resistance): 1.0%
+
+PHENOTYPE MATRIX:
+  gwas_phenotypes.tsv: 9,957 × 2 contrasts
+    1. clinical_vs_env: Human Clinical (H) vs Environmental (E)
+    2. human_vs_animal: Human (H) vs Animal (A)
+
+NICHE DISTRIBUTION:
+  H (Human clinical):     3,955 (39.7%)
+  A (Animal):             3,924 (39.4%)
+  U (Unclassified):       1,262 (12.7%)
+  F (Food):                 725 ( 7.3%)
+  E (Environmental):          91 ( 0.9%)
+
+AMR BURDEN:
+  Mean: 1.22 genes/genome
+  Median: 2 genes/genome
+  Range: 0-16 genes/genome
+  57.1% genomes have ≥1 AMR gene
+
+EXPECTED FINDINGS:
+  1. blaA/vat(F) enriched in clinical (Y. enterocolitica) vs environmental
+  2. tet(A) associated with specific species lineages
+  3. Rare genes (prevalence <0.5%) may show niche-specific patterns
+
+STATISTICAL TEST:
+  Scoary2 (logistic regression with allele frequency adjustment)
+  Significance: q-value < 0.05 (Bonferroni-corrected)
+
+NEXT STEPS:
+  1. Parse Scoary2 results
+  2. Integrate with pangenome (Phase 8, pending Bakta)
+  3. Phylogenetic reconstruction of selected genes
+  4. Ancestral state reconstruction (D statistic)

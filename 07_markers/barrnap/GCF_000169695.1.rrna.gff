@@ -1,0 +1,25 @@
+##gff-version 3
+NZ_AAYV01000004.1	barrnap:0.9	rRNA	2	1369	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYV01000004.1	barrnap:0.9	rRNA	279748	281286	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYV01000004.1	barrnap:0.9	rRNA	281754	284657	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYV01000004.1	barrnap:0.9	rRNA	284770	284880	7.1e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000006.1	barrnap:0.9	rRNA	256604	257971	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYV01000011.1	barrnap:0.9	rRNA	1	581	1.6e-154	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 36 percent of the 16S ribosomal RNA
+NZ_AAYV01000011.1	barrnap:0.9	rRNA	1109	4012	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYV01000011.1	barrnap:0.9	rRNA	4125	4235	7.1e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000014.1	barrnap:0.9	rRNA	110103	110213	7.1e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000014.1	barrnap:0.9	rRNA	110326	113229	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYV01000014.1	barrnap:0.9	rRNA	113697	114289	8.9e-160	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 37 percent of the 16S ribosomal RNA
+NZ_AAYV01000023.1	barrnap:0.9	rRNA	817	927	7.1e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000023.1	barrnap:0.9	rRNA	1064	1174	4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000024.1	barrnap:0.9	rRNA	30548	30976	1.4e-91	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 27 percent of the 16S ribosomal RNA
+NZ_AAYV01000028.1	barrnap:0.9	rRNA	14301	15839	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYV01000028.1	barrnap:0.9	rRNA	16367	19269	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYV01000028.1	barrnap:0.9	rRNA	19382	19492	7.1e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000038.1	barrnap:0.9	rRNA	349	459	7.1e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000038.1	barrnap:0.9	rRNA	572	3474	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYV01000039.1	barrnap:0.9	rRNA	10	120	1e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYV01000039.1	barrnap:0.9	rRNA	233	3136	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYV01000047.1	barrnap:0.9	rRNA	1283	1863	1.6e-154	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 36 percent of the 16S ribosomal RNA
+NZ_AAYV01000050.1	barrnap:0.9	rRNA	1076	1668	6.3e-160	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 37 percent of the 16S ribosomal RNA
+NZ_AAYV01000052.1	barrnap:0.9	rRNA	226	1593	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

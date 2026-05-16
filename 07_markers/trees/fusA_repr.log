@@ -1,0 +1,759 @@
+IQ-TREE version 3.1.1 for Linux x86 64-bit built Apr  8 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    victus (AVX2, FMA3, 31 GB RAM)
+Command: iqtree -s 07_markers/alignments_trimmed/subsampled/fusA_repr.fasta -m MFP -B 1000 -T 24 --prefix 07_markers/trees/fusA_repr --redo --quiet
+Seed:    28062 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri May 15 18:33:03 2026
+Kernel:  AVX+FMA - 24 threads (24 CPU cores detected)
+
+Reading alignment file 07_markers/alignments_trimmed/subsampled/fusA_repr.fasta ... Fasta format detected
+Reading fasta file: done in 0.00124364 secs using 98.74% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00129928 secs using 81.66% CPU
+Alignment has 124 sequences with 666 columns, 288 distinct patterns
+259 parsimony-informative, 7 singleton sites, 400 constant sites
+WARNING: Some sequence names are changed as follows:
+Yersinia_sp._(novel_candidate)__GCF_041538325.1 -> Yersinia_sp.__novel_candidate___GCF_041538325.1
+Yersinia_sp._(novel_candidate)__GCF_048593885.1 -> Yersinia_sp.__novel_candidate___GCF_048593885.1
+Yersinia_sp._(novel_candidate)__GCF_056636475.1 -> Yersinia_sp.__novel_candidate___GCF_056636475.1
+Yersinia_sp._(novel_candidate)__GCF_056636415.1 -> Yersinia_sp.__novel_candidate___GCF_056636415.1
+Yersinia_sp._(novel_candidate)__GCF_056636455.1 -> Yersinia_sp.__novel_candidate___GCF_056636455.1
+
+                                                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 6.702e-05 secs using 337.2% CPU
+   1  Yersinia_pseudotuberculosis__GCF_900460735.1       0.00%    passed     88.04%
+   2  Yersinia_rochesterensis__GCF_946902935.1          45.65%    passed     99.88%
+   3  Yersinia_pekkanenii__GCF_963868735.1              45.65%    passed     99.94%
+   4  Yersinia_bercovieri__GCF_963900425.1              45.65%    passed     99.90%
+   5  Yersinia_alsatica__GCF_963900355.1                45.65%    passed     99.90%
+   6  Yersinia_kristensenii__GCF_963870645.1             0.00%    passed     90.83%
+   7  Yersinia_kristensenii__GCF_963873565.1             0.00%    passed     91.83%
+   8  Yersinia_mollaretii__GCF_963887555.1              45.65%    passed     99.91%
+   9  Yersinia_kristensenii__GCF_963901205.1             0.00%    passed     89.30%
+  10  Yersinia_vastinensis__GCF_963900675.1             45.65%    passed     99.93%
+  11  Yersinia_alsatica__GCF_963901175.1                45.65%    passed     99.90%
+  12  Yersinia_alsatica__GCF_963901255.1                45.65%    passed     99.90%
+  13  Yersinia_mollaretii__GCF_963900165.1              45.65%    passed     99.91%
+  14  Yersinia_entomophaga__GCF_965137505.1             45.65%    passed     99.97%
+  15  Yersinia_pekkanenii__GCF_001244635.1              45.65%    passed     99.94%
+  16  Yersinia_nurmii__GCF_001112925.1                  45.65%    passed     99.98%
+  17  Yersinia_aldovae__GCF_001091225.1                 45.65%    passed     99.90%
+  18  Yersinia_wautersii__GCF_000493475.1               45.65%    passed     99.95%
+  19  Yersinia_wautersii__GCF_000493415.1               45.65%    passed     99.95%
+  20  Yersinia_frederiksenii__GCF_900460425.1           45.65%    passed     99.90%
+  21  Yersinia_aldovae__GCF_902168585.1                 45.65%    passed     99.90%
+  22  Yersinia_aldovae__GCF_902168475.1                 48.20%    passed     99.87%
+  23  Yersinia_aleksiciae__GCF_902168445.1              45.65%    passed     99.89%
+  24  Yersinia_aleksiciae__GCF_902168465.1              45.65%    passed     99.89%
+  25  Yersinia_bercovieri__GCF_902168545.1              45.65%    passed     99.89%
+  26  Yersinia_bercovieri__GCF_902168625.1              45.65%    passed     99.89%
+  27  Yersinia_frederiksenii__GCF_902170525.1           45.65%    passed     99.90%
+  28  Yersinia_alsatica__GCF_902170395.1                45.95%    passed     99.87%
+  29  Yersinia_alsatica__GCF_902170275.1                45.65%    passed     99.90%
+  30  Yersinia_vastinensis__GCF_902170245.1             45.65%    passed     99.93%
+  31  Yersinia_vastinensis__GCF_902170255.1             45.65%    passed     99.93%
+  32  Yersinia_vastinensis__GCF_902170295.1             45.65%    passed     99.93%
+  33  Yersinia_hibernica__GCF_902170435.1                0.00%    passed     92.08%
+  34  Yersinia_intermedia__GCF_902170555.1              45.65%    passed     99.66%
+  35  Yersinia_intermedia__GCF_902170445.1              45.65%    passed     99.66%
+  36  Yersinia_kristensenii__GCF_902170425.1             0.00%    passed     90.83%
+  37  Yersinia_thracica__GCF_902170565.1                45.65%    passed     99.88%
+  38  Yersinia_thracica__GCF_902170455.1                45.65%    passed     99.88%
+  39  Yersinia_rochesterensis__GCF_902170605.1          45.65%    passed     99.88%
+  40  Yersinia_rochesterensis__GCF_902170465.1          45.65%    passed     99.88%
+  41  Yersinia_massiliensis__GCF_902170615.1             0.00%    passed     90.58%
+  42  Yersinia_canariae__GCF_902170775.1                 0.00%    passed     89.18%
+  43  Yersinia_canariae__GCF_902170705.1                 0.00%    passed     89.18%
+  44  Yersinia_artesiana__GCF_902170805.1                0.00%    passed     83.93%
+  45  Yersinia_proxima__GCF_902170985.1                  0.00%    passed     83.93%
+  46  Yersinia_proxima__GCF_902170815.1                  0.00%    passed     83.93%
+  47  Yersinia_proxima__GCF_902170945.1                  0.00%    passed     83.93%
+  48  Yersinia_pseudotuberculosis__GCA_902171145.1      45.65%    passed     99.96%
+  49  Yersinia_pseudotuberculosis__GCA_902171905.1      45.65%    passed     99.96%
+  50  Yersinia_pseudotuberculosis__GCA_902172005.1      45.65%    passed     99.96%
+  51  Yersinia_similis__GCF_902173105.1                 45.65%    passed     99.98%
+  52  Yersinia_similis__GCF_902173255.1                 45.65%    passed     99.98%
+  53  Yersinia_mollaretii__GCF_902387525.1              45.65%    passed     99.84%
+  54  Yersinia_artesiana__GCF_902726525.1                0.00%    passed     83.93%
+  55  Yersinia_artesiana__GCF_902726545.1                0.00%    passed     83.93%
+  56  Yersinia_artesiana__GCF_902726535.1                0.00%    passed     83.93%
+  57  Yersinia_thracica__GCF_902726555.1                45.65%    passed     99.88%
+  58  Yersinia_rohdei__GCF_001223385.1                   0.00%    passed     93.00%
+  59  Yersinia_frederiksenii__GCF_001142745.1           62.31%    passed     99.02%
+  60  Yersinia_pekkanenii__GCF_001152565.1              45.65%    passed     99.94%
+  61  Yersinia_mollaretii__GCF_001149645.1              45.65%    passed     99.91%
+  62  Yersinia_intermedia__GCF_001218045.1              45.65%    passed     99.66%
+  63  Yersinia_rohdei__GCF_001152185.1                   0.00%    passed     93.00%
+  64  Yersinia_similis__GCF_001114105.1                 45.65%    passed     99.98%
+  65  Yersinia_similis__GCF_001053095.1                 45.65%    passed     99.98%
+  66  Yersinia_thracica__GCF_001123825.1                45.65%    passed     99.88%
+  67  Yersinia_wautersii__GCF_001319825.1               45.65%    passed     99.95%
+  68  Yersinia_massiliensis__GCF_001142305.1            45.65%    passed     99.83%
+  69  Yersinia_aleksiciae__GCF_001319845.1              45.65%    passed     99.89%
+  70  Yersinia_similis__GCF_001140625.1                 45.65%    passed     99.98%
+  71  Yersinia_intermedia__GCF_001153385.1              45.65%    passed     99.66%
+  72  Yersinia_mollaretii__GCF_001220845.1              45.65%    passed     99.91%
+  73  Yersinia_frederiksenii__GCF_001222845.1            0.00%    passed     90.58%
+  74  Yersinia_bercovieri__GCF_001319955.1              54.20%    passed     99.17%
+  75  Yersinia_enterocolitica__GCF_001220145.1           0.00%    passed     88.87%
+  76  Yersinia_aldovae__GCF_000173735.1                 45.65%    passed     99.90%
+  77  Yersinia_rohdei__GCF_000173775.1                   0.00%    passed     93.00%
+  78  Yersinia_pestis__GCF_000324045.1                   0.00%    passed     88.04%
+  79  Yersinia_pestis__GCF_000324205.1                   0.00%    passed     88.04%
+  80  Yersinia_rochesterensis__GCF_000750355.1          45.65%    passed     99.88%
+  81  Yersinia_hibernica__GCF_000597945.1                0.00%    passed     92.08%
+  82  Yersinia_aldovae__GCF_000834395.1                 45.65%    passed     99.90%
+  83  Yersinia_entomophaga__GCF_001656035.1             45.65%    passed     99.97%
+  84  Yersinia_rochesterensis__GCF_000834865.1          45.65%    passed     99.88%
+  85  Yersinia_ruckeri__GCF_001883155.1                 45.65%    passed     99.90%
+  86  Yersinia_frederiksenii__GCF_002192835.1           45.65%    passed     99.90%
+  87  Yersinia_entomophaga__GCF_002192845.1             45.65%    passed     99.97%
+  88  Yersinia_rohdei__GCF_002192875.1                   0.00%    passed     93.00%
+  89  Yersinia_pestis__GCF_009670355.1                  45.65%    passed     99.96%
+  90  Yersinia_entomophaga__GCF_003634395.1             45.65%    passed     99.97%
+  91  Yersinia_enterocolitica__GCA_028855385.1           0.00%    passed     88.87%
+  92  Yersinia_hibernica__GCF_004124235.1                0.00%    passed     92.08%
+  93  Yersinia_canariae__GCF_009831415.1                 0.00%    passed     89.18%
+  94  Yersinia_aleksiciae__GCF_011765225.1              45.65%    passed     99.89%
+  95  Yersinia_massiliensis__GCF_013282765.1             0.00%    passed     90.58%
+  96  Yersinia_bercovieri__GCF_013282745.1              45.65%    passed     99.89%
+  97  Yersinia_enterocolitica__GCA_028990795.1           0.00%    passed     87.49%
+  98  Yersinia_ruckeri__GCF_021399095.1                 45.65%    passed     99.90%
+  99  Yersinia_massiliensis__GCF_020531815.1             0.00%    passed     90.58%
+ 100  Yersinia_pseudotuberculosis__GCF_054862985.1      45.65%    passed     99.96%
+ 101  Yersinia_ruckeri__GCF_026130965.1                 45.65%    passed     99.90%
+ 102  Yersinia_aleksiciae__GCF_034423815.1              45.65%    passed     99.89%
+ 103  Yersinia_kristensenii__GCF_027946915.1             0.00%    passed     90.83%
+ 104  Yersinia_intermedia__GCF_026183875.1              45.65%    passed     99.66%
+ 105  Yersinia_massiliensis__GCF_026183385.1             0.00%    passed     90.58%
+ 106  Yersinia_nurmii__GCF_030385015.1                  45.65%    passed     99.99%
+ 107  Yersinia_rohdei__GCF_030385185.1                   0.00%    passed     93.00%
+ 108  Yersinia_sp.__novel_candidate___GCF_041538325.1   45.65%    passed     99.66%
+ 109  Yersinia_enterocolitica__GCA_032447965.1           0.00%    passed     88.87%
+ 110  Yersinia_ruckeri__GCA_032496425.1                 45.65%    passed     99.90%
+ 111  Yersinia_sp.__novel_candidate___GCF_048593885.1   45.65%    passed     99.66%
+ 112  Yersinia_ruckeri__GCA_039658735.1                 45.65%    passed     99.90%
+ 113  Yersinia_proxima__GCF_044626575.1                  0.00%    passed     83.93%
+ 114  Yersinia_hibernica__GCF_050253635.1                0.00%    passed     92.08%
+ 115  Yersinia_fenwicki__GCF_043099325.1                45.65%    passed     99.01%
+ 116  Yersinia_pestis__GCA_046657265.1                  45.65%    passed     99.96%
+ 117  Yersinia_pestis__GCA_046675465.1                  45.65%    passed     99.96%
+ 118  Yersinia_vastinensis__GCF_044905075.1             45.65%    passed     99.93%
+ 119  Yersinia_entomophaga__GCF_050586585.1             45.65%    passed     99.97%
+ 120  Yersinia_enterocolitica__GCA_051625535.1           0.00%    passed     87.49%
+ 121  Yersinia_sp.__novel_candidate___GCF_056636475.1   45.65%    passed     99.66%
+ 122  Yersinia_sp.__novel_candidate___GCF_056636415.1   45.65%    passed     99.66%
+ 123  Yersinia_sp.__novel_candidate___GCF_056636455.1   45.65%    passed     99.66%
+ 124  Yersinia_proxima__GCA_057128805.1                  0.00%    passed     83.93%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                             31.52%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Yersinia_pestis__GCF_000324045.1 is identical to Yersinia_pseudotuberculosis__GCF_900460735.1 but kept for subsequent analysis
+NOTE: Yersinia_thracica__GCF_902170565.1 is identical to Yersinia_rochesterensis__GCF_946902935.1 but kept for subsequent analysis
+NOTE: Yersinia_pekkanenii__GCF_001244635.1 is identical to Yersinia_pekkanenii__GCF_963868735.1 but kept for subsequent analysis
+NOTE: Yersinia_alsatica__GCF_963901175.1 is identical to Yersinia_alsatica__GCF_963900355.1 but kept for subsequent analysis
+NOTE: Yersinia_kristensenii__GCF_902170425.1 is identical to Yersinia_kristensenii__GCF_963870645.1 but kept for subsequent analysis
+NOTE: Yersinia_mollaretii__GCF_963900165.1 is identical to Yersinia_mollaretii__GCF_963887555.1 but kept for subsequent analysis
+NOTE: Yersinia_vastinensis__GCF_902170245.1 is identical to Yersinia_vastinensis__GCF_963900675.1 but kept for subsequent analysis
+NOTE: Yersinia_entomophaga__GCF_001656035.1 is identical to Yersinia_entomophaga__GCF_965137505.1 but kept for subsequent analysis
+NOTE: Yersinia_aldovae__GCF_902168585.1 is identical to Yersinia_aldovae__GCF_001091225.1 but kept for subsequent analysis
+NOTE: Yersinia_wautersii__GCF_000493415.1 is identical to Yersinia_wautersii__GCF_000493475.1 but kept for subsequent analysis
+NOTE: Yersinia_aleksiciae__GCF_902168465.1 is identical to Yersinia_aleksiciae__GCF_902168445.1 but kept for subsequent analysis
+NOTE: Yersinia_hibernica__GCF_000597945.1 is identical to Yersinia_hibernica__GCF_902170435.1 but kept for subsequent analysis
+NOTE: Yersinia_intermedia__GCF_902170445.1 is identical to Yersinia_intermedia__GCF_902170555.1 but kept for subsequent analysis
+NOTE: Yersinia_frederiksenii__GCF_001222845.1 is identical to Yersinia_massiliensis__GCF_902170615.1 but kept for subsequent analysis
+NOTE: Yersinia_canariae__GCF_902170705.1 is identical to Yersinia_canariae__GCF_902170775.1 but kept for subsequent analysis
+NOTE: Yersinia_proxima__GCF_902170985.1 is identical to Yersinia_artesiana__GCF_902170805.1 but kept for subsequent analysis
+NOTE: Yersinia_pseudotuberculosis__GCA_902171905.1 is identical to Yersinia_pseudotuberculosis__GCA_902171145.1 but kept for subsequent analysis
+NOTE: Yersinia_similis__GCF_902173255.1 is identical to Yersinia_similis__GCF_902173105.1 but kept for subsequent analysis
+NOTE: Yersinia_rohdei__GCF_001152185.1 is identical to Yersinia_rohdei__GCF_001223385.1 but kept for subsequent analysis
+NOTE: Yersinia_enterocolitica__GCA_028855385.1 is identical to Yersinia_enterocolitica__GCF_001220145.1 but kept for subsequent analysis
+NOTE: Yersinia_ruckeri__GCF_021399095.1 is identical to Yersinia_ruckeri__GCF_001883155.1 but kept for subsequent analysis
+NOTE: Yersinia_enterocolitica__GCA_051625535.1 is identical to Yersinia_enterocolitica__GCA_028990795.1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000430943 secs using 138.1% CPU
+Identifying sites to remove: done in 0.000573609 secs using 118.9% CPU
+NOTE: 68 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Yersinia_pestis__GCF_000324205.1 (identical to Yersinia_pseudotuberculosis__GCF_900460735.1) is ignored but added at the end
+NOTE: Yersinia_thracica__GCF_902170455.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_902170605.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_902170465.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_thracica__GCF_902726555.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_thracica__GCF_001123825.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_000750355.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_000834865.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_pekkanenii__GCF_001152565.1 (identical to Yersinia_pekkanenii__GCF_963868735.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_963901255.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_frederiksenii__GCF_900460425.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_frederiksenii__GCF_902170525.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_902170275.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_frederiksenii__GCF_002192835.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_kristensenii__GCF_027946915.1 (identical to Yersinia_kristensenii__GCF_963870645.1) is ignored but added at the end
+NOTE: Yersinia_mollaretii__GCF_001149645.1 (identical to Yersinia_mollaretii__GCF_963887555.1) is ignored but added at the end
+NOTE: Yersinia_mollaretii__GCF_001220845.1 (identical to Yersinia_mollaretii__GCF_963887555.1) is ignored but added at the end
+NOTE: Yersinia_vastinensis__GCF_902170255.1 (identical to Yersinia_vastinensis__GCF_963900675.1) is ignored but added at the end
+NOTE: Yersinia_vastinensis__GCF_902170295.1 (identical to Yersinia_vastinensis__GCF_963900675.1) is ignored but added at the end
+NOTE: Yersinia_vastinensis__GCF_044905075.1 (identical to Yersinia_vastinensis__GCF_963900675.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_002192845.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_003634395.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_050586585.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_aldovae__GCF_000173735.1 (identical to Yersinia_aldovae__GCF_001091225.1) is ignored but added at the end
+NOTE: Yersinia_aldovae__GCF_000834395.1 (identical to Yersinia_aldovae__GCF_001091225.1) is ignored but added at the end
+NOTE: Yersinia_wautersii__GCF_001319825.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_bercovieri__GCF_902168545.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_bercovieri__GCF_902168625.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_aleksiciae__GCF_001319845.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_aleksiciae__GCF_011765225.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_bercovieri__GCF_013282745.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_aleksiciae__GCF_034423815.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_hibernica__GCF_004124235.1 (identical to Yersinia_hibernica__GCF_902170435.1) is ignored but added at the end
+NOTE: Yersinia_hibernica__GCF_050253635.1 (identical to Yersinia_hibernica__GCF_902170435.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_001218045.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_001153385.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_026183875.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_041538325.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_048593885.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636475.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636415.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636455.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_massiliensis__GCF_013282765.1 (identical to Yersinia_massiliensis__GCF_902170615.1) is ignored but added at the end
+NOTE: Yersinia_massiliensis__GCF_020531815.1 (identical to Yersinia_massiliensis__GCF_902170615.1) is ignored but added at the end
+NOTE: Yersinia_massiliensis__GCF_026183385.1 (identical to Yersinia_massiliensis__GCF_902170615.1) is ignored but added at the end
+NOTE: Yersinia_canariae__GCF_009831415.1 (identical to Yersinia_canariae__GCF_902170775.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCF_902170815.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCF_902170945.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726525.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726545.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726535.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCF_044626575.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCA_057128805.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_pseudotuberculosis__GCA_902172005.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCF_009670355.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pseudotuberculosis__GCF_054862985.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCA_046657265.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCA_046675465.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001114105.1 (identical to Yersinia_similis__GCF_902173105.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001053095.1 (identical to Yersinia_similis__GCF_902173105.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001140625.1 (identical to Yersinia_similis__GCF_902173105.1) is ignored but added at the end
+NOTE: Yersinia_rohdei__GCF_000173775.1 (identical to Yersinia_rohdei__GCF_001223385.1) is ignored but added at the end
+NOTE: Yersinia_rohdei__GCF_002192875.1 (identical to Yersinia_rohdei__GCF_001223385.1) is ignored but added at the end
+NOTE: Yersinia_rohdei__GCF_030385185.1 (identical to Yersinia_rohdei__GCF_001223385.1) is ignored but added at the end
+NOTE: Yersinia_enterocolitica__GCA_032447965.1 (identical to Yersinia_enterocolitica__GCF_001220145.1) is ignored but added at the end
+NOTE: Yersinia_ruckeri__GCF_026130965.1 (identical to Yersinia_ruckeri__GCF_001883155.1) is ignored but added at the end
+NOTE: Yersinia_ruckeri__GCA_032496425.1 (identical to Yersinia_ruckeri__GCF_001883155.1) is ignored but added at the end
+NOTE: Yersinia_ruckeri__GCA_039658735.1 (identical to Yersinia_ruckeri__GCF_001883155.1) is ignored but added at the end
+Alignment was printed to 07_markers/trees/fusA_repr.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to 07_markers/trees/fusA_repr.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.005 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3535.973
+2. Current log-likelihood: -3534.664
+3. Current log-likelihood: -3533.635
+Optimal log-likelihood: -3532.923
+Proportion of invariable sites: 0.160
+Gamma shape alpha: 4.036
+Parameters optimization took 3 rounds (0.157 sec)
+Time for fast ML tree search: 1.246 seconds
+
+NOTE: ModelFinder requires 27 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 666 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  1  LG            3539.749     109 7297.497     7340.627     7788.138
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  2  LG+I          3534.790     110 7289.581     7333.581     7784.722
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  3  LG+G4         3528.978     110 7277.957     7321.957     7773.098
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  4  LG+I+G4       3530.444     111 7282.887     7327.768     7782.531
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  5  LG+R2         3530.054     111 7282.108     7326.989     7781.751
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  6  LG+R3         3520.192     113 7266.385     7313.059     7775.031
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  7  LG+R4         3520.102     115 7270.204     7318.713     7787.852
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 14  LG+I+R2       3519.825     112 7263.650     7309.422     7767.794
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 15  LG+I+R3       3519.880     114 7267.760     7315.346     7780.907
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 25  LG+F+G4       3499.241     129 7256.483     7319.057     7837.149
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 28  LG+F+R3       3490.172     132 7244.344     7310.220     7838.514
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 36  LG+F+I+R2     3489.643     131 7241.285     7306.049     7830.954
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 47  WAG+G4        3544.534     110 7309.069     7353.069     7804.211
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 50  WAG+R3        3534.127     113 7294.255     7340.929     7802.901
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 58  WAG+I+R2      3534.005     112 7292.011     7337.783     7796.155
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 69  WAG+F+G4      3508.646     129 7275.291     7337.866     7855.958
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 72  WAG+F+R3      3498.292     132 7260.584     7326.460     7854.754
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 80  WAG+F+I+R2    3498.059     131 7258.118     7322.882     7847.787
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 91  JTT+G4        3549.093     110 7318.185     7362.185     7813.327
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 94  JTT+R3        3541.737     113 7309.473     7356.147     7818.119
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+102  JTT+I+R2      3540.883     112 7305.766     7351.538     7809.910
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+113  JTT+F+G4      3517.668     129 7293.335     7355.910     7874.002
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+116  JTT+F+R3      3510.379     132 7284.758     7350.634     7878.929
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+124  JTT+F+I+R2    3509.283     131 7280.567     7345.331     7870.236
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+135  Q.PFAM+G4     3539.862     110 7299.724     7343.724     7794.866
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+138  Q.PFAM+R3     3529.883     113 7285.766     7332.440     7794.411
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+146  Q.PFAM+I+R2   3529.845     112 7283.690     7329.462     7787.835
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+157  Q.PFAM+F+G4   3506.338     129 7270.675     7333.250     7851.342
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+160  Q.PFAM+F+R3   3495.833     132 7255.665     7321.541     7849.835
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+168  Q.PFAM+F+I+R2 3495.486     131 7252.971     7317.735     7842.640
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+179  Q.BIRD+G4     3600.983     110 7421.966     7465.966     7917.108
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+182  Q.BIRD+R3     3594.956     113 7415.911     7462.585     7924.557
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+190  Q.BIRD+I+R2   3590.806     112 7405.611     7451.383     7909.756
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+201  Q.BIRD+F+G4   3554.372     129 7366.745     7429.319     7947.411
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+204  Q.BIRD+F+R3   3548.877     132 7361.754     7427.630     7955.925
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+212  Q.BIRD+F+I+R2 3543.429     131 7348.857     7413.621     7938.526
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+223  Q.MAMMAL+G4   3599.330     110 7418.659     7462.659     7913.801
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+226  Q.MAMMAL+R3   3592.088     113 7410.176     7456.850     7918.822
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+234  Q.MAMMAL+I+R2 3589.433     112 7402.867     7448.639     7907.011
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+245  Q.MAMMAL+F+G4 3543.364     129 7344.727     7407.302     7925.393
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+248  Q.MAMMAL+F+R3 3536.228     132 7336.456     7402.332     7930.627
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+256  Q.MAMMAL+F+I+R2 3532.496     131 7326.993     7391.757     7916.662
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+267  Q.INSECT+G4   3565.081     110 7350.162     7394.162     7845.304
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+270  Q.INSECT+R3   3557.643     113 7341.286     7387.960     7849.932
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+278  Q.INSECT+I+R2 3556.752     112 7337.504     7383.276     7841.648
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+289  Q.INSECT+F+G4 3510.555     129 7279.110     7341.685     7859.776
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+292  Q.INSECT+F+R3 3503.344     132 7270.688     7336.564     7864.858
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+300  Q.INSECT+F+I+R2 3502.544     131 7267.089     7331.853     7856.758
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+311  Q.PLANT+G4    3548.314     110 7316.628     7360.628     7811.769
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+314  Q.PLANT+R3    3541.079     113 7308.157     7354.831     7816.803
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+322  Q.PLANT+I+R2  3537.974     112 7299.949     7345.721     7804.093
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+333  Q.PLANT+F+G4  3515.088     129 7288.176     7350.750     7868.842
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+336  Q.PLANT+F+R3  3508.165     132 7280.330     7346.206     7874.500
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+344  Q.PLANT+F+I+R2 3505.150     131 7272.300     7337.064     7861.969
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+355  Q.YEAST+G4    3576.376     110 7372.753     7416.753     7867.895
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+358  Q.YEAST+R3    3568.665     113 7363.331     7410.005     7871.977
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+366  Q.YEAST+I+R2  3568.655     112 7361.310     7407.082     7865.454
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+377  Q.YEAST+F+G4  3509.303     129 7276.606     7339.181     7857.272
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+380  Q.YEAST+F+R3  3501.434     132 7266.868     7332.744     7861.039
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+388  Q.YEAST+F+I+R2 3501.260     131 7264.519     7329.283     7854.188
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+399  JTTDCMUT+G4   3548.276     110 7316.552     7360.552     7811.694
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+402  JTTDCMUT+R3   3540.665     113 7307.330     7354.004     7815.975
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+410  JTTDCMUT+I+R2 3539.514     112 7303.028     7348.800     7807.173
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+421  JTTDCMUT+F+G4 3516.392     129 7290.784     7353.358     7871.450
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+424  JTTDCMUT+F+R3 3508.934     132 7281.869     7347.745     7876.039
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+432  JTTDCMUT+F+I+R2 3507.598     131 7277.195     7341.959     7866.864
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+443  DCMUT+G4      3592.173     110 7404.346     7448.346     7899.487
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+446  DCMUT+R3      3586.873     113 7399.746     7446.420     7908.392
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+454  DCMUT+I+R2    3585.936     112 7395.872     7441.644     7900.016
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+465  DCMUT+F+G4    3524.243     129 7306.486     7369.061     7887.152
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+468  DCMUT+F+R3    3519.186     132 7302.372     7368.248     7896.542
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+476  DCMUT+F+I+R2  3517.868     131 7297.737     7362.501     7887.406
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+487  VT+G4         3552.094     110 7324.187     7368.187     7819.329
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+490  VT+R3         3540.204     113 7306.407     7353.081     7815.053
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+498  VT+I+R2       3540.723     112 7305.446     7351.218     7809.590
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+509  VT+F+G4       3517.282     129 7292.564     7355.138     7873.230
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+512  VT+F+R3       3505.330     132 7274.661     7340.537     7868.831
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+520  VT+F+I+R2     3505.804     131 7273.608     7338.372     7863.277
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+531  PMB+G4        3571.409     110 7362.818     7406.818     7857.960
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+534  PMB+R3        3557.431     113 7340.862     7387.535     7849.507
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+542  PMB+I+R2      3558.159     112 7340.317     7386.089     7844.461
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+553  PMB+F+G4      3525.246     129 7308.492     7371.067     7889.158
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+556  PMB+F+R3      3511.356     132 7286.711     7352.587     7880.881
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+564  PMB+F+I+R2    3511.938     131 7285.875     7350.639     7875.544
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+575  BLOSUM62+G4   3562.532     110 7345.064     7389.064     7840.206
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+578  BLOSUM62+R3   3548.472     113 7322.944     7369.618     7831.589
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+586  BLOSUM62+I+R2 3549.126     112 7322.252     7368.025     7826.397
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+597  BLOSUM62+F+G4 3526.734     129 7311.468     7374.042     7892.134
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+600  BLOSUM62+F+R3 3512.815     132 7289.630     7355.506     7883.801
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+608  BLOSUM62+F+I+R2 3513.343     131 7288.686     7353.450     7878.355
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+619  DAYHOFF+G4    3592.052     110 7404.105     7448.105     7899.246
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+622  DAYHOFF+R3    3586.946     113 7399.893     7446.567     7908.539
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+630  DAYHOFF+I+R2  3586.212     112 7396.424     7442.196     7900.569
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+641  DAYHOFF+F+G4  3524.150     129 7306.301     7368.875     7886.967
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+644  DAYHOFF+F+R3  3519.345     132 7302.691     7368.567     7896.861
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+652  DAYHOFF+F+I+R2 3517.993     131 7297.986     7362.750     7887.655
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+663  MTREV+G4      3776.637     110 7773.274     7817.274     8268.416
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+666  MTREV+R3      3773.269     113 7772.537     7819.211     8281.183
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+674  MTREV+I+R2    3766.041     112 7756.083     7801.855     8260.227
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+685  MTREV+F+G4    3534.256     129 7326.511     7389.086     7907.178
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+688  MTREV+F+R3    3529.370     132 7322.739     7388.615     7916.910
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+696  MTREV+F+I+R2  3523.560     131 7309.120     7373.884     7898.789
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+707  MTART+G4      3797.774     110 7815.548     7859.548     8310.690
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+710  MTART+R3      3795.520     113 7817.039     7863.713     8325.685
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+718  MTART+I+R2    3783.278     112 7790.556     7836.328     8294.700
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+729  MTART+F+G4    3548.003     129 7354.006     7416.581     7934.672
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+732  MTART+F+R3    3545.613     132 7355.227     7421.103     7949.397
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+740  MTART+F+I+R2  3539.117     131 7340.235     7404.999     7929.904
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+751  MTZOA+G4      3738.915     110 7697.830     7741.830     8192.972
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+754  MTZOA+R3      3736.154     113 7698.307     7744.981     8206.953
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+762  MTZOA+I+R2    3728.346     112 7680.691     7726.463     8184.836
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+773  MTZOA+F+G4    3529.194     129 7316.388     7378.963     7897.055
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+776  MTZOA+F+R3    3525.807     132 7315.614     7381.490     7909.784
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+784  MTZOA+F+I+R2  3522.154     131 7306.309     7371.073     7895.978
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+795  MTMET+G4      3808.955     110 7837.910     7881.910     8333.052
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+798  MTMET+R3      3805.466     113 7836.932     7883.606     8345.578
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+806  MTMET+I+R2    3796.670     112 7817.340     7863.112     8321.485
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+817  MTMET+F+G4    3543.359     129 7344.718     7407.293     7925.384
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+820  MTMET+F+R3    3539.753     132 7343.506     7409.382     7937.676
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+828  MTMET+F+I+R2  3533.276     131 7328.551     7393.315     7918.220
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+839  MTVER+G4      3825.248     110 7870.495     7914.495     8365.637
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+842  MTVER+R3      3824.649     113 7875.297     7921.971     8383.943
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+850  MTVER+I+R2    3812.789     112 7849.578     7895.350     8353.722
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+861  MTVER+F+G4    3564.452     129 7386.903     7449.478     7967.570
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+864  MTVER+F+R3    3563.683     132 7391.366     7457.242     7985.536
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+872  MTVER+F+I+R2  3554.619     131 7371.239     7436.003     7960.908
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+883  MTINV+G4      3845.598     110 7911.196     7955.196     8406.338
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+886  MTINV+R3      3839.602     113 7905.203     7951.877     8413.849
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+894  MTINV+I+R2    3834.124     112 7892.248     7938.020     8396.392
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+905  MTINV+F+G4    3529.046     129 7316.092     7378.667     7896.759
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+908  MTINV+F+R3    3522.887     132 7309.775     7375.651     7903.945
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+916  MTINV+F+I+R2  3520.022     131 7302.044     7366.808     7891.713
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+927  MTMAM+G4      3824.866     110 7869.731     7913.731     8364.873
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+930  MTMAM+R3      3826.928     113 7879.856     7926.530     8388.502
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+938  MTMAM+I+R2    3807.501     112 7839.002     7884.774     8343.146
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+949  MTMAM+F+G4    3579.467     129 7416.934     7479.509     7997.601
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+952  MTMAM+F+R3    3578.286     132 7420.573     7486.449     8014.743
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+960  MTMAM+F+I+R2  3563.738     131 7389.476     7454.240     7979.145
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+971  FLAVI+G4      3596.577     110 7413.153     7457.153     7908.295
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+974  FLAVI+R3      3594.653     113 7415.305     7461.979     7923.951
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+982  FLAVI+I+R2    3587.922     112 7399.843     7445.615     7903.987
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+993  FLAVI+F+G4    3557.124     129 7372.248     7434.822     7952.914
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+996  FLAVI+F+R3    3556.886     132 7377.772     7443.648     7971.942
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1004  FLAVI+F+I+R2  3549.610     131 7361.219     7425.983     7950.888
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1015  HIVB+G4       3602.405     110 7424.810     7468.810     7919.952
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1018  HIVB+R3       3594.283     113 7414.567     7461.241     7923.213
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1026  HIVB+I+R2     3589.298     112 7402.596     7448.368     7906.740
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1037  HIVB+F+G4     3554.156     129 7366.311     7428.886     7946.978
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1040  HIVB+F+R3     3547.557     132 7359.113     7424.990     7953.284
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1048  HIVB+F+I+R2   3543.060     131 7348.121     7412.885     7937.790
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1059  HIVW+G4       3685.125     110 7590.250     7634.250     8085.392
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1062  HIVW+R3       3681.841     113 7589.682     7636.356     8098.328
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1070  HIVW+I+R2     3679.587     112 7583.175     7628.947     8087.319
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1081  HIVW+F+G4     3588.503     129 7435.006     7497.581     8015.672
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1084  HIVW+F+R3     3587.360     132 7438.720     7504.596     8032.890
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1092  HIVW+F+I+R2   3584.682     131 7431.363     7496.127     8021.032
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1103  FLU+G4        3598.808     110 7417.617     7461.617     7912.759
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1106  FLU+R3        3589.854     113 7405.708     7452.382     7914.354
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1114  FLU+I+R2      3587.116     112 7398.232     7444.004     7902.377
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1125  FLU+F+G4      3535.239     129 7328.477     7391.052     7909.144
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1128  FLU+F+R3      3526.644     132 7317.288     7383.164     7911.458
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1136  FLU+F+I+R2    3523.361     131 7308.723     7373.487     7898.392
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1147  RTREV+G4      3568.348     110 7356.695     7400.695     7851.837
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1150  RTREV+R3      3557.804     113 7341.608     7388.282     7850.253
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1158  RTREV+I+R2    3558.108     112 7340.215     7385.987     7844.360
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1169  RTREV+F+G4    3499.882     129 7257.765     7320.340     7838.431
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1172  RTREV+F+R3    3489.493     132 7242.986     7308.862     7837.156
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1180  RTREV+F+I+R2  3489.458     131 7240.915     7305.679     7830.584
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1191  CPREV+G4      3558.436     110 7336.873     7380.873     7832.014
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1194  CPREV+R3      3549.867     113 7325.735     7372.408     7834.380
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1202  CPREV+I+R2    3548.885     112 7321.771     7367.543     7825.915
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1213  CPREV+F+G4    3510.869     129 7279.738     7342.313     7860.404
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1216  CPREV+F+R3    3503.065     132 7270.129     7336.006     7864.300
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1224  CPREV+F+I+R2  3501.896     131 7265.793     7330.557     7855.462
+Akaike Information Criterion:           RTREV+F+I+R2
+Corrected Akaike Information Criterion: RTREV+F+I+R2
+Bayesian Information Criterion:         LG+I+R2
+Best-fit model: LG+I+R2 chosen according to BIC
+
+All model information printed to 07_markers/trees/fusA_repr.model.gz
+CPU time for ModelFinder: 297.928 seconds (0h:4m:57s)
+Wall-clock time for ModelFinder: 31.440 seconds (0h:0m:31s)
+Generating 1000 samples for ultrafast bootstrap (seed: 28062)...
+
+NOTE: 6 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3519.548
+2. Current log-likelihood: -3519.358
+Optimal log-likelihood: -3519.348
+Proportion of invariable sites: 0.086
+Site proportion and rates:  (0.862,0.645) (0.052,8.568)
+Parameters optimization took 2 rounds (0.098 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0166581 secs using 2269% CPU
+Computing ML distances took 0.016852 sec (of wall-clock time) 0.378960 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.00220821 secs using 102.3% CPU
+Constructing RapidNJ tree: done in 0.22087 secs using 38.61% CPU
+Computing RapidNJ tree took 0.223183 sec (of wall-clock time) 0.087919 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3579.605
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.429 second
+Computing log-likelihood of 98 initial trees ... 1.823 seconds
+Current best score: -3518.335
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3511.963
+BETTER TREE FOUND at iteration 2: -3511.963
+BETTER TREE FOUND at iteration 10: -3511.962
+Iteration 10 / LogL: -3511.962 / Time: 0h:0m:42s
+Iteration 20 / LogL: -3511.972 / Time: 0h:0m:50s
+Finish initializing candidate tree set (14)
+Current best tree score: -3511.962 / CPU time: 18.437
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -3511.975 / Time: 0h:1m:2s (0h:1m:26s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 35: -3511.557
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 37: -3511.217
+Iteration 40 / LogL: -3511.263 / Time: 0h:1m:14s (0h:1m:46s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 50: -3510.825
+Iteration 50 / LogL: -3510.825 / Time: 0h:1m:25s (0h:1m:49s left)
+Log-likelihood cutoff on original alignment: -3540.171
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -3510.784
+Iteration 60 / LogL: -3511.461 / Time: 0h:1m:36s (0h:1m:39s left)
+Iteration 70 / LogL: -3511.178 / Time: 0h:1m:50s (0h:1m:31s left)
+Iteration 80 / LogL: -3510.793 / Time: 0h:2m:2s (0h:1m:20s left)
+Iteration 90 / LogL: -3510.792 / Time: 0h:2m:13s (0h:1m:8s left)
+Iteration 100 / LogL: -3510.792 / Time: 0h:2m:24s (0h:0m:56s left)
+Log-likelihood cutoff on original alignment: -3540.528
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.986
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -3511.461 / Time: 0h:2m:37s (0h:1m:44s left)
+Iteration 120 / LogL: -3510.789 / Time: 0h:2m:49s (0h:1m:32s left)
+Iteration 130 / LogL: -3513.403 / Time: 0h:3m:0s (0h:1m:21s left)
+Iteration 140 / LogL: -3510.789 / Time: 0h:3m:12s (0h:1m:9s left)
+Iteration 150 / LogL: -3510.787 / Time: 0h:3m:24s (0h:0m:57s left)
+Log-likelihood cutoff on original alignment: -3540.528
+Iteration 160 / LogL: -3510.788 / Time: 0h:3m:34s (0h:0m:46s left)
+Iteration 170 / LogL: -3511.182 / Time: 0h:3m:46s (0h:0m:34s left)
+Iteration 180 / LogL: -3510.788 / Time: 0h:3m:56s (0h:0m:22s left)
+BETTER TREE FOUND at iteration 182: -3510.784
+Iteration 190 / LogL: -3510.790 / Time: 0h:4m:7s (0h:1m:45s left)
+Iteration 200 / LogL: -3510.786 / Time: 0h:4m:18s (0h:1m:33s left)
+Log-likelihood cutoff on original alignment: -3540.528
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.984
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -3511.457 / Time: 0h:4m:31s (0h:1m:43s left)
+Iteration 220 / LogL: -3513.832 / Time: 0h:4m:43s (0h:1m:31s left)
+Iteration 230 / LogL: -3513.457 / Time: 0h:4m:53s (0h:1m:20s left)
+UPDATE BEST LOG-LIKELIHOOD: -3510.784
+Iteration 240 / LogL: -3510.786 / Time: 0h:5m:3s (0h:1m:8s left)
+Iteration 250 / LogL: -3510.785 / Time: 0h:5m:14s (0h:0m:56s left)
+Log-likelihood cutoff on original alignment: -3540.976
+Iteration 260 / LogL: -3510.786 / Time: 0h:5m:26s (0h:0m:45s left)
+Iteration 270 / LogL: -3510.787 / Time: 0h:5m:39s (0h:0m:34s left)
+Iteration 280 / LogL: -3510.786 / Time: 0h:5m:49s (0h:0m:22s left)
+Iteration 290 / LogL: -3510.787 / Time: 0h:6m:0s (0h:0m:11s left)
+Iteration 300 / LogL: -3510.788 / Time: 0h:6m:11s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3540.976
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+TREE SEARCH COMPLETED AFTER 300 ITERATIONS / Time: 0h:6m:11s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3510.784
+2. Current log-likelihood: -3510.772
+3. Current log-likelihood: -3510.755
+4. Current log-likelihood: -3510.739
+5. Current log-likelihood: -3510.726
+6. Current log-likelihood: -3510.715
+7. Current log-likelihood: -3510.705
+Optimal log-likelihood: -3510.691
+Proportion of invariable sites: 0.082
+Site proportion and rates:  (0.877,0.673) (0.041,9.890)
+Parameters optimization took 7 rounds (0.190 sec)
+BEST SCORE FOUND : -3510.691
+Creating bootstrap support values...
+Split supports printed to NEXUS file 07_markers/trees/fusA_repr.splits.nex
+Total tree length: 2.700
+
+Total number of iterations: 300
+CPU time used for tree search: 1551.354 sec (0h:25m:51s)
+Wall-clock time used for tree search: 340.029 sec (0h:5m:40s)
+Total CPU time used: 1853.821 sec (0h:30m:53s)
+Total wall-clock time used: 372.256 sec (0h:6m:12s)
+
+Computing bootstrap consensus tree...
+Reading input file 07_markers/trees/fusA_repr.splits.nex...
+56 taxa and 539 splits.
+Consensus tree written to 07_markers/trees/fusA_repr.contree
+Reading input trees file 07_markers/trees/fusA_repr.contree
+Log-likelihood of consensus tree: -3510.731
+
+Analysis results written to: 
+  IQ-TREE report:                07_markers/trees/fusA_repr.iqtree
+  Maximum-likelihood tree:       07_markers/trees/fusA_repr.treefile
+  Likelihood distances:          07_markers/trees/fusA_repr.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          07_markers/trees/fusA_repr.splits.nex
+  Consensus tree:                07_markers/trees/fusA_repr.contree
+  Screen log file:               07_markers/trees/fusA_repr.log
+
+Date and Time: Fri May 15 18:39:15 2026

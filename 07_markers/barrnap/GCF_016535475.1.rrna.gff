@@ -1,0 +1,23 @@
+##gff-version 3
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	287764	289302	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	289769	292672	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	292786	292896	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	435481	437019	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	437486	440389	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	440503	440613	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	597319	598857	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	599385	602288	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	602406	602516	6.9e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	1259480	1261018	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	1261546	1264449	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	1264562	1264672	6.9e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	3693256	3693366	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	3693484	3696387	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAEKFW010000001.1	barrnap:0.9	rRNA	3696856	3698394	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAEKFW010000002.1	barrnap:0.9	rRNA	72092	72202	1.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000002.1	barrnap:0.9	rRNA	72339	72449	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000002.1	barrnap:0.9	rRNA	72567	75470	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAEKFW010000002.1	barrnap:0.9	rRNA	75937	77475	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAEKFW010000002.1	barrnap:0.9	rRNA	112496	112606	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAEKFW010000002.1	barrnap:0.9	rRNA	112720	115623	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAEKFW010000002.1	barrnap:0.9	rRNA	116151	117689	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

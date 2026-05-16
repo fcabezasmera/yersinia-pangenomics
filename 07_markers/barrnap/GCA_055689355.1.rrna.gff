@@ -1,0 +1,5 @@
+##gff-version 3
+ACCMPJ010000016.1	barrnap:0.9	rRNA	93855	93965	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACCMPJ010000040.1	barrnap:0.9	rRNA	5295	5405	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACCMPJ010000042.1	barrnap:0.9	rRNA	3	2781	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+ACCMPJ010000045.1	barrnap:0.9	rRNA	182	1239	5.1e-256	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 66 percent of the 16S ribosomal RNA

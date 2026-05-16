@@ -1,0 +1,4 @@
+##gff-version 3
+ABYMXV010000052.1	barrnap:0.9	rRNA	437	2283	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 57 percent of the 23S ribosomal RNA
+ABYMXV010000058.1	barrnap:0.9	rRNA	3	1539	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+ABYMXV010000066.1	barrnap:0.9	rRNA	1	997	2.1e-296	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 30 percent of the 23S ribosomal RNA

@@ -1,0 +1,23 @@
+##gff-version 3
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	324515	326053	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	326766	329670	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	329785	329895	7.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	330033	330143	4.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	1016926	1018464	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	1019177	1022081	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	1022196	1022306	7.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	3731990	3732100	7.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	3732216	3735120	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	3735757	3737295	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4415267	4415377	7.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4415493	4418397	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4419033	4420571	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4454361	4454471	3.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4454587	4457491	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4458127	4459665	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4613538	4613648	7.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4613764	4616668	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4617381	4618919	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4760785	4760895	3.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4761011	4763915	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGPY010000001.1	barrnap:0.9	rRNA	4764551	4766089	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

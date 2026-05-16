@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_JAQIRV010000009.1	barrnap:0.9	rRNA	236062	236172	3.9e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAQIRV010000027.1	barrnap:0.9	rRNA	33	2936	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAQIRV010000033.1	barrnap:0.9	rRNA	21	1559	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

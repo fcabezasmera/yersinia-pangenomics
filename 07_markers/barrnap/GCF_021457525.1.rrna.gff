@@ -1,0 +1,11 @@
+##gff-version 3
+NZ_JAKDEY010000006.1	barrnap:0.9	rRNA	2	112	8.5e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAKDEY010000018.1	barrnap:0.9	rRNA	2	112	8.5e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAKDEY010000022.1	barrnap:0.9	rRNA	65256	65366	8.5e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAKDEY010000040.1	barrnap:0.9	rRNA	2	112	8.5e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAKDEY010000060.1	barrnap:0.9	rRNA	169	3072	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAKDEY010000060.1	barrnap:0.9	rRNA	3185	3295	7.1e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAKDEY010000077.1	barrnap:0.9	rRNA	211	1749	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAKDEY010000109.1	barrnap:0.9	rRNA	2	112	8.5e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAKDEY010000109.1	barrnap:0.9	rRNA	249	359	4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAKDEY010000120.1	barrnap:0.9	rRNA	556	666	8.5e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA

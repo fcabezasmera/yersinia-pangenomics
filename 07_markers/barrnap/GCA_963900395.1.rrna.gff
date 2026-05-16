@@ -1,0 +1,23 @@
+##gff-version 3
+CAWRCY010000002.1	barrnap:0.9	rRNA	1337006	1337116	2.7e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	1337305	1340308	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	1340965	1342503	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2196336	2196446	4.4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2196583	2196693	9.9e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2196887	2199890	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2200604	2202142	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2616402	2617940	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2618597	2621600	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2621789	2621899	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2764693	2766231	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2766946	2769949	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2770143	2770253	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2931273	2932811	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2933525	2936528	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2936717	2936827	9.9e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2972005	2973543	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2974200	2977203	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	2977391	2977501	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	3584036	3585574	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	3586231	3589234	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWRCY010000002.1	barrnap:0.9	rRNA	3589422	3589532	2.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA

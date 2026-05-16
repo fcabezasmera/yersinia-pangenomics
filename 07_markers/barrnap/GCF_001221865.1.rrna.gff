@@ -1,0 +1,6 @@
+##gff-version 3
+NZ_CTEQ01000010.1	barrnap:0.9	rRNA	405	1943	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CTEQ01000012.1	barrnap:0.9	rRNA	111523	111633	4.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CTEQ01000012.1	barrnap:0.9	rRNA	111770	111857	1.1e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
+NZ_CTEQ01000049.1	barrnap:0.9	rRNA	15597	15707	9.4e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CTEQ01000049.1	barrnap:0.9	rRNA	15896	18871	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA

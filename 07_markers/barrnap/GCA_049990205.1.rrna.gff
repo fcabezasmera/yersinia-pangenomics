@@ -1,0 +1,10 @@
+##gff-version 3
+DBIGOI010000001.1	barrnap:0.9	rRNA	127	237	4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIGOI010000012.1	barrnap:0.9	rRNA	151075	151185	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIGOI010000016.1	barrnap:0.9	rRNA	77862	77972	2.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIGOI010000017.1	barrnap:0.9	rRNA	70369	70479	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIGOI010000021.1	barrnap:0.9	rRNA	34323	34433	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIGOI010000026.1	barrnap:0.9	rRNA	40	150	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIGOI010000038.1	barrnap:0.9	rRNA	2	1220	1e-299	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+DBIGOI010000041.1	barrnap:0.9	rRNA	5	1128	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 34 percent of the 23S ribosomal RNA
+DBIGOI010000042.1	barrnap:0.9	rRNA	116	1092	4.9e-240	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA

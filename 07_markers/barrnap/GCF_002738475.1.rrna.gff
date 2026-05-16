@@ -1,0 +1,11 @@
+##gff-version 3
+NZ_PEHO01000003.1	barrnap:0.9	rRNA	474716	474826	3.9e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000003.1	barrnap:0.9	rRNA	474963	475073	3.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000009.1	barrnap:0.9	rRNA	193577	193687	3.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000016.1	barrnap:0.9	rRNA	103868	103978	3.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000027.1	barrnap:0.9	rRNA	35567	35677	6.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000029.1	barrnap:0.9	rRNA	23	133	2.2e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000032.1	barrnap:0.9	rRNA	23	133	3.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000039.1	barrnap:0.9	rRNA	5	105	3.6e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PEHO01000039.1	barrnap:0.9	rRNA	221	3124	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_PEHO01000043.1	barrnap:0.9	rRNA	203	1741	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

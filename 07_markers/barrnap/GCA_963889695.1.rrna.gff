@@ -1,0 +1,8 @@
+##gff-version 3
+CAWPNN010000008.1	barrnap:0.9	rRNA	2	112	7.1e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWPNN010000013.1	barrnap:0.9	rRNA	157	3060	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWPNN010000013.1	barrnap:0.9	rRNA	3179	3236	4.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 48 percent of the 5S ribosomal RNA
+CAWPNN010000020.1	barrnap:0.9	rRNA	272	1810	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWPNN010000024.1	barrnap:0.9	rRNA	152204	152314	5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWPNN010000026.1	barrnap:0.9	rRNA	702831	702941	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWPNN010000028.1	barrnap:0.9	rRNA	2	112	5.2e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA

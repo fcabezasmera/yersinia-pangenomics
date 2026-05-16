@@ -1,0 +1,6 @@
+##gff-version 3
+DAPYFJ010000005.1	barrnap:0.9	rRNA	315817	315927	7.1e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAPYFJ010000009.1	barrnap:0.9	rRNA	211873	211983	4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAPYFJ010000014.1	barrnap:0.9	rRNA	150981	151091	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAPYFJ010000028.1	barrnap:0.9	rRNA	3	2769	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+DAPYFJ010000031.1	barrnap:0.9	rRNA	16	1464	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

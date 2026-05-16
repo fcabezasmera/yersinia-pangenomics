@@ -1,0 +1,35 @@
+{
+  "finding": "Novel Yersinia sp. nov. undetectable by single-gene markers",
+  "significance": "CRITICAL - central finding of Paper 1",
+  "novel_species_placement": {
+    "rpoB": {
+      "nearest": "Y. intermedia",
+      "distance": 0.0,
+      "status": "IDENTICAL"
+    },
+    "gyrB": {
+      "nearest": "Y. intermedia",
+      "distance": 0.0038,
+      "status": "cryptic"
+    },
+    "recA": {
+      "nearest": "Y. intermedia",
+      "distance": 0.0029,
+      "status": "cryptic"
+    },
+    "atpD": {
+      "nearest": "Y. intermedia",
+      "distance": 0.007,
+      "status": "cryptic"
+    },
+    "fusA": {
+      "nearest": "Y. intermedia",
+      "distance": 0.0,
+      "status": "IDENTICAL"
+    }
+  },
+  "ani_result": "ANI < 95% with Y. intermedia (confirmed distinct species)",
+  "interpretation": "The circumpolar novel Yersinia sp. nov. is a cryptic species: all 5 marker genes (rpoB, gyrB, recA, atpD, fusA) place it within Y. intermedia despite genome-wide ANI confirming species-level separation. Surveillance approaches relying solely on marker genes would systematically misclassify this species as Y. intermedia, rendering it invisible to current surveillance frameworks.",
+  "implication": "Genus-wide pangenomic approaches are required to detect cryptic species-level diversity in Yersinia. Marker gene-based surveillance underestimates true species richness in environmental niches.",
+  "paper_relevance": "Validates title and central hypothesis of Paper 1 (Nature Microbiology)"
+}

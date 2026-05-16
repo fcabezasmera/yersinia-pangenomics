@@ -1,0 +1,6 @@
+##gff-version 3
+DBIRSB010000001.1	barrnap:0.9	rRNA	126	236	4.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIRSB010000080.1	barrnap:0.9	rRNA	290	400	9.4e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBIRSB010000094.1	barrnap:0.9	rRNA	3	3002	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+DBIRSB010000096.1	barrnap:0.9	rRNA	46	1584	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+DBIRSB010000099.1	barrnap:0.9	rRNA	620	730	2.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA

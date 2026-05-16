@@ -1,0 +1,20 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CABIBE010000014.1_14  -          ATP-synt_ab          PF00006.32   8.2e-91  301.4   0.1   1.1e-90  301.0   0.1   1.2   1   0   0   1   1   1   1 -
+CABIBE010000127.1_153 -          ATP-synt_ab          PF00006.32   3.2e-87  289.6   0.2   4.7e-87  289.1   0.2   1.3   1   0   0   1   1   1   1 -
+CABIBE010000153.1_8   -          ATP-synt_ab          PF00006.32   2.4e-85  283.5   0.0   3.2e-85  283.1   0.0   1.1   1   0   0   1   1   1   1 -
+CABIBE010000073.1_30  -          ATP-synt_ab          PF00006.32   2.4e-82  273.7   0.2   3.1e-82  273.3   0.2   1.2   1   0   0   1   1   1   1 -
+CABIBE010000144.1_19  -          ATP-synt_ab          PF00006.32   2.4e-82  273.7   0.2   7.7e-82  272.1   0.2   1.8   2   0   0   2   2   2   1 -
+CABIBE010000144.1_21  -          ATP-synt_ab          PF00006.32     3e-71  237.4   0.0   4.3e-71  236.9   0.0   1.2   1   0   0   1   1   1   1 -
+CABIBE010000081.1_101 -          ATP-synt_ab          PF00006.32   2.4e-27   94.0   0.1   3.4e-27   93.5   0.1   1.2   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/atpD.hmm
+# Target file:     /tmp/tmpz6_81jjj.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/atpD/GCA_902171435.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/atpD.hmm /tmp/tmpz6_81jjj.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 18:53:00 2026
+# [ok]

@@ -1,0 +1,6 @@
+##gff-version 3
+NZ_MEBY01000011.1	barrnap:0.9	rRNA	356006	356116	4.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MEBY01000011.1	barrnap:0.9	rRNA	356230	359133	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_MEBY01000022.1	barrnap:0.9	rRNA	46	1584	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_MEBY01000022.1	barrnap:0.9	rRNA	314721	316259	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_MEBY01000055.1	barrnap:0.9	rRNA	181	291	3.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA

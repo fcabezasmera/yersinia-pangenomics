@@ -1,0 +1,5 @@
+##gff-version 3
+DANMVJ010000008.1	barrnap:0.9	rRNA	126	236	3.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DANMVJ010000037.1	barrnap:0.9	rRNA	5	1140	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA
+DANMVJ010000038.1	barrnap:0.9	rRNA	1	1062	3.8e-294	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 67 percent of the 16S ribosomal RNA
+DANMVJ010000039.1	barrnap:0.9	rRNA	2	840	4.2e-225	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA

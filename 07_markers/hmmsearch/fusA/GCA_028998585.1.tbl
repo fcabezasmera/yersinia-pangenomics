@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+DANSDR010000048.1_37 -          GTP_EFTU             PF00009.34     8e-65  216.0   0.1   1.3e-64  215.3   0.1   1.3   1   0   0   1   1   1   1 -
+DANSDR010000057.1_9  -          GTP_EFTU             PF00009.34   1.7e-64  214.9   0.0   2.4e-64  214.4   0.0   1.2   1   0   0   1   1   1   1 -
+DANSDR010000048.1_36 -          GTP_EFTU             PF00009.34   1.8e-64  214.8   0.0   2.5e-64  214.4   0.0   1.2   1   0   0   1   1   1   1 -
+DANSDR010000031.1_25 -          GTP_EFTU             PF00009.34   3.3e-62  207.4   0.0   5.3e-62  206.8   0.0   1.4   1   0   0   1   1   1   1 -
+DANSDR010000043.1_12 -          GTP_EFTU             PF00009.34   2.6e-60  201.3   0.1   4.3e-60  200.5   0.1   1.4   1   0   0   1   1   1   1 -
+DANSDR010000018.1_70 -          GTP_EFTU             PF00009.34   1.1e-55  186.2   0.0     2e-55  185.3   0.0   1.4   1   0   0   1   1   1   1 -
+DANSDR010000006.1_37 -          GTP_EFTU             PF00009.34     4e-48  161.5   0.0   6.3e-48  160.9   0.0   1.3   1   0   0   1   1   1   1 -
+DANSDR010000001.1_15 -          GTP_EFTU             PF00009.34   2.3e-47  159.1   0.0   3.5e-47  158.4   0.0   1.2   1   0   0   1   1   1   1 -
+DANSDR010000039.1_7  -          GTP_EFTU             PF00009.34     5e-38  128.6  10.1   5.5e-38  128.4   3.0   3.4   2   1   0   2   2   2   1 -
+DANSDR010000008.1_74 -          GTP_EFTU             PF00009.34   1.8e-35  120.2   0.3   1.1e-34  117.7   0.3   2.2   2   1   0   2   2   2   1 -
+DANSDR010000018.1_10 -          GTP_EFTU             PF00009.34   9.7e-21   72.2   1.2   1.2e-10   39.3   0.1   4.7   2   2   0   2   2   2   2 -
+DANSDR010000018.1_67 -          GTP_EFTU             PF00009.34   6.7e-11   40.1   0.8   2.1e-08   32.0   0.8   2.3   1   1   0   1   1   1   1 -
+DANSDR010000048.1_37 -          EFG_IV               PF03764.25   2.4e-50  167.4   0.0   4.5e-50  166.5   0.0   1.5   1   0   0   1   1   1   1 -
+DANSDR010000031.1_25 -          EFG_IV               PF03764.25   5.9e-46  153.2   0.2   1.1e-45  152.4   0.2   1.5   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/fusA.hmm
+# Target file:     /tmp/tmp_tfngf6j.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/fusA/GCA_028998585.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/fusA.hmm /tmp/tmp_tfngf6j.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 19:06:04 2026
+# [ok]

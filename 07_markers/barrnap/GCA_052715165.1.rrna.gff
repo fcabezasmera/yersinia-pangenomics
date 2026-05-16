@@ -1,0 +1,4 @@
+##gff-version 3
+DBKGHF010000104.1	barrnap:0.9	rRNA	2	1385	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 42 percent of the 23S ribosomal RNA
+DBKGHF010000105.1	barrnap:0.9	rRNA	3	1165	5e-284	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA
+DBKGHF010000106.1	barrnap:0.9	rRNA	99	912	9.8e-192	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 51 percent of the 16S ribosomal RNA

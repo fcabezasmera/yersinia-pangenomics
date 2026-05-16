@@ -1,0 +1,6 @@
+##gff-version 3
+ACCROE010000019.1	barrnap:0.9	rRNA	93926	94036	4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACCROE010000061.1	barrnap:0.9	rRNA	2	986	6.3e-253	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 30 percent of the 23S ribosomal RNA
+ACCROE010000062.1	barrnap:0.9	rRNA	1	925	1.2e-222	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+ACCROE010000063.1	barrnap:0.9	rRNA	3	111	6.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACCROE010000070.1	barrnap:0.9	rRNA	1	482	1.8e-132	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 30 percent of the 16S ribosomal RNA

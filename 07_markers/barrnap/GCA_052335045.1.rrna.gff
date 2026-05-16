@@ -1,0 +1,3 @@
+##gff-version 3
+ACALUH010000045.1	barrnap:0.9	rRNA	76	1613	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+ACALUH010000046.1	barrnap:0.9	rRNA	138	1592	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 45 percent of the 23S ribosomal RNA

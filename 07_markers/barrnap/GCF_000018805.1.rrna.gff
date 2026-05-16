@@ -1,0 +1,23 @@
+##gff-version 3
+NC_010159.1	barrnap:0.9	rRNA	12252	13790	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	14258	17161	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	17274	17384	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	128290	129828	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	130356	133259	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	133372	133482	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	488105	489643	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	490171	493074	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	493187	493297	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	631495	633033	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	633561	636464	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	636577	636687	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	636824	636934	3.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	1992068	1993606	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	1994074	1996977	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	1997090	1997200	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	3616066	3616176	6.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	3616289	3619192	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	3619660	3621198	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	3684443	3684553	6.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	3684666	3687569	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_010159.1	barrnap:0.9	rRNA	3688037	3689575	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

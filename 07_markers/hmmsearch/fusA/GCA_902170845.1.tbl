@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CABHZO010000052.1_5   -          GTP_EFTU             PF00009.34   8.8e-66  219.2   0.0   1.5e-65  218.5   0.0   1.3   1   0   0   1   1   1   1 -
+CABHZO010000100.1_46  -          GTP_EFTU             PF00009.34   1.6e-64  215.1   0.1   2.6e-64  214.4   0.1   1.4   1   0   0   1   1   1   1 -
+CABHZO010000100.1_45  -          GTP_EFTU             PF00009.34   3.7e-64  213.9   0.0   5.1e-64  213.5   0.0   1.2   1   0   0   1   1   1   1 -
+CABHZO010000093.1_82  -          GTP_EFTU             PF00009.34   1.1e-60  202.6   0.1   1.7e-60  201.9   0.1   1.4   1   0   0   1   1   1   1 -
+CABHZO010000064.1_30  -          GTP_EFTU             PF00009.34   1.2e-55  186.2   0.1   2.1e-55  185.4   0.1   1.4   1   0   0   1   1   1   1 -
+CABHZO010000106.1_133 -          GTP_EFTU             PF00009.34   2.7e-48  162.2   0.0   4.3e-48  161.5   0.0   1.3   1   0   0   1   1   1   1 -
+CABHZO010000071.1_5   -          GTP_EFTU             PF00009.34   8.6e-47  157.3   0.0   1.3e-46  156.7   0.0   1.2   1   0   0   1   1   1   1 -
+CABHZO010000106.1_222 -          GTP_EFTU             PF00009.34     3e-38  129.4   7.9   4.6e-38  128.8   1.4   3.4   2   1   0   2   2   2   1 -
+CABHZO010000151.1_85  -          GTP_EFTU             PF00009.34   1.5e-35  120.6   0.1   4.5e-35  119.1   0.1   1.7   1   1   0   1   1   1   1 -
+CABHZO010000122.1_67  -          GTP_EFTU             PF00009.34   1.6e-20   71.6   1.6     1e-10   39.6   0.1   4.7   3   2   0   3   3   3   3 -
+CABHZO010000064.1_27  -          GTP_EFTU             PF00009.34   5.8e-11   40.5   0.7   1.7e-08   32.4   0.7   2.3   1   1   0   1   1   1   1 -
+CABHZO010000100.1_46 -          EFG_IV               PF03764.25   2.1e-50  167.7   0.0   4.1e-50  166.8   0.0   1.5   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/fusA.hmm
+# Target file:     /tmp/tmp4npjbv2o.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/fusA/GCA_902170845.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/fusA.hmm /tmp/tmp4npjbv2o.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 18:52:47 2026
+# [ok]

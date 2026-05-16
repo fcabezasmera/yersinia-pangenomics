@@ -1,0 +1,3 @@
+##gff-version 3
+NZ_CHJR01000074.1	barrnap:0.9	rRNA	424	1962	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CHJR01000103.1	barrnap:0.9	rRNA	20	3024	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

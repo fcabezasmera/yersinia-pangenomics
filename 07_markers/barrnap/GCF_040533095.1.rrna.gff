@@ -1,0 +1,8 @@
+##gff-version 3
+NZ_JBEWDO010000001.1	barrnap:0.9	rRNA	11	121	2.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBEWDO010000001.1	barrnap:0.9	rRNA	258	368	4.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBEWDO010000028.1	barrnap:0.9	rRNA	2	112	3e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBEWDO010000101.1	barrnap:0.9	rRNA	11	121	2.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBEWDO010000114.1	barrnap:0.9	rRNA	146	1684	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBEWDO010000115.1	barrnap:0.9	rRNA	27	3030	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBEWDO010000115.1	barrnap:0.9	rRNA	3224	3332	3.8e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA

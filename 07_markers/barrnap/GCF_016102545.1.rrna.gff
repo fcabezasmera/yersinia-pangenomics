@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_JABTYS010000143.1	barrnap:0.9	rRNA	2	81	5e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 67 percent of the 5S ribosomal RNA
+NZ_JABTYS010000198.1	barrnap:0.9	rRNA	169	3072	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JABTYS010000220.1	barrnap:0.9	rRNA	211	1635	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

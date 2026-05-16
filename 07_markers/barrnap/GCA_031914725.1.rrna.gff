@@ -1,0 +1,8 @@
+##gff-version 3
+DAPQFI010000001.1	barrnap:0.9	rRNA	3	90	2.7e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
+DAPQFI010000001.1	barrnap:0.9	rRNA	227	337	4.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAPQFI010000007.1	barrnap:0.9	rRNA	216030	216140	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAPQFI010000012.1	barrnap:0.9	rRNA	1	977	4.9e-240	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
+DAPQFI010000012.1	barrnap:0.9	rRNA	151860	151970	5.6e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAPQFI010000018.1	barrnap:0.9	rRNA	81180	81267	4.7e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
+DAPQFI010000041.1	barrnap:0.9	rRNA	2	840	4.3e-225	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA

@@ -1,0 +1,879 @@
+IQ-TREE version 3.1.1 for Linux x86 64-bit built Apr  8 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    victus (AVX2, FMA3, 31 GB RAM)
+Command: iqtree -s 07_markers/alignments_trimmed/subsampled/rpoB_repr.fasta -m MFP -B 1000 -T 24 --prefix 07_markers/trees/rpoB_repr --redo --quiet
+Seed:    242197 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri May 15 17:51:48 2026
+Kernel:  AVX+FMA - 24 threads (24 CPU cores detected)
+
+Reading alignment file 07_markers/alignments_trimmed/subsampled/rpoB_repr.fasta ... Fasta format detected
+Reading fasta file: done in 0.00301818 secs using 77.36% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00367857 secs using 40.97% CPU
+Alignment has 124 sequences with 1404 columns, 157 distinct patterns
+58 parsimony-informative, 12 singleton sites, 1334 constant sites
+WARNING: Some sequence names are changed as follows:
+Yersinia_sp._(novel_candidate)__GCF_041538325.1 -> Yersinia_sp.__novel_candidate___GCF_041538325.1
+Yersinia_sp._(novel_candidate)__GCF_048593885.1 -> Yersinia_sp.__novel_candidate___GCF_048593885.1
+Yersinia_sp._(novel_candidate)__GCF_056636475.1 -> Yersinia_sp.__novel_candidate___GCF_056636475.1
+Yersinia_sp._(novel_candidate)__GCF_056636415.1 -> Yersinia_sp.__novel_candidate___GCF_056636415.1
+Yersinia_sp._(novel_candidate)__GCF_056636455.1 -> Yersinia_sp.__novel_candidate___GCF_056636455.1
+
+                                                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000214375 secs using 73.24% CPU
+   1  Yersinia_pseudotuberculosis__GCF_900460735.1       0.00%    passed    100.00%
+   2  Yersinia_rochesterensis__GCF_946902935.1           0.00%    passed    100.00%
+   3  Yersinia_pekkanenii__GCF_963868735.1               0.00%    passed    100.00%
+   4  Yersinia_bercovieri__GCF_963900425.1               0.00%    passed    100.00%
+   5  Yersinia_alsatica__GCF_963900355.1                 0.00%    passed    100.00%
+   6  Yersinia_kristensenii__GCF_963870645.1             0.00%    passed    100.00%
+   7  Yersinia_kristensenii__GCF_963873565.1             0.00%    passed    100.00%
+   8  Yersinia_mollaretii__GCF_963887555.1               0.00%    passed    100.00%
+   9  Yersinia_kristensenii__GCF_963901205.1             0.00%    passed    100.00%
+  10  Yersinia_vastinensis__GCF_963900675.1              0.00%    passed    100.00%
+  11  Yersinia_alsatica__GCF_963901175.1                 0.00%    passed    100.00%
+  12  Yersinia_alsatica__GCF_963901255.1                 0.00%    passed    100.00%
+  13  Yersinia_mollaretii__GCF_963900165.1               0.00%    passed    100.00%
+  14  Yersinia_entomophaga__GCF_965137505.1              0.00%    passed    100.00%
+  15  Yersinia_pekkanenii__GCF_001244635.1               0.00%    passed    100.00%
+  16  Yersinia_nurmii__GCF_001112925.1                   0.00%    passed    100.00%
+  17  Yersinia_aldovae__GCF_001091225.1                  0.00%    passed    100.00%
+  18  Yersinia_wautersii__GCF_000493475.1                0.00%    passed    100.00%
+  19  Yersinia_wautersii__GCF_000493415.1                0.00%    passed    100.00%
+  20  Yersinia_frederiksenii__GCF_900460425.1            0.00%    passed    100.00%
+  21  Yersinia_aldovae__GCF_902168585.1                  0.00%    passed    100.00%
+  22  Yersinia_aldovae__GCF_902168475.1                  0.00%    passed    100.00%
+  23  Yersinia_aleksiciae__GCF_902168445.1               0.00%    passed    100.00%
+  24  Yersinia_aleksiciae__GCF_902168465.1               0.00%    passed    100.00%
+  25  Yersinia_bercovieri__GCF_902168545.1               0.00%    passed    100.00%
+  26  Yersinia_bercovieri__GCF_902168625.1               0.00%    passed    100.00%
+  27  Yersinia_frederiksenii__GCF_902170525.1            0.00%    passed    100.00%
+  28  Yersinia_alsatica__GCF_902170395.1                 0.00%    passed    100.00%
+  29  Yersinia_alsatica__GCF_902170275.1                 0.00%    passed    100.00%
+  30  Yersinia_vastinensis__GCF_902170245.1              0.00%    passed    100.00%
+  31  Yersinia_vastinensis__GCF_902170255.1              0.00%    passed    100.00%
+  32  Yersinia_vastinensis__GCF_902170295.1              0.00%    passed    100.00%
+  33  Yersinia_hibernica__GCF_902170435.1                0.00%    passed    100.00%
+  34  Yersinia_intermedia__GCF_902170555.1               0.00%    passed    100.00%
+  35  Yersinia_intermedia__GCF_902170445.1               0.00%    passed    100.00%
+  36  Yersinia_kristensenii__GCF_902170425.1             0.00%    passed    100.00%
+  37  Yersinia_thracica__GCF_902170565.1                 0.00%    passed    100.00%
+  38  Yersinia_thracica__GCF_902170455.1                 0.00%    passed    100.00%
+  39  Yersinia_rochesterensis__GCF_902170605.1           0.00%    passed    100.00%
+  40  Yersinia_rochesterensis__GCF_902170465.1           0.00%    passed    100.00%
+  41  Yersinia_massiliensis__GCF_902170615.1             0.00%    passed    100.00%
+  42  Yersinia_canariae__GCF_902170775.1                 0.00%    passed    100.00%
+  43  Yersinia_canariae__GCF_902170705.1                 0.00%    passed    100.00%
+  44  Yersinia_artesiana__GCF_902170805.1                0.00%    passed    100.00%
+  45  Yersinia_proxima__GCF_902170985.1                  0.00%    passed    100.00%
+  46  Yersinia_proxima__GCF_902170815.1                  0.00%    passed    100.00%
+  47  Yersinia_proxima__GCF_902170945.1                  0.00%    passed    100.00%
+  48  Yersinia_pseudotuberculosis__GCA_902171145.1       0.00%    passed    100.00%
+  49  Yersinia_pseudotuberculosis__GCA_902171905.1       0.00%    passed    100.00%
+  50  Yersinia_pseudotuberculosis__GCA_902172005.1       0.00%    passed    100.00%
+  51  Yersinia_similis__GCF_902173105.1                  0.00%    passed    100.00%
+  52  Yersinia_similis__GCF_902173255.1                  0.00%    passed    100.00%
+  53  Yersinia_mollaretii__GCF_902387525.1               0.00%    passed    100.00%
+  54  Yersinia_artesiana__GCF_902726525.1                0.00%    passed    100.00%
+  55  Yersinia_artesiana__GCF_902726545.1                0.00%    passed    100.00%
+  56  Yersinia_artesiana__GCF_902726535.1                0.00%    passed    100.00%
+  57  Yersinia_thracica__GCF_902726555.1                 0.00%    passed    100.00%
+  58  Yersinia_rohdei__GCF_001223385.1                   0.00%    passed    100.00%
+  59  Yersinia_frederiksenii__GCF_001142745.1            0.00%    passed    100.00%
+  60  Yersinia_pekkanenii__GCF_001152565.1               0.00%    passed    100.00%
+  61  Yersinia_mollaretii__GCF_001149645.1               0.00%    passed    100.00%
+  62  Yersinia_intermedia__GCF_001218045.1               0.00%    passed    100.00%
+  63  Yersinia_rohdei__GCF_001152185.1                   0.00%    passed    100.00%
+  64  Yersinia_similis__GCF_001114105.1                  0.00%    passed    100.00%
+  65  Yersinia_similis__GCF_001053095.1                  0.00%    passed    100.00%
+  66  Yersinia_thracica__GCF_001123825.1                 0.00%    passed    100.00%
+  67  Yersinia_wautersii__GCF_001319825.1                0.00%    passed    100.00%
+  68  Yersinia_massiliensis__GCF_001142305.1             0.00%    passed    100.00%
+  69  Yersinia_aleksiciae__GCF_001319845.1               0.00%    passed    100.00%
+  70  Yersinia_similis__GCF_001140625.1                  0.00%    passed    100.00%
+  71  Yersinia_intermedia__GCF_001153385.1               0.00%    passed    100.00%
+  72  Yersinia_mollaretii__GCF_001220845.1               0.00%    passed    100.00%
+  73  Yersinia_frederiksenii__GCF_001222845.1            0.00%    passed    100.00%
+  74  Yersinia_bercovieri__GCF_001319955.1               0.00%    passed    100.00%
+  75  Yersinia_enterocolitica__GCF_001220145.1           0.00%    passed    100.00%
+  76  Yersinia_aldovae__GCF_000173735.1                  0.00%    passed    100.00%
+  77  Yersinia_rohdei__GCF_000173775.1                   0.43%    passed    100.00%
+  78  Yersinia_pestis__GCF_000324045.1                  18.23%    passed    100.00%
+  79  Yersinia_pestis__GCF_000324205.1                   0.00%    passed    100.00%
+  80  Yersinia_rochesterensis__GCF_000750355.1           0.00%    passed    100.00%
+  81  Yersinia_hibernica__GCF_000597945.1                0.00%    passed    100.00%
+  82  Yersinia_aldovae__GCF_000834395.1                  0.00%    passed    100.00%
+  83  Yersinia_entomophaga__GCF_001656035.1              0.00%    passed    100.00%
+  84  Yersinia_rochesterensis__GCF_000834865.1           0.00%    passed    100.00%
+  85  Yersinia_ruckeri__GCF_001883155.1                  0.00%    passed    100.00%
+  86  Yersinia_frederiksenii__GCF_002192835.1           68.73%    failed      3.17%
+  87  Yersinia_entomophaga__GCF_002192845.1              0.00%    passed    100.00%
+  88  Yersinia_rohdei__GCF_002192875.1                  50.43%    passed     60.56%
+  89  Yersinia_pestis__GCF_009670355.1                   0.00%    passed    100.00%
+  90  Yersinia_entomophaga__GCF_003634395.1              0.00%    passed    100.00%
+  91  Yersinia_enterocolitica__GCA_028855385.1           0.00%    passed    100.00%
+  92  Yersinia_hibernica__GCF_004124235.1                0.00%    passed    100.00%
+  93  Yersinia_canariae__GCF_009831415.1                 0.00%    passed    100.00%
+  94  Yersinia_aleksiciae__GCF_011765225.1               0.00%    passed    100.00%
+  95  Yersinia_massiliensis__GCF_013282765.1             0.00%    passed    100.00%
+  96  Yersinia_bercovieri__GCF_013282745.1               0.00%    passed    100.00%
+  97  Yersinia_enterocolitica__GCA_028990795.1           0.00%    passed    100.00%
+  98  Yersinia_ruckeri__GCF_021399095.1                  0.00%    passed    100.00%
+  99  Yersinia_massiliensis__GCF_020531815.1             0.00%    passed    100.00%
+ 100  Yersinia_pseudotuberculosis__GCF_054862985.1       0.00%    passed    100.00%
+ 101  Yersinia_ruckeri__GCF_026130965.1                  0.00%    passed    100.00%
+ 102  Yersinia_aleksiciae__GCF_034423815.1               0.00%    passed    100.00%
+ 103  Yersinia_kristensenii__GCF_027946915.1             0.00%    passed    100.00%
+ 104  Yersinia_intermedia__GCF_026183875.1               0.00%    passed    100.00%
+ 105  Yersinia_massiliensis__GCF_026183385.1             0.00%    passed    100.00%
+ 106  Yersinia_nurmii__GCF_030385015.1                   0.00%    passed    100.00%
+ 107  Yersinia_rohdei__GCF_030385185.1                   0.00%    passed    100.00%
+ 108  Yersinia_sp.__novel_candidate___GCF_041538325.1    0.00%    passed    100.00%
+ 109  Yersinia_enterocolitica__GCA_032447965.1           0.00%    passed    100.00%
+ 110  Yersinia_ruckeri__GCA_032496425.1                  0.00%    passed    100.00%
+ 111  Yersinia_sp.__novel_candidate___GCF_048593885.1    0.00%    passed    100.00%
+ 112  Yersinia_ruckeri__GCA_039658735.1                  0.00%    passed    100.00%
+ 113  Yersinia_proxima__GCF_044626575.1                  0.00%    passed    100.00%
+ 114  Yersinia_hibernica__GCF_050253635.1                0.00%    passed    100.00%
+ 115  Yersinia_fenwicki__GCF_043099325.1                 0.00%    passed    100.00%
+ 116  Yersinia_pestis__GCA_046657265.1                   0.00%    passed    100.00%
+ 117  Yersinia_pestis__GCA_046675465.1                   0.00%    passed    100.00%
+ 118  Yersinia_vastinensis__GCF_044905075.1              0.00%    passed    100.00%
+ 119  Yersinia_entomophaga__GCF_050586585.1              0.00%    passed    100.00%
+ 120  Yersinia_enterocolitica__GCA_051625535.1           0.00%    passed    100.00%
+ 121  Yersinia_sp.__novel_candidate___GCF_056636475.1    0.00%    passed    100.00%
+ 122  Yersinia_sp.__novel_candidate___GCF_056636415.1    0.00%    passed    100.00%
+ 123  Yersinia_sp.__novel_candidate___GCF_056636455.1    0.00%    passed    100.00%
+ 124  Yersinia_proxima__GCA_057128805.1                  0.00%    passed    100.00%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                              1.11%  1 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Yersinia_rochesterensis__GCF_902170605.1 is identical to Yersinia_rochesterensis__GCF_946902935.1 but kept for subsequent analysis
+NOTE: Yersinia_pekkanenii__GCF_001244635.1 is identical to Yersinia_pekkanenii__GCF_963868735.1 but kept for subsequent analysis
+NOTE: Yersinia_bercovieri__GCF_902168545.1 is identical to Yersinia_bercovieri__GCF_963900425.1 but kept for subsequent analysis
+NOTE: Yersinia_alsatica__GCF_963901175.1 is identical to Yersinia_alsatica__GCF_963900355.1 but kept for subsequent analysis
+NOTE: Yersinia_kristensenii__GCF_963873565.1 is identical to Yersinia_kristensenii__GCF_963870645.1 but kept for subsequent analysis
+NOTE: Yersinia_mollaretii__GCF_963900165.1 is identical to Yersinia_mollaretii__GCF_963887555.1 but kept for subsequent analysis
+NOTE: Yersinia_vastinensis__GCF_902170245.1 is identical to Yersinia_vastinensis__GCF_963900675.1 but kept for subsequent analysis
+NOTE: Yersinia_entomophaga__GCF_001656035.1 is identical to Yersinia_entomophaga__GCF_965137505.1 but kept for subsequent analysis
+NOTE: Yersinia_nurmii__GCF_030385015.1 is identical to Yersinia_nurmii__GCF_001112925.1 but kept for subsequent analysis
+NOTE: Yersinia_aldovae__GCF_902168475.1 is identical to Yersinia_aldovae__GCF_001091225.1 but kept for subsequent analysis
+NOTE: Yersinia_wautersii__GCF_000493415.1 is identical to Yersinia_wautersii__GCF_000493475.1 but kept for subsequent analysis
+NOTE: Yersinia_frederiksenii__GCF_902170525.1 is identical to Yersinia_frederiksenii__GCF_900460425.1 but kept for subsequent analysis
+NOTE: Yersinia_aldovae__GCF_000834395.1 is identical to Yersinia_aldovae__GCF_902168585.1 but kept for subsequent analysis
+NOTE: Yersinia_aleksiciae__GCF_902168465.1 is identical to Yersinia_aleksiciae__GCF_902168445.1 but kept for subsequent analysis
+NOTE: Yersinia_hibernica__GCF_000597945.1 is identical to Yersinia_hibernica__GCF_902170435.1 but kept for subsequent analysis
+NOTE: Yersinia_intermedia__GCF_902170445.1 is identical to Yersinia_intermedia__GCF_902170555.1 but kept for subsequent analysis
+NOTE: Yersinia_thracica__GCF_902170455.1 is identical to Yersinia_thracica__GCF_902170565.1 but kept for subsequent analysis
+NOTE: Yersinia_massiliensis__GCF_020531815.1 is identical to Yersinia_massiliensis__GCF_902170615.1 but kept for subsequent analysis
+NOTE: Yersinia_canariae__GCF_902170705.1 is identical to Yersinia_canariae__GCF_902170775.1 but kept for subsequent analysis
+NOTE: Yersinia_proxima__GCF_902170985.1 is identical to Yersinia_artesiana__GCF_902170805.1 but kept for subsequent analysis
+NOTE: Yersinia_rohdei__GCF_001152185.1 is identical to Yersinia_rohdei__GCF_001223385.1 but kept for subsequent analysis
+NOTE: Yersinia_massiliensis__GCF_013282765.1 is identical to Yersinia_frederiksenii__GCF_001222845.1 but kept for subsequent analysis
+NOTE: Yersinia_enterocolitica__GCA_028855385.1 is identical to Yersinia_enterocolitica__GCF_001220145.1 but kept for subsequent analysis
+NOTE: Yersinia_ruckeri__GCF_021399095.1 is identical to Yersinia_ruckeri__GCF_001883155.1 but kept for subsequent analysis
+NOTE: Yersinia_enterocolitica__GCA_051625535.1 is identical to Yersinia_enterocolitica__GCA_028990795.1 but kept for subsequent analysis
+NOTE: Yersinia_ruckeri__GCA_032496425.1 is identical to Yersinia_ruckeri__GCF_026130965.1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000531918 secs using 117.7% CPU
+Identifying sites to remove: done in 0.000850441 secs using 66.67% CPU
+NOTE: 61 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Yersinia_rochesterensis__GCF_902170465.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_000750355.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_000834865.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_pekkanenii__GCF_001152565.1 (identical to Yersinia_pekkanenii__GCF_963868735.1) is ignored but added at the end
+NOTE: Yersinia_bercovieri__GCF_902168625.1 (identical to Yersinia_bercovieri__GCF_963900425.1) is ignored but added at the end
+NOTE: Yersinia_bercovieri__GCF_001319955.1 (identical to Yersinia_bercovieri__GCF_963900425.1) is ignored but added at the end
+NOTE: Yersinia_bercovieri__GCF_013282745.1 (identical to Yersinia_bercovieri__GCF_963900425.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_963901255.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_902170395.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_902170275.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_kristensenii__GCF_902170425.1 (identical to Yersinia_kristensenii__GCF_963870645.1) is ignored but added at the end
+NOTE: Yersinia_kristensenii__GCF_027946915.1 (identical to Yersinia_kristensenii__GCF_963870645.1) is ignored but added at the end
+NOTE: Yersinia_mollaretii__GCF_001220845.1 (identical to Yersinia_mollaretii__GCF_963887555.1) is ignored but added at the end
+NOTE: Yersinia_vastinensis__GCF_902170255.1 (identical to Yersinia_vastinensis__GCF_963900675.1) is ignored but added at the end
+NOTE: Yersinia_vastinensis__GCF_902170295.1 (identical to Yersinia_vastinensis__GCF_963900675.1) is ignored but added at the end
+NOTE: Yersinia_vastinensis__GCF_044905075.1 (identical to Yersinia_vastinensis__GCF_963900675.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_002192845.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_003634395.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_050586585.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_aldovae__GCF_000173735.1 (identical to Yersinia_aldovae__GCF_001091225.1) is ignored but added at the end
+NOTE: Yersinia_pseudotuberculosis__GCA_902171145.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_pseudotuberculosis__GCA_902171905.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_pseudotuberculosis__GCA_902172005.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_902173105.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_902173255.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001114105.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001053095.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_wautersii__GCF_001319825.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001140625.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCF_000324205.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCF_009670355.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_pseudotuberculosis__GCF_054862985.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCA_046657265.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCA_046675465.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_frederiksenii__GCF_001142745.1 (identical to Yersinia_frederiksenii__GCF_900460425.1) is ignored but added at the end
+NOTE: Yersinia_aleksiciae__GCF_011765225.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_aleksiciae__GCF_034423815.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_hibernica__GCF_004124235.1 (identical to Yersinia_hibernica__GCF_902170435.1) is ignored but added at the end
+NOTE: Yersinia_hibernica__GCF_050253635.1 (identical to Yersinia_hibernica__GCF_902170435.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_001218045.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_001153385.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_026183875.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_041538325.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_048593885.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636475.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636415.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636455.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_thracica__GCF_902726555.1 (identical to Yersinia_thracica__GCF_902170565.1) is ignored but added at the end
+NOTE: Yersinia_thracica__GCF_001123825.1 (identical to Yersinia_thracica__GCF_902170565.1) is ignored but added at the end
+NOTE: Yersinia_canariae__GCF_009831415.1 (identical to Yersinia_canariae__GCF_902170775.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCF_902170815.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCF_902170945.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726525.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726545.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726535.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCF_044626575.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCA_057128805.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_rohdei__GCF_030385185.1 (identical to Yersinia_rohdei__GCF_001223385.1) is ignored but added at the end
+NOTE: Yersinia_massiliensis__GCF_026183385.1 (identical to Yersinia_frederiksenii__GCF_001222845.1) is ignored but added at the end
+NOTE: Yersinia_enterocolitica__GCA_032447965.1 (identical to Yersinia_enterocolitica__GCF_001220145.1) is ignored but added at the end
+NOTE: Yersinia_ruckeri__GCA_039658735.1 (identical to Yersinia_ruckeri__GCF_001883155.1) is ignored but added at the end
+Alignment was printed to 07_markers/trees/rpoB_repr.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to 07_markers/trees/rpoB_repr.uniqueseq.phy
+
+WARNING: 24 threads for alignment length 157 will slow down analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -4981.614
+Optimal log-likelihood: -4980.820
+Proportion of invariable sites: 0.506
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.133 sec)
+Time for fast ML tree search: 1.703 seconds
+
+NOTE: ModelFinder requires 18 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 1404 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  1  LG            5085.694     123 10417.388    10441.219    11062.778
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  2  LG+I          4971.176     124 10190.353    10214.590    10840.991
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  3  LG+G4         5011.717     124 10271.433    10295.671    10922.071
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  4  LG+I+G4       4968.477     125 10186.954    10211.602    10842.839
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  5  LG+R2         4971.105     125 10192.210    10216.858    10848.095
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  6  LG+R3         4965.631     127 10185.261    10210.741    10851.640
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 14  LG+I+R2       4971.122     126 10194.244    10219.306    10855.376
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 15  LG+I+R3       4965.898     128 10187.797    10213.698    10859.423
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 24  LG+F+I        4941.019     143 10168.039    10200.725    10918.371
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 26  LG+F+I+G4     4937.982     144 10163.965    10197.134    10919.544
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 27  LG+F+R2       4941.020     144 10170.040    10203.209    10925.619
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 46  WAG+I         4991.098     124 10230.196    10254.434    10880.834
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 48  WAG+I+G4      4988.377     125 10226.753    10251.401    10882.638
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 49  WAG+R2        4991.094     125 10232.188    10256.836    10888.073
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 68  WAG+F+I       4947.298     143 10180.596    10213.281    10930.928
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 70  WAG+F+I+G4    4944.500     144 10177.000    10210.170    10932.580
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 71  WAG+F+R2      4947.296     144 10182.592    10215.762    10938.172
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 90  JTT+I         4975.047     124 10198.094    10222.331    10848.732
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 92  JTT+I+G4      4972.166     125 10194.331    10218.979    10850.217
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 93  JTT+R2        4975.047     125 10200.093    10224.741    10855.978
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+112  JTT+F+I       4938.010     143 10162.020    10194.706    10912.352
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+114  JTT+F+I+G4    4935.087     144 10158.173    10191.343    10913.753
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+115  JTT+F+R2      4938.009     144 10164.019    10197.188    10919.598
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+134  Q.PFAM+I      4973.597     124 10195.193    10219.431    10845.831
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+136  Q.PFAM+I+G4   4970.258     125 10190.515    10215.163    10846.400
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+137  Q.PFAM+R2     4973.595     125 10197.191    10221.838    10853.076
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+156  Q.PFAM+F+I    4943.771     143 10173.542    10206.228    10923.875
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+158  Q.PFAM+F+I+G4 4940.022     144 10168.044    10201.214    10923.624
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+159  Q.PFAM+F+R2   4943.769     144 10175.539    10208.708    10931.119
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+178  Q.BIRD+I      5004.830     124 10257.659    10281.897    10908.297
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+180  Q.BIRD+I+G4   5001.281     125 10252.562    10277.210    10908.447
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+181  Q.BIRD+R2     5004.825     125 10259.650    10284.298    10915.535
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+200  Q.BIRD+F+I    4945.707     143 10177.414    10210.100    10927.747
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+202  Q.BIRD+F+I+G4 4942.022     144 10172.043    10205.212    10927.623
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+203  Q.BIRD+F+R2   4945.705     144 10179.410    10212.579    10934.989
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+222  Q.MAMMAL+I    5011.450     124 10270.900    10295.137    10921.538
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+224  Q.MAMMAL+I+G4 5007.720     125 10265.440    10290.088    10921.325
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+225  Q.MAMMAL+R2   5011.440     125 10272.879    10297.527    10928.764
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+244  Q.MAMMAL+F+I  4943.767     143 10173.534    10206.220    10923.867
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+246  Q.MAMMAL+F+I+G4 4940.026     144 10168.052    10201.221    10923.631
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+247  Q.MAMMAL+F+R2 4943.767     144 10175.534    10208.703    10931.113
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+266  Q.INSECT+I    5010.262     124 10268.524    10292.762    10919.162
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+268  Q.INSECT+I+G4 5006.692     125 10263.385    10288.032    10919.270
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+269  Q.INSECT+R2   5010.251     125 10270.502    10295.150    10926.387
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+288  Q.INSECT+F+I  4935.915     143 10157.829    10190.515    10908.162
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+290  Q.INSECT+F+I+G4 4932.151     144 10152.303    10185.472    10907.882
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+291  Q.INSECT+F+R2 4935.916     144 10159.832    10193.001    10915.411
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+310  Q.PLANT+I     4973.005     124 10194.010    10218.248    10844.648
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+312  Q.PLANT+I+G4  4969.464     125 10188.928    10213.576    10844.813
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+313  Q.PLANT+R2    4973.001     125 10196.002    10220.649    10851.887
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+332  Q.PLANT+F+I   4935.260     143 10156.519    10189.205    10906.852
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+334  Q.PLANT+F+I+G4 4931.795     144 10151.590    10184.759    10907.169
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+335  Q.PLANT+F+R2  4935.259     144 10158.519    10191.688    10914.098
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+354  Q.YEAST+I     5030.032     124 10308.064    10332.302    10958.702
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+356  Q.YEAST+I+G4  5026.516     125 10303.032    10327.680    10958.917
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+357  Q.YEAST+R2    5030.031     125 10310.062    10334.710    10965.947
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+376  Q.YEAST+F+I   4941.834     143 10169.668    10202.354    10920.001
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+378  Q.YEAST+F+I+G4 4937.939     144 10163.879    10197.048    10919.458
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+379  Q.YEAST+F+R2  4941.833     144 10171.666    10204.835    10927.245
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+398  JTTDCMUT+I    4977.109     124 10202.218    10226.456    10852.856
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+400  JTTDCMUT+I+G4 4973.470     125 10196.940    10221.588    10852.825
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+401  JTTDCMUT+R2   4977.105     125 10204.210    10228.858    10860.095
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+420  JTTDCMUT+F+I  4939.051     143 10164.102    10196.787    10914.434
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+422  JTTDCMUT+F+I+G4 4935.535     144 10159.070    10192.240    10914.650
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+423  JTTDCMUT+F+R2 4939.050     144 10166.100    10199.270    10921.680
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+442  DCMUT+I       5031.627     124 10311.253    10335.491    10961.891
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+444  DCMUT+I+G4    5027.625     125 10305.250    10329.897    10961.135
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+445  DCMUT+R2      5031.627     125 10313.255    10337.903    10969.140
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+464  DCMUT+F+I     4940.727     143 10167.454    10200.139    10917.786
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+466  DCMUT+F+I+G4  4937.166     144 10162.333    10195.502    10917.912
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+467  DCMUT+F+R2    4940.726     144 10169.452    10202.621    10925.032
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+486  VT+I          4986.732     124 10221.465    10245.702    10872.103
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+488  VT+I+G4       4983.308     125 10216.615    10241.263    10872.500
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+489  VT+R2         4986.731     125 10223.463    10248.110    10879.348
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+508  VT+F+I        4951.981     143 10189.962    10222.647    10940.294
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+510  VT+F+I+G4     4948.473     144 10184.946    10218.115    10940.526
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+511  VT+F+R2       4951.978     144 10191.956    10225.126    10947.536
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+530  PMB+I         5017.704     124 10283.408    10307.645    10934.046
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+532  PMB+I+G4      5014.075     125 10278.150    10302.798    10934.036
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+533  PMB+R2        5017.701     125 10285.402    10310.050    10941.287
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+552  PMB+F+I       4963.954     143 10213.908    10246.593    10964.240
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+554  PMB+F+I+G4    4960.236     144 10208.471    10241.640    10964.051
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+555  PMB+F+R2      4963.952     144 10215.904    10249.073    10971.483
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+574  BLOSUM62+I    5008.097     124 10264.195    10288.433    10914.833
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+576  BLOSUM62+I+G4 5004.450     125 10258.900    10283.548    10914.785
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+577  BLOSUM62+R2   5008.097     125 10266.193    10290.841    10922.078
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+596  BLOSUM62+F+I  4968.040     143 10222.080    10254.765    10972.412
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+598  BLOSUM62+F+I+G4 4964.287     144 10216.574    10249.743    10972.154
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+599  BLOSUM62+F+R2 4968.037     144 10224.075    10257.244    10979.654
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+618  DAYHOFF+I     5031.385     124 10310.771    10335.008    10961.409
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+620  DAYHOFF+I+G4  5027.311     125 10304.621    10329.269    10960.506
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+621  DAYHOFF+R2    5031.387     125 10312.774    10337.422    10968.659
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+640  DAYHOFF+F+I   4940.517     143 10167.034    10199.719    10917.366
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+642  DAYHOFF+F+I+G4 4936.907     144 10161.815    10194.984    10917.394
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+643  DAYHOFF+F+R2  4940.516     144 10169.031    10202.200    10924.611
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+662  MTREV+I       5270.444     124 10788.889    10813.127    11439.527
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+664  MTREV+I+G4    5265.406     125 10780.811    10805.459    11436.696
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+665  MTREV+R2      5270.445     125 10790.889    10815.537    11446.774
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+684  MTREV+F+I     4935.438     143 10156.876    10189.562    10907.209
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+686  MTREV+F+I+G4  4930.485     144 10148.969    10182.138    10904.549
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+687  MTREV+F+R2    4935.434     144 10158.868    10192.037    10914.447
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+706  MTART+I       5295.760     124 10839.521    10863.758    11490.159
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+708  MTART+I+G4    5289.381     125 10828.761    10853.409    11484.646
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+709  MTART+R2      5295.760     125 10841.520    10866.168    11497.405
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+728  MTART+F+I     4945.301     143 10176.602    10209.288    10926.934
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+730  MTART+F+I+G4  4939.573     144 10167.146    10200.315    10922.725
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+731  MTART+F+R2    4945.298     144 10178.596    10211.765    10934.175
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+750  MTZOA+I       5236.711     124 10721.421    10745.659    11372.059
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+752  MTZOA+I+G4    5230.325     125 10710.651    10735.299    11366.536
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+753  MTZOA+R2      5236.712     125 10723.424    10748.072    11379.309
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+772  MTZOA+F+I     4934.420     143 10154.840    10187.526    10905.173
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+774  MTZOA+F+I+G4  4929.093     144 10146.187    10179.356    10901.767
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+775  MTZOA+F+R2    4934.415     144 10156.830    10189.999    10912.409
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+794  MTMET+I       5330.598     124 10909.195    10933.433    11559.833
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+796  MTMET+I+G4    5325.667     125 10901.333    10925.981    11557.218
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+797  MTMET+R2      5330.596     125 10911.192    10935.840    11567.077
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+816  MTMET+F+I     4932.649     143 10151.297    10183.983    10901.630
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+818  MTMET+F+I+G4  4928.189     144 10144.377    10177.547    10899.957
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+819  MTMET+F+R2    4932.646     144 10153.292    10186.461    10908.871
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+838  MTVER+I       5310.411     124 10868.822    10893.060    11519.460
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+840  MTVER+I+G4    5304.842     125 10859.685    10884.332    11515.570
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+841  MTVER+R2      5310.414     125 10870.827    10895.475    11526.712
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+860  MTVER+F+I     4932.722     143 10151.444    10184.129    10901.776
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+862  MTVER+F+I+G4  4927.964     144 10143.927    10177.096    10899.507
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+863  MTVER+F+R2    4932.716     144 10153.432    10186.601    10909.012
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+882  MTINV+I       5411.757     124 11071.514    11095.752    11722.152
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+884  MTINV+I+G4    5407.271     125 11064.543    11089.191    11720.428
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+885  MTINV+R2      5411.755     125 11073.509    11098.157    11729.394
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+904  MTINV+F+I     4930.615     143 10147.230    10179.916    10897.563
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+906  MTINV+F+I+G4  4926.459     144 10140.918    10174.087    10896.498
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+907  MTINV+F+R2    4930.614     144 10149.228    10182.397    10904.808
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+926  MTMAM+I       5284.883     124 10817.767    10842.005    11468.405
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+928  MTMAM+I+G4    5278.631     125 10807.262    10831.910    11463.147
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+929  MTMAM+R2      5284.895     125 10819.790    10844.438    11475.676
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+948  MTMAM+F+I     4938.791     143 10163.582    10196.267    10913.914
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+950  MTMAM+F+I+G4  4933.060     144 10154.121    10187.290    10909.701
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+951  MTMAM+F+R2    4938.786     144 10165.572    10198.741    10921.151
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+970  FLAVI+I       5013.945     124 10275.891    10300.129    10926.529
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+972  FLAVI+I+G4    5008.088     125 10266.175    10290.823    10922.061
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+973  FLAVI+R2      5013.930     125 10277.860    10302.508    10933.745
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+992  FLAVI+F+I     4961.909     143 10209.818    10242.504    10960.151
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+994  FLAVI+F+I+G4  4957.129     144 10202.259    10235.428    10957.838
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+995  FLAVI+F+R2    4961.907     144 10211.814    10244.983    10967.393
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1014  HIVB+I        5008.274     124 10264.548    10288.786    10915.186
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1016  HIVB+I+G4     5004.605     125 10259.209    10283.857    10915.094
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1017  HIVB+R2       5008.270     125 10266.541    10291.189    10922.426
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1036  HIVB+F+I      4951.874     143 10189.748    10222.434    10940.081
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1038  HIVB+F+I+G4   4947.911     144 10183.821    10216.990    10939.401
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1039  HIVB+F+R2     4951.874     144 10191.747    10224.917    10947.327
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1058  HIVW+I        5115.243     124 10478.485    10502.723    11129.123
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1060  HIVW+I+G4     5111.423     125 10472.846    10497.494    11128.731
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1061  HIVW+R2       5115.239     125 10480.479    10505.127    11136.364
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1080  HIVW+F+I      4977.029     143 10240.057    10272.743    10990.390
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1082  HIVW+F+I+G4   4972.908     144 10233.815    10266.985    10989.395
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1083  HIVW+F+R2     4977.027     144 10242.054    10275.224    10997.634
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1102  FLU+I         5046.520     124 10341.040    10365.278    10991.678
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1104  FLU+I+G4      5042.301     125 10334.603    10359.251    10990.488
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1105  FLU+R2        5046.522     125 10343.043    10367.691    10998.928
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1124  FLU+F+I       4955.328     143 10196.656    10229.342    10946.989
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1126  FLU+F+I+G4    4950.522     144 10189.044    10222.213    10944.624
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1127  FLU+F+R2      4955.325     144 10198.650    10231.819    10954.229
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1146  RTREV+I       5026.882     124 10301.764    10326.002    10952.402
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1148  RTREV+I+G4    5022.560     125 10295.120    10319.768    10951.005
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1149  RTREV+R2      5026.881     125 10303.763    10328.411    10959.648
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1168  RTREV+F+I     4943.540     143 10173.080    10205.765    10923.412
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1170  RTREV+F+I+G4  4939.089     144 10166.178    10199.347    10921.758
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1171  RTREV+F+R2    4943.539     144 10175.079    10208.248    10930.659
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1190  CPREV+I       4999.116     124 10246.233    10270.470    10896.871
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1192  CPREV+I+G4    4995.071     125 10240.143    10264.791    10896.028
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1193  CPREV+R2      4999.113     125 10248.226    10272.874    10904.111
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1212  CPREV+F+I     4951.860     143 10189.720    10222.406    10940.053
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1214  CPREV+F+I+G4  4947.480     144 10182.960    10216.129    10938.540
+WARNING: 24 threads for alignment length 157 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1215  CPREV+F+R2    4951.860     144 10191.719    10224.889    10947.299
+Akaike Information Criterion:           MTINV+F+I+G4
+Corrected Akaike Information Criterion: MTINV+F+I+G4
+Bayesian Information Criterion:         LG+I
+Best-fit model: LG+I chosen according to BIC
+
+All model information printed to 07_markers/trees/rpoB_repr.model.gz
+CPU time for ModelFinder: 90.846 seconds (0h:1m:30s)
+Wall-clock time for ModelFinder: 39.874 seconds (0h:0m:39s)
+Generating 1000 samples for ultrafast bootstrap (seed: 242197)...
+WARNING: 24 threads for alignment length 157 will slow down analysis
+
+NOTE: 2 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -4971.235
+Optimal log-likelihood: -4971.179
+Proportion of invariable sites: 0.930
+Parameters optimization took 1 rounds (0.087 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0137381 secs using 1620% CPU
+Computing ML distances took 0.014703 sec (of wall-clock time) 0.223619 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.00539328 secs using 69.44% CPU
+Constructing RapidNJ tree: done in 0.421751 secs using 20.66% CPU
+Computing RapidNJ tree took 0.427325 sec (of wall-clock time) 0.090978 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -4988.170
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.643 second
+Computing log-likelihood of 98 initial trees ... 5.203 seconds
+Current best score: -4966.467
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -4966.406
+BETTER TREE FOUND at iteration 3: -4966.405
+Iteration 10 / LogL: -4966.409 / Time: 0h:1m:3s
+Iteration 20 / LogL: -4969.279 / Time: 0h:1m:21s
+Finish initializing candidate tree set (20)
+Current best tree score: -4966.405 / CPU time: 40.841
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -4966.446 / Time: 0h:1m:55s (0h:3m:9s left)
+Iteration 40 / LogL: -4966.421 / Time: 0h:2m:28s (0h:2m:56s left)
+Iteration 50 / LogL: -4966.423 / Time: 0h:3m:1s (0h:2m:32s left)
+Log-likelihood cutoff on original alignment: -5018.970
+Iteration 60 / LogL: -4967.267 / Time: 0h:3m:35s (0h:2m:8s left)
+Iteration 70 / LogL: -4967.257 / Time: 0h:4m:9s (0h:1m:40s left)
+Iteration 80 / LogL: -4966.418 / Time: 0h:4m:43s (0h:1m:11s left)
+Iteration 90 / LogL: -4966.433 / Time: 0h:5m:14s (0h:0m:40s left)
+Iteration 100 / LogL: -4968.120 / Time: 0h:5m:47s (0h:0m:9s left)
+Log-likelihood cutoff on original alignment: -5018.970
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+TREE SEARCH COMPLETED AFTER 104 ITERATIONS / Time: 0h:5m:59s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -4966.405
+Optimal log-likelihood: -4966.405
+Proportion of invariable sites: 0.929
+Parameters optimization took 1 rounds (0.071 sec)
+BEST SCORE FOUND : -4966.405
+Creating bootstrap support values...
+Split supports printed to NEXUS file 07_markers/trees/rpoB_repr.splits.nex
+Total tree length: 0.122
+
+Total number of iterations: 104
+CPU time used for tree search: 181.333 sec (0h:3m:1s)
+Wall-clock time used for tree search: 318.978 sec (0h:5m:18s)
+Total CPU time used: 273.174 sec (0h:4m:33s)
+Total wall-clock time used: 360.101 sec (0h:6m:0s)
+
+Computing bootstrap consensus tree...
+Reading input file 07_markers/trees/rpoB_repr.splits.nex...
+63 taxa and 544 splits.
+Consensus tree written to 07_markers/trees/rpoB_repr.contree
+Reading input trees file 07_markers/trees/rpoB_repr.contree
+Log-likelihood of consensus tree: -4968.016
+
+Analysis results written to: 
+  IQ-TREE report:                07_markers/trees/rpoB_repr.iqtree
+  Maximum-likelihood tree:       07_markers/trees/rpoB_repr.treefile
+  Likelihood distances:          07_markers/trees/rpoB_repr.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          07_markers/trees/rpoB_repr.splits.nex
+  Consensus tree:                07_markers/trees/rpoB_repr.contree
+  Screen log file:               07_markers/trees/rpoB_repr.log
+
+Date and Time: Fri May 15 17:57:48 2026

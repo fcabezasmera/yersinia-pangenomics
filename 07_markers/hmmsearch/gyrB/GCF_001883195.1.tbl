@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NZ_MEBX01000022.1_49 -          DNA_gyraseB          PF00204.32   5.1e-60  199.5   0.1     1e-59  198.5   0.1   1.5   1   0   0   1   1   1   1 -
+NZ_MEBX01000005.1_24 -          DNA_gyraseB          PF00204.32   8.9e-42  140.1   0.0   1.5e-41  139.4   0.0   1.3   1   0   0   1   1   1   1 -
+NZ_MEBX01000005.1_3  -          Zn_ribbon_DnaG       PF01807.26   4.5e-42  139.5   0.1   8.5e-42  138.6   0.1   1.5   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/gyrB.hmm
+# Target file:     /tmp/tmp6xv7hlj5.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/gyrB/GCF_001883195.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/gyrB.hmm /tmp/tmp6xv7hlj5.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 18:56:49 2026
+# [ok]

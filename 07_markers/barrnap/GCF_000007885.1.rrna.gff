@@ -1,0 +1,23 @@
+##gff-version 3
+NC_005810.1	barrnap:0.9	rRNA	12033	13571	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	14039	16942	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	17055	17165	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	245004	246542	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	247070	249973	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	250086	250196	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	704137	705675	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	706203	709106	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	709219	709329	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3080485	3080595	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3080708	3083611	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3084079	3085617	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3435681	3435791	4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3435928	3436038	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3436151	3439054	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3439582	3441120	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3501177	3501287	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3501400	3504303	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3504771	3506286	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3665550	3665660	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3665773	3668676	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_005810.1	barrnap:0.9	rRNA	3669204	3670728	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

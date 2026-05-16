@@ -1,0 +1,6 @@
+##gff-version 3
+DBHYPX010000036.1	barrnap:0.9	rRNA	42727	42829	2.2e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBHYPX010000124.1	barrnap:0.9	rRNA	1	103	2.2e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBHYPX010000165.1	barrnap:0.9	rRNA	73	1594	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+DBHYPX010000182.1	barrnap:0.9	rRNA	118	228	2.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DBHYPX010000182.1	barrnap:0.9	rRNA	365	475	9.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA

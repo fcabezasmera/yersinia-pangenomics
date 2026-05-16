@@ -1,0 +1,10 @@
+##gff-version 3
+NZ_MAKV01000011.1	barrnap:0.9	rRNA	10	120	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAKV01000011.1	barrnap:0.9	rRNA	234	3137	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_MAKV01000017.1	barrnap:0.9	rRNA	1957	2067	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAKV01000025.1	barrnap:0.9	rRNA	75	1613	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_MAKV01000042.1	barrnap:0.9	rRNA	627	737	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAKV01000056.1	barrnap:0.9	rRNA	8	118	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAKV01000056.1	barrnap:0.9	rRNA	255	365	3.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAKV01000063.1	barrnap:0.9	rRNA	8	118	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAKV01000140.1	barrnap:0.9	rRNA	8	118	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA

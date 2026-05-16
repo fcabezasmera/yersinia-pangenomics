@@ -1,0 +1,10 @@
+##gff-version 3
+DAQCPO010000008.1	barrnap:0.9	rRNA	84301	84411	4.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAQCPO010000012.1	barrnap:0.9	rRNA	67022	67132	2.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAQCPO010000047.1	barrnap:0.9	rRNA	38054	38164	4.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAQCPO010000052.1	barrnap:0.9	rRNA	34323	34433	4.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAQCPO010000084.1	barrnap:0.9	rRNA	40	150	4.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAQCPO010000090.1	barrnap:0.9	rRNA	19009	19119	4.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAQCPO010000189.1	barrnap:0.9	rRNA	116	1653	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+DAQCPO010000205.1	barrnap:0.9	rRNA	5	1128	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 34 percent of the 23S ribosomal RNA
+DAQCPO010000229.1	barrnap:0.9	rRNA	2	840	4.4e-225	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA

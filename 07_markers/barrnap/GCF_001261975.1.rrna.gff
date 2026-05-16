@@ -1,0 +1,19 @@
+##gff-version 3
+NZ_KQ410696.1	barrnap:0.9	rRNA	357	467	6.9e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	825269	826807	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	827275	830178	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	830291	830401	6.9e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3183918	3184028	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3641874	3641984	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3642097	3645000	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3645528	3647065	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3684738	3684848	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3684961	3687864	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3688392	3689930	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3851262	3851372	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3851485	3854387	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	3854855	3856393	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	4194820	4194930	3.9e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	4195067	4195177	6.9e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	4195290	4198193	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_KQ410696.1	barrnap:0.9	rRNA	4198661	4200199	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

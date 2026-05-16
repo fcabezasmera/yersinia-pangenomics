@@ -1,0 +1,21 @@
+##gff-version 3
+NZ_FAUR01000001.1	barrnap:0.9	rRNA	12267	13805	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_FAUR01000002.1	barrnap:0.9	rRNA	3	2244	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+NZ_FAUR01000002.1	barrnap:0.9	rRNA	2357	2467	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_FAUR01000030.1	barrnap:0.9	rRNA	100410	101386	3.9e-240	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
+NZ_FAUR01000031.1	barrnap:0.9	rRNA	9	548	3e-143	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 34 percent of the 16S ribosomal RNA
+NZ_FAUR01000032.1	barrnap:0.9	rRNA	1	1424	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 44 percent of the 23S ribosomal RNA
+NZ_FAUR01000033.1	barrnap:0.9	rRNA	872	982	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_FAUR01000076.1	barrnap:0.9	rRNA	54298	54408	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_FAUR01000076.1	barrnap:0.9	rRNA	54521	57424	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_FAUR01000076.1	barrnap:0.9	rRNA	57952	59490	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_FAUR01000082.1	barrnap:0.9	rRNA	1818	1928	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_FAUR01000082.1	barrnap:0.9	rRNA	2065	2175	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_FAUR01000082.1	barrnap:0.9	rRNA	2288	5191	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_FAUR01000082.1	barrnap:0.9	rRNA	5719	7257	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_FAUR01000082.1	barrnap:0.9	rRNA	44929	45039	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_FAUR01000082.1	barrnap:0.9	rRNA	45152	48055	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_FAUR01000082.1	barrnap:0.9	rRNA	48583	50121	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_FAUR01000083.1	barrnap:0.9	rRNA	25353	25463	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_FAUR01000083.1	barrnap:0.9	rRNA	25576	28479	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_FAUR01000083.1	barrnap:0.9	rRNA	28947	30436	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

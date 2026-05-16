@@ -1,0 +1,23 @@
+##gff-version 3
+NZ_CP099809.1	barrnap:0.9	rRNA	265427	266965	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	267543	270446	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	270561	270671	4.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	304111	305649	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	306227	309130	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	309245	309355	4.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	309491	309601	3e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	838457	839995	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	840573	843476	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	843591	843701	4.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	2780445	2780555	4.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	2780670	2783573	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	2784290	2785828	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3359246	3359356	4.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3359471	3362374	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3363091	3364629	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3504398	3504508	4.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3504623	3507526	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3508243	3509781	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3643908	3644018	4.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3644133	3647036	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP099809.1	barrnap:0.9	rRNA	3647614	3649152	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

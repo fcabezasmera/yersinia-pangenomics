@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_LT605018.1	barrnap:0.9	rRNA	396322	396379	4e-07	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 48 percent of the 5S ribosomal RNA
+NZ_LT605018.1	barrnap:0.9	rRNA	396492	399287	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_LT605018.1	barrnap:0.9	rRNA	400130	401668	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

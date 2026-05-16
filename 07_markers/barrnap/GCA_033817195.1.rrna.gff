@@ -1,0 +1,8 @@
+##gff-version 3
+DARPFL010000004.1	barrnap:0.9	rRNA	42	152	4.2e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DARPFL010000012.1	barrnap:0.9	rRNA	220	330	4.2e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DARPFL010000013.1	barrnap:0.9	rRNA	112589	112699	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DARPFL010000013.1	barrnap:0.9	rRNA	112836	112946	6.6e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DARPFL010000016.1	barrnap:0.9	rRNA	41815	41925	6.6e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DARPFL010000018.1	barrnap:0.9	rRNA	116	1653	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+DARPFL010000020.1	barrnap:0.9	rRNA	3	1023	1.1e-255	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 31 percent of the 23S ribosomal RNA

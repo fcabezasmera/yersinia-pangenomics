@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_CTRG01000001.1	barrnap:0.9	rRNA	165	275	4.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CTRG01000011.1	barrnap:0.9	rRNA	45	1583	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CTRG01000030.1	barrnap:0.9	rRNA	159	3062	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

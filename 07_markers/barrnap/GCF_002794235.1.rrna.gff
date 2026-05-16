@@ -1,0 +1,10 @@
+##gff-version 3
+NZ_PGLU01000006.1	barrnap:0.9	rRNA	15	2552	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 78 percent of the 23S ribosomal RNA
+NZ_PGLU01000006.1	barrnap:0.9	rRNA	2669	2779	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PGLU01000006.1	barrnap:0.9	rRNA	2916	3026	3.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PGLU01000012.1	barrnap:0.9	rRNA	164756	164866	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PGLU01000013.1	barrnap:0.9	rRNA	120	230	3.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PGLU01000029.1	barrnap:0.9	rRNA	23078	23188	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PGLU01000030.1	barrnap:0.9	rRNA	81	191	3.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_PGLU01000037.1	barrnap:0.9	rRNA	126	1664	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_PGLU01000042.1	barrnap:0.9	rRNA	172	267	1.5e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA

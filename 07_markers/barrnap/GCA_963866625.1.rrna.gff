@@ -1,0 +1,8 @@
+##gff-version 3
+CAWMDT010000004.1	barrnap:0.9	rRNA	108669	109495	2.1e-228	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA
+CAWMDT010000004.1	barrnap:0.9	rRNA	109684	109794	1.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWMDT010000015.1	barrnap:0.9	rRNA	111571	111681	4.3e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWMDT010000015.1	barrnap:0.9	rRNA	111818	111928	9.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWMDT010000015.1	barrnap:0.9	rRNA	112117	113274	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA
+CAWMDT010000067.1	barrnap:0.9	rRNA	345	1883	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWMDT010000069.1	barrnap:0.9	rRNA	121	1804	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 52 percent of the 23S ribosomal RNA

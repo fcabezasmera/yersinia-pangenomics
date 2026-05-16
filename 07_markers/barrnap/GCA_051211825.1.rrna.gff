@@ -1,0 +1,4 @@
+##gff-version 3
+ABZOPQ010000097.1	barrnap:0.9	rRNA	205	1742	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+ABZOPQ010000100.1	barrnap:0.9	rRNA	2	1398	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 43 percent of the 23S ribosomal RNA
+ABZOPQ010000103.1	barrnap:0.9	rRNA	5	1140	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA

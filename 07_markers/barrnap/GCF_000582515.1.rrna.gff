@@ -1,0 +1,23 @@
+##gff-version 3
+NZ_CP007230.1	barrnap:0.9	rRNA	200175	200285	7.2e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	200399	203302	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	203769	205307	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1237610	1237720	1.6e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1237857	1237967	3.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1238081	1240984	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1241451	1242989	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1636982	1638520	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1639048	1641951	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1642065	1642175	7.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1776522	1778060	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1778527	1781430	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1781544	1781654	7.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1945988	1947526	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1947993	1950896	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1951010	1951120	7.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1985176	1986714	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1987242	1990145	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	1990259	1990369	2.2e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	2658654	2660192	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	2660720	2663623	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP007230.1	barrnap:0.9	rRNA	2663737	2663847	2.3e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA

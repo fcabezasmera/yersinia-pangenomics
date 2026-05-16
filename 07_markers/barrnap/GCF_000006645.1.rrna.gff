@@ -1,0 +1,23 @@
+##gff-version 3
+NC_004088.1	barrnap:0.9	rRNA	12018	13556	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	14024	16927	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	17040	17150	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	17287	17397	3.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	355932	357470	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	357938	360841	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	360954	361064	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	522395	523933	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	524461	527364	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	527477	527587	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	565259	566797	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	567265	570168	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	570281	570391	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	1024391	1025929	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	1026457	1029360	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	1029473	1029583	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	3412195	3412305	6.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	3412418	3415321	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	3415789	3417327	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	4241423	4241533	6.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	4241646	4244549	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NC_004088.1	barrnap:0.9	rRNA	4245017	4246555	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

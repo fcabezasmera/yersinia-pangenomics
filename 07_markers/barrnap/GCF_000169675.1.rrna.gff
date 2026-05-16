@@ -1,0 +1,22 @@
+##gff-version 3
+NZ_AAYU01000002.1	barrnap:0.9	rRNA	52404	53942	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYU01000002.1	barrnap:0.9	rRNA	54410	57313	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYU01000002.1	barrnap:0.9	rRNA	57426	57536	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000006.1	barrnap:0.9	rRNA	181707	181817	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000006.1	barrnap:0.9	rRNA	181930	184833	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYU01000006.1	barrnap:0.9	rRNA	185301	186839	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYU01000008.1	barrnap:0.9	rRNA	109912	111450	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYU01000008.1	barrnap:0.9	rRNA	111918	114821	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYU01000008.1	barrnap:0.9	rRNA	114934	115044	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000008.1	barrnap:0.9	rRNA	115181	115291	4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000009.1	barrnap:0.9	rRNA	162146	162256	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000010.1	barrnap:0.9	rRNA	138272	138382	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000012.1	barrnap:0.9	rRNA	104454	104564	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000012.1	barrnap:0.9	rRNA	104677	107580	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYU01000012.1	barrnap:0.9	rRNA	108049	109587	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYU01000035.1	barrnap:0.9	rRNA	6556	6666	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000041.1	barrnap:0.9	rRNA	180	3083	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_AAYU01000041.1	barrnap:0.9	rRNA	3196	3296	6.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_AAYU01000043.1	barrnap:0.9	rRNA	169	1707	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_AAYU01000063.1	barrnap:0.9	rRNA	363	994	3e-137	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NZ_AAYU01000069.1	barrnap:0.9	rRNA	25	481	8.4e-96	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 28 percent of the 16S ribosomal RNA

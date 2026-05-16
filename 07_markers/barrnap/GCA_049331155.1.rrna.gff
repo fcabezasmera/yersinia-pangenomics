@@ -1,0 +1,4 @@
+##gff-version 3
+ABYOGU010000008.1	barrnap:0.9	rRNA	194981	196518	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+ABYOGU010000050.1	barrnap:0.9	rRNA	127	1581	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 45 percent of the 23S ribosomal RNA
+ABYOGU010000053.1	barrnap:0.9	rRNA	8	1387	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 42 percent of the 23S ribosomal RNA

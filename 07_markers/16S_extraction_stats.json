@@ -1,0 +1,25 @@
+{
+  "gene": "16S_rRNA",
+  "tool": "barrnap v0.9",
+  "total_genomes": 9957,
+  "with_16S": 9882,
+  "without_16S": 75,
+  "coverage_pct": 99.25,
+  "full_length_n": 6469,
+  "full_length_pct": 65.5,
+  "partial_n": 3413,
+  "partial_pct": 34.5,
+  "mean_length_bp": 1323.5,
+  "median_length_bp": 1539,
+  "min_length_bp": 396,
+  "max_length_bp": 1558,
+  "threshold_full_length_bp": 1400,
+  "missing_by_species": {
+    "Y. enterocolitica": 41,
+    "Y. pestis": 29,
+    "Y. wautersii": 2,
+    "Y. intermedia": 2,
+    "Y. ruckeri": 1
+  },
+  "note": "34.5% partial sequences \u2014 key finding for marker gene evaluation"
+}

@@ -1,0 +1,9 @@
+##gff-version 3
+JBKLGN010000001.1	barrnap:0.9	rRNA	126675	126785	3.8e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JBKLGN010000001.1	barrnap:0.9	rRNA	126922	127022	3.3e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JBKLGN010000058.1	barrnap:0.9	rRNA	2	102	3.3e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+JBKLGN010000129.1	barrnap:0.9	rRNA	4319	4415	6.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JBKLGN010000145.1	barrnap:0.9	rRNA	169	1988	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 56 percent of the 23S ribosomal RNA
+JBKLGN010000149.1	barrnap:0.9	rRNA	211	1749	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+JBKLGN010000155.1	barrnap:0.9	rRNA	2	1029	1.7e-303	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 31 percent of the 23S ribosomal RNA
+JBKLGN010000155.1	barrnap:0.9	rRNA	1142	1252	6.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA

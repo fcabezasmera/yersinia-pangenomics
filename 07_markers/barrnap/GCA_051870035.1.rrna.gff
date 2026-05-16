@@ -1,0 +1,7 @@
+##gff-version 3
+ACAEER010000010.1	barrnap:0.9	rRNA	133651	133761	9.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAEER010000017.1	barrnap:0.9	rRNA	126	236	4.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAEER010000064.1	barrnap:0.9	rRNA	99	1075	4.5e-240	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
+ACAEER010000065.1	barrnap:0.9	rRNA	747	857	2.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAEER010000066.1	barrnap:0.9	rRNA	1	897	7.2e-253	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 27 percent of the 23S ribosomal RNA
+ACAEER010000071.1	barrnap:0.9	rRNA	1	483	6.7e-133	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 30 percent of the 16S ribosomal RNA

@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_ACCB01000111.1	barrnap:0.9	rRNA	2	521	1.1e-143	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 32 percent of the 16S ribosomal RNA
+NZ_ACCB01000114.1	barrnap:0.9	rRNA	4	504	2.5e-140	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 31 percent of the 16S ribosomal RNA
+NZ_ACCB01000116.1	barrnap:0.9	rRNA	23	471	7.9e-95	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 28 percent of the 16S ribosomal RNA

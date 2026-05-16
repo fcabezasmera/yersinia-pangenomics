@@ -1,0 +1,4 @@
+##gff-version 3
+CABIAK010000027.1	barrnap:0.9	rRNA	47	1585	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CABIAK010000118.1	barrnap:0.9	rRNA	3	113	8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CABIAK010000118.1	barrnap:0.9	rRNA	227	3130	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA

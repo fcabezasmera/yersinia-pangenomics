@@ -1,0 +1,10 @@
+##gff-version 3
+ACAHIA010000003.1	barrnap:0.9	rRNA	40	150	2.8e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAHIA010000004.1	barrnap:0.9	rRNA	126	236	4.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAHIA010000008.1	barrnap:0.9	rRNA	160453	160563	2.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAHIA010000009.1	barrnap:0.9	rRNA	150778	150888	4.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAHIA010000011.1	barrnap:0.9	rRNA	80359	80469	7.3e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAHIA010000013.1	barrnap:0.9	rRNA	47321	47431	2.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACAHIA010000029.1	barrnap:0.9	rRNA	2	1196	3.9e-299	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 36 percent of the 23S ribosomal RNA
+ACAHIA010000034.1	barrnap:0.9	rRNA	8	771	9.7e-204	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 48 percent of the 16S ribosomal RNA
+ACAHIA010000037.1	barrnap:0.9	rRNA	6	539	1.4e-142	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 33 percent of the 16S ribosomal RNA

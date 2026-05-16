@@ -1,0 +1,7 @@
+##gff-version 3
+DAZDGO010000024.1	barrnap:0.9	rRNA	3	90	3.2e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
+DAZDGO010000028.1	barrnap:0.9	rRNA	12186	12296	4.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAZDGO010000028.1	barrnap:0.9	rRNA	12433	12543	7.3e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAZDGO010000043.1	barrnap:0.9	rRNA	116	1654	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+DAZDGO010000044.1	barrnap:0.9	rRNA	8	1316	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 40 percent of the 23S ribosomal RNA
+DAZDGO010000051.1	barrnap:0.9	rRNA	2	840	4.4e-225	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA

@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_CTKU01000027.1	barrnap:0.9	rRNA	157	267	3.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CTKU01000045.1	barrnap:0.9	rRNA	203	1741	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CTKU01000045.1	barrnap:0.9	rRNA	2184	5090	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

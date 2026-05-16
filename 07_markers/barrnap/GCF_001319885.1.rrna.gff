@@ -1,0 +1,7 @@
+##gff-version 3
+NZ_CGGM01000003.1	barrnap:0.9	rRNA	156152	156262	7.1e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CGGM01000008.1	barrnap:0.9	rRNA	95	1633	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CGGM01000008.1	barrnap:0.9	rRNA	2101	5004	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CGGM01000008.1	barrnap:0.9	rRNA	5117	5227	7.1e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CGGM01000029.1	barrnap:0.9	rRNA	53311	53421	4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CGGM01000029.1	barrnap:0.9	rRNA	53558	53668	7.1e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA

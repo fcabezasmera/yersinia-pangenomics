@@ -1,0 +1,19 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NZ_CABHQE010000063.1_49  -          ATP-synt_ab          PF00006.32   3.2e-87  289.5   0.2   4.5e-87  289.0   0.2   1.2   1   0   0   1   1   1   1 -
+NZ_CABHQE010000008.1_52  -          ATP-synt_ab          PF00006.32   1.7e-85  283.8   0.1   2.4e-85  283.4   0.1   1.2   1   0   0   1   1   1   1 -
+NZ_CABHQE010000059.1_27  -          ATP-synt_ab          PF00006.32   4.1e-85  282.6   0.0   5.3e-85  282.3   0.0   1.1   1   0   0   1   1   1   1 -
+NZ_CABHQE010000119.1_23  -          ATP-synt_ab          PF00006.32   2.5e-82  273.5   0.1   5.2e-82  272.5   0.2   1.5   2   0   0   2   2   2   1 -
+NZ_CABHQE010000119.1_25  -          ATP-synt_ab          PF00006.32   2.8e-71  237.4   0.0     4e-71  236.9   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_CABHQE010000021.1_101 -          ATP-synt_ab          PF00006.32   2.2e-27   94.0   0.1   3.1e-27   93.5   0.1   1.2   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/atpD.hmm
+# Target file:     /tmp/tmpzet37xpe.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/atpD/GCF_902168455.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/atpD.hmm /tmp/tmpzet37xpe.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 18:51:25 2026
+# [ok]

@@ -1,0 +1,13 @@
+##gff-version 3
+NZ_HF933206.1	barrnap:0.9	rRNA	17529	19067	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	19724	22729	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	22917	23027	2.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	168569	170107	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	170762	173752	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	173941	174051	2.4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	957745	958182	1.3e-92	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 27 percent of the 16S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	3148052	3148162	9.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	3148299	3148409	2.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	3909452	3910990	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	3911647	3914637	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_HF933206.1	barrnap:0.9	rRNA	3914826	3914936	9.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA

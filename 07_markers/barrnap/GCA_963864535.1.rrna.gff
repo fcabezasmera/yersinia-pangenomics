@@ -1,0 +1,19 @@
+##gff-version 3
+CAWLUO010000001.1	barrnap:0.9	rRNA	1219564	1219674	9.8e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2190322	2190432	4.4e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2190569	2190679	9.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2190873	2193877	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2194593	2196130	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2603787	2604758	9.8e-233	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2614311	2615849	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2616506	2619506	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2619700	2619810	9.8e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2767279	2767389	9.8e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2960305	2960415	9.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2960609	2963612	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	2964327	2965865	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	3002348	3002458	9.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	3002652	3005654	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	3006311	3007849	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	3590279	3590389	9.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWLUO010000001.1	barrnap:0.9	rRNA	3593871	3594701	1.3e-193	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 52 percent of the 16S ribosomal RNA

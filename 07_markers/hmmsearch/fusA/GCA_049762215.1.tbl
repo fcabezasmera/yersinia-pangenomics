@@ -1,0 +1,27 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+DBHZAM010000009.1_142 -          GTP_EFTU             PF00009.34   2.7e-65  217.5   0.1   4.5e-65  216.8   0.1   1.4   1   0   0   1   1   1   1 -
+DBHZAM010000009.1_143 -          GTP_EFTU             PF00009.34   6.7e-65  216.3   0.0     9e-65  215.9   0.0   1.2   1   0   0   1   1   1   1 -
+DBHZAM010000033.1_24  -          GTP_EFTU             PF00009.34   1.8e-64  214.9   0.0   2.5e-64  214.4   0.0   1.2   1   0   0   1   1   1   1 -
+DBHZAM010000002.1_247 -          GTP_EFTU             PF00009.34   3.4e-62  207.5   0.0   5.5e-62  206.8   0.0   1.3   1   0   0   1   1   1   1 -
+DBHZAM010000016.1_104 -          GTP_EFTU             PF00009.34   1.9e-60  201.8   0.1   3.4e-60  200.9   0.1   1.4   1   0   0   1   1   1   1 -
+DBHZAM010000023.1_21  -          GTP_EFTU             PF00009.34   4.4e-56  187.5   0.0   7.9e-56  186.7   0.0   1.4   1   0   0   1   1   1   1 -
+DBHZAM010000002.1_17  -          GTP_EFTU             PF00009.34   4.4e-48  161.4   0.0   6.7e-48  160.8   0.0   1.3   1   0   0   1   1   1   1 -
+DBHZAM010000002.1_196 -          GTP_EFTU             PF00009.34     2e-47  159.3   0.0   3.1e-47  158.7   0.0   1.2   1   0   0   1   1   1   1 -
+DBHZAM010000012.1_27  -          GTP_EFTU             PF00009.34   5.2e-38  128.6  10.1   5.7e-38  128.4   3.0   3.4   2   1   0   2   2   2   1 -
+DBHZAM010000010.1_65  -          GTP_EFTU             PF00009.34   2.2e-36  123.3   0.4   2.2e-35  120.1   0.3   2.4   2   1   0   2   2   2   1 -
+DBHZAM010000014.1_115 -          GTP_EFTU             PF00009.34   9.4e-21   72.3   1.1   1.3e-10   39.3   0.1   4.7   2   2   1   3   3   3   3 -
+DBHZAM010000023.1_24  -          GTP_EFTU             PF00009.34   6.9e-11   40.1   0.8   2.2e-08   32.0   0.8   2.3   1   1   0   1   1   1   1 -
+DBHZAM010000009.1_142 -          EFG_IV               PF03764.25   2.4e-50  167.4   0.0   4.7e-50  166.5   0.0   1.5   1   0   0   1   1   1   1 -
+DBHZAM010000002.1_247 -          EFG_IV               PF03764.25     5e-46  153.5   0.3   9.2e-46  152.7   0.3   1.5   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/fusA.hmm
+# Target file:     /tmp/tmpfnywry7y.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/fusA/GCA_049762215.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/fusA.hmm /tmp/tmpfnywry7y.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 19:14:42 2026
+# [ok]

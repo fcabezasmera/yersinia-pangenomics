@@ -43,3 +43,6 @@ Thumbs.db
 .env
 *.env
 gunc_db/
+# IQ-TREE diagnostic output (too large, keep only .treefile)
+*.iqtree
+*.mldist

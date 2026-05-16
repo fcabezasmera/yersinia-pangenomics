@@ -1,0 +1,7 @@
+##gff-version 3
+CABIBT010000017.1	barrnap:0.9	rRNA	137	247	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CABIBT010000353.1	barrnap:0.9	rRNA	4	82	9.7e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 66 percent of the 5S ribosomal RNA
+CABIBT010000353.1	barrnap:0.9	rRNA	196	3099	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+CABIBT010000353.1	barrnap:0.9	rRNA	3481	5019	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+CABIBT010000372.1	barrnap:0.9	rRNA	4	82	3.9e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 66 percent of the 5S ribosomal RNA
+CABIBT010000372.1	barrnap:0.9	rRNA	219	329	7.1e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA

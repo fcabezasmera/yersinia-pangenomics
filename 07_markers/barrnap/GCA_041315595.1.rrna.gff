@@ -1,0 +1,4 @@
+##gff-version 3
+ABUCPV010000076.1	barrnap:0.9	rRNA	127	1664	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+ABUCPV010000082.1	barrnap:0.9	rRNA	36	1194	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA
+ABUCPV010000084.1	barrnap:0.9	rRNA	3	1023	1.1e-255	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 31 percent of the 23S ribosomal RNA

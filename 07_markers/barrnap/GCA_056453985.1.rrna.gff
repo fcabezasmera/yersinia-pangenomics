@@ -1,0 +1,5 @@
+##gff-version 3
+ACCTFH010000045.1	barrnap:0.9	rRNA	126	236	4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+ACCTFH010000070.1	barrnap:0.9	rRNA	8	1332	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+ACCTFH010000072.1	barrnap:0.9	rRNA	2	1025	4.7e-256	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 31 percent of the 23S ribosomal RNA
+ACCTFH010000076.1	barrnap:0.9	rRNA	2	989	1.2e-237	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 30 percent of the 23S ribosomal RNA

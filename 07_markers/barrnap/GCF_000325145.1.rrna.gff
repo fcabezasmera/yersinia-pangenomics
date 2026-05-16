@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_ADSR01000069.1	barrnap:0.9	rRNA	169	1333	2.3e-285	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 36 percent of the 23S ribosomal RNA
+NZ_ADSR01000501.1	barrnap:0.9	rRNA	5	1313	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 40 percent of the 23S ribosomal RNA
+NZ_ADSR01000759.1	barrnap:0.9	rRNA	45	1583	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

@@ -1,0 +1,26 @@
+#                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name             accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#     ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NZ_JAULSL010000001.1_254  -          GTP_EFTU             PF00009.34   1.2e-65  218.6   0.0   1.7e-65  218.2   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_3961 -          GTP_EFTU             PF00009.34   2.4e-65  217.7   0.0   3.2e-65  217.3   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_253  -          GTP_EFTU             PF00009.34   4.2e-65  216.9   0.1     7e-65  216.2   0.1   1.4   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_891  -          GTP_EFTU             PF00009.34   2.5e-62  207.8   0.0   4.1e-62  207.1   0.0   1.3   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_4235 -          GTP_EFTU             PF00009.34   1.3e-60  202.3   0.1   2.1e-60  201.5   0.1   1.4   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_3217 -          GTP_EFTU             PF00009.34   4.2e-56  187.5   0.0   7.6e-56  186.7   0.0   1.4   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_656  -          GTP_EFTU             PF00009.34   2.6e-48  162.1   0.0     4e-48  161.5   0.0   1.3   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_843  -          GTP_EFTU             PF00009.34   1.8e-47  159.4   0.0   2.7e-47  158.8   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_510  -          GTP_EFTU             PF00009.34   7.4e-38  128.0   8.5   8.4e-38  127.9   1.6   3.3   2   1   0   2   2   2   1 -
+NZ_JAULSL010000001.1_52   -          GTP_EFTU             PF00009.34   3.8e-36  122.5   0.2   1.3e-35  120.7   0.2   1.8   1   1   0   1   1   1   1 -
+NZ_JAULSL010000001.1_3161 -          GTP_EFTU             PF00009.34   9.3e-21   72.3   1.2   1.1e-10   39.4   0.1   4.8   2   2   0   2   2   2   2 -
+NZ_JAULSL010000001.1_253 -          EFG_IV               PF03764.25   4.8e-51  169.6   0.0   9.3e-51  168.7   0.0   1.5   1   0   0   1   1   1   1 -
+NZ_JAULSL010000001.1_891 -          EFG_IV               PF03764.25   1.5e-46  155.2   0.4   2.8e-46  154.3   0.4   1.5   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/fusA.hmm
+# Target file:     /tmp/tmpddxuez2k.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/fusA/GCF_041538325.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/fusA.hmm /tmp/tmpddxuez2k.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 19:06:50 2026
+# [ok]

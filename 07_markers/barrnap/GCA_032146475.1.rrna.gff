@@ -1,0 +1,6 @@
+##gff-version 3
+ABNAXQ010000010.1	barrnap:0.9	rRNA	126	236	4.4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+ABNAXQ010000019.1	barrnap:0.9	rRNA	73046	73156	9.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+ABNAXQ010000115.1	barrnap:0.9	rRNA	3	1689	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 52 percent of the 23S ribosomal RNA
+ABNAXQ010000125.1	barrnap:0.9	rRNA	174	1150	4.7e-240	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
+ABNAXQ010000138.1	barrnap:0.9	rRNA	1	483	6.9e-133	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 30 percent of the 16S ribosomal RNA

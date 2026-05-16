@@ -1,0 +1,23 @@
+##gff-version 3
+NZ_CP158629.1	barrnap:0.9	rRNA	121067	121176	1.3e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	121292	124190	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	124776	126311	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	464708	466247	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	466834	469733	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	469854	469964	1.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	1114502	1116040	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	1116627	1119530	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	1119646	1119756	3.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	3725452	3725562	3.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	3725678	3728581	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	3729168	3730706	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4436207	4436317	3.9e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4436454	4436563	8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4436680	4439577	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4440229	4441764	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4477567	4477676	1.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4477802	4480696	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4481283	4482823	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4653594	4653703	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4653819	4655849	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 62 percent of the 23S ribosomal RNA
+NZ_CP158629.1	barrnap:0.9	rRNA	4656986	4658521	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NZ_AKSN01000553.1_8  -          RecA_N               PF00154.28  7.4e-142  469.4   2.8    9e-142  469.1   2.8   1.1   1   0   0   1   1   1   1 -
+NZ_AKSN01000695.1_1  -          RecA_N               PF00154.28   1.8e-43  146.9   0.0   3.9e-43  145.8   0.0   1.5   1   1   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/recA.hmm
+# Target file:     /tmp/tmptelfq869.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/recA/GCF_000269345.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/recA.hmm /tmp/tmptelfq869.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 18:55:10 2026
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NZ_ADRC01001739.1_5  -          ATP-synt_ab          PF00006.32   3.7e-87  289.5   0.2   5.5e-87  288.9   0.2   1.3   1   0   0   1   1   1   1 -
+NZ_ADRC01000407.1_8  -          ATP-synt_ab          PF00006.32   3.2e-85  283.2   0.0   4.3e-85  282.8   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_ADRC01001033.1_16 -          ATP-synt_ab          PF00006.32   1.5e-82  274.5   0.2     2e-82  274.1   0.2   1.2   1   0   0   1   1   1   1 -
+NZ_ADRC01000565.1_12 -          ATP-synt_ab          PF00006.32   2.5e-82  273.7   0.2   8.1e-82  272.1   0.2   1.8   2   0   0   2   2   2   1 -
+NZ_ADRC01000565.1_10 -          ATP-synt_ab          PF00006.32   3.2e-71  237.4   0.0   4.6e-71  236.9   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_ADRC01000030.1_1  -          ATP-synt_ab          PF00006.32   1.1e-56  189.9   0.0   1.2e-56  189.7   0.0   1.0   1   0   0   1   1   1   1 -
+NZ_ADRC01000017.1_1  -          ATP-synt_ab          PF00006.32   2.5e-27   94.0   0.1   3.5e-27   93.5   0.1   1.2   1   0   0   1   1   1   1 -
+NZ_ADRC01000673.1_1  -          ATP-synt_ab          PF00006.32   2.2e-13   48.4   0.0   3.9e-13   47.6   0.0   1.4   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/atpD.hmm
+# Target file:     /tmp/tmpcbgpv6ul.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/atpD/GCF_000324325.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/atpD.hmm /tmp/tmpcbgpv6ul.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 18:55:33 2026
+# [ok]

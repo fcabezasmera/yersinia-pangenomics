@@ -1,0 +1,27 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NZ_CWJI01000015.1_79  -          GTP_EFTU             PF00009.34     5e-65  216.5   0.1   7.6e-65  216.0   0.1   1.3   1   0   0   1   1   1   1 -
+NZ_CWJI01000015.1_80  -          GTP_EFTU             PF00009.34   1.6e-64  214.9   0.0   2.2e-64  214.5   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_CWJI01000024.1_5   -          GTP_EFTU             PF00009.34   2.1e-64  214.5   0.0   2.9e-64  214.1   0.0   1.1   1   0   0   1   1   1   1 -
+NZ_CWJI01000002.1_76  -          GTP_EFTU             PF00009.34   2.3e-62  207.8   0.0   3.8e-62  207.1   0.0   1.4   1   0   0   1   1   1   1 -
+NZ_CWJI01000006.1_122 -          GTP_EFTU             PF00009.34     9e-61  202.7   0.1   1.5e-60  202.0   0.1   1.3   1   0   0   1   1   1   1 -
+NZ_CWJI01000004.1_93  -          GTP_EFTU             PF00009.34   1.4e-55  185.7   0.1   2.6e-55  184.9   0.1   1.4   1   0   0   1   1   1   1 -
+NZ_CWJI01000002.1_342 -          GTP_EFTU             PF00009.34     1e-48  163.3   0.0   1.8e-48  162.6   0.0   1.4   1   0   0   1   1   1   1 -
+NZ_CWJI01000002.1_152 -          GTP_EFTU             PF00009.34   2.3e-47  159.0   0.0   3.6e-47  158.3   0.0   1.2   1   0   0   1   1   1   1 -
+NZ_CWJI01000011.1_50  -          GTP_EFTU             PF00009.34   2.5e-38  129.5   7.9     4e-38  128.8   1.4   3.4   2   1   0   2   2   2   1 -
+NZ_CWJI01000007.1_113 -          GTP_EFTU             PF00009.34   1.7e-35  120.3   0.5   6.4e-35  118.4   0.5   2.0   1   1   0   1   1   1   1 -
+NZ_CWJI01000004.1_147 -          GTP_EFTU             PF00009.34   7.1e-21   72.6   1.3   1.6e-10   38.8   0.1   4.7   2   2   0   3   3   3   3 -
+NZ_CWJI01000004.1_96  -          GTP_EFTU             PF00009.34   9.9e-12   42.7   0.3   6.1e-08   30.4   0.4   2.3   1   1   1   2   2   2   2 -
+NZ_CWJI01000015.1_79 -          EFG_IV               PF03764.25   2.2e-50  167.4   0.0   4.2e-50  166.5   0.0   1.5   1   0   0   1   1   1   1 -
+NZ_CWJI01000002.1_76 -          EFG_IV               PF03764.25   2.4e-46  154.4   0.3   4.5e-46  153.5   0.3   1.5   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      07_markers/hmm_profiles/fusA.hmm
+# Target file:     /tmp/tmpnzdkxz2_.faa
+# Option settings: hmmsearch --tblout 07_markers/hmmsearch/fusA/GCF_001244565.1.tbl --noali -E 1e-10 --cpu 4 07_markers/hmm_profiles/fusA.hmm /tmp/tmpnzdkxz2_.faa 
+# Current dir:     /home/labinfo/Escritorio/yersinia-pangenomics
+# Date:            Thu May 14 18:54:20 2026
+# [ok]

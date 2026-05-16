@@ -1,0 +1,6 @@
+##gff-version 3
+CAWQHW010000008.1	barrnap:0.9	rRNA	93857	93967	3.9e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWQHW010000018.1	barrnap:0.9	rRNA	165	275	2.6e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWQHW010000022.1	barrnap:0.9	rRNA	431761	431871	4.3e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CAWQHW010000030.1	barrnap:0.9	rRNA	159	3062	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CAWQHW010000037.1	barrnap:0.9	rRNA	203	1741	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA

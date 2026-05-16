@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_CAQU01000023.1	barrnap:0.9	rRNA	2	66	5.6e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 54 percent of the 5S ribosomal RNA
+NZ_CAQU01000023.1	barrnap:0.9	rRNA	180	3083	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CAQU01000042.1	barrnap:0.9	rRNA	52	1590	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

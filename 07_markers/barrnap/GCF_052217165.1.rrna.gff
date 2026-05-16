@@ -1,0 +1,23 @@
+##gff-version 3
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	93133	93243	4.3e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	93381	93491	4.1e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	93607	96510	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	97225	98763	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	132391	132501	7.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	132616	135519	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	136156	137694	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	289983	290093	7.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	290209	293112	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	293827	295365	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	431711	431821	4.1e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	431937	434840	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	435478	437016	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	876858	878396	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	879033	881936	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	882051	882161	4.1e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	1625856	1627394	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	1628109	1631012	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	1631127	1631237	4.1e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	4435964	4436074	4.1e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	4436189	4439092	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JAZGQC010000001.1	barrnap:0.9	rRNA	4439730	4441268	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

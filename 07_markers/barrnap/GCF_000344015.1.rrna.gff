@@ -1,0 +1,3 @@
+##gff-version 3
+NZ_CAQW01000060.1	barrnap:0.9	rRNA	64	2967	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_CAQW01000080.1	barrnap:0.9	rRNA	50	1588	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

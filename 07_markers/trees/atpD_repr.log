@@ -1,0 +1,520 @@
+IQ-TREE version 3.1.1 for Linux x86 64-bit built Apr  8 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    victus (AVX2, FMA3, 31 GB RAM)
+Command: iqtree -s 07_markers/alignments_trimmed/subsampled/atpD_repr.fasta -m MFP -B 1000 -T 24 --prefix 07_markers/trees/atpD_repr --redo --quiet
+Seed:    659428 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri May 15 18:12:18 2026
+Kernel:  AVX+FMA - 24 threads (24 CPU cores detected)
+
+Reading alignment file 07_markers/alignments_trimmed/subsampled/atpD_repr.fasta ... Fasta format detected
+Reading fasta file: done in 0.00109858 secs using 93.03% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000866266 secs using 91.31% CPU
+Alignment has 124 sequences with 434 columns, 233 distinct patterns
+262 parsimony-informative, 4 singleton sites, 168 constant sites
+WARNING: Some sequence names are changed as follows:
+Yersinia_sp._(novel_candidate)__GCF_041538325.1 -> Yersinia_sp.__novel_candidate___GCF_041538325.1
+Yersinia_sp._(novel_candidate)__GCF_048593885.1 -> Yersinia_sp.__novel_candidate___GCF_048593885.1
+Yersinia_sp._(novel_candidate)__GCF_056636475.1 -> Yersinia_sp.__novel_candidate___GCF_056636475.1
+Yersinia_sp._(novel_candidate)__GCF_056636415.1 -> Yersinia_sp.__novel_candidate___GCF_056636415.1
+Yersinia_sp._(novel_candidate)__GCF_056636455.1 -> Yersinia_sp.__novel_candidate___GCF_056636455.1
+
+                                                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000197791 secs using 147.1% CPU
+   1  Yersinia_pseudotuberculosis__GCF_900460735.1       0.00%    passed    100.00%
+   2  Yersinia_rochesterensis__GCF_946902935.1           0.00%    passed    100.00%
+   3  Yersinia_pekkanenii__GCF_963868735.1               0.00%    passed    100.00%
+   4  Yersinia_bercovieri__GCF_963900425.1               0.00%    passed     95.99%
+   5  Yersinia_alsatica__GCF_963900355.1                 0.00%    passed    100.00%
+   6  Yersinia_kristensenii__GCF_963870645.1             0.00%    passed    100.00%
+   7  Yersinia_kristensenii__GCF_963873565.1             0.00%    passed    100.00%
+   8  Yersinia_mollaretii__GCF_963887555.1               0.00%    passed     97.93%
+   9  Yersinia_kristensenii__GCF_963901205.1             0.00%    passed    100.00%
+  10  Yersinia_vastinensis__GCF_963900675.1              0.00%    passed     99.75%
+  11  Yersinia_alsatica__GCF_963901175.1                 0.00%    passed    100.00%
+  12  Yersinia_alsatica__GCF_963901255.1                 0.00%    passed    100.00%
+  13  Yersinia_mollaretii__GCF_963900165.1               0.00%    passed     97.93%
+  14  Yersinia_entomophaga__GCF_965137505.1              0.00%    passed    100.00%
+  15  Yersinia_pekkanenii__GCF_001244635.1               0.00%    passed    100.00%
+  16  Yersinia_nurmii__GCF_001112925.1                   0.00%    passed    100.00%
+  17  Yersinia_aldovae__GCF_001091225.1                  0.00%    passed    100.00%
+  18  Yersinia_wautersii__GCF_000493475.1                0.00%    passed    100.00%
+  19  Yersinia_wautersii__GCF_000493415.1                0.00%    passed    100.00%
+  20  Yersinia_frederiksenii__GCF_900460425.1            0.00%    passed    100.00%
+  21  Yersinia_aldovae__GCF_902168585.1                  0.00%    passed    100.00%
+  22  Yersinia_aldovae__GCF_902168475.1                  0.00%    passed    100.00%
+  23  Yersinia_aleksiciae__GCF_902168445.1               0.00%    passed    100.00%
+  24  Yersinia_aleksiciae__GCF_902168465.1               0.00%    passed    100.00%
+  25  Yersinia_bercovieri__GCF_902168545.1               0.00%    passed    100.00%
+  26  Yersinia_bercovieri__GCF_902168625.1               0.00%    passed     96.02%
+  27  Yersinia_frederiksenii__GCF_902170525.1            0.00%    passed    100.00%
+  28  Yersinia_alsatica__GCF_902170395.1                 0.00%    passed    100.00%
+  29  Yersinia_alsatica__GCF_902170275.1                 0.00%    passed    100.00%
+  30  Yersinia_vastinensis__GCF_902170245.1              0.00%    passed     99.75%
+  31  Yersinia_vastinensis__GCF_902170255.1              0.00%    passed     99.81%
+  32  Yersinia_vastinensis__GCF_902170295.1              0.00%    passed     99.81%
+  33  Yersinia_hibernica__GCF_902170435.1                0.00%    passed    100.00%
+  34  Yersinia_intermedia__GCF_902170555.1               0.00%    passed    100.00%
+  35  Yersinia_intermedia__GCF_902170445.1               0.00%    passed    100.00%
+  36  Yersinia_kristensenii__GCF_902170425.1             0.00%    passed    100.00%
+  37  Yersinia_thracica__GCF_902170565.1                 0.00%    passed    100.00%
+  38  Yersinia_thracica__GCF_902170455.1                 0.00%    passed    100.00%
+  39  Yersinia_rochesterensis__GCF_902170605.1           0.00%    passed    100.00%
+  40  Yersinia_rochesterensis__GCF_902170465.1           0.00%    passed    100.00%
+  41  Yersinia_massiliensis__GCF_902170615.1             0.00%    passed    100.00%
+  42  Yersinia_canariae__GCF_902170775.1                 0.00%    passed    100.00%
+  43  Yersinia_canariae__GCF_902170705.1                 0.00%    passed    100.00%
+  44  Yersinia_artesiana__GCF_902170805.1                0.00%    passed     99.22%
+  45  Yersinia_proxima__GCF_902170985.1                  0.00%    passed     98.84%
+  46  Yersinia_proxima__GCF_902170815.1                  0.00%    passed     99.18%
+  47  Yersinia_proxima__GCF_902170945.1                  0.00%    passed     99.18%
+  48  Yersinia_pseudotuberculosis__GCA_902171145.1       0.00%    failed      0.20%
+  49  Yersinia_pseudotuberculosis__GCA_902171905.1       0.00%    failed      0.19%
+  50  Yersinia_pseudotuberculosis__GCA_902172005.1       0.00%    passed    100.00%
+  51  Yersinia_similis__GCF_902173105.1                  0.00%    passed    100.00%
+  52  Yersinia_similis__GCF_902173255.1                  0.00%    passed    100.00%
+  53  Yersinia_mollaretii__GCF_902387525.1               0.00%    passed     99.42%
+  54  Yersinia_artesiana__GCF_902726525.1                0.00%    passed     99.22%
+  55  Yersinia_artesiana__GCF_902726545.1                0.00%    passed     99.22%
+  56  Yersinia_artesiana__GCF_902726535.1                0.00%    passed     99.22%
+  57  Yersinia_thracica__GCF_902726555.1                 0.00%    passed    100.00%
+  58  Yersinia_rohdei__GCF_001223385.1                   0.00%    passed    100.00%
+  59  Yersinia_frederiksenii__GCF_001142745.1            0.00%    passed    100.00%
+  60  Yersinia_pekkanenii__GCF_001152565.1               0.00%    passed    100.00%
+  61  Yersinia_mollaretii__GCF_001149645.1               0.00%    passed     97.93%
+  62  Yersinia_intermedia__GCF_001218045.1               0.00%    passed    100.00%
+  63  Yersinia_rohdei__GCF_001152185.1                   0.00%    passed    100.00%
+  64  Yersinia_similis__GCF_001114105.1                  0.00%    passed    100.00%
+  65  Yersinia_similis__GCF_001053095.1                  0.00%    passed    100.00%
+  66  Yersinia_thracica__GCF_001123825.1                 0.00%    passed    100.00%
+  67  Yersinia_wautersii__GCF_001319825.1                0.00%    passed    100.00%
+  68  Yersinia_massiliensis__GCF_001142305.1             0.00%    passed    100.00%
+  69  Yersinia_aleksiciae__GCF_001319845.1               0.00%    passed    100.00%
+  70  Yersinia_similis__GCF_001140625.1                  0.00%    passed    100.00%
+  71  Yersinia_intermedia__GCF_001153385.1               0.00%    passed    100.00%
+  72  Yersinia_mollaretii__GCF_001220845.1               0.00%    passed     97.93%
+  73  Yersinia_frederiksenii__GCF_001222845.1            0.00%    passed    100.00%
+  74  Yersinia_bercovieri__GCF_001319955.1               0.00%    passed     96.54%
+  75  Yersinia_enterocolitica__GCF_001220145.1           0.00%    passed    100.00%
+  76  Yersinia_aldovae__GCF_000173735.1                  0.00%    passed    100.00%
+  77  Yersinia_rohdei__GCF_000173775.1                   0.00%    passed    100.00%
+  78  Yersinia_pestis__GCF_000324045.1                   0.00%    failed      0.20%
+  79  Yersinia_pestis__GCF_000324205.1                   0.00%    failed      0.20%
+  80  Yersinia_rochesterensis__GCF_000750355.1           0.00%    passed    100.00%
+  81  Yersinia_hibernica__GCF_000597945.1                0.00%    passed    100.00%
+  82  Yersinia_aldovae__GCF_000834395.1                  0.00%    passed    100.00%
+  83  Yersinia_entomophaga__GCF_001656035.1              0.00%    passed    100.00%
+  84  Yersinia_rochesterensis__GCF_000834865.1           0.00%    passed    100.00%
+  85  Yersinia_ruckeri__GCF_001883155.1                  0.00%    passed    100.00%
+  86  Yersinia_frederiksenii__GCF_002192835.1            0.00%    passed    100.00%
+  87  Yersinia_entomophaga__GCF_002192845.1              0.00%    passed    100.00%
+  88  Yersinia_rohdei__GCF_002192875.1                   0.00%    passed    100.00%
+  89  Yersinia_pestis__GCF_009670355.1                   0.00%    failed      0.20%
+  90  Yersinia_entomophaga__GCF_003634395.1              0.00%    passed    100.00%
+  91  Yersinia_enterocolitica__GCA_028855385.1           0.00%    passed    100.00%
+  92  Yersinia_hibernica__GCF_004124235.1                0.00%    passed    100.00%
+  93  Yersinia_canariae__GCF_009831415.1                 0.00%    passed    100.00%
+  94  Yersinia_aleksiciae__GCF_011765225.1               0.00%    passed    100.00%
+  95  Yersinia_massiliensis__GCF_013282765.1             0.00%    passed    100.00%
+  96  Yersinia_bercovieri__GCF_013282745.1               0.00%    passed     96.54%
+  97  Yersinia_enterocolitica__GCA_028990795.1           0.00%    failed      0.21%
+  98  Yersinia_ruckeri__GCF_021399095.1                  0.00%    passed    100.00%
+  99  Yersinia_massiliensis__GCF_020531815.1             0.00%    passed    100.00%
+ 100  Yersinia_pseudotuberculosis__GCF_054862985.1       0.00%    failed      0.20%
+ 101  Yersinia_ruckeri__GCF_026130965.1                  0.00%    passed    100.00%
+ 102  Yersinia_aleksiciae__GCF_034423815.1               0.00%    passed    100.00%
+ 103  Yersinia_kristensenii__GCF_027946915.1             0.00%    passed    100.00%
+ 104  Yersinia_intermedia__GCF_026183875.1               0.00%    passed    100.00%
+ 105  Yersinia_massiliensis__GCF_026183385.1             0.00%    passed    100.00%
+ 106  Yersinia_nurmii__GCF_030385015.1                   0.00%    passed    100.00%
+ 107  Yersinia_rohdei__GCF_030385185.1                   0.00%    passed    100.00%
+ 108  Yersinia_sp.__novel_candidate___GCF_041538325.1    0.00%    passed    100.00%
+ 109  Yersinia_enterocolitica__GCA_032447965.1           0.00%    passed    100.00%
+ 110  Yersinia_ruckeri__GCA_032496425.1                  0.00%    passed    100.00%
+ 111  Yersinia_sp.__novel_candidate___GCF_048593885.1    0.00%    passed    100.00%
+ 112  Yersinia_ruckeri__GCA_039658735.1                  0.00%    passed    100.00%
+ 113  Yersinia_proxima__GCF_044626575.1                  0.00%    passed     99.17%
+ 114  Yersinia_hibernica__GCF_050253635.1                0.00%    passed    100.00%
+ 115  Yersinia_fenwicki__GCF_043099325.1                 0.00%    passed    100.00%
+ 116  Yersinia_pestis__GCA_046657265.1                   0.00%    failed      0.20%
+ 117  Yersinia_pestis__GCA_046675465.1                   0.00%    failed      0.20%
+ 118  Yersinia_vastinensis__GCF_044905075.1              0.00%    passed     99.81%
+ 119  Yersinia_entomophaga__GCF_050586585.1              0.00%    passed    100.00%
+ 120  Yersinia_enterocolitica__GCA_051625535.1           0.00%    failed      0.21%
+ 121  Yersinia_sp.__novel_candidate___GCF_056636475.1    0.00%    passed    100.00%
+ 122  Yersinia_sp.__novel_candidate___GCF_056636415.1    0.00%    passed    100.00%
+ 123  Yersinia_sp.__novel_candidate___GCF_056636455.1    0.00%    passed    100.00%
+ 124  Yersinia_proxima__GCA_057128805.1                  0.00%    passed     99.18%
+****  TOTAL                                              0.00%  10 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Yersinia_rochesterensis__GCF_902170605.1 is identical to Yersinia_rochesterensis__GCF_946902935.1 but kept for subsequent analysis
+NOTE: Yersinia_pekkanenii__GCF_001244635.1 is identical to Yersinia_pekkanenii__GCF_963868735.1 but kept for subsequent analysis
+NOTE: Yersinia_alsatica__GCF_963901175.1 is identical to Yersinia_alsatica__GCF_963900355.1 but kept for subsequent analysis
+NOTE: Yersinia_kristensenii__GCF_963873565.1 is identical to Yersinia_kristensenii__GCF_963870645.1 but kept for subsequent analysis
+NOTE: Yersinia_mollaretii__GCF_963900165.1 is identical to Yersinia_mollaretii__GCF_963887555.1 but kept for subsequent analysis
+NOTE: Yersinia_vastinensis__GCF_902170245.1 is identical to Yersinia_vastinensis__GCF_963900675.1 but kept for subsequent analysis
+NOTE: Yersinia_entomophaga__GCF_001656035.1 is identical to Yersinia_entomophaga__GCF_965137505.1 but kept for subsequent analysis
+NOTE: Yersinia_nurmii__GCF_030385015.1 is identical to Yersinia_nurmii__GCF_001112925.1 but kept for subsequent analysis
+NOTE: Yersinia_aldovae__GCF_902168475.1 is identical to Yersinia_aldovae__GCF_001091225.1 but kept for subsequent analysis
+NOTE: Yersinia_wautersii__GCF_000493415.1 is identical to Yersinia_wautersii__GCF_000493475.1 but kept for subsequent analysis
+NOTE: Yersinia_frederiksenii__GCF_902170525.1 is identical to Yersinia_frederiksenii__GCF_900460425.1 but kept for subsequent analysis
+NOTE: Yersinia_aleksiciae__GCF_001319845.1 is identical to Yersinia_aleksiciae__GCF_902168445.1 but kept for subsequent analysis
+NOTE: Yersinia_vastinensis__GCF_902170295.1 is identical to Yersinia_vastinensis__GCF_902170255.1 but kept for subsequent analysis
+NOTE: Yersinia_hibernica__GCF_004124235.1 is identical to Yersinia_hibernica__GCF_902170435.1 but kept for subsequent analysis
+NOTE: Yersinia_intermedia__GCF_902170445.1 is identical to Yersinia_intermedia__GCF_902170555.1 but kept for subsequent analysis
+NOTE: Yersinia_thracica__GCF_902170455.1 is identical to Yersinia_thracica__GCF_902170565.1 but kept for subsequent analysis
+NOTE: Yersinia_massiliensis__GCF_001142305.1 is identical to Yersinia_massiliensis__GCF_902170615.1 but kept for subsequent analysis
+NOTE: Yersinia_canariae__GCF_902170705.1 is identical to Yersinia_canariae__GCF_902170775.1 but kept for subsequent analysis
+NOTE: Yersinia_artesiana__GCF_902726525.1 is identical to Yersinia_artesiana__GCF_902170805.1 but kept for subsequent analysis
+NOTE: Yersinia_proxima__GCF_902170945.1 is identical to Yersinia_proxima__GCF_902170815.1 but kept for subsequent analysis
+NOTE: Yersinia_pestis__GCF_000324045.1 is identical to Yersinia_pseudotuberculosis__GCA_902171145.1 but kept for subsequent analysis
+NOTE: Yersinia_similis__GCF_001114105.1 is identical to Yersinia_similis__GCF_902173255.1 but kept for subsequent analysis
+NOTE: Yersinia_rohdei__GCF_001152185.1 is identical to Yersinia_rohdei__GCF_001223385.1 but kept for subsequent analysis
+NOTE: Yersinia_bercovieri__GCF_013282745.1 is identical to Yersinia_bercovieri__GCF_001319955.1 but kept for subsequent analysis
+NOTE: Yersinia_enterocolitica__GCA_028855385.1 is identical to Yersinia_enterocolitica__GCF_001220145.1 but kept for subsequent analysis
+NOTE: Yersinia_ruckeri__GCF_026130965.1 is identical to Yersinia_ruckeri__GCF_001883155.1 but kept for subsequent analysis
+NOTE: Yersinia_enterocolitica__GCA_051625535.1 is identical to Yersinia_enterocolitica__GCA_028990795.1 but kept for subsequent analysis
+NOTE: Yersinia_sp.__novel_candidate___GCF_048593885.1 is identical to Yersinia_sp.__novel_candidate___GCF_041538325.1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000872046 secs using 30.5% CPU
+Identifying sites to remove: done in 0.000462411 secs
+NOTE: 52 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Yersinia_rochesterensis__GCF_902170465.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_000750355.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_rochesterensis__GCF_000834865.1 (identical to Yersinia_rochesterensis__GCF_946902935.1) is ignored but added at the end
+NOTE: Yersinia_pekkanenii__GCF_001152565.1 (identical to Yersinia_pekkanenii__GCF_963868735.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_963901255.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_902170395.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_alsatica__GCF_902170275.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_frederiksenii__GCF_002192835.1 (identical to Yersinia_alsatica__GCF_963900355.1) is ignored but added at the end
+NOTE: Yersinia_kristensenii__GCF_963901205.1 (identical to Yersinia_kristensenii__GCF_963870645.1) is ignored but added at the end
+NOTE: Yersinia_kristensenii__GCF_902170425.1 (identical to Yersinia_kristensenii__GCF_963870645.1) is ignored but added at the end
+NOTE: Yersinia_kristensenii__GCF_027946915.1 (identical to Yersinia_kristensenii__GCF_963870645.1) is ignored but added at the end
+NOTE: Yersinia_mollaretii__GCF_001149645.1 (identical to Yersinia_mollaretii__GCF_963887555.1) is ignored but added at the end
+NOTE: Yersinia_mollaretii__GCF_001220845.1 (identical to Yersinia_mollaretii__GCF_963887555.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_002192845.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_003634395.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_entomophaga__GCF_050586585.1 (identical to Yersinia_entomophaga__GCF_965137505.1) is ignored but added at the end
+NOTE: Yersinia_aldovae__GCF_000173735.1 (identical to Yersinia_aldovae__GCF_001091225.1) is ignored but added at the end
+NOTE: Yersinia_aldovae__GCF_000834395.1 (identical to Yersinia_aldovae__GCF_001091225.1) is ignored but added at the end
+NOTE: Yersinia_wautersii__GCF_001319825.1 (identical to Yersinia_wautersii__GCF_000493475.1) is ignored but added at the end
+NOTE: Yersinia_frederiksenii__GCF_001142745.1 (identical to Yersinia_frederiksenii__GCF_900460425.1) is ignored but added at the end
+NOTE: Yersinia_aleksiciae__GCF_011765225.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_aleksiciae__GCF_034423815.1 (identical to Yersinia_aleksiciae__GCF_902168445.1) is ignored but added at the end
+NOTE: Yersinia_vastinensis__GCF_044905075.1 (identical to Yersinia_vastinensis__GCF_902170255.1) is ignored but added at the end
+NOTE: Yersinia_hibernica__GCF_050253635.1 (identical to Yersinia_hibernica__GCF_902170435.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_001218045.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_001153385.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_intermedia__GCF_026183875.1 (identical to Yersinia_intermedia__GCF_902170555.1) is ignored but added at the end
+NOTE: Yersinia_thracica__GCF_902726555.1 (identical to Yersinia_thracica__GCF_902170565.1) is ignored but added at the end
+NOTE: Yersinia_thracica__GCF_001123825.1 (identical to Yersinia_thracica__GCF_902170565.1) is ignored but added at the end
+NOTE: Yersinia_frederiksenii__GCF_001222845.1 (identical to Yersinia_massiliensis__GCF_902170615.1) is ignored but added at the end
+NOTE: Yersinia_massiliensis__GCF_013282765.1 (identical to Yersinia_massiliensis__GCF_902170615.1) is ignored but added at the end
+NOTE: Yersinia_massiliensis__GCF_020531815.1 (identical to Yersinia_massiliensis__GCF_902170615.1) is ignored but added at the end
+NOTE: Yersinia_massiliensis__GCF_026183385.1 (identical to Yersinia_massiliensis__GCF_902170615.1) is ignored but added at the end
+NOTE: Yersinia_canariae__GCF_009831415.1 (identical to Yersinia_canariae__GCF_902170775.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726545.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_artesiana__GCF_902726535.1 (identical to Yersinia_artesiana__GCF_902170805.1) is ignored but added at the end
+NOTE: Yersinia_proxima__GCA_057128805.1 (identical to Yersinia_proxima__GCF_902170815.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCF_000324205.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCF_009670355.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pseudotuberculosis__GCF_054862985.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCA_046657265.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_pestis__GCA_046675465.1 (identical to Yersinia_pseudotuberculosis__GCA_902171145.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001053095.1 (identical to Yersinia_similis__GCF_902173255.1) is ignored but added at the end
+NOTE: Yersinia_similis__GCF_001140625.1 (identical to Yersinia_similis__GCF_902173255.1) is ignored but added at the end
+NOTE: Yersinia_rohdei__GCF_000173775.1 (identical to Yersinia_rohdei__GCF_001223385.1) is ignored but added at the end
+NOTE: Yersinia_rohdei__GCF_002192875.1 (identical to Yersinia_rohdei__GCF_001223385.1) is ignored but added at the end
+NOTE: Yersinia_rohdei__GCF_030385185.1 (identical to Yersinia_rohdei__GCF_001223385.1) is ignored but added at the end
+NOTE: Yersinia_enterocolitica__GCA_032447965.1 (identical to Yersinia_enterocolitica__GCF_001220145.1) is ignored but added at the end
+NOTE: Yersinia_ruckeri__GCA_032496425.1 (identical to Yersinia_ruckeri__GCF_001883155.1) is ignored but added at the end
+NOTE: Yersinia_ruckeri__GCA_039658735.1 (identical to Yersinia_ruckeri__GCF_001883155.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636475.1 (identical to Yersinia_sp.__novel_candidate___GCF_041538325.1) is ignored but added at the end
+NOTE: Yersinia_sp.__novel_candidate___GCF_056636455.1 (identical to Yersinia_sp.__novel_candidate___GCF_041538325.1) is ignored but added at the end
+Alignment was printed to 07_markers/trees/atpD_repr.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to 07_markers/trees/atpD_repr.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.016 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3723.233
+Optimal log-likelihood: -3722.466
+Proportion of invariable sites: 0.141
+Gamma shape alpha: 0.404
+Parameters optimization took 1 rounds (0.181 sec)
+Time for fast ML tree search: 4.648 seconds
+
+NOTE: ModelFinder requires 29 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 434 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  1  LG            3872.162     141 8026.324     8163.461     8600.623
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  2  LG+I          3803.082     142 7890.164     8029.724     8468.537
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  3  LG+G4         3720.811     142 7725.623     7865.183     8303.995
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  4  LG+I+G4       3721.270     143 7728.540     7870.554     8310.986
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  5  LG+R2         3703.230     143 7692.461     7834.475     8274.906
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  6  LG+R3         3696.093     145 7682.186     7829.200     8272.778
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  7  LG+R4         3695.162     147 7684.323     7836.463     8283.061
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 14  LG+I+R2       3689.032     144 7666.064     7810.563     8252.583
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 15  LG+I+R3       3688.685     146 7669.371     7818.932     8264.035
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 36  LG+F+I+R2     3673.607     163 7673.214     7871.229     8337.121
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 58  WAG+I+R2      3704.677     144 7697.354     7841.852     8283.872
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 80  WAG+F+I+R2    3684.784     163 7695.568     7893.583     8359.474
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+102  JTT+I+R2      3685.025     144 7658.049     7802.548     8244.568
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+124  JTT+F+I+R2    3675.812     163 7677.624     7875.638     8341.530
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+146  Q.PFAM+I+R2   3687.884     144 7663.769     7808.267     8250.287
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+168  Q.PFAM+F+I+R2 3677.417     163 7680.834     7878.848     8344.740
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+190  Q.BIRD+I+R2   3707.293     144 7702.585     7847.084     8289.104
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+212  Q.BIRD+F+I+R2 3698.620     163 7723.241     7921.255     8387.147
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+234  Q.MAMMAL+I+R2 3703.850     144 7695.700     7840.198     8282.218
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+256  Q.MAMMAL+F+I+R2 3692.870     163 7711.741     7909.756     8375.647
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+278  Q.INSECT+I+R2 3710.209     144 7708.418     7852.916     8294.936
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+300  Q.INSECT+F+I+R2 3673.835     163 7673.670     7871.685     8337.576
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+322  Q.PLANT+I+R2  3677.898     144 7643.795     7788.294     8230.314
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+344  Q.PLANT+F+I+R2 3660.439     163 7646.879     7844.894     8310.785
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+366  Q.YEAST+I+R2  3726.614     144 7741.227     7885.725     8327.746
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+388  Q.YEAST+F+I+R2 3676.356     163 7678.712     7876.727     8342.618
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+410  JTTDCMUT+I+R2 3685.288     144 7658.575     7803.073     8245.093
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+432  JTTDCMUT+F+I+R2 3675.222     163 7676.443     7874.458     8340.350
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+454  DCMUT+I+R2    3729.911     144 7747.822     7892.321     8334.341
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+476  DCMUT+F+I+R2  3691.205     163 7708.409     7906.424     8372.316
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+498  VT+I+R2       3710.162     144 7708.323     7852.821     8294.841
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+520  VT+F+I+R2     3697.175     163 7720.350     7918.365     8384.256
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+542  PMB+I+R2      3744.758     144 7777.515     7922.013     8364.033
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+564  PMB+F+I+R2    3726.944     163 7779.888     7977.902     8443.794
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+586  BLOSUM62+I+R2 3750.663     144 7789.326     7933.824     8375.844
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+608  BLOSUM62+F+I+R2 3728.176     163 7782.351     7980.366     8446.258
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+630  DAYHOFF+I+R2  3729.676     144 7747.351     7891.849     8333.870
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+652  DAYHOFF+F+I+R2 3690.968     163 7707.936     7905.951     8371.843
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+674  MTREV+I+R2    3864.703     144 8017.406     8161.904     8603.924
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+696  MTREV+F+I+R2  3687.192     163 7700.385     7898.400     8364.291
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+718  MTART+I+R2    3924.113     144 8136.226     8280.724     8722.744
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+740  MTART+F+I+R2  3725.876     163 7777.752     7975.766     8441.658
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+762  MTZOA+I+R2    3842.079     144 7972.159     8116.657     8558.677
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+784  MTZOA+F+I+R2  3693.754     163 7713.509     7911.523     8377.415
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+806  MTMET+I+R2    3909.772     144 8107.544     8252.042     8694.062
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+828  MTMET+F+I+R2  3682.958     163 7691.916     7889.931     8355.822
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+850  MTVER+I+R2    3882.803     144 8053.606     8198.105     8640.125
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+872  MTVER+F+I+R2  3696.221     163 7718.441     7916.456     8382.348
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+894  MTINV+I+R2    3974.631     144 8237.262     8381.761     8823.781
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+916  MTINV+F+I+R2  3681.612     163 7689.224     7887.239     8353.130
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+938  MTMAM+I+R2    3898.524     144 8085.048     8229.546     8671.566
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+960  MTMAM+F+I+R2  3714.905     163 7755.809     7953.824     8419.716
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+982  FLAVI+I+R2    3758.836     144 7805.671     7950.170     8392.190
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1004  FLAVI+F+I+R2  3725.602     163 7777.203     7975.218     8441.109
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1026  HIVB+I+R2     3714.471     144 7716.942     7861.441     8303.461
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1048  HIVB+F+I+R2   3691.776     163 7709.552     7907.567     8373.459
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1070  HIVW+I+R2     3874.428     144 8036.855     8181.354     8623.374
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1092  HIVW+F+I+R2   3779.455     163 7884.910     8082.925     8548.817
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1114  FLU+I+R2      3760.203     144 7808.405     7952.904     8394.924
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1136  FLU+F+I+R2    3705.568     163 7737.136     7935.151     8401.043
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1158  RTREV+I+R2    3722.714     144 7733.428     7877.927     8319.947
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1180  RTREV+F+I+R2  3688.660     163 7703.320     7901.335     8367.226
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1202  CPREV+I+R2    3710.954     144 7709.909     7854.407     8296.427
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+1224  CPREV+F+I+R2  3689.215     163 7704.430     7902.445     8368.336
+Akaike Information Criterion:           Q.PLANT+I+R2
+Corrected Akaike Information Criterion: Q.PLANT+I+R2
+Bayesian Information Criterion:         Q.PLANT+I+R2
+Best-fit model: Q.PLANT+I+R2 chosen according to BIC
+
+All model information printed to 07_markers/trees/atpD_repr.model.gz
+CPU time for ModelFinder: 92.484 seconds (0h:1m:32s)
+Wall-clock time for ModelFinder: 37.202 seconds (0h:0m:37s)
+Generating 1000 samples for ultrafast bootstrap (seed: 659428)...
+
+NOTE: 6 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3683.381
+2. Current log-likelihood: -3679.387
+3. Current log-likelihood: -3678.432
+4. Current log-likelihood: -3678.174
+5. Current log-likelihood: -3678.062
+Optimal log-likelihood: -3677.976
+Proportion of invariable sites: 0.274
+Site proportion and rates:  (0.615,0.365) (0.111,6.980)
+Parameters optimization took 5 rounds (0.872 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.032242 secs using 1594% CPU
+Computing ML distances took 0.032935 sec (of wall-clock time) 0.514757 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.00510843 secs using 61.51% CPU
+Constructing RapidNJ tree: done in 0.452649 secs using 7.255% CPU
+Computing RapidNJ tree took 0.457878 sec (of wall-clock time) 0.036129 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3718.549
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.580 second
+Computing log-likelihood of 98 initial trees ... 9.236 seconds
+Current best score: -3677.976
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3677.424
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -3674.535
+Iteration 10 / LogL: -3676.515 / Time: 0h:1m:24s
+Iteration 20 / LogL: -3675.965 / Time: 0h:2m:4s
+Finish initializing candidate tree set (20)
+Current best tree score: -3674.535 / CPU time: 85.546
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -3674.333
+BETTER TREE FOUND at iteration 23: -3674.330
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -3672.974
+Iteration 30 / LogL: -3674.339 / Time: 0h:3m:1s (0h:8m:7s left)
+Iteration 40 / LogL: -3674.340 / Time: 0h:3m:50s (0h:7m:16s left)
+Iteration 50 / LogL: -3672.977 / Time: 0h:4m:39s (0h:6m:25s left)
+Log-likelihood cutoff on original alignment: -3709.221
+Iteration 60 / LogL: -3675.153 / Time: 0h:5m:34s (0h:5m:42s left)
+Iteration 70 / LogL: -3672.979 / Time: 0h:6m:24s (0h:4m:51s left)
+Iteration 80 / LogL: -3674.313 / Time: 0h:7m:18s (0h:4m:3s left)
+Iteration 90 / LogL: -3672.979 / Time: 0h:8m:15s (0h:3m:15s left)
+Iteration 100 / LogL: -3676.563 / Time: 0h:9m:9s (0h:2m:24s left)
+Log-likelihood cutoff on original alignment: -3709.430
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 110 / LogL: -3675.184 / Time: 0h:9m:53s (0h:7m:39s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 116: -3672.690
+BETTER TREE FOUND at iteration 117: -3672.685
+Iteration 120 / LogL: -3681.411 / Time: 0h:10m:39s (0h:8m:11s left)
+Iteration 130 / LogL: -3672.971 / Time: 0h:11m:25s (0h:7m:16s left)
+Iteration 140 / LogL: -3672.695 / Time: 0h:12m:9s (0h:6m:23s left)
+Iteration 150 / LogL: -3673.803 / Time: 0h:12m:57s (0h:5m:32s left)
+Log-likelihood cutoff on original alignment: -3709.430
+Iteration 160 / LogL: -3676.820 / Time: 0h:13m:47s (0h:4m:43s left)
+Iteration 170 / LogL: -3673.040 / Time: 0h:14m:31s (0h:3m:52s left)
+Iteration 180 / LogL: -3672.693 / Time: 0h:15m:16s (0h:3m:1s left)
+Iteration 190 / LogL: -3673.327 / Time: 0h:15m:53s (0h:2m:10s left)
+Iteration 200 / LogL: -3674.933 / Time: 0h:16m:32s (0h:1m:21s left)
+Log-likelihood cutoff on original alignment: -3709.430
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+BETTER TREE FOUND at iteration 207: -3672.684
+Iteration 210 / LogL: -3679.169 / Time: 0h:17m:6s (0h:7m:39s left)
+Iteration 220 / LogL: -3672.691 / Time: 0h:17m:31s (0h:6m:42s left)
+Iteration 230 / LogL: -3672.688 / Time: 0h:17m:54s (0h:5m:48s left)
+Iteration 240 / LogL: -3676.051 / Time: 0h:18m:16s (0h:4m:56s left)
+Iteration 250 / LogL: -3673.297 / Time: 0h:18m:39s (0h:4m:7s left)
+Log-likelihood cutoff on original alignment: -3709.221
+Iteration 260 / LogL: -3672.691 / Time: 0h:19m:3s (0h:3m:20s left)
+Iteration 270 / LogL: -3672.687 / Time: 0h:19m:26s (0h:2m:35s left)
+Iteration 280 / LogL: -3672.686 / Time: 0h:19m:48s (0h:1m:51s left)
+Iteration 290 / LogL: -3904.613 / Time: 0h:20m:7s (0h:1m:8s left)
+Iteration 300 / LogL: -3672.686 / Time: 0h:20m:27s (0h:0m:27s left)
+Log-likelihood cutoff on original alignment: -3709.221
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+TREE SEARCH COMPLETED AFTER 308 ITERATIONS / Time: 0h:20m:43s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3672.684
+Optimal log-likelihood: -3672.682
+Proportion of invariable sites: 0.271
+Site proportion and rates:  (0.622,0.362) (0.107,7.218)
+Parameters optimization took 1 rounds (0.063 sec)
+BEST SCORE FOUND : -3672.682
+Creating bootstrap support values...
+Split supports printed to NEXUS file 07_markers/trees/atpD_repr.splits.nex
+Total tree length: 6.552
+
+Total number of iterations: 308
+CPU time used for tree search: 1270.974 sec (0h:21m:10s)
+Wall-clock time used for tree search: 1204.654 sec (0h:20m:4s)
+Total CPU time used: 1367.210 sec (0h:22m:47s)
+Total wall-clock time used: 1244.042 sec (0h:20m:44s)
+
+Computing bootstrap consensus tree...
+Reading input file 07_markers/trees/atpD_repr.splits.nex...
+72 taxa and 859 splits.
+Consensus tree written to 07_markers/trees/atpD_repr.contree
+Reading input trees file 07_markers/trees/atpD_repr.contree
+Log-likelihood of consensus tree: -3678.624
+
+Analysis results written to: 
+  IQ-TREE report:                07_markers/trees/atpD_repr.iqtree
+  Maximum-likelihood tree:       07_markers/trees/atpD_repr.treefile
+  Likelihood distances:          07_markers/trees/atpD_repr.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          07_markers/trees/atpD_repr.splits.nex
+  Consensus tree:                07_markers/trees/atpD_repr.contree
+  Screen log file:               07_markers/trees/atpD_repr.log
+
+Date and Time: Fri May 15 18:33:03 2026

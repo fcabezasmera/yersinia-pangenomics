@@ -1,0 +1,23 @@
+##gff-version 3
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	1342008	1342118	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	1342231	1345134	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	1345662	1347200	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	1996270	1996380	7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	1996493	1999396	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	1999864	2001402	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	2375272	2376810	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	2377278	2380181	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	2380294	2380404	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	2380541	2380651	3.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	2719071	2720609	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	2721077	2723980	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	2724093	2724203	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3057362	3058900	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3059428	3062331	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3062444	3062554	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3369153	3370691	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3371219	3374122	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3374235	3374345	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3563398	3564936	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3565404	3568307	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NZ_JBPYFV010000001.1	barrnap:0.9	rRNA	3568420	3568530	7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA

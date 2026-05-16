@@ -1,0 +1,8 @@
+##gff-version 3
+DAYJGR010000001.1	barrnap:0.9	rRNA	336	446	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAYJGR010000001.1	barrnap:0.9	rRNA	583	693	4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAYJGR010000009.1	barrnap:0.9	rRNA	217405	217515	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAYJGR010000020.1	barrnap:0.9	rRNA	77874	77984	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAYJGR010000026.1	barrnap:0.9	rRNA	34144	34254	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+DAYJGR010000037.1	barrnap:0.9	rRNA	413	2522	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 65 percent of the 23S ribosomal RNA
+DAYJGR010000040.1	barrnap:0.9	rRNA	1	1167	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 73 percent of the 16S ribosomal RNA

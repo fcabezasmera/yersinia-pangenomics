@@ -1,0 +1,5 @@
+##gff-version 3
+NZ_LYOK01000200.1	barrnap:0.9	rRNA	128	238	3.8e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_LYOK01000251.1	barrnap:0.9	rRNA	169	2447	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 70 percent of the 23S ribosomal RNA
+NZ_LYOK01000270.1	barrnap:0.9	rRNA	211	1749	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NZ_LYOK01000303.1	barrnap:0.9	rRNA	10	120	6.7e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA

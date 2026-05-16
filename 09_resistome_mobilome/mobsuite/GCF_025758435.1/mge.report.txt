@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_025758435.1.fna	chromosome			NZ_CP107095.1 Yersinia enterocolitica strain Gp169 chromosome	4771155	0.4717274615990052	8de468c6d0c55e43082b6064097bde5e	00459	CP006262	IS629	IS3	1314	6	1314	628193	629501						
-GCF_025758435.1.fna	chromosome			NZ_CP107095.1 Yersinia enterocolitica strain Gp169 chromosome	4771155	0.4717274615990052	8de468c6d0c55e43082b6064097bde5e	00543	JX424614	ISKpn34	IS3	1221	208	1221	1861028	1862041						
-GCF_025758435.1.fna	chromosome			NZ_CP107095.1 Yersinia enterocolitica strain Gp169 chromosome	4771155	0.4717274615990052	8de468c6d0c55e43082b6064097bde5e	00278	KY320277	ISSen3	IS21	1956	1	1956	1862042	1863997						

@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032236_00057|MOBP	NZ_VDHI01000019.1 Yersinia ruckeri strain FMV-22 NODE_19_length_81786_cov_75.691351, whole genome shotgun sequence	641	81786	1	641	12187	14109	641	0	100.0	100.0	100.0	plus	0.0	1295	relaxase

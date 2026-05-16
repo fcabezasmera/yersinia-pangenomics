@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002438__NC_009705_00164|rep_cluster_957	NZ_CP099812.1 Yersinia ruckeri strain NVI-9681 plasmid pYR7, complete sequence	1020	121362	1	1020	96980	97999	1020	113	88.922	100.0	100.0	minus	0.0	1258	replicon
-NC_021819_00066|MOBP	NZ_CP099811.1 Yersinia ruckeri strain NVI-9681 chromosome, complete genome	295	3765355	83	181	2840183	2840479	99	8	91.919	34.0	97.0	minus	1.6199999999999998e-54	187	relaxase
-NC_009705_00148|MPF_I	NZ_CP099812.1 Yersinia ruckeri strain NVI-9681 plasmid pYR7, complete sequence	934	121362	1	934	103408	106212	935	92	90.053	100.0	100.0	minus	0.0	1615	mate-pair-formation
-NC_009705_00139|MPF_I	NZ_CP099812.1 Yersinia ruckeri strain NVI-9681 plasmid pYR7, complete sequence	361	121362	1	361	114688	115770	361	37	89.751	100.0	100.0	minus	0.0	644	mate-pair-formation
-NC_009705_00138|MPF_I	NZ_CP099812.1 Yersinia ruckeri strain NVI-9681 plasmid pYR7, complete sequence	264	121362	1	264	115775	116566	264	48	81.818	100.0	100.0	minus	1.04e-144	445	mate-pair-formation
-NC_009705_00134|MPF_I	NZ_CP099812.1 Yersinia ruckeri strain NVI-9681 plasmid pYR7, complete sequence	282	121362	1	279	119335	120171	279	28	89.964	99.0	99.0	plus	9.1e-171	521	mate-pair-formation

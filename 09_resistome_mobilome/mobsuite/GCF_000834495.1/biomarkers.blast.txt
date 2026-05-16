@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP009782.1 Yersinia pestis strain El Dorado plasmid pPCP	89	8150	1	89	1656	1744	89	0	100.0	100.0	100.0	minus	5.15e-42	165	oriT
-CP041342_00001|rep_cluster_2350	NZ_CP009782.1 Yersinia pestis strain El Dorado plasmid pPCP	552	8150	4	552	1766	2313	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
-CP001049|IncFII	NZ_CP009783.1 Yersinia pestis strain El Dorado plasmid pCD, complete sequence	227	70305	1	227	43504	43730	227	0	100.0	100.0	100.0	minus	2.9700000000000002e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP009783.1 Yersinia pestis strain El Dorado plasmid pCD, complete sequence	1167	70305	1	1167	63817	64983	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-000104__CP010386_00052|IncFIB	NZ_CP009784.1 Yersinia pestis strain El Dorado plasmid pMT, complete sequence	1065	96921	1	1065	55930	56994	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-NC_010157_00072|MOBF	NZ_CP009783.1 Yersinia pestis strain El Dorado plasmid pCD, complete sequence	152	70305	1	152	45801	46256	152	0	100.0	100.0	100.0	minus	1.71e-101	316	relaxase

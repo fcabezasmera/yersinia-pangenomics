@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP016722|MOB_unknown	ACCEPL010000029.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.31, whole genome shotgun sequence	218	4676	1	182	3786	3966	182	21	87.912	83.0	83.0	minus	5.3e-56	213	oriT
-CP016722|MOB_unknown	ACCEPL010000031.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.33, whole genome shotgun sequence	218	3223	1	194	647	839	195	11	92.821	89.0	89.0	plus	5.1599999999999997e-76	279	oriT
-CP041116_00002|ColRNAI_rep_cluster_1987	ACCEPL010000029.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.31, whole genome shotgun sequence	519	4676	31	518	3941	4430	495	40	89.495	94.0	94.0	plus	8.73e-177	616	replicon
-CP041116_00002|ColRNAI_rep_cluster_1987	ACCEPL010000031.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.33, whole genome shotgun sequence	519	3223	38	518	184	665	489	59	84.867	93.0	93.0	minus	1.19e-135	479	replicon
-JX133088|ColpVC	ACCEPL010000032.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.35, whole genome shotgun sequence	193	1934	1	193	654	846	193	22	88.601	100.0	100.0	plus	9.88e-63	235	replicon
-JX133088|ColpVC	ACCEPL010000033.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.36, whole genome shotgun sequence	193	1747	1	193	192	384	193	4	97.927	100.0	100.0	plus	9.47e-93	335	replicon
-NC_013090_00004|MOBP	ACCEPL010000029.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.31, whole genome shotgun sequence	499	4676	1	499	1868	3364	499	37	92.585	100.0	100.0	minus	0.0	900	relaxase
-NC_013090_00004|MOBP	ACCEPL010000031.1 Yersinia enterocolitica strain PNUSAY001121 SAMN55061244-rid28842393.denovo.33, whole genome shotgun sequence	499	3223	1	499	1248	2738	499	39	91.784	100.0	100.0	plus	0.0	893	relaxase

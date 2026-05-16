@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_002523_00008|MPF_I	NZ_JBLWEU010000132.1 Yersinia enterocolitica strain LJ81 NODE_46_length_4712_cov_0.724973, whole genome shotgun sequence	262	4712	1	262	1439	2224	262	33	87.405	100.0	100.0	plus	2.85e-148	449	mate-pair-formation

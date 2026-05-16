@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP000966|IncFII	NZ_JAZGQD010000002.1 Yersinia sp. 2538 StPb PI 2_polypolish, whole genome shotgun sequence	230	105119	3	200	4854	5052	203	31	80.296	86.0	86.0	minus	2.05e-35	145	replicon

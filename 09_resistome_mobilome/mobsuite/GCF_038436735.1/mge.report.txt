@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_038436735.1.fna	chromosome			NZ_JAQQXG010000322.1 Yersinia enterocolitica strain GM 77 PIRAS-77_322_86.8791, whole genome shotgun sequence	18605	0.6140284869658694	dd99c7629e7ef75946ae3d431c3d14e0	00124	KY860572	ISPa22	IS1182	1669	169	1669	13918	15415						

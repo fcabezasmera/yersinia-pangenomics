@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NZ_AFSD01000008|MOBP	ACAAZM010000069.1 Yersinia enterocolitica strain 01784157 SAMN50134153-rid27037123.denovo.073, whole genome shotgun sequence	86	4797	7	86	4471	4550	81	11	83.951	93.0	93.0	plus	2.35e-15	76	oriT
-JF937655|Col(YF27601)	ACAAZM010000069.1 Yersinia enterocolitica strain 01784157 SAMN50134153-rid27037123.denovo.073, whole genome shotgun sequence	175	4797	1	175	3662	3836	175	0	100.0	100.0	100.0	plus	1.77e-89	324	replicon
-NC_019269_00003|MOBP	ACAAZM010000069.1 Yersinia enterocolitica strain 01784157 SAMN50134153-rid27037123.denovo.073, whole genome shotgun sequence	487	4797	1	487	200	1660	487	0	100.0	100.0	100.0	plus	0.0	939	relaxase

@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-FJ696405|Col(Ye4449)	NZ_CP173261.1 Yersinia vastinensis strain SCPM-O-B-3977 (686) plasmid pB-3977_1, complete sequence	194	5273	1	194	246	439	194	23	88.144	100.0	100.0	plus	1.23e-61	231	replicon
-CP000974_00005|rep_cluster_2358	NZ_CP173262.1 Yersinia vastinensis strain SCPM-O-B-3977 (686) plasmid pB-3977_2, complete sequence	528	4966	1	481	2303	2770	485	39	87.629	91.0	91.0	plus	4.08e-155	544	replicon
-CP023983_00001|MOBP	NZ_CP173261.1 Yersinia vastinensis strain SCPM-O-B-3977 (686) plasmid pB-3977_1, complete sequence	104	5273	1	85	2	256	85	16	81.176	82.0	82.0	minus	7.04e-42	143	relaxase
-NC_019223_00002|MOBP	NZ_CP173261.1 Yersinia vastinensis strain SCPM-O-B-3977 (686) plasmid pB-3977_1, complete sequence	511	5273	87	511	3997	5271	425	23	94.588	83.0	99.0	minus	0.0	746	relaxase
-NC_013090_00004|MOBP	NZ_CP173262.1 Yersinia vastinensis strain SCPM-O-B-3977 (686) plasmid pB-3977_2, complete sequence	499	4966	1	499	35	1528	501	77	83.633	100.0	100.0	minus	0.0	773	relaxase

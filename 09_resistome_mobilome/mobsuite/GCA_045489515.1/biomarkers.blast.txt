@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021819_00066|MOBP	DBCWUQ010000020.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000488 SAMN41710430-rid21825673.denovo.20, whole genome shotgun sequence	295	67951	1	295	9239	10123	295	57	80.678	100.0	100.0	minus	1.6100000000000002e-160	492	relaxase

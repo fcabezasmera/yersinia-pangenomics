@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_003010515.1.fna	chromosome			NZ_NCLF01000191.1 Yersinia pseudotuberculosis strain M489 NODE_192, whole genome shotgun sequence	3874	0.4876097057305111	5923ac842cdbdbddcda0974c4cdf1bd7	00336	NC_003134	ISEc39	IS256	1316	1	1208	2044	3251						
-GCF_003010515.1.fna	chromosome			NZ_NCLF01000196.1 Yersinia pseudotuberculosis strain M489 NODE_197, whole genome shotgun sequence	3217	0.5228473733291887	66eb580437d41b371759f0692cbe66e4	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	75	2447						

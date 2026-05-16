@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP016276.1 Yersinia pestis strain Cadman plasmid pPCP1, complete sequence	89	9612	1	89	6325	6413	89	0	100.0	100.0	100.0	plus	5.08e-42	165	oriT
-CP001049|IncFII	NZ_CP016274.1 Yersinia pestis strain Cadman plasmid pCD1, complete sequence	227	70304	1	227	28963	29189	227	0	100.0	100.0	100.0	minus	2.93e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP016274.1 Yersinia pestis strain Cadman plasmid pCD1, complete sequence	1167	70304	1	1167	49276	50442	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-000104__CP010386_00052|IncFIB	NZ_CP016275.1 Yersinia pestis strain Cadman plasmid pMT1, complete sequence	1065	96210	1	1065	34545	35609	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	NZ_CP016276.1 Yersinia pestis strain Cadman plasmid pPCP1, complete sequence	552	9612	4	552	5756	6303	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-NC_010157_00072|MOBF	NZ_CP016274.1 Yersinia pestis strain Cadman plasmid pCD1, complete sequence	152	70304	1	152	31260	31715	152	0	100.0	100.0	100.0	minus	1.69e-101	316	relaxase

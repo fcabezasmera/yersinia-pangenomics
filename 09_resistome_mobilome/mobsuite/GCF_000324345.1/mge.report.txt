@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_000324345.1.fna	chromosome			NZ_ADRD01000672.1 Yersinia pestis CMCC8211 Contig_CMCC8211_4885, whole genome shotgun sequence	1793	0.5237032905744562	2d023085171589bf9b7e6cb9b31e1c34	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	206	1753						
-GCF_000324345.1.fna	plasmid	AA996	AJ509	NZ_ADRD01000752.1 Yersinia pestis CMCC8211 Contig_CMCC8211_5581, whole genome shotgun sequence	27786	0.44536817102137766	a3b87ecc16af84120288aef6df7c345b	00643	NC_003131	ISEca11	IS3	1904	260	1904	26142	27786	1645	minus	86.0	100.0	0.0	3038

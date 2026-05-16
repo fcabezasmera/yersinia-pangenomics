@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_963900705.1.fna	chromosome			NZ_CAWREE010000062.1 Yersinia kristensenii isolate ena-yuan-GCF_902170425.1 NZ_CABHXR010000062.1, whole genome shotgun sequence	3417	0.517998244073749	62c003f037b67c39f54908967db34b76	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	209	2581						
-GCF_963900705.1.fna	chromosome			NZ_CAWREE010000026.1 Yersinia kristensenii isolate ena-yuan-GCF_902170425.1 NZ_CABHXR010000026.1, whole genome shotgun sequence	1786	0.522956326987682	ee4361f0bd3f3880429f059f474baff7	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	42	1589						

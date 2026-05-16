@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000126__FO834904|IncFII	NZ_CTFU01000024.1 Yersinia intermedia strain 182/02, whole genome shotgun sequence	228	41309	31	228	20726	20923	202	26	83.168	87.0	87.0	minus	1.98e-45	178	replicon
-NC_010157_00072|MOBF	NZ_CTFU01000024.1 Yersinia intermedia strain 182/02, whole genome shotgun sequence	152	41309	24	149	16530	16907	126	10	92.063	83.0	83.0	plus	2.28e-76	244	relaxase
-NC_015475_00074|MOBF	NZ_CTFU01000024.1 Yersinia intermedia strain 182/02, whole genome shotgun sequence	149	41309	1	133	16917	17315	133	11	91.729	89.0	89.0	plus	1.14e-78	250	relaxase

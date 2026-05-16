@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP000966|IncFII	DANMMK010000023.1 TPA_asm: Yersinia enterocolitica isolate Whole Organism SAMN30497211-rid15168433.denovo.23, whole genome shotgun sequence	230	48790	3	200	43739	43937	203	30	80.788	86.0	86.0	minus	4.390000000000001e-37	150	replicon

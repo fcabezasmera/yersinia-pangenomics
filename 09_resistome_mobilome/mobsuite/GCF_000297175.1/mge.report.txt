@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_000297175.1.fna	chromosome			NZ_AKKR01000033.1 Yersinia enterocolitica subsp. enterocolitica WA-314 contig_1_31, whole genome shotgun sequence	84906	0.4766447600876263	a8179875ed97998d92e95693d3d5b67f	00634	CP024842	IS1400	IS3	1207	1	1207	63073	64279						

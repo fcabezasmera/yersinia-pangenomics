@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_AKSG01000005.1 Yersinia pestis PY-34 PY_34.contig.8_1, whole genome shotgun sequence	89	438	1	89	48	136	89	0	100.0	100.0	100.0	minus	4.97e-42	165	oriT
-CP001049|IncFII	NZ_AKSG01000004.1 Yersinia pestis PY-34 PY_34.contig.4_1, whole genome shotgun sequence	227	3528	1	227	2507	2733	227	0	100.0	100.0	100.0	minus	2.87e-118	420	replicon
-000104__CP010386_00052|IncFIB	NZ_AKSG01000020.1 Yersinia pestis PY-34 PY_34.contig.31_1, whole genome shotgun sequence	1065	9181	1	1065	7854	8918	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-000687__KX348146_00033|rep_cluster_1367	NZ_AKSG01000024.1 Yersinia pestis PY-34 PY_34.contig.35_1, whole genome shotgun sequence	894	10626	1	894	5092	5985	894	11	98.77	100.0	100.0	plus	0.0	1591	replicon
-CP033698_00001|rep_cluster_2370	NZ_AKSG01000034.1 Yersinia pestis PY-34 PY_34.contig.48_1, whole genome shotgun sequence	408	2314	63	408	1968	2314	347	0	99.712	85.0	85.0	minus	0.0	634	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_AKSG01000043.1 Yersinia pestis PY-34 PY_34.contig.73_1, whole genome shotgun sequence	1167	3662	1	1167	1692	2858	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-NC_010157_00072|MOBF	NZ_AKSG01000015.1 Yersinia pestis PY-34 PY_34.contig.21_1, whole genome shotgun sequence	152	749	1	152	190	645	152	0	100.0	100.0	100.0	minus	2.82e-112	316	relaxase
-CP008826_00025|MOBC	NZ_AKSG01000016.1 Yersinia pestis PY-34 PY_34.contig.24_1, whole genome shotgun sequence	237	9392	1	237	8365	9075	237	3	98.734	100.0	100.0	minus	5.8e-160	488	relaxase

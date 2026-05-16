@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	NZ_CP033712.1 Yersinia pseudotuberculosis strain FDAARGOS_581 plasmid unnamed, complete sequence	1167	70035	1	1167	3367	4533	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-CP001049|IncFII	NZ_CP033712.1 Yersinia pseudotuberculosis strain FDAARGOS_581 plasmid unnamed, complete sequence	227	70035	1	227	54861	55087	227	0	100.0	100.0	100.0	minus	3.13e-118	420	replicon
-NC_010157_00072|MOBF	NZ_CP033712.1 Yersinia pseudotuberculosis strain FDAARGOS_581 plasmid unnamed, complete sequence	152	70035	1	152	57161	57616	152	0	100.0	100.0	100.0	minus	1.8e-101	316	relaxase

@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000104__CP010386_00052|IncFIB	NZ_ACNQ01000020.1 Yersinia pestis Nepal516 isolate A map unlocalized plasmid pMT, whole genome shotgun sequence	1065	101182	1	1065	72297	73361	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon

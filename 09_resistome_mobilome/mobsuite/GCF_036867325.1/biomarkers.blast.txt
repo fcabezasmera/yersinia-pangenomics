@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032236_00057|MOBP	NZ_JBAJHO010000022.1 Yersinia ruckeri strain Y258 Seq22, whole genome shotgun sequence	641	60275	1	641	4274	6196	641	0	100.0	100.0	100.0	plus	0.0	1295	relaxase

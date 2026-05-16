@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_ADTD01001715.1 Yersinia pestis YN1683 Contig_YN1683_8788, whole genome shotgun sequence	89	2725	1	89	1378	1466	89	0	100.0	100.0	100.0	plus	4.6e-42	165	oriT
-CP001049|IncFII	NZ_ADTD01000882.1 Yersinia pestis YN1683 Contig_YN1683_4614, whole genome shotgun sequence	227	1243	1	227	488	714	227	0	100.0	100.0	100.0	minus	2.6200000000000007e-118	420	replicon
-AL513384|IncFIB	NZ_ADTD01001358.1 Yersinia pestis YN1683 Contig_YN1683_6962, whole genome shotgun sequence	875	792	162	875	1	723	723	23	95.574	82.0	82.0	plus	0.0	1149	replicon
-CP041342_00001|rep_cluster_2350	NZ_ADTD01001715.1 Yersinia pestis YN1683 Contig_YN1683_8788, whole genome shotgun sequence	552	2725	4	552	809	1356	552	27	93.841	99.0	99.0	minus	0.0	824	replicon

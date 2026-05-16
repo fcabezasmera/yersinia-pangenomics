@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-001225__CP009851_00013|rep_cluster_1804	NZ_JBGEEF010000017.1 Yersinia enterocolitica strain GF60 contig00017, whole genome shotgun sequence	687	54699	1	687	8476	9162	687	4	99.418	100.0	100.0	minus	0.0	1247	replicon
-NC_014725_00039|MOBC	NZ_JBGEEF010000017.1 Yersinia enterocolitica strain GF60 contig00017, whole genome shotgun sequence	248	54699	1	248	30841	31584	248	0	100.0	100.0	100.0	plus	6.220000000000001e-167	508	relaxase
-NC_011092_00100|MPF_T	NZ_JBGEEF010000017.1 Yersinia enterocolitica strain GF60 contig00017, whole genome shotgun sequence	335	54699	1	335	19146	20150	335	0	100.0	100.0	100.0	plus	8.84e-170	521	mate-pair-formation
-NC_011092_00102|MPF_T	NZ_JBGEEF010000017.1 Yersinia enterocolitica strain GF60 contig00017, whole genome shotgun sequence	228	54699	1	228	20363	21046	228	0	100.0	100.0	100.0	plus	2.0899999999999998e-135	417	mate-pair-formation
-NC_011092_00103|MPF_T	NZ_JBGEEF010000017.1 Yersinia enterocolitica strain GF60 contig00017, whole genome shotgun sequence	297	54699	1	297	21042	21932	297	0	100.0	100.0	100.0	plus	0.0	575	mate-pair-formation

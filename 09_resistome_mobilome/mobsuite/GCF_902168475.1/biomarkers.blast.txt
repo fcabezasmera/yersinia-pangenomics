@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-JF937655|Col(YF27601)	NZ_CABHQC010000012.1 Yersinia aldovae isolate IP08290, whole genome shotgun sequence	175	5445	7	175	1430	1601	174	21	83.908	97.0	97.0	minus	4.88e-40	159	replicon

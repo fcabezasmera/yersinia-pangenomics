@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_000324605.1.fna	plasmid	AA751	AJ083	NZ_ADRQ01000751.1 Yersinia pestis CMCC99103 Contig_CMCC99103_4871, whole genome shotgun sequence	1730	0.4352601156069364	5b1dbb3265636dc23fb4aa0a608250ff	00643	NC_003131	ISEca11	IS3	1904	260	1904	86	1730	1645	minus	86.0	100.0	0.0	3038

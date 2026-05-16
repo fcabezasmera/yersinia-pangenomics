@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001217805.1.fna	chromosome			NZ_CTKE01000004.1 Yersinia rohdei strain 68/02, whole genome shotgun sequence	298499	0.4744335788969403	b361c95f77ea20564eb6260fc96f454f	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	499	2028						
-GCF_001217805.1.fna	chromosome			NZ_CTKE01000032.1 Yersinia rohdei strain 68/02, whole genome shotgun sequence	26681	0.4953712379595967	ac2b11777a31e8790423e61ead55772d	01400	CP016586.1	23s-rRNA	23S	3027	661	3027	1019	3388						

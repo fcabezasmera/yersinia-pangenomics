@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_902168485.1.fna	chromosome			NZ_CABHPW010000024.1 Yersinia bercovieri isolate IP26086, whole genome shotgun sequence	83666	0.49090430999450196	f9b2494647a1ecad4749eb0c4f273aff	00336	NC_003134	ISEc39	IS256	1316	2	1313	1129	2440						
-GCF_902168485.1.fna	chromosome			NZ_CABHPW010000082.1 Yersinia bercovieri isolate IP26086, whole genome shotgun sequence	82674	0.4988388126859714	dfcfc8cb81eef980016c262d04e68b88	00646	MF344564	ISKpn37	IS3	1253	1	1253	35283	36538						
-GCF_902168485.1.fna	chromosome			NZ_CABHPW010000092.1 Yersinia bercovieri isolate IP26086, whole genome shotgun sequence	1783	0.5266404935501963	434647e79df16cc93ff46d717c960ec5	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	194	1741						

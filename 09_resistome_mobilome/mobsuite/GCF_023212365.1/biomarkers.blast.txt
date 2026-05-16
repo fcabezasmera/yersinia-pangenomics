@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-FJ696405|Col(Ye4449)	NZ_JAJIBM010000030.1 Yersinia ruckeri strain NVI-10974 NODE_30_length_5318_cov_426.452129, whole genome shotgun sequence	194	5318	1	194	2282	2475	194	21	89.175	100.0	100.0	plus	4.66e-65	243	replicon
-CP032236_00057|MOBP	NZ_JAJIBM010000013.1 Yersinia ruckeri strain NVI-10974 NODE_13_length_103743_cov_20.242067, whole genome shotgun sequence	641	103743	1	641	85176	87098	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase
-NC_019223_00002|MOBP	NZ_JAJIBM010000030.1 Yersinia ruckeri strain NVI-10974 NODE_30_length_5318_cov_426.452129, whole genome shotgun sequence	511	5318	1	511	760	2292	511	21	95.89	100.0	100.0	minus	0.0	930	relaxase

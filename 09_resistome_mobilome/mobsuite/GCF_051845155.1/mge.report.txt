@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_051845155.1.fna	chromosome			NZ_JBPXYY010000001.1 Yersinia enterocolitica strain DSY16-5 contig00001, whole genome shotgun sequence	704888	0.4770431614667862	35758920c2597aaf3f6d96fc975986ab	00543	JX424614	ISKpn34	IS3	1221	1	1221	260777	261989						
-GCF_051845155.1.fna	chromosome			NZ_JBPXYY010000021.1 Yersinia enterocolitica strain DSY16-5 contig00021, whole genome shotgun sequence	3094	0.5145442792501616	ed200e985d5029c2a906546078d8f73b	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	20	2392						
-GCF_051845155.1.fna	chromosome			NZ_JBPXYY010000023.1 Yersinia enterocolitica strain DSY16-5 contig00023, whole genome shotgun sequence	1761	0.521862578080636	d299015d7700dad0d088d4e248b1b0aa	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	17	1564						

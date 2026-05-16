@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_902173145.1.fna	chromosome			NZ_CABIHR010000025.1 Yersinia ruckeri isolate IP27752, whole genome shotgun sequence	225186	0.46988267476663736	90ce26337212e7a899a106921ce1f87f	00634	CP024842	IS1400	IS3	1207	1	1207	123001	124207						
-GCF_902173145.1.fna	chromosome			NZ_CABIHR010000041.1 Yersinia ruckeri isolate IP27752, whole genome shotgun sequence	3431	0.5202564849897989	0eac54af3aba68a6dc90cbadba4be82b	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	840	3212						
-GCF_902173145.1.fna	chromosome			NZ_CABIHR010000023.1 Yersinia ruckeri isolate IP27752, whole genome shotgun sequence	1783	0.5232753785754347	9bca02a31d91307b8a6cfb2ae802b856	01399	CP016586.1	16s-rRNA	16S	1554	1	1553	195	1747						

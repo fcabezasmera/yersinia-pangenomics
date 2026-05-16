@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	NZ_CP107099.1 Yersinia enterocolitica strain NW67 chromosome	918	4821345	490	918	4147200	4147628	429	3	99.301	47.0	99.0	plus	0.0	776	replicon
-000621__CP009126_00005|rep_cluster_1304	NZ_CP107099.1 Yersinia enterocolitica strain NW67 chromosome	918	4821345	6	918	4175863	4176775	914	14	98.249	99.0	99.0	plus	0.0	1598	replicon
-CP009126_00025|MOBC	NZ_CP107099.1 Yersinia enterocolitica strain NW67 chromosome	248	4821345	1	248	4156261	4157004	248	5	97.984	100.0	100.0	minus	5.26e-165	503	relaxase

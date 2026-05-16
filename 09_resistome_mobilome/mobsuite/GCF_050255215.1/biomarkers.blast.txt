@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	NZ_JBGEEB010000032.1 Yersinia enterocolitica strain GF49 contig00032, whole genome shotgun sequence	918	36014	6	918	33729	34641	914	62	92.998	99.0	99.0	plus	0.0	1332	replicon
-CP008826_00025|MOBC	NZ_JBGEEB010000029.1 Yersinia enterocolitica strain GF49 contig00029, whole genome shotgun sequence	237	44601	1	237	508	1218	237	42	82.278	100.0	100.0	plus	6.82e-140	430	relaxase
-CP009126_00025|MOBC	NZ_JBGEEB010000032.1 Yersinia enterocolitica strain GF49 contig00032, whole genome shotgun sequence	248	36014	1	248	14916	15659	248	5	97.984	100.0	100.0	minus	7.369999999999999e-165	502	relaxase

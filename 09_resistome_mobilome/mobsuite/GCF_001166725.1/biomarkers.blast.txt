@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032236_00057|MOBP	NZ_CQBN01000019.1 Yersinia ruckeri strain RS41, whole genome shotgun sequence	641	61001	1	641	4358	6280	641	0	100.0	100.0	100.0	plus	0.0	1295	relaxase

@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP001049|IncFII	NZ_AAYV01000017.1 Yersinia pestis biovar Antiqua str. E1979001 gcontig_1104434179458, whole genome shotgun sequence	227	70227	1	227	1944	2170	227	0	100.0	100.0	100.0	plus	2.9700000000000002e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_AAYV01000017.1 Yersinia pestis biovar Antiqua str. E1979001 gcontig_1104434179458, whole genome shotgun sequence	1167	70227	1	1167	52314	53480	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-000104__CP010386_00052|IncFIB	NZ_AAYV01000025.1 Yersinia pestis biovar Antiqua str. E1979001 gcontig_1104434184520, whole genome shotgun sequence	1065	28734	1	1065	1480	2544	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	NZ_AAYV01000031.1 Yersinia pestis biovar Antiqua str. E1979001 gcontig_1104434179446, whole genome shotgun sequence	552	9299	53	552	8802	9299	503	17	95.03	91.0	91.0	minus	0.0	784	replicon
-NC_010157_00072|MOBF	NZ_AAYV01000017.1 Yersinia pestis biovar Antiqua str. E1979001 gcontig_1104434179458, whole genome shotgun sequence	152	70227	7	152	69101	69538	146	5	96.575	96.0	96.0	plus	3.85e-93	292	relaxase

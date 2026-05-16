@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_000284955.1.fna	plasmid	AA996	AJ511	NZ_CACV01000013.1 Yersinia enterocolitica subsp. palearctica 647/5307, whole genome shotgun sequence	76851	0.4428639589670185	17a644f37992f348038ea29cfa92bfc2	00646	MF344564	ISKpn37	IS3	1253	1	1243	36730	37970	1243	minus	99.0	87.369	0.0	1424

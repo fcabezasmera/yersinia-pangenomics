@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021819_00066|MOBP	NZ_CP017236.1 Yersinia ruckeri strain QMA0440 isolate 14/0165-5k chromosome, complete genome	295	3856634	83	181	849976	850272	99	8	91.919	34.0	98.0	plus	1.6099999999999998e-54	187	relaxase

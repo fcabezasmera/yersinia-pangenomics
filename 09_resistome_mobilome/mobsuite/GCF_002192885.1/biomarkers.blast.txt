@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021819_00066|MOBP	NZ_MWTO01000029.1 Yersinia intermedia strain SCPM-O-B-7605 NODE_29_length_56122_cov_2.37551, whole genome shotgun sequence	295	56087	1	295	22656	23537	295	34	88.136	100.0	100.0	minus	2.9100000000000003e-173	529	relaxase
-NC_021819_00066|MOBP	NZ_MWTO01000066.1 Yersinia intermedia strain SCPM-O-B-7605 NODE_66_length_17146_cov_1.81594, whole genome shotgun sequence	295	17146	100	248	8903	9349	149	16	89.262	51.0	100.0	plus	1.31e-127	275	relaxase

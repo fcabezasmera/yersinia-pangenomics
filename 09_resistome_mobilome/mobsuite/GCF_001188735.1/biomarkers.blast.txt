@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP006797.1 Yersinia pestis 1045 plasmid pPCP, complete sequence	89	9610	1	89	1248	1336	89	0	100.0	100.0	100.0	minus	4.98e-42	165	oriT
-002101__NC_004564_00056|rep_cluster_645	NZ_CP006795.1 Yersinia pestis 1045 plasmid pCD, complete sequence	1167	70507	1	1167	22923	24089	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP001049|IncFII	NZ_CP006795.1 Yersinia pestis 1045 plasmid pCD, complete sequence	227	70507	1	227	42219	42445	227	0	100.0	100.0	100.0	plus	2.87e-118	420	replicon
-000104__CP010386_00052|IncFIB	NZ_CP006796.1 Yersinia pestis 1045 plasmid pMT, complete sequence	1065	101706	1	1065	99201	100265	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	NZ_CP006797.1 Yersinia pestis 1045 plasmid pPCP, complete sequence	552	9610	4	552	1358	1905	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
-NC_010157_00072|MOBF	NZ_CP006795.1 Yersinia pestis 1045 plasmid pCD, complete sequence	152	70507	1	152	39693	40148	152	0	100.0	100.0	100.0	plus	1.66e-101	316	relaxase

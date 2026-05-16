@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_965139405.1.fna	chromosome			NZ_CBCSII010000050.1 Yersinia intermedia strain CIP80.28T isolate CIP80.28T NODE_0054, whole genome shotgun sequence	3357	0.5156441717791411	34a9f96c422fab717dbc2f4d518912aa	01400	CP016586.1	23s-rRNA	23S	3027	1618	3027	38	1448						
-GCF_965139405.1.fna	chromosome			NZ_CBCSII010000054.1 Yersinia intermedia strain CIP80.28T isolate CIP80.28T NODE_0061, whole genome shotgun sequence	1637	0.5334150827713059	d718c621c5da018e6afff6aa86e4434b	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	73	1620						

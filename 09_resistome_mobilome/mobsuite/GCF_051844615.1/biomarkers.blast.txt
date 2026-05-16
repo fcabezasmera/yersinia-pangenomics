@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	NZ_JBPXZZ010000019.1 Yersinia enterocolitica strain DSY77-1 contig00019, whole genome shotgun sequence	918	43483	6	918	31105	32017	914	53	93.982	99.0	99.0	plus	0.0	1382	replicon
-CP009126_00025|MOBC	NZ_JBPXZZ010000019.1 Yersinia enterocolitica strain DSY77-1 contig00019, whole genome shotgun sequence	248	43483	1	248	12363	13106	248	5	97.984	100.0	100.0	minus	7.300000000000001e-165	502	relaxase

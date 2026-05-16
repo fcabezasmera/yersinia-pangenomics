@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	CABICE010000105.1 Yersinia pseudotuberculosis isolate IP33099 genome assembly, contig: contig_129, whole genome shotgun sequence	1167	12790	1	1167	7559	8725	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-CP001049|IncFII	CABICE010000129.1 Yersinia pseudotuberculosis isolate IP33099 genome assembly, contig: contig_69, whole genome shotgun sequence	227	7931	1	227	1878	2104	227	0	100.0	100.0	100.0	plus	2.91e-118	420	replicon
-NC_010157_00072|MOBF	CABICE010000134.1 Yersinia pseudotuberculosis isolate IP33099 genome assembly, contig: contig_145, whole genome shotgun sequence	152	734	1	152	63	518	152	0	100.0	100.0	100.0	plus	1.39e-112	316	relaxase

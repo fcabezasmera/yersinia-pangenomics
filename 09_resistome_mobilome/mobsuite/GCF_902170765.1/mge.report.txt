@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_902170765.1.fna	chromosome			NZ_CABHYH010000024.1 Yersinia massiliensis isolate CIP109351, whole genome shotgun sequence	3094	0.5180995475113123	0870116277a59af538671b743cac0236	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	12	2384						
-GCF_902170765.1.fna	chromosome			NZ_CABHYH010000169.1 Yersinia massiliensis isolate CIP109351, whole genome shotgun sequence	1758	0.5261660978384528	5fad07246f86acf6a8bc065894125383	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	18	1565						

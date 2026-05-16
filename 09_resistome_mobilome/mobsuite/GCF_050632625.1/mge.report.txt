@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_050632625.1.fna	chromosome			NZ_JBOEIG010000001.1 Yersinia proxima strain 2019004 Scaffold1, whole genome shotgun sequence	1767231	0.469760019918177	7111316527a171132f728a14bfdb38b5	00676	MF072964	ISCfr4	IS30	1253	1	1239	1694685	1695922						
-GCF_050632625.1.fna	chromosome			NZ_JBOEIG010000009.1 Yersinia proxima strain 2019004 Scaffold9, whole genome shotgun sequence	2766	0.5284644194756555	9306007f6c62c2abc71298a17475c9a7	01400	CP016586.1	23s-rRNA	23S	3027	658	2240	307	1892						

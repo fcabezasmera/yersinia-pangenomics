@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP045161.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pPCP, complete sequence	89	9611	1	89	2825	2913	89	0	100.0	100.0	100.0	plus	5.09e-42	165	oriT
-000104__CP010386_00052|IncFIB	NZ_CP045159.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pMT, complete sequence	1065	101698	1	1065	1	1065	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP045160.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pCD, complete sequence	1167	70503	1	1167	51002	52168	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP001049|IncFII	NZ_CP045160.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pCD, complete sequence	227	70503	1	206	70298	70503	206	0	100.0	91.0	91.0	plus	1.39e-106	381	replicon
-CP041342_00001|rep_cluster_2350	NZ_CP045161.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pPCP, complete sequence	552	9611	4	552	2256	2803	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-001223__KM112087_00001|rep_cluster_1800	NZ_CP045162.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pCKF, complete sequence	693	5400	1	693	200	892	693	0	100.0	100.0	100.0	minus	0.0	1280	replicon
-NC_010157_00072|MOBF	NZ_CP045160.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pCD, complete sequence	152	70503	1	152	67772	68227	152	0	100.0	100.0	100.0	plus	1.69e-101	316	relaxase
-CP045162_00003|MOBC	NZ_CP045162.1 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pCKF, complete sequence	241	5400	1	241	2389	3111	241	0	100.0	100.0	100.0	minus	7.05e-166	498	relaxase

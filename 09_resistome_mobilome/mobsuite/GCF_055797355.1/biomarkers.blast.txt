@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP025802_00058|rep_cluster_2307	NZ_CP118726.1 Yersinia ruckeri strain S16-27 plasmid p1_S1627, complete sequence	714	60985	1	714	55568	56281	714	0	100.0	100.0	100.0	minus	0.0	1319	replicon
-NC_021819_00066|MOBP	NZ_CP118725.1 Yersinia ruckeri strain S16-27 chromosome, complete genome	295	3791577	83	181	1628792	1629088	99	9	90.909	34.0	97.0	minus	4.9999999999999996e-54	186	relaxase
-CP025802_00051|MOBF	NZ_CP118726.1 Yersinia ruckeri strain S16-27 plasmid p1_S1627, complete sequence	1729	60985	1	1729	44118	49304	1729	3	99.826	100.0	100.0	plus	0.0	3445	relaxase
-NC_009350_00038|MPF_F	NZ_CP118726.1 Yersinia ruckeri strain S16-27 plasmid p1_S1627, complete sequence	329	60985	20	329	32140	33069	310	53	82.903	94.0	94.0	plus	3.48e-176	538	mate-pair-formation

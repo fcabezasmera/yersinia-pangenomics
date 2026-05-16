@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_028845325.1.fna	chromosome			DANNAR010000187.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000025 SAMN11581129-rid13277393.denovo.190, whole genome shotgun sequence	4738	0.4022794428028704	3e119c42d8ac0c60dcda2cf0afd78bbf	00676	MF072964	ISCfr4	IS30	1253	15	1239	1432	2658						

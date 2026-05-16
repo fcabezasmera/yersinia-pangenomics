@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-FJ696405|Col(Ye4449)	NZ_CABIHT010000065.1 Yersinia ruckeri isolate IP27754, whole genome shotgun sequence	194	5435	1	194	4859	5052	194	14	92.784	100.0	100.0	plus	9.83e-77	281	replicon
-NC_019223_00002|MOBP	NZ_CABIHT010000065.1 Yersinia ruckeri isolate IP27754, whole genome shotgun sequence	511	5435	1	511	3337	4869	511	18	96.477	100.0	100.0	minus	0.0	939	relaxase

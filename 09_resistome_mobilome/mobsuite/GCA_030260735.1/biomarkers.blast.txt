@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	JAQRRR010000142.1 Yersinia pestis strain YN2441 YN2441contig00142, whole genome shotgun sequence	89	7865	1	89	6432	6520	89	0	100.0	100.0	100.0	plus	4.91e-42	165	oriT
-CP001049|IncFII	JAQRRR010000029.1 Yersinia pestis strain YN2441 YN2441contig00029, whole genome shotgun sequence	227	48477	1	227	46980	47206	227	0	100.0	100.0	100.0	minus	2.84e-118	420	replicon
-000104__CP010386_00052|IncFIB	JAQRRR010000094.1 Yersinia pestis strain YN2441 YN2441contig00094, whole genome shotgun sequence	1065	18792	1	1065	7904	8968	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	JAQRRR010000142.1 Yersinia pestis strain YN2441 YN2441contig00142, whole genome shotgun sequence	552	7865	4	552	5863	6410	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-002101__NC_004564_00056|rep_cluster_645	JAQRRR010000148.1 Yersinia pestis strain YN2441 YN2441contig00148, whole genome shotgun sequence	1167	7060	1	1167	1021	2187	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-000016__NC_002144|Col3M	JAQRRR010000157.1 Yersinia pestis strain YN2441 YN2441contig00157, whole genome shotgun sequence	153	6030	1	153	5180	5332	153	0	100.0	100.0	100.0	plus	2.51e-77	283	replicon
-NC_010157_00072|MOBF	JAQRRR010000194.1 Yersinia pestis strain YN2441 YN2441contig00194, whole genome shotgun sequence	152	847	1	152	154	609	152	0	100.0	100.0	100.0	plus	8.59e-112	316	relaxase
-NC_002144_00007|MPF_T	JAQRRR010000157.1 Yersinia pestis strain YN2441 YN2441contig00157, whole genome shotgun sequence	294	6030	1	268	3433	4236	268	11	95.896	91.0	91.0	minus	2.09e-170	516	mate-pair-formation

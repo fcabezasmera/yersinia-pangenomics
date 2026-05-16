@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	JBSEGQ010000004.1 Yersinia pestis strain 16_YP27_VU plasmid pPCP, whole genome shotgun sequence	89	9610	1	89	2824	2912	89	0	100.0	100.0	100.0	plus	5.14e-42	165	oriT
-002101__NC_004564_00056|rep_cluster_645	JBSEGQ010000002.1 Yersinia pestis strain 16_YP27_VU plasmid pCD, whole genome shotgun sequence	1167	72463	1	1167	52963	54129	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP001049|IncFII	JBSEGQ010000002.1 Yersinia pestis strain 16_YP27_VU plasmid pCD, whole genome shotgun sequence	227	72463	1	206	72258	72463	206	0	100.0	91.0	91.0	plus	1.4e-106	381	replicon
-000104__CP010386_00052|IncFIB	JBSEGQ010000003.1 Yersinia pestis strain 16_YP27_VU plasmid pMT1, whole genome shotgun sequence	1065	101699	1	1065	1	1065	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	JBSEGQ010000004.1 Yersinia pestis strain 16_YP27_VU plasmid pPCP, whole genome shotgun sequence	552	9610	4	552	2255	2802	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-NC_010157_00072|MOBF	JBSEGQ010000002.1 Yersinia pestis strain 16_YP27_VU plasmid pCD, whole genome shotgun sequence	152	72463	1	152	69732	70187	152	0	100.0	100.0	100.0	plus	1.71e-101	316	relaxase

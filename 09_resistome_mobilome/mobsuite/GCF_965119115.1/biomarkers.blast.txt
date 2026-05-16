@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000228__CP002179_00041|IncX7	NZ_CBCPKE010000033.1 Yersinia intermedia strain MIP2564 isolate MIP2564 19.26, whole genome shotgun sequence	861	5012	1	849	3250	4098	849	89	89.517	99.0	99.0	minus	0.0	1075	replicon
-CP009126_00025|MOBC	NZ_CBCPKE010000028.1 Yersinia intermedia strain MIP2564 isolate MIP2564 19.1, whole genome shotgun sequence	248	36624	1	248	11325	12068	248	5	97.984	100.0	100.0	minus	1.49e-164	501	relaxase
-CP009870_00005|MOBQ	NZ_CBCPKE010000040.1 Yersinia intermedia strain MIP2564 isolate MIP2564 25, whole genome shotgun sequence	365	6170	1	365	2841	3953	371	45	86.253	100.0	100.0	plus	0.0	611	relaxase

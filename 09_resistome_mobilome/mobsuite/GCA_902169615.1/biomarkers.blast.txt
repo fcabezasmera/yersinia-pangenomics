@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP025802_00051|MOBF	CABHUD010000025.1 Yersinia enterocolitica isolate IP38164 genome assembly, contig: contig_0035, whole genome shotgun sequence	1729	54070	1	1729	6223	11409	1729	124	92.828	100.0	100.0	minus	0.0	3225	relaxase
-NC_009350_00044|MPF_F	CABHUD010000025.1 Yersinia enterocolitica isolate IP38164 genome assembly, contig: contig_0035, whole genome shotgun sequence	454	54070	13	451	17196	18512	439	86	80.41	97.0	97.0	minus	0.0	696	mate-pair-formation
-NC_009350_00038|MPF_F	CABHUD010000025.1 Yersinia enterocolitica isolate IP38164 genome assembly, contig: contig_0035, whole genome shotgun sequence	329	54070	20	329	22414	23343	310	51	83.548	94.0	94.0	minus	5.350000000000001e-179	547	mate-pair-formation

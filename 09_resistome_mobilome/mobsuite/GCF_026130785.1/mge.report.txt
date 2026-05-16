@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_026130785.1.fna	chromosome			NZ_JANATT010000045.1 Yersinia ruckeri strain NVI-3736 45, whole genome shotgun sequence	1781	0.523862998315553	52fde2323c6c85543118e412b4e4bc29	01399	CP016586.1	16s-rRNA	16S	1554	1	1553	193	1745						

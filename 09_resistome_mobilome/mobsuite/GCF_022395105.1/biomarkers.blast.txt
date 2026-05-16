@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_008757_00079|MPF_T	NZ_JAHSRA010000025.1 Yersinia enterocolitica strain R31 DEHKCJJJ_25, whole genome shotgun sequence	337	36817	1	329	11122	12108	329	55	83.283	98.0	98.0	minus	1.35e-153	474	mate-pair-formation
-NC_022344_00330|MPF_T	NZ_JAHSRA010000025.1 Yersinia enterocolitica strain R31 DEHKCJJJ_25, whole genome shotgun sequence	234	36817	1	234	12108	12809	234	23	90.171	100.0	100.0	minus	4.34e-143	439	mate-pair-formation
-NC_008757_00075|MPF_T	NZ_JAHSRA010000025.1 Yersinia enterocolitica strain R31 DEHKCJJJ_25, whole genome shotgun sequence	813	36817	1	806	15330	17735	806	96	87.593	99.0	99.0	minus	0.0	1397	mate-pair-formation
-NC_022344_00321|MPF_T	NZ_JAHSRA010000025.1 Yersinia enterocolitica strain R31 DEHKCJJJ_25, whole genome shotgun sequence	667	36817	1	667	19943	21946	670	61	90.149	100.0	100.0	minus	0.0	1158	mate-pair-formation

@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001883325.1.fna	chromosome			NZ_MEAC01000049.1 Yersinia ruckeri strain 00/1445 QMA0416_NODE_54_length_1233_cov_252.299_ID_109, whole genome shotgun sequence	1233	0.46715328467153283	3caafd1de8e4b1b275a909b4b8e97768	00646	MF344564	ISKpn37	IS3	1253	1	1213	1	1233						
-GCF_001883325.1.fna	chromosome			NZ_MEAC01000051.1 Yersinia ruckeri strain 00/1445 QMA0416_NODE_56_length_1221_cov_156.948_ID_113, whole genome shotgun sequence	1221	0.5323505323505323	4b94384380605884335a7b5ad2a93666	00546	KX858825	ISSpr2	IS3	1221	1	1221	1	1221						

@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_963900475.1.fna	chromosome			NZ_CAWRDP010000020.1 Yersinia vastinensis isolate ena-yuan-GCF_902170255.1 NZ_CABHWT010000020.1, whole genome shotgun sequence	3280	0.5170731707317073	02c2d404952dd935c05c9452c0119f89	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	206	2578						
-GCF_963900475.1.fna	chromosome			NZ_CAWRDP010000021.1 Yersinia vastinensis isolate ena-yuan-GCF_902170255.1 NZ_CABHWT010000021.1, whole genome shotgun sequence	1758	0.5227531285551763	dd7a0f12c5f4561c79b9385bfc07f6f1	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	18	1565						

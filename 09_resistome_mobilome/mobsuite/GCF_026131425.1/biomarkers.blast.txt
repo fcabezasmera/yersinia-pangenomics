@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_002523_00134|MPF_I	NZ_JANAUV010000015.1 Yersinia ruckeri strain 11-31 NODE_15_length_92264_cov_50.732, whole genome shotgun sequence	725	92264	16	717	45676	47781	702	89	87.322	97.0	97.0	minus	0.0	1258	mate-pair-formation
-NC_002523_00141|MPF_I	NZ_JANAUV010000015.1 Yersinia ruckeri strain 11-31 NODE_15_length_92264_cov_50.732, whole genome shotgun sequence	408	92264	1	408	53778	55004	409	79	80.44	100.0	100.0	minus	0.0	636	mate-pair-formation
-NC_002523_00145|MPF_I	NZ_JANAUV010000015.1 Yersinia ruckeri strain 11-31 NODE_15_length_92264_cov_50.732, whole genome shotgun sequence	176	92264	1	176	59390	59917	176	27	84.659	100.0	100.0	minus	2.77e-86	273	mate-pair-formation
-NC_002523_00001|MPF_I	NZ_JANAUV010000015.1 Yersinia ruckeri strain 11-31 NODE_15_length_92264_cov_50.732, whole genome shotgun sequence	224	92264	1	224	62895	63566	224	38	83.036	100.0	100.0	minus	7.549999999999999e-126	389	mate-pair-formation
-NC_002523_00008|MPF_I	NZ_JANAUV010000015.1 Yersinia ruckeri strain 11-31 NODE_15_length_92264_cov_50.732, whole genome shotgun sequence	262	92264	1	262	69133	69918	262	29	88.931	100.0	100.0	minus	3.9600000000000005e-157	480	mate-pair-formation

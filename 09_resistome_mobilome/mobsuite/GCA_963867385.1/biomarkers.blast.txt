@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP001049|IncFII	CAWMIV010000119.1 Yersinia enterocolitica isolate ena-yuan-GCF_001219325.1 genome assembly, contig: NZ_CTJL01000119.1, whole genome shotgun sequence	227	6574	1	224	2588	2811	224	1	99.554	99.0	99.0	plus	5.97e-115	409	replicon

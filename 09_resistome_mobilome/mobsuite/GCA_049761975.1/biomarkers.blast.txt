@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021817|MOB_unknown	DBHYZZ010000004.1 TPA_asm: Yersinia enterocolitica isolate 21PH0495-010N2 SAMN44049397-rid26068243.denovo.04, whole genome shotgun sequence	280	244012	1	280	24621	24900	280	6	97.857	100.0	100.0	plus	1.3e-137	484	oriT

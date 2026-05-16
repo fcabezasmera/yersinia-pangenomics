@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021819_00066|MOBP	NZ_CP011078.1 Yersinia ruckeri strain Big Creek 74 chromosome, complete genome	295	3699725	83	181	1370411	1370707	99	8	91.919	34.0	96.0	minus	1.5499999999999994e-54	187	relaxase

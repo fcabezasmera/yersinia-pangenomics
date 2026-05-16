@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_032144815.1.fna	chromosome			ABNAUQ010000092.1 Yersinia enterocolitica strain 01228793 SAMN37555722-rid19551323.denovo.094, whole genome shotgun sequence	12193	0.48134175346510294	f5ad31b104543ee41970e1dc94e8579e	00646	MF344564	ISKpn37	IS3	1253	1	1243	10096	11336						

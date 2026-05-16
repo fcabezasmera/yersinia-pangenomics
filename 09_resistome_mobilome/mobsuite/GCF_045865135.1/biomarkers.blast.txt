@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	NZ_AP031362.1 Yersinia pseudotuberculosis strain KD2 plasmid pKD2, complete sequence	1167	74956	1	1167	55364	56530	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP001049|IncFII	NZ_AP031362.1 Yersinia pseudotuberculosis strain KD2 plasmid pKD2, complete sequence	227	74956	1	206	74751	74956	206	0	100.0	91.0	91.0	plus	1.42e-106	381	replicon
-NC_010157_00072|MOBF	NZ_AP031362.1 Yersinia pseudotuberculosis strain KD2 plasmid pKD2, complete sequence	152	74956	1	152	72220	72675	152	0	100.0	100.0	100.0	plus	1.73e-101	316	relaxase

@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP016722|MOB_unknown	NZ_JBPYAW010000035.1 Yersinia enterocolitica strain DS10-10 contig00035, whole genome shotgun sequence	218	4458	1	182	862	1042	182	23	86.813	83.0	83.0	plus	1.1399999999999998e-52	202	oriT
-001482__CP016942_00095|rep_cluster_214	NZ_JBPYAW010000019.1 Yersinia enterocolitica strain DS10-10 contig00019, whole genome shotgun sequence	1434	43052	1	1430	33707	35136	1430	13	99.091	99.0	99.0	plus	0.0	2569	replicon
-CP041116_00002|ColRNAI_rep_cluster_1987	NZ_JBPYAW010000035.1 Yersinia enterocolitica strain DS10-10 contig00035, whole genome shotgun sequence	519	4458	2	516	399	916	524	40	89.504	99.0	99.0	minus	0.0	649	replicon
-CP000974_00005|rep_cluster_2358	NZ_JBPYAW010000039.1 Yersinia enterocolitica strain DS10-10 contig00039, whole genome shotgun sequence	528	3245	140	519	1	368	384	46	82.812	72.0	98.0	plus	1.66e-89	326	replicon
-EF088686_00008|rep_cluster_2335	NZ_JBPYAW010000039.1 Yersinia enterocolitica strain DS10-10 contig00039, whole genome shotgun sequence	528	3245	11	461	2793	3242	451	13	96.896	85.0	98.0	plus	0.0	754	replicon
-NC_010377_00020|MOBF	NZ_JBPYAW010000019.1 Yersinia enterocolitica strain DS10-10 contig00019, whole genome shotgun sequence	1656	43052	1	1656	4559	9526	1656	0	100.0	100.0	100.0	plus	0.0	3330	relaxase
-NC_013090_00004|MOBP	NZ_JBPYAW010000035.1 Yersinia enterocolitica strain DS10-10 contig00035, whole genome shotgun sequence	499	4458	1	495	1464	2948	495	39	92.121	99.0	99.0	plus	0.0	888	relaxase
-NC_010377_00019|MPF_T	NZ_JBPYAW010000019.1 Yersinia enterocolitica strain DS10-10 contig00019, whole genome shotgun sequence	690	43052	1	690	2486	4555	690	0	100.0	100.0	100.0	plus	0.0	1347	mate-pair-formation

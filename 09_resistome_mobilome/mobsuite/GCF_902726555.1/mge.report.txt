@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_902726555.1.fna	chromosome			NZ_CACVAB010000091.1 Yersinia thracica strain IP42199, whole genome shotgun sequence	3151	0.5188828943192637	c994e32d4a0f3d4b9e1d3fb7f4256328	01400	CP016586.1	23s-rRNA	23S	3027	1288	3027	127	1869						
-GCF_902726555.1.fna	chromosome			NZ_CACVAB010000092.1 Yersinia thracica strain IP42199, whole genome shotgun sequence	1606	0.5354919053549191	91e30fee04c641b744fef0531322f0a2	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	42	1589						

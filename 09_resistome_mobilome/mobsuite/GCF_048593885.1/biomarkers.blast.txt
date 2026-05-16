@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP008826_00025|MOBC	NZ_JAZGQE010000063.1 Yersinia sp. 1252 StPb PI NODE_63_length_23692_cov_9.156130, whole genome shotgun sequence	237	23692	1	237	1008	1718	237	41	82.7	100.0	100.0	plus	1.77e-139	429	relaxase
-NC_019269_00003|MOBP	NZ_JAZGQE010000249.1 Yersinia sp. 1252 StPb PI NODE_249_length_5026_cov_37.723378, whole genome shotgun sequence	487	5026	1	487	1504	2964	487	57	88.296	100.0	100.0	plus	0.0	827	relaxase

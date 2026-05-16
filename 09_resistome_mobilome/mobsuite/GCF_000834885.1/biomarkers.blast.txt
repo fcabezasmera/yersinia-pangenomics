@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP009988.1 Yersinia pestis strain Nicholisk 41 plasmid 3, complete sequence	89	9610	1	89	3639	3727	89	0	100.0	100.0	100.0	plus	5e-42	165	oriT
-CP041342_00001|rep_cluster_2350	NZ_CP009988.1 Yersinia pestis strain Nicholisk 41 plasmid 3, complete sequence	552	9610	4	552	3070	3617	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-000104__CP010386_00052|IncFIB	NZ_CP009989.1 Yersinia pestis strain Nicholisk 41 plasmid 1, complete sequence	1065	99286	1	1065	60229	61293	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP009990.1 Yersinia pestis strain Nicholisk 41 plasmid 2, complete sequence	1167	68552	1	1167	2921	4087	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-CP001049|IncFII	NZ_CP009990.1 Yersinia pestis strain Nicholisk 41 plasmid 2, complete sequence	227	68552	1	227	53118	53344	227	0	100.0	100.0	100.0	minus	2.89e-118	420	replicon
-NC_010157_00072|MOBF	NZ_CP009990.1 Yersinia pestis strain Nicholisk 41 plasmid 2, complete sequence	152	68552	1	152	55415	55870	152	0	100.0	100.0	100.0	minus	1.66e-101	316	relaxase

@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	DARPEH010000020.1 TPA_asm: Yersinia enterocolitica strain Ye-2021-13182 isolate Ye-2021-13182 SAMEA14386477-rid20236353.denovo.20, whole genome shotgun sequence	918	26612	1	918	4772	5689	918	3	99.673	100.0	100.0	minus	0.0	1679	replicon
-CP009126_00025|MOBC	DARPEH010000020.1 TPA_asm: Yersinia enterocolitica strain Ye-2021-13182 isolate Ye-2021-13182 SAMEA14386477-rid20236353.denovo.20, whole genome shotgun sequence	248	26612	1	248	23796	24539	248	5	97.984	100.0	100.0	plus	1.36e-164	501	relaxase

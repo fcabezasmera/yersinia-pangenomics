@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-AJ851089|IncFII	NZ_CP084644.1 Yersinia ruckeri strain 17Y0159 plasmid p17Y0159.1, complete sequence	261	85059	1	243	62434	62672	248	29	82.661	93.0	93.0	plus	2.3799999999999997e-54	207	replicon
-000121__CP024805|IncFII	NZ_CP084645.1 Yersinia ruckeri strain 17Y0159 plasmid p17Y0159.2, complete sequence	261	23807	1	235	3281	3512	239	31	82.427	90.0	90.0	plus	1.43e-51	198	replicon
-000228__CP002179_00041|IncX7	NZ_CP084646.1 Yersinia ruckeri strain 17Y0159 plasmid p17Y0159.3, complete sequence	861	28708	1	849	26206	27054	849	89	89.517	99.0	99.0	minus	0.0	1075	replicon
-NC_015054_00008|MOBP	NZ_CP084646.1 Yersinia ruckeri strain 17Y0159 plasmid p17Y0159.3, complete sequence	407	28708	1	407	2527	3753	409	77	80.685	100.0	100.0	plus	0.0	691	relaxase
-NC_015054_00022|MPF_T	NZ_CP084646.1 Yersinia ruckeri strain 17Y0159 plasmid p17Y0159.3, complete sequence	620	28708	1	620	13085	14944	620	68	89.032	100.0	100.0	plus	0.0	1080	mate-pair-formation

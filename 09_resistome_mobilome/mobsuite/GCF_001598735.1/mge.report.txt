@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001598735.1.fna	chromosome			NZ_BCZM01000002.1 Yersinia enterocolitica subsp. enterocolitica NBRC 105693, whole genome shotgun sequence	350141	0.4740947218406299	4707d386504dd7f825502390d2f228e8	00634	CP024842	IS1400	IS3	1207	1	1207	140468	141674						
-GCF_001598735.1.fna	chromosome			NZ_BCZM01000022.1 Yersinia enterocolitica subsp. enterocolitica NBRC 105693, whole genome shotgun sequence	66284	0.45152676362319716	b19cb307283c84723f1fbf05061ada17	00634	CP024842	IS1400	IS3	1207	1	1207	1995	3201						
-GCF_001598735.1.fna	chromosome			NZ_BCZM01000049.1 Yersinia enterocolitica subsp. enterocolitica NBRC 105693, whole genome shotgun sequence	1399	0.5539671193709793	007587fb4578160ef37d29ef9e70635a	00814	NC_007606	IS4	IS4	1427	3	1367	1	1364						

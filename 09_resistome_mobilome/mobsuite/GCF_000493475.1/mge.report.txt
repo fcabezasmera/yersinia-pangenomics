@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_000493475.1.fna	chromosome			NZ_CBLG010000183.1 Yersinia wautersii strain WP-930601, whole genome shotgun sequence	9406	0.47288964490750585	8bd2ab224d6dca8773917475e0b0e6cc	00288	CP011136	IS640	IS21	2131	1	1956	1	1956						
-GCF_000493475.1.fna	chromosome			NZ_CBLG010000043.1 Yersinia wautersii strain WP-930601, whole genome shotgun sequence	1228	0.5309446254071661	f769ae9465aaaff8fbeef925d384e38e	00543	JX424614	ISKpn34	IS3	1221	1	1221	1	1228						

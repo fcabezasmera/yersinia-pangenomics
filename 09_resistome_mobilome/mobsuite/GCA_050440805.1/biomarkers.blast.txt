@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP043517_00004|MOBP	DBIRSK010000021.1 TPA_asm: Yersinia enterocolitica strain Toyama_YE12 SAMD00590504-rid26467953.denovo.24, whole genome shotgun sequence	279	5888	6	265	3135	3914	260	41	84.231	93.0	93.0	plus	1.05e-148	455	relaxase

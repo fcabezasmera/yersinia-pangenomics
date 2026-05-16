@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP001049|IncFII	NC_009595.1 Yersinia pestis CA88-4125 plasmid pCD1, complete sequence	227	70305	1	227	19579	19805	227	0	100.0	100.0	100.0	plus	2.96e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NC_009595.1 Yersinia pestis CA88-4125 plasmid pCD1, complete sequence	1167	70305	1	1167	68631	69797	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-000104__CP010386_00052|IncFIB	NC_009596.1 Yersinia pestis CA88-4125 plasmid pMT1, complete sequence	1065	96210	1	1065	21421	22485	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
-NC_010157_00072|MOBF	NC_009595.1 Yersinia pestis CA88-4125 plasmid pCD1, complete sequence	152	70305	1	152	17053	17508	152	0	100.0	100.0	100.0	plus	1.71e-101	316	relaxase

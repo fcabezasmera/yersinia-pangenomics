@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	NZ_MECC01000017.1 Yersinia ruckeri strain 11/4175-3k QMA0436_NODE_25_length_26707_cov_118.001_ID_49, whole genome shotgun sequence	918	26707	1	918	4809	5726	918	3	99.673	100.0	100.0	minus	0.0	1679	replicon
-CP009126_00025|MOBC	NZ_MECC01000017.1 Yersinia ruckeri strain 11/4175-3k QMA0436_NODE_25_length_26707_cov_118.001_ID_49, whole genome shotgun sequence	248	26707	1	248	23833	24576	248	5	97.984	100.0	100.0	plus	1.1e-164	501	relaxase

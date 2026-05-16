@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	JAQRPB010000131.1 Yersinia pestis strain E6-80064_DMS23202-V E6-80064_DMS23202-Vcontig00131, whole genome shotgun sequence	89	7865	1	89	6432	6520	89	0	100.0	100.0	100.0	plus	4.85e-42	165	oriT
-CP001049|IncFII	JAQRPB010000030.1 Yersinia pestis strain E6-80064_DMS23202-V E6-80064_DMS23202-Vcontig00030, whole genome shotgun sequence	227	48879	1	227	47049	47275	227	0	100.0	100.0	100.0	minus	2.8000000000000003e-118	420	replicon
-000104__CP010386_00052|IncFIB	JAQRPB010000091.1 Yersinia pestis strain E6-80064_DMS23202-V E6-80064_DMS23202-Vcontig00091, whole genome shotgun sequence	1065	18792	1	1065	7904	8968	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	JAQRPB010000131.1 Yersinia pestis strain E6-80064_DMS23202-V E6-80064_DMS23202-Vcontig00131, whole genome shotgun sequence	552	7865	4	552	5863	6410	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-002101__NC_004564_00056|rep_cluster_645	JAQRPB010000138.1 Yersinia pestis strain E6-80064_DMS23202-V E6-80064_DMS23202-Vcontig00138, whole genome shotgun sequence	1167	7149	1	1167	1021	2187	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-NC_010157_00072|MOBF	JAQRPB010000177.1 Yersinia pestis strain E6-80064_DMS23202-V E6-80064_DMS23202-Vcontig00177, whole genome shotgun sequence	152	847	1	152	239	694	152	0	100.0	100.0	100.0	minus	8.47e-112	316	relaxase

@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000202__NC_003124_00010|IncQ2	ACBFUR010000065.1 Yersinia enterocolitica strain PNUSAY001011 SAMN52957805-rid27983423.denovo.068, whole genome shotgun sequence	879	14459	1	879	10796	11674	879	0	100.0	100.0	100.0	plus	0.0	1624	replicon
-000202__NC_003124_00010|IncQ2	ACBFUR010000102.1 Yersinia enterocolitica strain PNUSAY001011 SAMN52957805-rid27983423.guided.076, whole genome shotgun sequence	879	9802	1	879	2312	3190	879	0	100.0	100.0	100.0	plus	0.0	1624	replicon
-NC_003124_00014|MOBP	ACBFUR010000065.1 Yersinia enterocolitica strain PNUSAY001011 SAMN52957805-rid27983423.denovo.068, whole genome shotgun sequence	890	14459	1	890	7158	9827	890	0	100.0	100.0	100.0	plus	0.0	1709	relaxase

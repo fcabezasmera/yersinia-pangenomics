@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP016722|MOB_unknown	NZ_JBGEEI010000026.1 Yersinia enterocolitica strain GF66 contig00026, whole genome shotgun sequence	218	4493	1	182	3651	3831	182	22	87.363	83.0	83.0	plus	2.3799999999999997e-54	207	oriT
-CP016722|MOB_unknown	NZ_JBGEEI010000031.1 Yersinia enterocolitica strain GF66 contig00031, whole genome shotgun sequence	218	2622	1	182	2354	2535	182	18	90.11	83.0	83.0	plus	3.04e-63	237	oriT
-CP041116_00002|ColRNAI_rep_cluster_1987	NZ_JBGEEI010000026.1 Yersinia enterocolitica strain GF66 contig00026, whole genome shotgun sequence	519	4493	38	518	3188	3669	486	36	90.741	93.0	93.0	minus	0.0	640	replicon
-CP000974_00005|rep_cluster_2358	NZ_JBGEEI010000031.1 Yersinia enterocolitica strain GF66 contig00031, whole genome shotgun sequence	528	2622	3	484	1675	2142	487	55	83.778	91.0	91.0	minus	5.55e-124	440	replicon
-NC_013090_00004|MOBP	NZ_JBGEEI010000026.1 Yersinia enterocolitica strain GF66 contig00026, whole genome shotgun sequence	499	4493	134	499	2	1099	366	27	92.623	73.0	89.0	plus	0.0	669	relaxase
-NC_001848_00006|MOBP	NZ_JBGEEI010000026.1 Yersinia enterocolitica strain GF66 contig00026, whole genome shotgun sequence	107	4493	1	107	3940	4260	107	1	99.065	100.0	100.0	plus	4.3799999999999996e-67	215	relaxase
-NC_021523_00003|MOBQ	NZ_JBGEEI010000029.1 Yersinia enterocolitica strain GF66 contig00029, whole genome shotgun sequence	311	3476	1	118	2	355	118	11	90.678	38.0	100.0	minus	1.03e-69	231	relaxase
-NC_021523_00003|MOBQ	NZ_JBGEEI010000029.1 Yersinia enterocolitica strain GF66 contig00029, whole genome shotgun sequence	311	3476	89	311	2808	3476	223	7	96.861	72.0	100.0	minus	1.7999999999999998e-150	449	relaxase

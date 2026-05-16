@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000104__CP010386_00052|IncFIB	NZ_ADPM01000897.1 Yersinia pestis 620024 Contig_620024_20438, whole genome shotgun sequence	1065	1993	1	1065	576	1640	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon

@@ -1,5 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001166725.1.fna	chromosome			NZ_CQBN01000002.1 Yersinia ruckeri strain RS41, whole genome shotgun sequence	357042	0.4700342681659106	346e3a08c28570af23c0b34e0d50f66d	00546	KX858825	ISSpr2	IS3	1221	1	1221	94710	95930						
-GCF_001166725.1.fna	chromosome			NZ_CQBN01000002.1 Yersinia ruckeri strain RS41, whole genome shotgun sequence	357042	0.4700342681659106	346e3a08c28570af23c0b34e0d50f66d	01399	CP016586.1	16s-rRNA	16S	1554	1	1553	355315	356867						
-GCF_001166725.1.fna	chromosome			NZ_CQBN01000011.1 Yersinia ruckeri strain RS41, whole genome shotgun sequence	120167	0.4535751157291771	ad1e5e96ed933b304e6c84d638c19eda	00634	CP024842	IS1400	IS3	1207	1	1207	19338	20533						
-GCF_001166725.1.fna	chromosome			NZ_CQBN01000025.1 Yersinia ruckeri strain RS41, whole genome shotgun sequence	37028	0.4924129723296638	4f3574db0b87fc0c83c0220418c9fea7	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	1290	3662						

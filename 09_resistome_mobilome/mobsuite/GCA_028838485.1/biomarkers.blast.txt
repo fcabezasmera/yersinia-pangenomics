@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_022344_00321|MPF_T	DANMPR010000008.1 TPA_asm: Yersinia enterocolitica strain Yersinia isolate NX12025 SAMN19699816-rid14945903.denovo.08, whole genome shotgun sequence	667	253604	1	667	86938	88923	667	108	83.058	100.0	100.0	plus	0.0	1050	mate-pair-formation
-NC_008757_00075|MPF_T	DANMPR010000008.1 TPA_asm: Yersinia enterocolitica strain Yersinia isolate NX12025 SAMN19699816-rid14945903.denovo.08, whole genome shotgun sequence	813	253604	1	807	91049	93454	807	109	85.874	99.0	99.0	plus	0.0	1382	mate-pair-formation
-NC_008757_00078|MPF_T	DANMPR010000008.1 TPA_asm: Yersinia enterocolitica strain Yersinia isolate NX12025 SAMN19699816-rid14945903.denovo.08, whole genome shotgun sequence	234	253604	1	234	95573	96274	234	33	85.897	100.0	100.0	plus	1.2799999999999999e-128	398	mate-pair-formation

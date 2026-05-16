@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_002523_00134|MPF_I	NZ_JBKOPC010000002.1 Yersinia enterocolitica strain LJYL201 tig00000001_pilon, whole genome shotgun sequence	725	152623	16	717	32509	34614	702	89	87.322	97.0	97.0	minus	0.0	1255	mate-pair-formation
-NC_002523_00141|MPF_I	NZ_JBKOPC010000002.1 Yersinia enterocolitica strain LJYL201 tig00000001_pilon, whole genome shotgun sequence	408	152623	1	408	40611	41837	409	77	80.929	100.0	100.0	minus	0.0	638	mate-pair-formation
-NC_002523_00145|MPF_I	NZ_JBKOPC010000002.1 Yersinia enterocolitica strain LJYL201 tig00000001_pilon, whole genome shotgun sequence	176	152623	1	176	46223	46750	176	28	84.091	100.0	100.0	minus	4.11e-86	273	mate-pair-formation
-NC_002523_00001|MPF_I	NZ_JBKOPC010000002.1 Yersinia enterocolitica strain LJYL201 tig00000001_pilon, whole genome shotgun sequence	224	152623	1	224	49728	50399	224	38	83.036	100.0	100.0	minus	9.96e-126	389	mate-pair-formation
-NC_002523_00008|MPF_I	NZ_JBKOPC010000002.1 Yersinia enterocolitica strain LJYL201 tig00000001_pilon, whole genome shotgun sequence	262	152623	1	262	55684	56469	262	33	87.405	100.0	100.0	minus	5.9099999999999985e-146	449	mate-pair-formation

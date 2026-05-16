@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_022344_00321|MPF_T	DBHYQR010000032.1 TPA_asm: Yersinia enterocolitica isolate 22PH0232-004-Q2 SAMN44049535-rid26068843.denovo.35, whole genome shotgun sequence	667	7003	1	567	3771	5471	567	30	94.709	85.0	85.0	minus	0.0	1082	mate-pair-formation

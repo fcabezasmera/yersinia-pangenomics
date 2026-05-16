@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032236_00057|MOBP	NZ_JBWJAJ010000038.1 Yersinia ruckeri strain Y258 isolate Day 28 Seq157, whole genome shotgun sequence	641	109444	1	641	71121	73043	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase

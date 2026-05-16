@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000126__FO834904|IncFII	NZ_CTKH01000033.1 Yersinia frederiksenii strain 112/02, whole genome shotgun sequence	228	21510	31	223	12332	12524	195	28	83.59	85.0	85.0	minus	5.6899999999999994e-46	180	replicon

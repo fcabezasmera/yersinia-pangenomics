@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_ADDC01000005.1 Yersinia pestis KIM D27 plasmid pPCP1 pseudo_9K_plasmid_contig_4, whole genome shotgun sequence	89	1802	1	88	953	1040	88	1	98.864	99.0	99.0	minus	8.329999999999999e-40	158	oriT
-000104__CP010386_00052|IncFIB	NZ_ADDC01000002.1 Yersinia pestis KIM D27 plasmid pMT1 100K_plasmid, whole genome shotgun sequence	1065	100923	1	1065	78381	79445	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP001049|IncFII	NZ_ADDC01000003.1 Yersinia pestis KIM D27 plasmid pCD1 70K_plasmid, whole genome shotgun sequence	227	70537	1	227	1519	1745	227	0	100.0	100.0	100.0	plus	2.87e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_ADDC01000003.1 Yersinia pestis KIM D27 plasmid pCD1 70K_plasmid, whole genome shotgun sequence	1167	70537	1	1167	52714	53880	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP041342_00001|rep_cluster_2350	NZ_ADDC01000005.1 Yersinia pestis KIM D27 plasmid pPCP1 pseudo_9K_plasmid_contig_4, whole genome shotgun sequence	552	1802	1	552	1059	1620	562	24	93.95	100.0	100.0	plus	0.0	841	replicon
-NC_010157_00072|MOBF	NZ_ADDC01000003.1 Yersinia pestis KIM D27 plasmid pCD1 70K_plasmid, whole genome shotgun sequence	152	70537	1	152	69476	69931	152	0	100.0	100.0	100.0	plus	1.66e-101	316	relaxase

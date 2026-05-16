@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	JBKNDN010000120.1 Yersinia pestis strain 140072 contig00120, whole genome shotgun sequence	89	7865	1	89	1346	1434	89	0	100.0	100.0	100.0	minus	4.95e-42	165	oriT
-000104__CP010386_00052|IncFIB	JBKNDN010000055.1 Yersinia pestis strain 140072 contig00055, whole genome shotgun sequence	1065	36050	1	1065	7904	8968	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-002101__NC_004564_00056|rep_cluster_645	JBKNDN010000110.1 Yersinia pestis strain 140072 contig00110, whole genome shotgun sequence	1167	10347	1	1167	7568	8734	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-CP041342_00001|rep_cluster_2350	JBKNDN010000120.1 Yersinia pestis strain 140072 contig00120, whole genome shotgun sequence	552	7865	4	552	1456	2003	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
-CP001049|IncFII	JBKNDN010000139.1 Yersinia pestis strain 140072 contig00139, whole genome shotgun sequence	227	4053	1	227	2556	2782	227	0	100.0	100.0	100.0	minus	2.85e-118	420	replicon
-NC_010157_00072|MOBF	JBKNDN010000166.1 Yersinia pestis strain 140072 contig00166, whole genome shotgun sequence	152	847	1	152	154	609	152	0	100.0	100.0	100.0	plus	8.65e-112	316	relaxase

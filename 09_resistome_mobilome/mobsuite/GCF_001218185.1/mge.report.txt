@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001218185.1.fna	chromosome			NZ_CTJA01000006.1 Yersinia frederiksenii strain 120/02, whole genome shotgun sequence	203192	0.4740132825923209	f98e7e1f32dc6afa87b5fc5cb26e0815	00646	MF344564	ISKpn37	IS3	1253	1	1253	79764	81016						
-GCF_001218185.1.fna	chromosome			NZ_CTJA01000014.1 Yersinia frederiksenii strain 120/02, whole genome shotgun sequence	86520	0.48154830054701686	ef86c5bf1c0ac346abf6c4113b09bd70	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	499	2046						
-GCF_001218185.1.fna	chromosome			NZ_CTJA01000019.1 Yersinia frederiksenii strain 120/02, whole genome shotgun sequence	70416	0.4823783537971805	aa71b522a3a4d4552699bdd1c3f63d00	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	67335	69707						

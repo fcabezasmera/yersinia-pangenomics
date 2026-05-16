@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-AY123047_00001|rep_cluster_2350	NZ_CPZI01000092.1 Yersinia similis strain R819, whole genome shotgun sequence	408	837	22	408	89	475	387	0	100.0	95.0	95.0	plus	0.0	715	replicon

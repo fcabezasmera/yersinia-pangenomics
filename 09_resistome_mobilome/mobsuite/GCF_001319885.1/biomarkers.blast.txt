@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	NZ_CGGM01000048.1 Yersinia pseudotuberculosis strain OK6088, whole genome shotgun sequence	1167	17182	1	1167	15109	16275	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-CP001049|IncFII	NZ_CGGM01000058.1 Yersinia pseudotuberculosis strain OK6088, whole genome shotgun sequence	227	8636	1	227	7566	7792	227	0	100.0	100.0	100.0	minus	2.98e-118	420	replicon
-NC_010157_00072|MOBF	NZ_CGGM01000107.1 Yersinia pseudotuberculosis strain OK6088, whole genome shotgun sequence	152	639	3	152	189	638	150	0	100.0	99.0	99.0	minus	3.32e-111	311	relaxase

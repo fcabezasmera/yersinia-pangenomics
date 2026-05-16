@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_VWSA01000152.1 Yersinia pestis strain C-742 contig00152, whole genome shotgun sequence	89	7650	1	89	6329	6417	89	0	100.0	100.0	100.0	plus	4.77e-42	165	oriT
-000104__CP010386_00052|IncFIB	NZ_VWSA01000043.1 Yersinia pestis strain C-742 contig00043, whole genome shotgun sequence	1065	35841	1	1065	7802	8866	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	NZ_VWSA01000152.1 Yersinia pestis strain C-742 contig00152, whole genome shotgun sequence	552	7650	4	552	5760	6307	552	27	93.841	99.0	99.0	minus	0.0	824	replicon

@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP017588_00047|rep_cluster_2203	NZ_JBEWFG010000002.1 Yersinia enterocolitica strain IP51152 cluster_002_consensus_polypolish, whole genome shotgun sequence	867	72488	33	856	33	856	828	157	80.072	95.0	95.0	plus	2.32e-174	608	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_JBEWFG010000002.1 Yersinia enterocolitica strain IP51152 cluster_002_consensus_polypolish, whole genome shotgun sequence	1167	72488	7	1167	52765	53925	1161	3	99.742	99.0	99.0	minus	0.0	2128	replicon
-CP001049|IncFII	NZ_JBEWFG010000002.1 Yersinia enterocolitica strain IP51152 cluster_002_consensus_polypolish, whole genome shotgun sequence	227	72488	1	218	72271	72488	218	1	99.541	96.0	96.0	plus	1.33e-111	398	replicon
-000435__NC_009344_00001|rep_cluster_1155	NZ_JBEWFG010000003.1 Yersinia enterocolitica strain IP51152 cluster_003_consensus_polypolish, whole genome shotgun sequence	957	13732	1	952	4356	5307	958	177	80.271	99.0	99.0	minus	0.0	712	replicon
-NC_015475_00074|MOBF	NZ_JBEWFG010000002.1 Yersinia enterocolitica strain IP51152 cluster_002_consensus_polypolish, whole genome shotgun sequence	149	72488	1	149	56722	57168	149	3	97.987	100.0	100.0	minus	1.27e-94	296	relaxase
-NC_002056_00006|MOBQ	NZ_JBEWFG010000003.1 Yersinia enterocolitica strain IP51152 cluster_003_consensus_polypolish, whole genome shotgun sequence	371	13732	1	371	6535	7647	371	22	94.07	100.0	100.0	plus	0.0	643	relaxase

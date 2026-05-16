@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000104__CP010386_00052|IncFIB	NC_017169.1 Yersinia pestis A1122 plasmid unnamed, complete sequence	1065	96210	1	1065	23264	24328	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon

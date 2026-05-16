@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP001049|IncFII	NC_006153.2 Yersinia pseudotuberculosis IP 32953 plasmid pYV, complete sequence	227	68525	1	227	5681	5907	227	0	100.0	100.0	100.0	minus	2.9700000000000002e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NC_006153.2 Yersinia pseudotuberculosis IP 32953 plasmid pYV, complete sequence	1167	68525	1	1167	24085	25251	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-000309__NZ_CP009710_00009|rep_cluster_1066	NC_006154.1 Yersinia pseudotuberculosis IP 32953 plasmid pYptb32953, complete sequence	987	27702	1	987	202	1188	987	0	100.0	100.0	100.0	plus	0.0	1823	replicon
-NC_010157_00072|MOBF	NC_006153.2 Yersinia pseudotuberculosis IP 32953 plasmid pYV, complete sequence	152	68525	1	152	7981	8436	152	0	100.0	100.0	100.0	minus	1.71e-101	316	relaxase
-NC_006154_00025|MOBC	NC_006154.1 Yersinia pseudotuberculosis IP 32953 plasmid pYptb32953, complete sequence	246	27702	1	246	20274	21011	246	1	99.593	100.0	100.0	plus	7.18e-164	499	relaxase
-NC_006154_00011|MPF_T	NC_006154.1 Yersinia pseudotuberculosis IP 32953 plasmid pYptb32953, complete sequence	346	27702	1	346	7975	9012	346	0	100.0	100.0	100.0	plus	2.73e-171	526	mate-pair-formation
-NC_006154_00013|MPF_T	NC_006154.1 Yersinia pseudotuberculosis IP 32953 plasmid pYptb32953, complete sequence	227	27702	1	227	9186	9866	227	0	100.0	100.0	100.0	plus	4.75e-144	441	mate-pair-formation
-NC_006154_00014|MPF_T	NC_006154.1 Yersinia pseudotuberculosis IP 32953 plasmid pYptb32953, complete sequence	315	27702	1	315	9869	10813	315	0	100.0	100.0	100.0	plus	0.0	657	mate-pair-formation

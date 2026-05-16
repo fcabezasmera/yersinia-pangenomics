@@ -1,6 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_902168455.1.fna	chromosome			NZ_CABHQE010000095.1 Yersinia aldovae isolate IP08619, whole genome shotgun sequence	15586	0.4437957141023996	73b03817ab6336f1542675883c5f3791	00634	CP024842	IS1400	IS3	1207	1	1207	13334	14539						
-GCF_902168455.1.fna	chromosome			NZ_CABHQE010000079.1 Yersinia aldovae isolate IP08619, whole genome shotgun sequence	7665	0.4215264187866928	089ec8808b3436ae653fa14cc47babfb	00634	CP024842	IS1400	IS3	1207	1	1207	841	2047						
-GCF_902168455.1.fna	chromosome			NZ_CABHQE010000015.1 Yersinia aldovae isolate IP08619, whole genome shotgun sequence	2943	0.5253143051308189	0d04cfd4ba6d9935d0abecb6e399f053	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	9	2381						
-GCF_902168455.1.fna	chromosome			NZ_CABHQE010000003.1 Yersinia aldovae isolate IP08619, whole genome shotgun sequence	1749	0.5265866209262435	f86d1b9da31bdff57bcad1ce69b25fd8	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	5	1552						
-GCF_902168455.1.fna	chromosome			NZ_CABHQE010000022.1 Yersinia aldovae isolate IP08619, whole genome shotgun sequence	1316	0.5	448df619e7b1b636ea5a727e189cfd94	00336	NC_003134	ISEc39	IS256	1316	1	1316	1	1316						

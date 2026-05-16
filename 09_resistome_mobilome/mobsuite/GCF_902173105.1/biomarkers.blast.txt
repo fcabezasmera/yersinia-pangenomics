@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP025802_00058|rep_cluster_2307	NZ_CABIHV010000097.1 Yersinia similis isolate Kuratani-2, whole genome shotgun sequence	714	47950	1	714	24006	24719	714	22	96.919	100.0	100.0	plus	0.0	1197	replicon
-CP000966|IncFII	NZ_CABIHV010000097.1 Yersinia similis isolate Kuratani-2, whole genome shotgun sequence	230	47950	5	200	43574	43770	201	22	84.577	85.0	85.0	minus	2.36e-49	191	replicon

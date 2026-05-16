@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001164505.1.fna	chromosome			NZ_CQCP01000025.1 Yersinia aldovae strain IP23238, whole genome shotgun sequence	78304	0.48158459337964854	7d636030e798467808eaf516cad6efe3	00634	CP024842	IS1400	IS3	1207	1	1207	68915	70121						
-GCF_001164505.1.fna	chromosome			NZ_CQCP01000045.1 Yersinia aldovae strain IP23238, whole genome shotgun sequence	1315	0.49961977186311785	72f1e7a07cbce3316862c57c90e6b922	00336	NC_003134	ISEc39	IS256	1316	2	1316	1	1315						
-GCF_001164505.1.fna	chromosome			NZ_CQCP01000046.1 Yersinia aldovae strain IP23238, whole genome shotgun sequence	1315	0.49961977186311785	6d2a2e073a2f294d7c8af1a24fe05e5b	00336	NC_003134	ISEc39	IS256	1316	2	1316	1	1315						

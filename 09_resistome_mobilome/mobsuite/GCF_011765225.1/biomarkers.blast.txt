@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-X01654|ColE10	NZ_JAASAK010000054.1 Yersinia aleksiciae strain SCPM-O-B-8086 (J332) 54, whole genome shotgun sequence	177	6977	1	177	4717	4893	177	12	93.22	100.0	100.0	minus	1.29e-70	261	replicon
-NC_010695_00006|MOBQ	NZ_JAASAK010000054.1 Yersinia aleksiciae strain SCPM-O-B-8086 (J332) 54, whole genome shotgun sequence	369	6977	30	369	3	1019	340	45	86.471	92.0	99.0	plus	0.0	586	relaxase
-NC_021523_00003|MOBQ	NZ_JAASAK010000061.1 Yersinia aleksiciae strain SCPM-O-B-8086 (J332) 61, whole genome shotgun sequence	311	3658	1	311	1760	2692	311	1	99.678	100.0	100.0	minus	0.0	647	relaxase

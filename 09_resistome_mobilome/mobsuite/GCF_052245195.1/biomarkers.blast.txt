@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	NZ_JBQPWY010000026.1 Yersinia enterocolitica strain 3224 StPb PI NODE_26_length_53009_cov_119.934444, whole genome shotgun sequence	1167	53009	1	1167	4758	5924	1167	0	100.0	100.0	100.0	plus	0.0	2156	replicon
-000133__NC_008791_00085|IncFII	NZ_JBQPWY010000026.1 Yersinia enterocolitica strain 3224 StPb PI NODE_26_length_53009_cov_119.934444, whole genome shotgun sequence	1023	53009	1	1023	51232	52254	1023	2	99.804	100.0	100.0	minus	0.0	1879	replicon

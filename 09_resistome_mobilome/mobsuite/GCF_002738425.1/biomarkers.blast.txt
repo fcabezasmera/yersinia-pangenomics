@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000127__CP009275|IncFII	NZ_PEHM01000039.1 Yersinia massiliensis strain SCPM-O-B-8024 NODE_39_length_8418_cov_4.25425, whole genome shotgun sequence	228	8418	31	223	5699	5893	197	26	83.756	85.0	85.0	plus	1.57e-46	182	replicon

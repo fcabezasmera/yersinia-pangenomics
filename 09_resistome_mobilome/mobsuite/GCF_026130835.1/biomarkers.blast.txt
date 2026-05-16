@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002438__NC_009705_00164|rep_cluster_957	NZ_JANATS010000012.1 Yersinia ruckeri strain NVI-3779 NODE_12_length_121091_cov_8.573766, whole genome shotgun sequence	1020	121091	1	1020	29537	30556	1020	113	88.922	100.0	100.0	minus	0.0	1258	replicon
-NC_009705_00148|MPF_I	NZ_JANATS010000012.1 Yersinia ruckeri strain NVI-3779 NODE_12_length_121091_cov_8.573766, whole genome shotgun sequence	934	121091	1	934	35988	38792	935	92	90.053	100.0	100.0	minus	0.0	1615	mate-pair-formation
-NC_009705_00139|MPF_I	NZ_JANATS010000012.1 Yersinia ruckeri strain NVI-3779 NODE_12_length_121091_cov_8.573766, whole genome shotgun sequence	361	121091	1	361	47268	48350	361	37	89.751	100.0	100.0	minus	0.0	644	mate-pair-formation
-NC_009705_00138|MPF_I	NZ_JANATS010000012.1 Yersinia ruckeri strain NVI-3779 NODE_12_length_121091_cov_8.573766, whole genome shotgun sequence	264	121091	1	264	48355	49146	264	48	81.818	100.0	100.0	minus	1.01e-144	445	mate-pair-formation
-NC_009705_00134|MPF_I	NZ_JANATS010000012.1 Yersinia ruckeri strain NVI-3779 NODE_12_length_121091_cov_8.573766, whole genome shotgun sequence	282	121091	1	279	51916	52752	279	28	89.964	99.0	99.0	plus	8.81e-171	521	mate-pair-formation

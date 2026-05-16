@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_027946915.1.fna	chromosome			NZ_JAQIRT010000164.1 Yersinia kristensenii strain SCPM-O-B-8023 (C-142) 164, whole genome shotgun sequence	2944	0.5241168478260869	6574e640d6df6cddff1ce7373edf6885	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	9	2381						
-GCF_027946915.1.fna	chromosome			NZ_JAQIRT010000171.1 Yersinia kristensenii strain SCPM-O-B-8023 (C-142) 171, whole genome shotgun sequence	1605	0.5364485981308411	b50c8b746962831d15b1a6a672c0bec4	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	41	1588						

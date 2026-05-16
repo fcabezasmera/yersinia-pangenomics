@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP017588_00047|rep_cluster_2203	NZ_JBRURV010000023.1 Yersinia enterocolitica strain 16-YE00049 contig00023, whole genome shotgun sequence	867	25553	39	854	1798	2613	816	93	88.603	94.0	94.0	minus	0.0	992	replicon
-CP013973_00029|MOBF	NZ_JBRURV010000023.1 Yersinia enterocolitica strain 16-YE00049 contig00023, whole genome shotgun sequence	1741	25553	1	1741	3596	8815	1741	116	93.28	100.0	100.0	minus	0.0	3139	relaxase

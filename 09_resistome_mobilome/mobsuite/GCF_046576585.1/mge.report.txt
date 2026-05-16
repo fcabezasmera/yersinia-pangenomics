@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_046576585.1.fna	chromosome			NZ_JAXCHK010000106.1 Yersinia enterocolitica strain 3DF11 Scaffold104_1, whole genome shotgun sequence	3413	0.5095224142982713	277915c1ef57777ced0e0bbf83084430	01400	CP016586.1	23s-rRNA	23S	3027	1288	2736	1962	3413						
-GCF_046576585.1.fna	plasmid	AA996	AJ511	NZ_JAXCHK010000101.1 Yersinia enterocolitica strain 3DF11 Scaffold99_1, whole genome shotgun sequence	5467	0.4980793854033291	fbd753d5ecc21b316f6132e490f29948	00646	MF344564	ISKpn37	IS3	1253	1	1243	821	2061	1243	plus	99.0	87.772	0.0	1452

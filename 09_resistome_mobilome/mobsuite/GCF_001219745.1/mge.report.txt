@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001219745.1.fna	chromosome			NZ_CTIM01000039.1 Yersinia enterocolitica strain YE119/02, whole genome shotgun sequence	43700	0.45466819221967963	19e095a634952ad3334130082bdb895d	01077	NC_004851	IS630	IS630	1160	1	1159	159	1317						
-GCF_001219745.1.fna	chromosome			NZ_CTIM01000068.1 Yersinia enterocolitica strain YE119/02, whole genome shotgun sequence	11881	0.47361333221109336	edd9c4d924e6e61f095f3bb2ff8e46c9	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	10215	11762						
-GCF_001219745.1.fna	plasmid	AA996	AJ511	NZ_CTIM01000025.1 Yersinia enterocolitica strain YE119/02, whole genome shotgun sequence	70391	0.4415370175488495	b2c2e642ceb3ef0b6affaea9609bbc70	00646	MF344564	ISKpn37	IS3	1253	1	1243	64086	65326	1243	plus	99.0	87.852	0.0	1458

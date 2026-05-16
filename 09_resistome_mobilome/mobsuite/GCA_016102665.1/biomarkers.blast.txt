@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	JABUHW010000192.1 Yersinia pestis subsp. pestis strain 258 contig00192__length_7642___numreads_9999, whole genome shotgun sequence	89	7642	1	89	6322	6410	89	0	100.0	100.0	100.0	plus	4.85e-42	165	oriT
-000104__CP010386_00052|IncFIB	JABUHW010000025.1 Yersinia pestis subsp. pestis strain 258 contig00025__length_35854___numreads_2454, whole genome shotgun sequence	1065	35854	1	1065	26974	28038	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
-CP001049|IncFII	JABUHW010000173.1 Yersinia pestis subsp. pestis strain 258 contig00173__length_8978___numreads_2295, whole genome shotgun sequence	227	8978	1	227	1278	1504	227	0	100.0	100.0	100.0	plus	2.8000000000000003e-118	420	replicon
-CP041342_00001|rep_cluster_2350	JABUHW010000192.1 Yersinia pestis subsp. pestis strain 258 contig00192__length_7642___numreads_9999, whole genome shotgun sequence	552	7642	4	552	5753	6300	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-002101__NC_004564_00056|rep_cluster_645	JABUHW010000199.1 Yersinia pestis subsp. pestis strain 258 contig00199__length_7398___numreads_2022, whole genome shotgun sequence	1167	7398	1	1167	1287	2453	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-NC_010157_00072|MOBF	JABUHW010000354.1 Yersinia pestis subsp. pestis strain 258 contig00354__length_634___numreads_216, whole genome shotgun sequence	152	634	1	152	50	505	152	1	99.342	100.0	100.0	plus	3.63e-112	314	relaxase

@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP010020.1 Yersinia pestis str. Pestoides B plasmid pPCP, complete sequence	89	9606	1	89	8279	8367	89	0	100.0	100.0	100.0	plus	5.1e-42	165	oriT
-CP041342_00001|rep_cluster_2350	NZ_CP010020.1 Yersinia pestis str. Pestoides B plasmid pPCP, complete sequence	552	9606	4	552	7710	8257	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-000104__CP010386_00052|IncFIB	NZ_CP010021.1 Yersinia pestis str. Pestoides B plasmid pMT, complete sequence	1065	106992	1	1065	39507	40571	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP001049|IncFII	NZ_CP010022.1 Yersinia pestis str. Pestoides B plasmid pCD, complete sequence	227	70169	1	227	30053	30279	227	0	100.0	100.0	100.0	minus	2.94e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP010022.1 Yersinia pestis str. Pestoides B plasmid pCD, complete sequence	1167	70169	1	1167	50362	51528	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-NC_010157_00072|MOBF	NZ_CP010022.1 Yersinia pestis str. Pestoides B plasmid pCD, complete sequence	152	70169	1	152	32350	32805	152	0	100.0	100.0	100.0	minus	1.7e-101	316	relaxase

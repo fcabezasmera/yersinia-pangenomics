@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP009701.1 Yersinia pestis strain Harbin35 plasmid unnamed3, complete sequence	89	9608	1	89	614	702	89	0	100.0	100.0	100.0	plus	5.01e-42	165	oriT
-CP041342_00001|rep_cluster_2350	NZ_CP009701.1 Yersinia pestis strain Harbin35 plasmid unnamed3, complete sequence	552	9608	4	552	45	592	552	27	93.841	99.0	99.0	minus	0.0	824	replicon
-000104__CP010386_00052|IncFIB	NZ_CP009702.1 Yersinia pestis strain Harbin35 plasmid unnamed1, complete sequence	1065	99285	1	1065	9707	10771	1065	25	97.653	100.0	100.0	minus	0.0	1829	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP009703.1 Yersinia pestis strain Harbin35 plasmid unnamed2, complete sequence	1167	68549	1	1167	32196	33362	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP001049|IncFII	NZ_CP009703.1 Yersinia pestis strain Harbin35 plasmid unnamed2, complete sequence	227	68549	1	227	51490	51716	227	0	100.0	100.0	100.0	plus	2.89e-118	420	replicon
-NC_010157_00072|MOBF	NZ_CP009703.1 Yersinia pestis strain Harbin35 plasmid unnamed2, complete sequence	152	68549	1	152	48964	49419	152	0	100.0	100.0	100.0	plus	1.67e-101	316	relaxase

@@ -48,3 +48,6 @@ Eog
 # R/Python temp
 .Rhistory
 .env
+
+# MOBsuite individual genome results
+09_resistome_mobilome/mobsuite/GC*/

@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_015158485.1.fna	chromosome			NZ_WHKG01000012.1 Yersinia pestis strain S20070086 Scaffold11_1, whole genome shotgun sequence	83390	0.47252668185633767	bb1c84c13f143a0213ec2ccfd0d6a797	00336	NC_003134	ISEc39	IS256	1316	2	1316	72112	73416						
-GCF_015158485.1.fna	plasmid	AA751	AJ083	NZ_WHKG01000027.1 Yersinia pestis strain S20070086 Scaffold26_1, whole genome shotgun sequence	54520	0.4406089508437271	81f3bb55ae35e16d44e118f8d1fec3e9	00592	NC_003131	ISYps8	IS3	6302	1	6302	46557	52858	6302	plus	100.0	100.0	0.0	11638

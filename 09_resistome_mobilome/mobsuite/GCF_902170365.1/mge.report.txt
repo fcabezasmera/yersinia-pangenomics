@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_902170365.1.fna	chromosome			NZ_CABHWR010000222.1 Yersinia alsatica strain IP35553, whole genome shotgun sequence	3296	0.5188106796116505	900a9fdf1da8d4a179b9f68e1ddb9da7	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	224	2596						
-GCF_902170365.1.fna	chromosome			NZ_CABHWR010000221.1 Yersinia alsatica strain IP35553, whole genome shotgun sequence	1787	0.5237828763290431	0d5275175567bd2270036469c71df60e	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	43	1590						

@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032236_00057|MOBP	NZ_KN150748.1 Yersinia ruckeri ATCC 29473 scaffold2, whole genome shotgun sequence	641	99962	1	641	8298	10220	641	0	100.0	100.0	100.0	plus	0.0	1295	relaxase

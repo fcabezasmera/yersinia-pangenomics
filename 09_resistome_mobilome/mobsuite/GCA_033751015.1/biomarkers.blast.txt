@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002386__CP000718_00001|rep_cluster_901	ABOZLF010000023.1 Yersinia enterocolitica strain 1863348 SAMN34538273-rid17906763.denovo.24, whole genome shotgun sequence	1038	57221	1	1036	54279	55314	1036	69	93.34	99.0	99.0	minus	0.0	1531	replicon
-000435__NC_009344_00001|rep_cluster_1155	ABOZLF010000042.1 Yersinia enterocolitica strain 1863348 SAMN34538273-rid17906763.denovo.45, whole genome shotgun sequence	957	8338	1	957	5895	6869	975	145	83.282	100.0	100.0	plus	0.0	881	replicon
-NC_009704_00057|MOBP	ABOZLF010000023.1 Yersinia enterocolitica strain 1863348 SAMN34538273-rid17906763.denovo.24, whole genome shotgun sequence	866	57221	1	866	41267	43864	866	47	94.573	100.0	100.0	minus	0.0	1615	relaxase
-NC_009704_00012|MPF_T	ABOZLF010000023.1 Yersinia enterocolitica strain 1863348 SAMN34538273-rid17906763.denovo.24, whole genome shotgun sequence	845	57221	1	845	4922	7456	845	25	97.041	100.0	100.0	plus	0.0	1669	mate-pair-formation
-NC_009704_00014|MPF_T	ABOZLF010000023.1 Yersinia enterocolitica strain 1863348 SAMN34538273-rid17906763.denovo.24, whole genome shotgun sequence	295	57221	1	295	8192	9076	295	6	97.966	100.0	100.0	plus	0.0	597	mate-pair-formation
-NC_009704_00056|MPF_T	ABOZLF010000023.1 Yersinia enterocolitica strain 1863348 SAMN34538273-rid17906763.denovo.24, whole genome shotgun sequence	645	57221	1	645	39333	41267	645	8	98.76	100.0	100.0	minus	0.0	1329	mate-pair-formation

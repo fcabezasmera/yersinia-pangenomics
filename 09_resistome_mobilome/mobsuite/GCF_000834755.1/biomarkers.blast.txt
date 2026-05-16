@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP009839.1 Yersinia pestis A1122 plasmid pPCP, complete sequence	89	9612	1	89	4236	4324	89	0	100.0	100.0	100.0	minus	4.97e-42	165	oriT
-CP041342_00001|rep_cluster_2350	NZ_CP009839.1 Yersinia pestis A1122 plasmid pPCP, complete sequence	552	9612	4	552	4346	4893	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
-000104__CP010386_00052|IncFIB	NZ_CP009841.1 Yersinia pestis A1122 plasmid pMT, complete sequence	1065	95328	1	1065	84054	85118	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon

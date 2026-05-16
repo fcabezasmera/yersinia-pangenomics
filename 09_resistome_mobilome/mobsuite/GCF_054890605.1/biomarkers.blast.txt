@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002438__NC_009705_00164|rep_cluster_957	NZ_JBTZUI010000002.1 Yersinia ruckeri strain Ci2537 plasmid pCi2537-01, whole genome shotgun sequence	1020	143069	1	1020	69469	70488	1020	2	99.804	100.0	100.0	minus	0.0	1873	replicon
-NC_021819_00066|MOBP	NZ_CM142697.1 Yersinia ruckeri strain Ci2537 chromosome, whole genome shotgun sequence	295	3727672	83	181	875396	875692	99	8	91.919	34.0	98.0	plus	1.6199999999999998e-54	187	relaxase
-NC_009705_00148|MPF_I	NZ_JBTZUI010000002.1 Yersinia ruckeri strain Ci2537 plasmid pCi2537-01, whole genome shotgun sequence	934	143069	1	934	75716	78517	934	6	99.358	100.0	100.0	minus	0.0	1769	mate-pair-formation
-NC_009705_00139|MPF_I	NZ_JBTZUI010000002.1 Yersinia ruckeri strain Ci2537 plasmid pCi2537-01, whole genome shotgun sequence	361	143069	1	361	86998	88080	361	0	100.0	100.0	100.0	minus	0.0	702	mate-pair-formation
-NC_009705_00138|MPF_I	NZ_JBTZUI010000002.1 Yersinia ruckeri strain Ci2537 plasmid pCi2537-01, whole genome shotgun sequence	264	143069	1	264	88085	88876	264	1	99.621	100.0	100.0	minus	2.4e-178	541	mate-pair-formation
-NC_009705_00134|MPF_I	NZ_JBTZUI010000002.1 Yersinia ruckeri strain Ci2537 plasmid pCi2537-01, whole genome shotgun sequence	282	143069	1	282	91655	92500	282	2	99.291	100.0	100.0	plus	0.0	572	mate-pair-formation

@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	NZ_ACNR01000028.1 Yersinia pestis biovar Orientalis str. India 195 map unlocalized plasmid pCD, whole genome shotgun sequence	1167	70132	283	1167	6077	6961	885	7	99.209	76.0	95.0	minus	0.0	1596	replicon
-CP001049|IncFII	NZ_ACNR01000028.1 Yersinia pestis biovar Orientalis str. India 195 map unlocalized plasmid pCD, whole genome shotgun sequence	227	70132	1	227	56064	56290	227	0	100.0	100.0	100.0	minus	2.9000000000000002e-118	420	replicon
-000104__CP010386_00052|IncFIB	NZ_ACNR01000029.1 Yersinia pestis biovar Orientalis str. India 195 map unlocalized plasmid pMT pMT_Sequence1, whole genome shotgun sequence	1065	52993	1	1065	50879	51943	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-NC_010157_00072|MOBF	NZ_ACNR01000028.1 Yersinia pestis biovar Orientalis str. India 195 map unlocalized plasmid pCD, whole genome shotgun sequence	152	70132	1	152	58361	58816	152	0	100.0	100.0	100.0	minus	1.67e-101	316	relaxase

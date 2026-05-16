@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000435__NC_009344_00001|rep_cluster_1155	NZ_JBOEIH010000013.1 Yersinia proxima strain 2018015 Scaffold13, whole genome shotgun sequence	957	9740	1	952	1202	2153	958	177	80.271	99.0	99.0	plus	0.0	712	replicon
-NC_010695_00006|MOBQ	NZ_JBOEIH010000013.1 Yersinia proxima strain 2018015 Scaffold13, whole genome shotgun sequence	369	9740	1	369	8494	9600	369	39	89.431	100.0	100.0	minus	0.0	641	relaxase

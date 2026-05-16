@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000104__CP010386_00052|IncFIB	NZ_CP033694.1 Yersinia pestis strain FDAARGOS_602 plasmid unnamed1, complete sequence	1065	106990	1	1065	14859	15923	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP033695.1 Yersinia pestis strain FDAARGOS_602 plasmid unnamed2, complete sequence	1167	70174	1	1167	8605	9771	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP001049|IncFII	NZ_CP033695.1 Yersinia pestis strain FDAARGOS_602 plasmid unnamed2, complete sequence	227	70174	1	227	29859	30085	227	0	100.0	100.0	100.0	plus	2.94e-118	420	replicon
-NC_010157_00072|MOBF	NZ_CP033695.1 Yersinia pestis strain FDAARGOS_602 plasmid unnamed2, complete sequence	152	70174	1	152	27333	27788	152	0	100.0	100.0	100.0	plus	1.69e-101	316	relaxase

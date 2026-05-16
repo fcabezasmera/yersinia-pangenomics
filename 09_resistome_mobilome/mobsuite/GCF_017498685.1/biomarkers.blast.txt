@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032236_00057|MOBP	NZ_CP071804.1 Yersinia ruckeri strain KMM821 plasmid pYRKMM821_2, complete sequence	641	103906	1	641	4432	6354	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase

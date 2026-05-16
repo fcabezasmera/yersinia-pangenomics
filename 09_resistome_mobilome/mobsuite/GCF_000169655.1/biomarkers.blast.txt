@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP001049|IncFII	NZ_AAYT01000025.1 Yersinia pestis biovar Mediaevalis str. K1973002 gcontig_1104296274450, whole genome shotgun sequence	227	42004	1	227	39863	40089	227	0	100.0	100.0	100.0	minus	2.9000000000000002e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_AAYT01000038.1 Yersinia pestis biovar Mediaevalis str. K1973002 gcontig_1104296275014, whole genome shotgun sequence	1167	8840	1	1167	1043	2209	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon

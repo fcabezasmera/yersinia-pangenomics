@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	NZ_NHOI01000016.1 Yersinia intermedia strain CFSAN060536 CFSAN060536_contig_16, whole genome shotgun sequence	918	42751	6	918	2894	3806	914	15	98.14	99.0	99.0	minus	0.0	1592	replicon
-CP009126_00025|MOBC	NZ_NHOI01000016.1 Yersinia intermedia strain CFSAN060536 CFSAN060536_contig_16, whole genome shotgun sequence	248	42751	1	248	21904	22647	248	6	97.581	100.0	100.0	plus	3.48e-164	500	relaxase

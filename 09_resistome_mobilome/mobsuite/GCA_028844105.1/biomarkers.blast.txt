@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	DANMYL010000199.1 TPA_asm: Yersinia enterocolitica isolate ZTA09/00628YI SAMEA11322923-rid13776913.denovo.202, whole genome shotgun sequence	1167	6236	7	1167	3248	4408	1161	3	99.742	99.0	99.0	minus	0.0	2128	replicon
-CP001049|IncFII	DANMYL010000211.1 TPA_asm: Yersinia enterocolitica isolate ZTA09/00628YI SAMEA11322923-rid13776913.denovo.214, whole genome shotgun sequence	227	5727	1	224	3492	3715	224	1	99.554	99.0	99.0	plus	5.82e-115	409	replicon
-CP017588_00047|rep_cluster_2203	DANMYL010000211.1 TPA_asm: Yersinia enterocolitica isolate ZTA09/00628YI SAMEA11322923-rid13776913.denovo.214, whole genome shotgun sequence	867	5727	33	856	3742	4565	828	157	80.072	95.0	95.0	plus	2.19e-174	608	replicon
-NC_015475_00074|MOBF	DANMYL010000205.1 TPA_asm: Yersinia enterocolitica isolate ZTA09/00628YI SAMEA11322923-rid13776913.denovo.208, whole genome shotgun sequence	149	6034	1	149	376	822	149	3	97.987	100.0	100.0	minus	1.16e-94	296	relaxase

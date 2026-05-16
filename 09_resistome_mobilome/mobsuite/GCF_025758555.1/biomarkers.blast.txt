@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000228__CP002179_00041|IncX7	NZ_CP107089.1 Yersinia enterocolitica strain Gp200 plasmid unnamed1	861	8715	1	849	987	1835	849	89	89.517	99.0	99.0	plus	0.0	1075	replicon
-NZ_CM000957_00016|MOBP	NZ_CP107088.1 Yersinia enterocolitica strain Gp200 chromosome	328	4530554	1	328	2790536	2791525	330	22	92.727	100.0	100.0	minus	0.0	588	relaxase
-CP043517_00004|MOBP	NZ_CP107090.1 Yersinia enterocolitica strain Gp200 plasmid unnamed2	279	1176	1	234	2	703	234	17	92.735	84.0	84.0	minus	3.57e-152	428	relaxase

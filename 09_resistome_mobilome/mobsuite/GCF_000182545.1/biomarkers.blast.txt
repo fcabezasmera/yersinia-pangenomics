@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	NZ_ACNT01000035.1 Yersinia pestis Pestoides A map unlocalized plasmid pCD, whole genome shotgun sequence	1167	70020	1	1167	354	1521	1168	10	99.058	100.0	100.0	minus	0.0	2095	replicon
-CP001049|IncFII	NZ_ACNT01000035.1 Yersinia pestis Pestoides A map unlocalized plasmid pCD, whole genome shotgun sequence	227	70020	1	227	50215	50441	227	0	100.0	100.0	100.0	minus	2.92e-118	420	replicon
-000104__CP010386_00052|IncFIB	NZ_ACNT01000036.1 Yersinia pestis Pestoides A map unlocalized plasmid pMT, whole genome shotgun sequence	1065	107031	1	1065	53512	54576	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-NC_010157_00072|MOBF	NZ_ACNT01000035.1 Yersinia pestis Pestoides A map unlocalized plasmid pCD, whole genome shotgun sequence	152	70020	1	152	52512	52967	152	0	100.0	100.0	100.0	minus	1.68e-101	316	relaxase

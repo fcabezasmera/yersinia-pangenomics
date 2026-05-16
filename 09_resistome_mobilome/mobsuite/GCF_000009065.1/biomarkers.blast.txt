@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NC_003132.1 Yersinia pestis CO92 plasmid pPCP1, complete sequence	89	9612	1	89	3200	3288	89	0	100.0	100.0	100.0	minus	5.14e-42	165	oriT
-002101__NC_004564_00056|rep_cluster_645	NC_003131.1 Yersinia pestis CO92 plasmid pCD1, complete sequence	1167	70305	1	1167	7157	8323	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-CP001049|IncFII	NC_003131.1 Yersinia pestis CO92 plasmid pCD1, complete sequence	227	70305	1	227	57149	57375	227	0	100.0	100.0	100.0	minus	2.96e-118	420	replicon
-CP041342_00001|rep_cluster_2350	NC_003132.1 Yersinia pestis CO92 plasmid pPCP1, complete sequence	552	9612	4	552	3310	3857	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
-000104__CP010386_00052|IncFIB	NC_003134.1 Yersinia pestis CO92 plasmid pMT1, complete sequence	1065	96210	1	1065	46487	47551	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-NC_010157_00072|MOBF	NC_003131.1 Yersinia pestis CO92 plasmid pCD1, complete sequence	152	70305	1	152	59446	59901	152	0	100.0	100.0	100.0	minus	1.71e-101	316	relaxase

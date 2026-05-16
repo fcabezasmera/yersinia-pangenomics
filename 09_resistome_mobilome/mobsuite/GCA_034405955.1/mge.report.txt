@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_034405955.1.fna	chromosome			DASKRQ010000249.1 TPA_asm: Yersinia enterocolitica isolate TC12614 SAMN38355111-rid20582283.denovo.252, whole genome shotgun sequence	1743	0.525530694205393	941e3bde46a248e30a877cf27377a558	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	177	1724						

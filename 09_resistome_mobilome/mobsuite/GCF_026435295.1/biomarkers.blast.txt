@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021819_00066|MOBP	NZ_CP098714.1 Yersinia ruckeri strain NVI-1176 chromosome, complete genome	295	3829172	83	181	2907752	2908048	99	8	91.919	34.0	98.0	minus	1.63e-54	187	relaxase
-CP032236_00057|MOBP	NZ_CP098715.1 Yersinia ruckeri strain NVI-1176 plasmid pYR4, complete sequence	641	80847	1	641	59994	61916	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase

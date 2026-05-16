@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001158365.1.fna	chromosome			NZ_CPVN01000006.1 Yersinia frederiksenii strain FE80151, whole genome shotgun sequence	261983	0.46914876156086466	40cddbe79d7661718cc2537747ff2268	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	223920	225467						
-GCF_001158365.1.fna	chromosome			NZ_CPVN01000006.1 Yersinia frederiksenii strain FE80151, whole genome shotgun sequence	261983	0.46914876156086466	40cddbe79d7661718cc2537747ff2268	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	226462	228834						

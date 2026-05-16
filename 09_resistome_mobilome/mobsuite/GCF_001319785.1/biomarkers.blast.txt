@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP001049|IncFII	NZ_CHDQ01000050.1 Yersinia pseudotuberculosis strain IP33250, whole genome shotgun sequence	227	8668	1	227	7583	7809	227	0	100.0	100.0	100.0	minus	2.9000000000000002e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CHDQ01000061.1 Yersinia pseudotuberculosis strain IP33250, whole genome shotgun sequence	1167	3168	1	1167	1189	2355	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-NC_010157_00072|MOBF	NZ_CHDQ01000076.1 Yersinia pseudotuberculosis strain IP33250, whole genome shotgun sequence	152	817	1	152	161	616	152	0	100.0	100.0	100.0	plus	6.25e-112	316	relaxase

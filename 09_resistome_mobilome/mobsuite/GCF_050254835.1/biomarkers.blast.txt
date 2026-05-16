@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_022344_00321|MPF_T	NZ_JBGEET010000001.1 Yersinia enterocolitica strain SF14 contig00001, whole genome shotgun sequence	667	700072	1	567	401610	403310	567	30	94.709	85.0	85.0	minus	0.0	1082	mate-pair-formation

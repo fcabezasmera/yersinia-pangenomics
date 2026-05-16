@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000015__JX514065|Col3M	DANMKT010000257.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000124 SAMN32543310-rid16560103.denovo.260, whole genome shotgun sequence	157	2050	1	139	1	139	139	2	98.561	89.0	89.0	minus	3.1900000000000003e-66	246	replicon

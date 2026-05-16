@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP016722|MOB_unknown	NZ_CABHXJ010000079.1 Yersinia intermedia isolate IP37946, whole genome shotgun sequence	218	3300	1	194	2687	2879	195	12	92.308	89.0	89.0	minus	2.16e-74	274	oriT
-CP024494_00003|rep_cluster_2405	NZ_CABHXJ010000079.1 Yersinia intermedia isolate IP37946, whole genome shotgun sequence	171	3300	1	171	7	177	171	0	100.0	100.0	100.0	plus	2.72e-87	316	replicon
-CP041116_00002|ColRNAI_rep_cluster_1987	NZ_CABHXJ010000079.1 Yersinia intermedia isolate IP37946, whole genome shotgun sequence	519	3300	35	476	2858	3300	450	53	84.889	85.0	93.0	plus	5.0800000000000005e-124	440	replicon
-000621__CP009126_00005|rep_cluster_1304	NZ_CABHXJ010000089.1 Yersinia intermedia isolate IP37946, whole genome shotgun sequence	918	48937	6	918	26163	27075	914	14	98.249	99.0	99.0	plus	0.0	1598	replicon
-NC_013090_00004|MOBP	NZ_CABHXJ010000079.1 Yersinia intermedia isolate IP37946, whole genome shotgun sequence	499	3300	1	499	788	2278	499	39	91.784	100.0	100.0	minus	0.0	893	relaxase
-CP009126_00025|MOBC	NZ_CABHXJ010000089.1 Yersinia intermedia isolate IP37946, whole genome shotgun sequence	248	48937	1	248	6561	7304	248	6	97.581	100.0	100.0	minus	1.57e-163	498	relaxase

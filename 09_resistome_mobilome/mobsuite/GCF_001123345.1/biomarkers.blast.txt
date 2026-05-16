@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP000966|IncFII	NZ_CPWG01000049.1 Yersinia pseudotuberculosis strain Y428, whole genome shotgun sequence	230	26286	5	200	18855	19051	201	22	84.577	85.0	85.0	minus	2.58e-49	191	replicon
-NC_021819_00066|MOBP	NZ_CPWG01000054.1 Yersinia pseudotuberculosis strain Y428, whole genome shotgun sequence	295	17613	96	295	623	1225	201	38	80.597	68.0	100.0	minus	9.48e-125	326	relaxase

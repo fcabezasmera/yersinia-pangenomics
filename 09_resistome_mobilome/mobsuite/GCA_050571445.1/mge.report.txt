@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_050571445.1.fna	chromosome			ABZCMC010000018.1 Yersinia enterocolitica strain 01746498 SAMN48711147-rid26517633.denovo.18, whole genome shotgun sequence	99089	0.4805477903702732	319eeace00a2891922afaa574effe19e	00676	MF072964	ISCfr4	IS30	1253	38	1238	1	1201						
-GCA_050571445.1.fna	chromosome			ABZCMC010000058.1 Yersinia enterocolitica strain 01746498 SAMN48711147-rid26517633.denovo.62, whole genome shotgun sequence	1624	0.5320197044334976	832afd3e390690a0d4c75ab5cd5a483f	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	47	1594						

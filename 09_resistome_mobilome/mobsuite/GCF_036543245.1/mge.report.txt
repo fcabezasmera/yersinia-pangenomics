@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_036543245.1.fna	chromosome			NZ_JAZHGQ010000013.1 Yersinia mollaretii strain 468-1 13, whole genome shotgun sequence	136385	0.4973420830736518	b9e0ce91f4b49be6daa6270a69fd8c98	01373	MF156713	ISSba14	Tn3	2238	1	2238	128205	130443						
-GCF_036543245.1.fna	chromosome			NZ_JAZHGQ010000035.1 Yersinia mollaretii strain 468-1 35, whole genome shotgun sequence	3429	0.5173519976669583	23a2fc39f9b407d7c07ba2e1a707dfc9	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	223	2595						
-GCF_036543245.1.fna	chromosome			NZ_JAZHGQ010000044.1 Yersinia mollaretii strain 468-1 44, whole genome shotgun sequence	1761	0.5264054514480409	41d155103349bcbbd64c90be4c814e7d	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	17	1564						

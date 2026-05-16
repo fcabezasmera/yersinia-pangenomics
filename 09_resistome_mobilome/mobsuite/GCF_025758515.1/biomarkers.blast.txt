@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_001848_00006|MOBP	NZ_CP107094.1 Yersinia enterocolitica strain MP98 plasmid unnamed	107	557	1	107	84	404	107	5	95.327	100.0	100.0	plus	2.64e-72	210	relaxase

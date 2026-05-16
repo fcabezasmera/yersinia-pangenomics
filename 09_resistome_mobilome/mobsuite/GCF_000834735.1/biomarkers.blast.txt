@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP017588_00047|rep_cluster_2203	NZ_CP009837.1 Yersinia enterocolitica strain 2516-87 plasmid pCD, complete sequence	867	69701	39	856	5112	5929	821	158	80.024	94.0	94.0	minus	1.07e-172	603	replicon
-CP001049|IncFII	NZ_CP009837.1 Yersinia enterocolitica strain 2516-87 plasmid pCD, complete sequence	227	69701	1	227	5959	6185	227	2	99.119	100.0	100.0	minus	6.119999999999998e-115	409	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP009837.1 Yersinia enterocolitica strain 2516-87 plasmid pCD, complete sequence	1167	69701	1	1167	24412	25578	1167	6	99.486	100.0	100.0	plus	0.0	2122	replicon
-NC_015475_00074|MOBF	NZ_CP009837.1 Yersinia enterocolitica strain 2516-87 plasmid pCD, complete sequence	149	69701	1	149	10562	11008	149	1	99.329	100.0	100.0	minus	7.45e-96	299	relaxase

@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_000403745.1.fna	chromosome			NZ_CBKR010000020.1 Yersinia pseudotuberculosis B-7195, whole genome shotgun sequence	3128	0.51744	4bc64770d4aaca966e3f29d8f014a88c	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	44	2416						
-GCF_000403745.1.fna	chromosome			NZ_CBKR010000004.1 Yersinia pseudotuberculosis B-7195, whole genome shotgun sequence	1954	0.5143295803480041	277ae4e2318a193c7d69b2bf58a99fb6	00279	EU330199	IS100X	IS21	2247	294	2247	1	1954						
-GCF_000403745.1.fna	chromosome			NZ_CBKR010000092.1 Yersinia pseudotuberculosis B-7195, whole genome shotgun sequence	1793	0.5237562884292901	79fd0cd462827a58de84820dce410c53	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	206	1753						

@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_050508795.1.fna	chromosome			DBISAW010000092.1 TPA_asm: Yersinia enterocolitica strain Toyama_YE1 SAMD00590502-rid26472763.denovo.96, whole genome shotgun sequence	1567	0.5328653477983408	4a1336477c8df8708c7e62ccfe6a1fad	01399	CP016586.1	16s-rRNA	16S	1554	1	1526	41	1567						

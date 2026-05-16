@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000133__NC_008791_00085|IncFII	NZ_JBTJGM010000025.1 Yersinia enterocolitica strain 25-YE00278 contig00025, whole genome shotgun sequence	1023	66062	1	1023	40926	41948	1023	2	99.804	100.0	100.0	minus	0.0	1879	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_JBTJGM010000025.1 Yersinia enterocolitica strain 25-YE00278 contig00025, whole genome shotgun sequence	1167	66062	1	1167	61153	62319	1167	0	100.0	100.0	100.0	plus	0.0	2156	replicon

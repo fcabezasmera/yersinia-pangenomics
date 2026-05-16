@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_002523_00134|MPF_I	NZ_JAUJTZ010000016.1 Yersinia sp. 22-579 NODE_16_length_106938_cov_55.462489, whole genome shotgun sequence	725	106938	16	717	46247	48352	702	86	87.749	97.0	97.0	minus	0.0	1263	mate-pair-formation
-NC_002523_00141|MPF_I	NZ_JAUJTZ010000016.1 Yersinia sp. 22-579 NODE_16_length_106938_cov_55.462489, whole genome shotgun sequence	408	106938	1	408	54349	55575	409	77	80.929	100.0	100.0	minus	0.0	638	mate-pair-formation
-NC_002523_00145|MPF_I	NZ_JAUJTZ010000016.1 Yersinia sp. 22-579 NODE_16_length_106938_cov_55.462489, whole genome shotgun sequence	176	106938	1	176	59961	60488	176	26	85.227	100.0	100.0	minus	5.72e-87	275	mate-pair-formation
-NC_002523_00001|MPF_I	NZ_JAUJTZ010000016.1 Yersinia sp. 22-579 NODE_16_length_106938_cov_55.462489, whole genome shotgun sequence	224	106938	1	224	63463	64134	224	37	83.482	100.0	100.0	minus	1.11e-125	389	mate-pair-formation
-NC_002523_00008|MPF_I	NZ_JAUJTZ010000016.1 Yersinia sp. 22-579 NODE_16_length_106938_cov_55.462489, whole genome shotgun sequence	262	106938	1	255	69722	70486	255	31	87.843	97.0	97.0	minus	3.37e-145	446	mate-pair-formation

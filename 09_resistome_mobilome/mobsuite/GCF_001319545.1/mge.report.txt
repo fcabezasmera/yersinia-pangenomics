@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_001319545.1.fna	chromosome			NZ_CHYZ01000006.1 Yersinia bercovieri strain 3016/84, whole genome shotgun sequence	234365	0.49045276304504587	9780d1ee2d663f596513950157cce772	00952	MG930932	IS102	IS5	1055	1	1055	233311	234364						
-GCF_001319545.1.fna	chromosome			NZ_CHYZ01000019.1 Yersinia bercovieri strain 3016/84, whole genome shotgun sequence	97924	0.5001021200114374	3761875647210de02d6976a2df4cadac	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	95949	97496						
-GCF_001319545.1.fna	chromosome			NZ_CHYZ01000024.1 Yersinia bercovieri strain 3016/84, whole genome shotgun sequence	48275	0.4765613671672708	edafe9eb69a952b04fdb86609f9e9b06	01400	CP016586.1	23s-rRNA	23S	3027	1288	3027	44949	46691						

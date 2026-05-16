@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	NZ_JAZGQC010000004.1 Yersinia sp. 2540 StPb PI contig_4_polypolish, whole genome shotgun sequence	918	27686	21	918	21392	22291	900	50	94.222	98.0	98.0	plus	0.0	1373	replicon
-CP009126_00025|MOBC	NZ_JAZGQC010000004.1 Yersinia sp. 2540 StPb PI contig_4_polypolish, whole genome shotgun sequence	248	27686	1	248	2634	3377	248	4	98.387	100.0	100.0	minus	1.84e-165	504	relaxase

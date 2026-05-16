@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP000966|IncFII	ACCJDG010000031.1 Yersinia enterocolitica strain 01912053 SAMN55869037-rid29060303.denovo.31, whole genome shotgun sequence	230	39738	3	200	14325	14523	203	30	80.788	86.0	86.0	minus	4.4600000000000004e-37	150	replicon

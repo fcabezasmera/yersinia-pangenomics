@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	ACCRCO010000047.1 Yersinia enterocolitica strain 01751727 SAMN56723620-rid29327003.denovo.048, whole genome shotgun sequence	918	16103	1	918	14721	15638	918	7	99.237	100.0	100.0	plus	0.0	1657	replicon
-NC_014304_00056|MPF_F	ACCRCO010000018.1 Yersinia enterocolitica strain 01751727 SAMN56723620-rid29327003.denovo.018, whole genome shotgun sequence	699	101089	1	699	21103	23199	699	125	82.117	100.0	100.0	plus	0.0	1160	mate-pair-formation

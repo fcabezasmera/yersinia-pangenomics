@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002428__NC_022881_00001|rep_cluster_943	DBHYZN010000026.1 TPA_asm: Yersinia enterocolitica isolate 22PH0335-009-AK1 SAMN44049682-rid26065983.denovo.29, whole genome shotgun sequence	906	4133	6	884	1729	2607	886	123	84.537	97.0	97.0	minus	0.0	865	replicon
-NC_017024_00005|MOBV	DBHYZN010000026.1 TPA_asm: Yersinia enterocolitica isolate 22PH0335-009-AK1 SAMN44049682-rid26065983.denovo.29, whole genome shotgun sequence	502	4133	173	502	3142	4131	330	51	84.545	66.0	83.0	minus	5.28e-177	531	relaxase

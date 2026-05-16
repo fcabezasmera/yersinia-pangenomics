@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021819_00066|MOBP	NZ_CP084647.1 Yersinia ruckeri strain 17Y0157 chromosome, complete genome	295	3719931	83	181	2695105	2695401	99	8	91.919	34.0	97.0	minus	1.5499999999999994e-54	187	relaxase

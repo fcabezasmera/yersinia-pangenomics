@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP025802_00058|rep_cluster_2307	NZ_JBSSVT010000014.1 Yersinia enterocolitica strain TP126 contig00014, whole genome shotgun sequence	714	105299	1	714	39588	40301	714	16	97.759	100.0	100.0	minus	0.0	1230	replicon

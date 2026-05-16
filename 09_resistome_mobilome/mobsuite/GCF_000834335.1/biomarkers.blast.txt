@@ -1,6 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_CP009724.1 Yersinia pestis strain Shasta plasmid pPCP, complete sequence	89	9364	1	89	8988	9076	89	0	100.0	100.0	100.0	minus	5.14e-42	165	oriT
-CP001049|IncFII	NZ_CP009721.1 Yersinia pestis strain Shasta plasmid pCD, complete sequence	227	70305	1	227	17985	18211	227	0	100.0	100.0	100.0	minus	2.9700000000000002e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP009721.1 Yersinia pestis strain Shasta plasmid pCD, complete sequence	1167	70305	1	1167	38297	39463	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-000104__CP010386_00052|IncFIB	NZ_CP009722.1 Yersinia pestis strain Shasta plasmid pMT, complete sequence	1065	96210	1	1065	21602	22666	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-NC_010157_00072|MOBF	NZ_CP009721.1 Yersinia pestis strain Shasta plasmid pCD, complete sequence	152	70305	1	152	20282	20737	152	0	100.0	100.0	100.0	minus	1.71e-101	316	relaxase

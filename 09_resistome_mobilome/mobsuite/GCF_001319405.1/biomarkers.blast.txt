@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_014304_00056|MPF_F	NZ_CGBV01000019.1 Yersinia enterocolitica strain SZ662/97, whole genome shotgun sequence	699	47311	1	699	3033	5129	699	125	82.117	100.0	100.0	plus	0.0	1160	mate-pair-formation

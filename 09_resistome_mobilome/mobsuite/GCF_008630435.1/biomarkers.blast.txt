@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_VWRY01000146.1 Yersinia pestis strain C-719 contig00146, whole genome shotgun sequence	89	7633	1	89	1230	1318	89	0	100.0	100.0	100.0	minus	4.8e-42	165	oriT
-000104__CP010386_00052|IncFIB	NZ_VWRY01000044.1 Yersinia pestis strain C-719 contig00044, whole genome shotgun sequence	1065	35845	1	1065	7805	8869	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP041342_00001|rep_cluster_2350	NZ_VWRY01000146.1 Yersinia pestis strain C-719 contig00146, whole genome shotgun sequence	552	7633	4	552	1340	1887	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
-001223__KM112087_00001|rep_cluster_1800	NZ_VWRY01000166.1 Yersinia pestis strain C-719 contig00166, whole genome shotgun sequence	693	5357	1	693	139	831	693	0	100.0	100.0	100.0	plus	0.0	1280	replicon
-CP001049|IncFII	NZ_VWRY01000185.1 Yersinia pestis strain C-719 contig00185, whole genome shotgun sequence	227	3403	1	227	2444	2670	227	0	100.0	100.0	100.0	minus	2.73e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_VWRY01000190.1 Yersinia pestis strain C-719 contig00190, whole genome shotgun sequence	1167	3015	1	1167	743	1908	1167	10	99.057	100.0	100.0	plus	0.0	2093	replicon
-CP045162_00003|MOBC	NZ_VWRY01000166.1 Yersinia pestis strain C-719 contig00166, whole genome shotgun sequence	241	5357	1	241	3320	4042	241	0	100.0	100.0	100.0	plus	5.460000000000002e-166	498	relaxase
-NC_010157_00072|MOBF	NZ_VWRY01000225.1 Yersinia pestis strain C-719 contig00225, whole genome shotgun sequence	152	627	1	152	130	585	152	0	100.0	100.0	100.0	minus	6.3e-113	316	relaxase

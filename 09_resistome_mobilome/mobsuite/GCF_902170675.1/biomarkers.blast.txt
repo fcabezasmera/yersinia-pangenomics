@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP000966|IncFII	NZ_CABHYK010000033.1 Yersinia mollaretii isolate IP28910, whole genome shotgun sequence	230	36430	1	200	7132	7332	204	33	80.392	87.0	87.0	minus	1.49e-36	148	replicon
-CP025802_00051|MOBF	NZ_CABHYK010000033.1 Yersinia mollaretii isolate IP28910, whole genome shotgun sequence	1729	36430	1	1729	7980	13166	1729	126	92.713	100.0	100.0	minus	0.0	3226	relaxase
-NC_009350_00038|MPF_F	NZ_CABHYK010000033.1 Yersinia mollaretii isolate IP28910, whole genome shotgun sequence	329	36430	20	329	24926	25855	310	50	83.871	94.0	94.0	minus	1.0500000000000001e-179	549	mate-pair-formation

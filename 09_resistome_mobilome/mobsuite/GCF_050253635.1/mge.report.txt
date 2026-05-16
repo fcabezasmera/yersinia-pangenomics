@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_050253635.1.fna	chromosome			NZ_JBGEGZ010000026.1 Yersinia hibernica strain SK77 contig00026, whole genome shotgun sequence	64782	0.43831619894415114	48a2c89f84d99ec3fc4c2dcb82efbe14	00593	LT898485	ISEcl1	IS3	1336	1	1336	31032	32368						
-GCF_050253635.1.fna	chromosome			NZ_JBGEGZ010000063.1 Yersinia hibernica strain SK77 contig00063, whole genome shotgun sequence	1722	0.5255516840882695	74d54b411f2b3f775282cc47e7577d56	01399	CP016586.1	16s-rRNA	16S	1554	1	1553	45	1597						
-GCF_050253635.1.fna	chromosome			NZ_JBGEGZ010000068.1 Yersinia hibernica strain SK77 contig00068, whole genome shotgun sequence	1315	0.49657794676806083	190dca1145509b5cd2ad9a5ae118ec3e	00336	NC_003134	ISEc39	IS256	1316	2	1313	1	1312						

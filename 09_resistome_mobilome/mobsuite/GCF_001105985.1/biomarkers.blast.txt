@@ -1,9 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-001482__CP016942_00095|rep_cluster_214	NZ_CPZA01000040.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	1434	41287	1	1434	405	1838	1434	0	100.0	100.0	100.0	minus	0.0	2649	replicon
-NC_010377_00020|MOBF	NZ_CPZA01000063.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	1656	25562	1	1656	6762	11729	1656	19	98.853	100.0	100.0	minus	0.0	3293	relaxase
-NC_010377_00073|MPF_F	NZ_CPZA01000040.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	216	41287	1	216	5275	5922	216	3	98.611	100.0	100.0	plus	2.57e-142	436	mate-pair-formation
-NC_010377_00071|MPF_F	NZ_CPZA01000040.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	416	41287	31	416	6795	7952	386	5	98.705	93.0	93.0	plus	0.0	774	mate-pair-formation
-NC_010377_00069|MPF_T	NZ_CPZA01000040.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	857	41287	1	857	8485	11055	857	5	99.417	100.0	100.0	plus	0.0	1748	mate-pair-formation
-NC_010377_00065|MPF_F	NZ_CPZA01000040.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	527	41287	1	527	15015	16595	527	5	99.051	100.0	100.0	plus	0.0	1089	mate-pair-formation
-NC_010377_00060|MPF_F	NZ_CPZA01000040.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	462	41287	79	462	19344	20495	384	3	99.219	83.0	99.0	plus	0.0	793	mate-pair-formation
-NC_010377_00019|MPF_T	NZ_CPZA01000063.1 Yersinia enterocolitica strain IP01119, whole genome shotgun sequence	690	25562	1	690	11733	13802	690	3	99.565	100.0	100.0	minus	0.0	1341	mate-pair-formation

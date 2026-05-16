@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000126__FO834904|IncFII	DBIRUK010000078.1 TPA_asm: Yersinia enterocolitica strain Toyama_YE16 SAMD00590507-rid26472773.denovo.081, whole genome shotgun sequence	228	7227	31	228	2244	2438	202	29	80.198	87.0	87.0	plus	2.84e-34	141	replicon
-CP025802_00051|MOBF	DBIRUK010000078.1 TPA_asm: Yersinia enterocolitica strain Toyama_YE16 SAMD00590507-rid26472773.denovo.081, whole genome shotgun sequence	1729	7227	351	1729	3091	7227	1379	156	88.687	80.0	80.0	minus	0.0	2424	relaxase
-NC_021819_00066|MOBP	DBIRUK010000112.1 TPA_asm: Yersinia enterocolitica strain Toyama_YE16 SAMD00590507-rid26472773.denovo.115, whole genome shotgun sequence	295	2778	12	295	1874	2725	284	20	92.958	96.0	100.0	minus	0.0	544	relaxase

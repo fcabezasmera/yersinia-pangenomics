@@ -1,5 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NZ_CP013834|MOBF	CABHRE010000335.1 Yersinia enterocolitica isolate IP28322 genome assembly, contig: contig_156, whole genome shotgun sequence	259	1622	50	259	1	210	211	3	97.63	81.0	81.0	plus	2.01e-100	361	oriT
-002101__NC_004564_00056|rep_cluster_645	CABHRE010000321.1 Yersinia enterocolitica isolate IP28322 genome assembly, contig: contig_20, whole genome shotgun sequence	1167	41385	7	1167	38588	39748	1161	5	99.569	99.0	99.0	minus	0.0	2117	replicon
-CP001049|IncFII	CABHRE010000339.1 Yersinia enterocolitica isolate IP28322 genome assembly, contig: contig_17, whole genome shotgun sequence	227	18433	1	224	14612	14835	224	1	99.554	99.0	99.0	plus	6.13e-115	409	replicon
-NC_015475_00074|MOBF	CABHRE010000339.1 Yersinia enterocolitica isolate IP28322 genome assembly, contig: contig_17, whole genome shotgun sequence	149	18433	1	149	10917	11363	149	1	99.329	100.0	100.0	plus	7.41e-96	299	relaxase

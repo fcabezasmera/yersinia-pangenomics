@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_005211_00030|MPF_F	NZ_CWJO01000012.1 Yersinia intermedia strain FE80200, whole genome shotgun sequence	353	60882	2	351	34527	35579	351	53	84.615	99.0	99.0	minus	0.0	642	mate-pair-formation

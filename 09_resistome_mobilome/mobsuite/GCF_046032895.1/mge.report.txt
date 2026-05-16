@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_046032895.1.fna	plasmid	AA996	AJ511	NZ_JBBEQJ010000071.1 Yersinia enterocolitica strain N22-0654 contig00071, whole genome shotgun sequence	18037	0.46659644064977546	06a84e71c1b56c00de30bd1261120bbd	00646	MF344564	ISKpn37	IS3	1253	1	1243	3397	4637	1243	minus	99.0	87.852	0.0	1458

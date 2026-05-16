@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002101__NC_004564_00056|rep_cluster_645	NZ_CP009758.1 Yersinia pseudotuberculosis strain EP2/+ plasmid pCD, complete sequence	1167	68394	1	1167	7639	8805	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-CP001049|IncFII	NZ_CP009758.1 Yersinia pseudotuberculosis strain EP2/+ plasmid pCD, complete sequence	227	68394	1	227	27009	27235	227	0	100.0	100.0	100.0	plus	2.93e-118	420	replicon
-NC_010157_00072|MOBF	NZ_CP009758.1 Yersinia pseudotuberculosis strain EP2/+ plasmid pCD, complete sequence	152	68394	1	152	24484	24939	152	0	100.0	100.0	100.0	plus	1.69e-101	316	relaxase

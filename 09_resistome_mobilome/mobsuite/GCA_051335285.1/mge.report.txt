@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_051335285.1.fna	chromosome			ABZQQV010000045.1 Yersinia ruckeri strain AQ-24-VL-OH-WA-0002 SAMN49899406-rid26869183.denovo.47, whole genome shotgun sequence	2547	0.5296427169218688	bbb60b5f310f80f3098aeced8fbc8c08	01400	CP016586.1	23s-rRNA	23S	3027	658	3025	177	2547						
-GCA_051335285.1.fna	chromosome			ABZQQV010000049.1 Yersinia ruckeri strain AQ-24-VL-OH-WA-0002 SAMN49899406-rid26869183.denovo.51, whole genome shotgun sequence	1172	0.5332764505119454	fc149f03fd48bb148a300f05f7c39dc3	00546	KX858825	ISSpr2	IS3	1221	30	1193	9	1172						

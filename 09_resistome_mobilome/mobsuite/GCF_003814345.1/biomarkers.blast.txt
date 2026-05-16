@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP001049|IncFII	NZ_CP032567.1 Yersinia pseudotuberculosis strain IP2666pIB1 plasmid pIB1, complete sequence	227	66625	1	227	5683	5909	227	0	100.0	100.0	100.0	minus	2.87e-118	420	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_CP032567.1 Yersinia pseudotuberculosis strain IP2666pIB1 plasmid pIB1, complete sequence	1167	66625	1	1167	24093	25259	1167	10	99.143	100.0	100.0	minus	0.0	2100	replicon
-NC_010157_00072|MOBF	NZ_CP032567.1 Yersinia pseudotuberculosis strain IP2666pIB1 plasmid pIB1, complete sequence	152	66625	1	152	7981	8436	152	0	100.0	100.0	100.0	minus	1.66e-101	316	relaxase

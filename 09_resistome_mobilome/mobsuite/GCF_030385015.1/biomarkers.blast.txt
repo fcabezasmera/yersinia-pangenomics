@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP008720|MOBP	NZ_JAUEHU010000038.1 Yersinia nurmii strain 2145 StPb PI NODE_38_length_3793_cov_319.353068, whole genome shotgun sequence	175	3793	1	175	1219	1393	175	7	96.0	100.0	100.0	plus	7.37e-78	285	oriT
-KU302809_00001|rep_cluster_2335	NZ_JAUEHU010000038.1 Yersinia nurmii strain 2145 StPb PI NODE_38_length_3793_cov_319.353068, whole genome shotgun sequence	606	3793	1	547	750	1296	550	25	94.364	90.0	90.0	minus	0.0	839	replicon
-000015__JX514065|Col3M	NZ_JAUEHU010000039.1 Yersinia nurmii strain 2145 StPb PI NODE_39_length_2760_cov_374.915766, whole genome shotgun sequence	157	2760	1	157	2076	2232	157	3	98.089	100.0	100.0	plus	1.41e-74	274	replicon

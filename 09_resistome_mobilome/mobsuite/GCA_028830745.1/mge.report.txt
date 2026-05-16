@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_028830745.1.fna	chromosome			ABKSWW010000020.1 Yersinia ruckeri strain AQ-22-VL-OH-WA-0002 SAMN32369518-rid16436003.denovo.21, whole genome shotgun sequence	43459	0.46114728824869416	e6d293e0454b5a8064a7b1a95fb48df2	00634	CP024842	IS1400	IS3	1207	1	1207	15504	16710						

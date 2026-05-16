@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_026672695.1.fna	chromosome			NZ_JAJNKC010000009.1 Yersinia enterocolitica strain PPE118 Scaffold_9, whole genome shotgun sequence	262442	0.4705344418957332	6c507f7539bba8421601cd0f2a181567	01399	CP016586.1	16s-rRNA	16S	1554	1	1510	172	1682						
-GCF_026672695.1.fna	chromosome			NZ_JAJNKC010000001.1 Yersinia enterocolitica strain PPE118 Scaffold_1, whole genome shotgun sequence	4547	0.5144051022652298	09130422db2ab27b7ea55fd538a90050	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	132	1679						

@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_056636495.1.fna	chromosome			NZ_JBSJQG010000172.1 Yersinia sp. BI02 contig_00172, whole genome shotgun sequence	2951	0.5242290748898678	18d509c4878c09b967a8580d7ae91a15	01400	CP016586.1	23s-rRNA	23S	3027	639	3027	547	2939						
-GCF_056636495.1.fna	chromosome			NZ_JBSJQG010000171.1 Yersinia sp. BI02 contig_00171, whole genome shotgun sequence	1624	0.5320197044334976	0d520541ca8e0b59f3174e02d5a9af0f	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	61	1608						

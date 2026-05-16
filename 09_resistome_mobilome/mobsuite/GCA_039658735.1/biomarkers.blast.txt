@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP032236_00057|MOBP	ABSFLT010000012.1 Yersinia ruckeri strain OTH-21-VL-OH-WA-0078 SAMN41434329-rid21643403.denovo.12, whole genome shotgun sequence	641	73352	1	641	42696	44618	641	0	100.0	100.0	100.0	minus	0.0	1295	relaxase

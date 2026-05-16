@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-002389__NC_011759_00077|rep_cluster_904	NZ_CP170756.1 Yersinia sp. HM-2024 strain NZRM4767 plasmid unnamed1, complete sequence	1038	68835	6	1038	50470	51502	1033	62	93.998	99.0	99.0	plus	0.0	1565	replicon
-000019__CP000651_00005|ColRNAI_rep_cluster_1987	NZ_CP170757.1 Yersinia sp. HM-2024 strain NZRM4767 plasmid unnamed2, complete sequence	234	5480	1	230	2581	2810	233	31	84.12	98.0	98.0	minus	3.31e-58	220	replicon
-MF168404_00021|MOBP	NZ_CP170757.1 Yersinia sp. HM-2024 strain NZRM4767 plasmid unnamed2, complete sequence	388	5480	1	326	3682	4662	327	63	80.428	84.0	84.0	plus	4.94e-175	530	relaxase

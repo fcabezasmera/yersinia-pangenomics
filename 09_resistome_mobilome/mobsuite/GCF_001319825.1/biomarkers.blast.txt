@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_021819_00066|MOBP	NZ_CVMG01000044.1 Yersinia wautersii strain WP-931201, whole genome shotgun sequence	295	31563	22	295	29454	30275	274	15	94.526	93.0	100.0	minus	1.21e-175	535	relaxase

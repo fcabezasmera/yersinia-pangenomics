@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCA_056367405.1.fna	plasmid	AB044	AJ586	ACCROE010000052.1 Yersinia enterocolitica strain 01929052 SAMN56709385-rid29328853.denovo.53, whole genome shotgun sequence	4576	0.517263986013986	653276697b17fedbce8d517003def01c	00918	LT898486	ISKpn26	IS5	1197	1	1103	3458	4560	1105	plus	92.0	92.67	0.0	1589

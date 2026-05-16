@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NZ_CP012928|MOBF	DAPZPN010000016.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000285 SAMN37662326-rid19586793.denovo.016, whole genome shotgun sequence	259	51472	1	259	2951	3209	259	2	99.228	100.0	100.0	plus	1.22e-132	468	oriT
-000155__CP018649|IncN	DAPZPN010000016.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000285 SAMN37662326-rid19586793.denovo.016, whole genome shotgun sequence	720	51472	1	720	42520	43239	720	23	96.806	100.0	100.0	minus	0.0	1203	replicon
-FJ696405|Col(Ye4449)	DAPZPN010000221.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000285 SAMN37662326-rid19586793.denovo.223, whole genome shotgun sequence	194	4697	1	194	4196	4389	194	28	85.567	100.0	100.0	plus	2.76e-53	204	replicon
-NC_015599_00019|MOBF	DAPZPN010000016.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000285 SAMN37662326-rid19586793.denovo.016, whole genome shotgun sequence	1080	51472	1	1059	5218	8394	1059	2	99.811	98.0	98.0	plus	0.0	2032	relaxase
-NC_019223_00002|MOBP	DAPZPN010000221.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000285 SAMN37662326-rid19586793.denovo.223, whole genome shotgun sequence	511	4697	1	511	2674	4206	511	27	94.716	100.0	100.0	minus	0.0	919	relaxase
-NC_022375_00024|MPF_T	DAPZPN010000016.1 TPA_asm: Yersinia enterocolitica strain PNUSAY000285 SAMN37662326-rid19586793.denovo.016, whole genome shotgun sequence	509	51472	1	509	3689	5215	509	1	99.804	100.0	100.0	plus	0.0	996	mate-pair-formation

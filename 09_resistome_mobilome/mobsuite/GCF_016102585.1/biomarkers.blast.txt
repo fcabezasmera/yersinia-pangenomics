@@ -1,7 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NC_017657|MOBP	NZ_JABTYR010000119.1 Yersinia pestis subsp. pestis strain 48 contig00119__length_7659___numreads_21555, whole genome shotgun sequence	89	7659	1	89	1248	1336	89	0	100.0	100.0	100.0	minus	4.87e-42	165	oriT
-000104__CP010386_00052|IncFIB	NZ_JABTYR010000057.1 Yersinia pestis subsp. pestis strain 48 contig00057__length_35841___numreads_7601, whole genome shotgun sequence	1065	35841	1	1065	7801	8865	1065	25	97.653	100.0	100.0	plus	0.0	1829	replicon
-CP001049|IncFII	NZ_JABTYR010000114.1 Yersinia pestis subsp. pestis strain 48 contig00114__length_8978___numreads_4511, whole genome shotgun sequence	227	8978	1	227	1278	1504	227	0	100.0	100.0	100.0	plus	2.81e-118	420	replicon
-CP041342_00001|rep_cluster_2350	NZ_JABTYR010000119.1 Yersinia pestis subsp. pestis strain 48 contig00119__length_7659___numreads_21555, whole genome shotgun sequence	552	7659	4	552	1358	1905	552	27	93.841	99.0	99.0	plus	0.0	824	replicon
-002101__NC_004564_00056|rep_cluster_645	NZ_JABTYR010000141.1 Yersinia pestis subsp. pestis strain 48 contig00141__length_3710___numreads_1868, whole genome shotgun sequence	1167	3710	1	1167	1287	2453	1167	10	99.143	100.0	100.0	plus	0.0	2100	replicon
-NC_010157_00072|MOBF	NZ_JABTYR010000182.1 Yersinia pestis subsp. pestis strain 48 contig00182__length_627___numreads_438, whole genome shotgun sequence	152	627	1	152	43	498	152	0	100.0	100.0	100.0	plus	6.49e-113	316	relaxase

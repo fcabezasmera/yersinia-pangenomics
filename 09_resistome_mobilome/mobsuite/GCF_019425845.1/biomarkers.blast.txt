@@ -1,8 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000129__CP018340|IncFII	NZ_JACCJI010000059.1 Yersinia enterocolitica strain M34 NODE_59_length_10895_cov_72.1668, whole genome shotgun sequence	235	10895	1	235	96	329	236	33	84.746	100.0	100.0	plus	4.44e-62	233	replicon
-AP019635_00032|MOBF	NZ_JACCJI010000059.1 Yersinia enterocolitica strain M34 NODE_59_length_10895_cov_72.1668, whole genome shotgun sequence	176	10895	1	174	6889	7410	174	31	82.184	99.0	99.0	minus	1.36e-94	297	relaxase
-NC_021817_00023|MPF_F	NZ_JACCJI010000056.1 Yersinia enterocolitica strain M34 NODE_56_length_12654_cov_68.5866, whole genome shotgun sequence	331	12654	25	331	2566	3486	307	25	91.857	93.0	93.0	plus	0.0	580	mate-pair-formation
-NC_021871_00015|MPF_F	NZ_JACCJI010000056.1 Yersinia enterocolitica strain M34 NODE_56_length_12654_cov_68.5866, whole genome shotgun sequence	453	12654	1	453	7614	8972	453	65	85.651	100.0	100.0	plus	0.0	764	mate-pair-formation
-NC_009790_00086|MPF_T	NZ_JACCJI010000059.1 Yersinia enterocolitica strain M34 NODE_59_length_10895_cov_72.1668, whole genome shotgun sequence	681	10895	1	460	7869	9248	460	69	85.0	68.0	98.0	minus	0.0	821	mate-pair-formation
-NC_021871_00033|MPF_F	NZ_JACCJI010000069.1 Yersinia enterocolitica strain M34 NODE_69_length_6154_cov_60.311, whole genome shotgun sequence	187	6154	1	187	3646	4206	187	32	82.888	100.0	100.0	minus	4.7e-102	319	mate-pair-formation
-NC_019342_00064|MPF_F	NZ_JACCJI010000069.1 Yersinia enterocolitica strain M34 NODE_69_length_6154_cov_60.311, whole genome shotgun sequence	101	6154	1	101	4228	4530	101	12	88.119	100.0	100.0	minus	1.77e-56	184	mate-pair-formation

@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	NZ_JBOEII010000011.1 Yersinia proxima strain 2018013 Scaffold11, whole genome shotgun sequence	918	52792	6	806	51992	52792	802	53	93.142	87.0	99.0	plus	0.0	1175	replicon
-CP009126_00025|MOBC	NZ_JBOEII010000011.1 Yersinia proxima strain 2018013 Scaffold11, whole genome shotgun sequence	248	52792	1	248	33250	33993	248	5	97.984	100.0	100.0	minus	7.05e-165	502	relaxase

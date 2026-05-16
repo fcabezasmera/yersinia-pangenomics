@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	ABUCOX010000052.1 Yersinia enterocolitica strain 01584886 SAMN43206396-rid22880563.denovo.055, whole genome shotgun sequence	918	16103	1	918	14721	15638	918	7	99.237	100.0	100.0	plus	0.0	1657	replicon
-NC_014304_00056|MPF_F	ABUCOX010000003.1 Yersinia enterocolitica strain 01584886 SAMN43206396-rid22880563.denovo.003, whole genome shotgun sequence	699	224068	1	699	185321	187417	699	125	82.117	100.0	100.0	plus	0.0	1160	mate-pair-formation

@@ -1,5 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-GCF_902170895.1.fna	chromosome			NZ_CABHZK010000003.1 Yersinia proxima strain IP38663, whole genome shotgun sequence	76665	0.4753146807539294	854b1d91ff515be64bccba7eb7f4bd68	01373	MF156713	ISSba14	Tn3	2238	4	2238	56005	58239						
-GCF_902170895.1.fna	chromosome			NZ_CABHZK010000001.1 Yersinia proxima strain IP38663, whole genome shotgun sequence	3296	0.5166868932038835	8fe55db470c77470434744c922d2b95c	01400	CP016586.1	23s-rRNA	23S	3027	658	3027	221	2593						
-GCF_902170895.1.fna	chromosome			NZ_CABHZK010000014.1 Yersinia proxima strain IP38663, whole genome shotgun sequence	1785	0.5215686274509804	64f315182c1281a02d3686ebac18d3f3	01399	CP016586.1	16s-rRNA	16S	1554	1	1547	41	1588						
-GCF_902170895.1.fna	chromosome			NZ_CABHZK010000054.1 Yersinia proxima strain IP38663, whole genome shotgun sequence	1281	0.49804839968774395	9d6e2a9bdc85d97cb41131990e5c36a3	00796	CP024842	ISCro2	IS4	1281	1	1281	1	1281						

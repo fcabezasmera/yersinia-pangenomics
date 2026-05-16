@@ -1,4 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000621__CP009126_00005|rep_cluster_1304	ABSFLU010000019.1 Yersinia ruckeri strain AQ-22-VL-OH-WA-0016 SAMN41434318-rid21643433.denovo.21, whole genome shotgun sequence	918	31017	1	918	28161	29078	918	2	99.782	100.0	100.0	plus	0.0	1685	replicon
-CP032236_00057|MOBP	ABSFLU010000010.1 Yersinia ruckeri strain AQ-22-VL-OH-WA-0016 SAMN41434318-rid21643433.denovo.10, whole genome shotgun sequence	641	109096	1	641	56574	58496	641	1	99.844	100.0	100.0	minus	0.0	1294	relaxase
-CP009126_00025|MOBC	ABSFLU010000019.1 Yersinia ruckeri strain AQ-22-VL-OH-WA-0016 SAMN41434318-rid21643433.denovo.21, whole genome shotgun sequence	248	31017	1	248	9311	10054	248	2	99.194	100.0	100.0	minus	1.12e-166	507	relaxase

@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-CP041342_00001|rep_cluster_2350	NZ_CQEA01000063.1 Yersinia pseudotuberculosis strain IP33054, whole genome shotgun sequence	552	1937	50	552	86	598	513	15	95.127	91.0	91.0	plus	0.0	800	replicon

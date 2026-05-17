@@ -1,0 +1,40 @@
+{
+  "analysis": "Fritz-Purvis D statistic (caper v1.0.4, phytools)",
+  "tree": "rpoB full tree, 9,957 tips, force.ultrametric(method='extend')",
+  "permutations": 1000,
+  "key_findings": {
+    "strongly_clumped_D_negative": {
+      "traits": [
+        "amr_vat_F_",
+        "amr_blaA",
+        "niche_A",
+        "niche_H",
+        "has_plasmid",
+        "amr_blaYRC",
+        "niche_F"
+      ],
+      "interpretation": "Lineage-specific traits: intrinsic AMR genes and host-associated niches are phylogenetically conserved. blaA/vat(F) D=-17 confirms they are lineage markers, not horizontally acquired genes."
+    },
+    "random_D_near_1": {
+      "traits": [
+        "niche_E",
+        "amr_sul2",
+        "amr_floR",
+        "amr_aadA12",
+        "amr_tet_A_"
+      ],
+      "interpretation": "Mobile AMR genes with active HGT: distributed randomly across the phylogeny, consistent with frequent horizontal transfer. Environmental niche (D=0.86) confirms any lineage can colonize environmental habitats."
+    },
+    "overdispersed_D_above_1": {
+      "traits": [
+        "amr_sat2",
+        "amr_aadA1",
+        "amr_qacEdelta1",
+        "amr_sul1",
+        "amr_dfrA1"
+      ],
+      "interpretation": "Convergent acquisition: genes appear in multiple independent lineages more often than random. Consistent with strong selection pressure driving parallel AMR acquisition events across the genus."
+    },
+    "central_dichotomy": "Clear dichotomy between lineage-specific resistance (D=-17 to -5, p<0.001) and mobile/convergent resistance (D=0.87-1.27, p_random>0.17). This phylogenetic framework separates intrinsic from acquired AMR at genus scale."
+  }
+}

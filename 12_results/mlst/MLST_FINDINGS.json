@@ -1,0 +1,86 @@
+{
+  "analysis": "MLST genus-wide (9,957 genomes)",
+  "schemes": {
+    "yersinia": {
+      "target": "Y. enterocolitica + other spp.",
+      "genes": [
+        "aarF",
+        "dfp",
+        "galR",
+        "glnS",
+        "hemA",
+        "rfaE",
+        "speA"
+      ],
+      "n_genomes": 5572,
+      "unique_STs": 44,
+      "pct_typed": 49.4,
+      "note": "50.6% unknown = near-exact alleles not in PubMLST (normal for draft GCA genomes)",
+      "top_STs": {
+        "ST18": 890,
+        "ST12": 621,
+        "ST14": 191
+      }
+    },
+    "ypseudotuberculosis": {
+      "target": "Y. pestis + Y. pseudotuberculosis",
+      "genes": [
+        "adk",
+        "argA",
+        "aroA",
+        "glnA",
+        "thrA",
+        "tmk",
+        "trpE"
+      ],
+      "n_genomes": 4170,
+      "Y_pestis": {
+        "unique_STs": 3,
+        "pct_typed": 96.6,
+        "dominant": "ST90 (3,501/3,626 = 96.6%) - biovar Orientalis",
+        "note": "Extreme clonality expected (evolutionary bottleneck)"
+      },
+      "Y_pseudotuberculosis": {
+        "unique_STs": 26,
+        "pct_typed": 88.0,
+        "top_STs": {
+          "ST42": 75,
+          "ST14": 56,
+          "ST43": 47
+        }
+      }
+    },
+    "yruckeri": {
+      "target": "Y. ruckeri",
+      "genes": [
+        "glnA",
+        "gyrB",
+        "dnaJ",
+        "thrA",
+        "hsp60",
+        "recA"
+      ],
+      "n_genomes": 209,
+      "pct_typed": 0.0,
+      "note": "SCHEME INCOMPLETE in PubMLST - only 2/6 loci have alleles deposited. Not an analysis error.",
+      "recommendation": "Report as not typeable with current yruckeri scheme"
+    }
+  },
+  "novel_species": {
+    "scheme": "ypseudotuberculosis",
+    "n_genomes": 15,
+    "ST274": "2/15 genomes (all 7 alleles exact match)",
+    "unknown": "13/15 (novel alleles not in PubMLST)",
+    "interpretation": "ST274 is a valid Y. pseudotuberculosis ST - supports phylogenetic position near Y. pseudotuberculosis clade"
+  },
+  "ST_diversity_by_niche": {
+    "yersinia_scheme": {
+      "H": 66,
+      "U": 55,
+      "A": 34,
+      "F": 33,
+      "E": 20
+    },
+    "interpretation": "Higher ST diversity in human clinical isolates reflects broader sampling + selection"
+  }
+}

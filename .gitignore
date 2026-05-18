@@ -70,3 +70,16 @@ Eog
 # Compressed logs
 logs/*.gz
 platon_DB/
+
+# IQ-TREE auxiliary outputs (keep only .treefile and .log)
+07_markers/trees/*.bionj
+07_markers/trees/*.contree
+07_markers/trees/*.mldist
+07_markers/trees/*.splits.nex
+07_markers/trees/*.uniqueseq.phy
+
+# hmmsearch per-genome outputs
+07_markers/trees/*.phy
+07_markers/**/*.tbl
+07_markers/**/*.gff
+07_markers/**/*.fasta
